@@ -1,0 +1,38 @@
+[
+    {
+        "activity_id": 240801,
+        "skill_item": 30900044,
+        "init_coin": 10,
+        "shop_count": 2,
+        "shop_free_effect_count": 3,
+        "shop_refresh_coin": 5,
+        "effect_max_count": 5,
+        "init_dora_indicator": 1,
+        "init_change_hand": 3,
+        "init_desktop_count": 36,
+        "init_open_desktop_count": 6,
+        "init_shupai_point": 5,
+        "init_zipai_point": 10,
+        "init_mount_count": 10,
+        "init_level": 101,
+        "init_tian_count": 0
+    },
+    {
+        "activity_id": 250111,
+        "skill_item": 30900044,
+        "init_coin": 10,
+        "shop_count": 2,
+        "shop_free_effect_count": 3,
+        "shop_refresh_coin": 5,
+        "effect_max_count": 5,
+        "init_dora_indicator": 1,
+        "init_change_hand": 3,
+        "init_desktop_count": 36,
+        "init_open_desktop_count": 6,
+        "init_shupai_point": 5,
+        "init_zipai_point": 10,
+        "init_mount_count": 10,
+        "init_level": 101,
+        "init_tian_count": 0
+    }
+]

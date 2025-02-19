@@ -1,0 +1,50 @@
+[
+    {
+        "activity_id": 230803,
+        "mail_template_id": 113
+    },
+    {
+        "activity_id": 231204,
+        "mail_template_id": 114
+    },
+    {
+        "activity_id": 240103,
+        "mail_template_id": 115
+    },
+    {
+        "activity_id": 240302,
+        "mail_template_id": 116
+    },
+    {
+        "activity_id": 240404,
+        "mail_template_id": 117
+    },
+    {
+        "activity_id": 240603,
+        "mail_template_id": 118
+    },
+    {
+        "activity_id": 240802,
+        "mail_template_id": 119
+    },
+    {
+        "activity_id": 240812,
+        "mail_template_id": 120
+    },
+    {
+        "activity_id": 241105,
+        "mail_template_id": 122
+    },
+    {
+        "activity_id": 241203,
+        "mail_template_id": 123
+    },
+    {
+        "activity_id": 250104,
+        "mail_template_id": 124
+    },
+    {
+        "activity_id": 250112,
+        "mail_template_id": 125
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "skinid": 400506,
+        "spine_layers": 3,
+        "effects": [
+            "",
+            "XYW_01_eff_3",
+            "XYW_01_eff_2",
+            ""
+        ],
+        "audio_celebrate": "XYW_SE/240228_qh_xiangyuanwu_celebrate",
+        "audio_celebrate_idle": "",
+        "audio_idle": "",
+        "audio_greeting": "XYW_SE/240228_qh_xiangyuanwu_greeting",
+        "audio_click": "XYW_SE/240228_qh_xiangyuanwu_click",
+        "audio_click2": ""
+    },
+    {
+        "skinid": 403206,
+        "spine_layers": 1,
+        "effects": [
+            ",ALS_SC_01_eff",
+            ",ALS_SC_02_eff",
+            "",
+            ""
+        ],
+        "audio_celebrate": "ALS_SE_403206/celebrate",
+        "audio_celebrate_idle": "",
+        "audio_idle": "",
+        "audio_greeting": "ALS_SE_403206/greeting",
+        "audio_click": "ALS_SE_403206/click",
+        "audio_click2": ""
+    },
+    {
+        "skinid": 402406,
+        "spine_layers": 1,
+        "effects": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "audio_celebrate": "BJSHZ_SE_402406/celebrate",
+        "audio_celebrate_idle": "",
+        "audio_idle": "",
+        "audio_greeting": "BJSHZ_SE_402406/greeting",
+        "audio_click": "BJSHZ_SE_402406/click",
+        "audio_click2": ""
+    },
+    {
+        "skinid": 401906,
+        "spine_layers": 3,
+        "effects": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "audio_celebrate": "XNYCT_SE_401906/celebrate",
+        "audio_celebrate_idle": "",
+        "audio_idle": "",
+        "audio_greeting": "XNYCT_SE_401906/greeting",
+        "audio_click": "XNYCT_SE_401906/click",
+        "audio_click2": ""
+    },
+    {
+        "skinid": 403304,
+        "spine_layers": 1,
+        "effects": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "audio_celebrate": "SQQSL_SE_403304/celebrate",
+        "audio_celebrate_idle": "",
+        "audio_idle": "",
+        "audio_greeting": "SQQSL_SE_403304/greeting",
+        "audio_click": "SQQSL_SE_403304/click",
+        "audio_click2": ""
+    },
+    {
+        "skinid": 405905,
+        "spine_layers": 1,
+        "effects": [
+            "Y_01_sustain_eff",
+            "Y_02_sustain_eff",
+            "",
+            ""
+        ],
+        "audio_celebrate": "Y_SE_405905/celebrate",
+        "audio_celebrate_idle": "",
+        "audio_idle": "",
+        "audio_greeting": "Y_SE_405905/greeting",
+        "audio_click": "Y_SE_405905/click",
+        "audio_click2": ""
+    },
+    {
+        "skinid": 409502,
+        "spine_layers": 1,
+        "effects": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "audio_celebrate": "NFH_SE_409502/celebrate",
+        "audio_celebrate_idle": "",
+        "audio_idle": "",
+        "audio_greeting": "NFH_SE_409502/greeting",
+        "audio_click": "NFH_SE_409502/click",
+        "audio_click2": "NFH_SE_409502/click2"
+    },
+    {
+        "skinid": 403805,
+        "spine_layers": 1,
+        "effects": [
+            ",fuji_YZ_01_eff",
+            ",fuji_YZ_02_eff",
+            "",
+            ""
+        ],
+        "audio_celebrate": "FUJI_SE_403805/celebrate",
+        "audio_celebrate_idle": "",
+        "audio_idle": "",
+        "audio_greeting": "FUJI_SE_403805/greeting",
+        "audio_click": "",
+        "audio_click2": ""
+    },
+    {
+        "skinid": 400305,
+        "spine_layers": 1,
+        "effects": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "audio_celebrate": "TTJN_SE_400305/celebrate",
+        "audio_celebrate_idle": "",
+        "audio_idle": "",
+        "audio_greeting": "TTJN_SE_400305/greeting",
+        "audio_click": "TTJN_SE_400305/click",
+        "audio_click2": ""
+    },
+    {
+        "skinid": 404505,
+        "spine_layers": 2,
+        "effects": [
+            "",
+            "A37_24ws_01_eff,A37_24ws_02_eff",
+            "",
+            ""
+        ],
+        "audio_celebrate": "A37_SE_404505/celebrate",
+        "audio_celebrate_idle": "",
+        "audio_idle": "",
+        "audio_greeting": "A37_SE_404505/greeting",
+        "audio_click": "A37_SE_404505/click",
+        "audio_click2": ""
+    },
+    {
+        "skinid": 404805,
+        "spine_layers": 2,
+        "effects": [
+            "",
+            ",lingzi_24ws_01_eff",
+            ",lingzi_24ws_02_eff",
+            ""
+        ],
+        "audio_celebrate": "LZ_SE_404805/celebrate",
+        "audio_celebrate_idle": "",
+        "audio_idle": "",
+        "audio_greeting": "LZ_SE_404805/greeting",
+        "audio_click": "LZ_SE_404805/click",
+        "audio_click2": ""
+    },
+    {
+        "skinid": 401709,
+        "spine_layers": 1,
+        "effects": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "audio_celebrate": "EZGH_SE_401709/celebrate",
+        "audio_celebrate_idle": "",
+        "audio_idle": "",
+        "audio_greeting": "EZGH_SE_401709/greeting",
+        "audio_click": "EZGH_SE_401709/click",
+        "audio_click2": ""
+    },
+    {
+        "skinid": 406804,
+        "spine_layers": 1,
+        "effects": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "audio_celebrate": "RYCY_SE_406804/celebrate",
+        "audio_celebrate_idle": "",
+        "audio_idle": "",
+        "audio_greeting": "RYCY_SE_406804/greeting",
+        "audio_click": "RYCY_SE_406804/click",
+        "audio_click2": ""
+    },
+    {
+        "skinid": 400306,
+        "spine_layers": 1,
+        "effects": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "audio_celebrate": "TTJN_SE_400306/celebrate",
+        "audio_celebrate_idle": "",
+        "audio_idle": "",
+        "audio_greeting": "TTJN_SE_400306/greeting",
+        "audio_click": "TTJN_SE_400306/click",
+        "audio_click2": ""
+    },
+    {
+        "skinid": 406004,
+        "spine_layers": 1,
+        "effects": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "audio_celebrate": "ZKS_SE_406004/celebrate",
+        "audio_celebrate_idle": "ZKS_SE_406004/celebrate_idle",
+        "audio_idle": "",
+        "audio_greeting": "ZKS_SE_406004/greeting",
+        "audio_click": "ZKS_SE_406004/click",
+        "audio_click2": ""
+    }
+]

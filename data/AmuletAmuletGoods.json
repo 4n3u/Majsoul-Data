@@ -1,0 +1,44 @@
+[
+    {
+        "id": 101,
+        "weight": 80,
+        "guaranteed": 4,
+        "pack_name": 5500,
+        "pack_desc": 5503,
+        "price": 5,
+        "rarity_weight": [
+            0,
+            3,
+            22,
+            75
+        ]
+    },
+    {
+        "id": 102,
+        "weight": 15,
+        "guaranteed": 3,
+        "pack_name": 5501,
+        "pack_desc": 5504,
+        "price": 10,
+        "rarity_weight": [
+            0,
+            5,
+            25,
+            70
+        ]
+    },
+    {
+        "id": 103,
+        "weight": 5,
+        "guaranteed": 2,
+        "pack_name": 5502,
+        "pack_desc": 5505,
+        "price": 15,
+        "rarity_weight": [
+            3,
+            15,
+            82,
+            0
+        ]
+    }
+]
