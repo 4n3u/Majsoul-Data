@@ -288,6 +288,24 @@
         "type": "lobby"
     },
     {
+        "id": 151,
+        "path": "audio/audio_lobby/maka_1",
+        "time_length": 0.0,
+        "type": "lobby"
+    },
+    {
+        "id": 152,
+        "path": "audio/audio_lobby/maka_2",
+        "time_length": 0.0,
+        "type": "lobby"
+    },
+    {
+        "id": 153,
+        "path": "audio/audio_lobby/maka_3",
+        "time_length": 0.0,
+        "type": "lobby"
+    },
+    {
         "id": 201,
         "path": "audio/audio_mj/beiman",
         "time_length": 2098.0,

@@ -9248,5 +9248,135 @@
         "name_kr": "",
         "type": "chest_replace_up",
         "need_popout": 0
+    },
+    {
+        "id": 250201,
+        "name_chs": "忘忧夜话",
+        "name_chs_t": "忘憂夜話",
+        "name_jp": "忘憂の夜",
+        "name_en": "Late Night Tales",
+        "name_kr": "늦은 밤 이야기",
+        "type": "task",
+        "need_popout": 1
+    },
+    {
+        "id": 250202,
+        "name_chs": "绘境收藏家",
+        "name_chs_t": "繪境收藏家",
+        "name_jp": "秘蔵の蒐集品",
+        "name_en": "Fantasy Collection",
+        "name_kr": "환상 수집가",
+        "type": "period_task",
+        "need_popout": 0
+    },
+    {
+        "id": 250210,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "shop",
+        "need_popout": 0
+    },
+    {
+        "id": 250211,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "event_cross_time",
+        "need_popout": 0
+    },
+    {
+        "id": 250212,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "item",
+        "need_popout": 0
+    },
+    {
+        "id": 250220,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250221,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250222,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250223,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250230,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_replace_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250231,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_replace_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250232,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_replace_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250233,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_replace_up",
+        "need_popout": 0
     }
 ]

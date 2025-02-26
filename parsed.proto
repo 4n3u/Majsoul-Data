@@ -885,10 +885,11 @@ message ActivityActivityBanner {
    uint32 sort = 2;
    uint32 banner_type = 3;
    string enter_icon = 4;
-   string banner_left = 5;
-   string banner_left_selected = 6;
-   string banner_left_icon = 7;
-   uint32 time_remind = 8;
+   string banner_big = 5;
+   string banner_left = 6;
+   string banner_left_selected = 7;
+   string banner_left_icon = 8;
+   uint32 time_remind = 9;
 }
 
 message ActivityActivityGuide {
@@ -1758,6 +1759,7 @@ message ItemDefinitionSkin {
    int32 greeting_init = 66;
    int32 click2 = 67;
    int32 celebrate_idle = 68;
+   string illust_data = 69;
 }
 
 message ItemDefinitionItemRecovery {
@@ -2006,6 +2008,43 @@ message MiscFunctionDailySignIn {
    uint32 id = 1;
    uint32 reward_id = 2;
    uint32 reward_count = 3;
+}
+
+message OutfitConfigRon {
+   uint32 id = 1;
+   uint32 is_fullscreen = 2;
+}
+
+message OutfitConfigLiqi {
+   uint32 id = 1;
+}
+
+message OutfitConfigEffectLiqi {
+   uint32 id = 1;
+}
+
+message OutfitConfigMpzs {
+   uint32 id = 1;
+}
+
+message OutfitConfigTablecloth {
+   uint32 id = 1;
+}
+
+message OutfitConfigMjp {
+   uint32 id = 1;
+}
+
+message OutfitConfigMjpface {
+   uint32 id = 1;
+}
+
+message OutfitConfigHeadframe {
+   uint32 id = 1;
+}
+
+message OutfitConfigHand {
+   uint32 id = 1;
 }
 
 message RankIntroduceRank {
@@ -2346,6 +2385,7 @@ message SpotSkinSpot {
    int32 greeting_init = 66;
    int32 click2 = 67;
    int32 celebrate_idle = 68;
+   string illust_data = 69;
 }
 
 message SpotAudioSpot {

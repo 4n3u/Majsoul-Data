@@ -799,11 +799,11 @@
         "character_id": 0,
         "sargs": [
             "2600",
-            "",
+            "1",
             "",
             ""
         ],
-        "old_effect_mark": 1
+        "old_effect_mark": 0
     },
     {
         "id": 305216,
@@ -825,11 +825,11 @@
         "character_id": 0,
         "sargs": [
             "1800",
-            "",
+            "1",
             "",
             ""
         ],
-        "old_effect_mark": 1
+        "old_effect_mark": 0
     },
     {
         "id": 305218,
@@ -851,11 +851,11 @@
         "character_id": 0,
         "sargs": [
             "1800",
-            "",
+            "1",
             "",
             ""
         ],
-        "old_effect_mark": 1
+        "old_effect_mark": 0
     },
     {
         "id": 305220,
@@ -903,11 +903,11 @@
         "character_id": 0,
         "sargs": [
             "2100",
-            "",
+            "1",
             "",
             ""
         ],
-        "old_effect_mark": 1
+        "old_effect_mark": 0
     },
     {
         "id": 305224,
@@ -972,7 +972,7 @@
             "",
             ""
         ],
-        "old_effect_mark": 1
+        "old_effect_mark": 0
     },
     {
         "id": 30520003,
@@ -1020,11 +1020,11 @@
         "character_id": 0,
         "sargs": [
             "1800",
-            "",
+            "1",
             "",
             ""
         ],
-        "old_effect_mark": 1
+        "old_effect_mark": 0
     },
     {
         "id": 30520007,
@@ -1427,7 +1427,7 @@
             "",
             ""
         ],
-        "old_effect_mark": 1
+        "old_effect_mark": 0
     },
     {
         "id": 30530003,
@@ -2407,6 +2407,19 @@
     {
         "id": 30550023,
         "res_name": "headframe_vip",
+        "audio_id": 0,
+        "character_id": 0,
+        "sargs": [
+            "0",
+            "",
+            "",
+            ""
+        ],
+        "old_effect_mark": 0
+    },
+    {
+        "id": 30550024,
+        "res_name": "ssz",
         "audio_id": 0,
         "character_id": 0,
         "sargs": [
@@ -3796,6 +3809,19 @@
         "old_effect_mark": 0
     },
     {
+        "id": 30580017,
+        "res_name": "tablecloth_25krsaishi",
+        "audio_id": 0,
+        "character_id": 0,
+        "sargs": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "old_effect_mark": 0
+    },
+    {
         "id": 305901,
         "res_name": "mpzs_shandian",
         "audio_id": 0,
@@ -4192,11 +4218,11 @@
         "character_id": 0,
         "sargs": [
             "",
-            "",
+            "1",
             "",
             ""
         ],
-        "old_effect_mark": 1
+        "old_effect_mark": 0
     },
     {
         "id": 308012,
@@ -4387,11 +4413,11 @@
         "character_id": 0,
         "sargs": [
             "2000",
-            "",
+            "1",
             "",
             ""
         ],
-        "old_effect_mark": 1
+        "old_effect_mark": 0
     },
     {
         "id": 308027,

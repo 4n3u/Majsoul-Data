@@ -67,7 +67,8 @@
         "click": 0,
         "greeting_init": 0,
         "click2": 0,
-        "celebrate_idle": 0
+        "celebrate_idle": 0,
+        "illust_data": ""
     },
     {
         "id": 401899,
@@ -137,7 +138,8 @@
         "click": 0,
         "greeting_init": 0,
         "click2": 0,
-        "celebrate_idle": 0
+        "celebrate_idle": 0,
+        "illust_data": ""
     },
     {
         "id": 404699,
@@ -207,7 +209,8 @@
         "click": 0,
         "greeting_init": 0,
         "click2": 0,
-        "celebrate_idle": 0
+        "celebrate_idle": 0,
+        "illust_data": ""
     },
     {
         "id": 409701,
@@ -277,7 +280,8 @@
         "click": 0,
         "greeting_init": 0,
         "click2": 0,
-        "celebrate_idle": 0
+        "celebrate_idle": 0,
+        "illust_data": ""
     },
     {
         "id": 40010401,
@@ -347,7 +351,8 @@
         "click": 0,
         "greeting_init": 0,
         "click2": 0,
-        "celebrate_idle": 0
+        "celebrate_idle": 0,
+        "illust_data": ""
     },
     {
         "id": 40010501,
@@ -417,7 +422,8 @@
         "click": 0,
         "greeting_init": 0,
         "click2": 0,
-        "celebrate_idle": 0
+        "celebrate_idle": 0,
+        "illust_data": ""
     },
     {
         "id": 40010601,
@@ -487,6 +493,7 @@
         "click": 0,
         "greeting_init": 0,
         "click2": 0,
-        "celebrate_idle": 0
+        "celebrate_idle": 0,
+        "illust_data": ""
     }
 ]
