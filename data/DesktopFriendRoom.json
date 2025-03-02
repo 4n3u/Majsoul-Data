@@ -1,0 +1,171 @@
+[
+    {
+        "id": 1,
+        "pre_rule": "",
+        "sort": 1,
+        "str_name": "3294",
+        "str_rule": "4300",
+        "set_jushu": 1,
+        "rule_images": [
+            "myres2/room_rule/siren.png",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 2,
+        "pre_rule": "",
+        "sort": 2,
+        "str_name": "3295",
+        "str_rule": "57",
+        "set_jushu": 1,
+        "rule_images": [
+            "myres2/room_rule/sanren.png",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 3,
+        "pre_rule": "xuezhandaodi",
+        "sort": 3,
+        "str_name": "3384",
+        "str_rule": "3390",
+        "set_jushu": 0,
+        "rule_images": [
+            "myres2/room_rule/xiuluo.png",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 4,
+        "pre_rule": "jiuchao",
+        "sort": 4,
+        "str_name": "3517",
+        "str_rule": "3527",
+        "set_jushu": 1,
+        "rule_images": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 5,
+        "pre_rule": "reveal_discard",
+        "sort": 5,
+        "str_name": "3518",
+        "str_rule": "3528",
+        "set_jushu": 1,
+        "rule_images": [
+            "myres2/room_rule/anye1.png",
+            "myres2/room_rule/anye2.png",
+            ""
+        ]
+    },
+    {
+        "id": 6,
+        "pre_rule": "chuanma",
+        "sort": 6,
+        "str_name": "3394",
+        "str_rule": "3650",
+        "set_jushu": 0,
+        "rule_images": [
+            "myres2/room_rule/chiyu1.png",
+            "myres2/room_rule/chiyu2.png",
+            ""
+        ]
+    },
+    {
+        "id": 7,
+        "pre_rule": "dora3",
+        "sort": 7,
+        "str_name": "3655",
+        "str_rule": "3651",
+        "set_jushu": 1,
+        "rule_images": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 8,
+        "pre_rule": "field_spell",
+        "sort": 8,
+        "str_name": "3586",
+        "str_rule": "3588",
+        "set_jushu": 0,
+        "rule_images": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 9,
+        "pre_rule": "zhanxing",
+        "sort": 9,
+        "str_name": "3700",
+        "str_rule": "3705",
+        "set_jushu": 1,
+        "rule_images": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 10,
+        "pre_rule": "tianming",
+        "sort": 10,
+        "str_name": "3877",
+        "str_rule": "3857",
+        "set_jushu": 1,
+        "rule_images": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 11,
+        "pre_rule": "yongchang",
+        "sort": 11,
+        "str_name": "3981",
+        "str_rule": "3987",
+        "set_jushu": 1,
+        "rule_images": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 12,
+        "pre_rule": "hunzhiyiji",
+        "sort": 12,
+        "str_name": "4206",
+        "str_rule": "4208",
+        "set_jushu": 1,
+        "rule_images": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 13,
+        "pre_rule": "wanxiangxiuluo",
+        "sort": 13,
+        "str_name": "20193",
+        "str_rule": "20194",
+        "set_jushu": 1,
+        "rule_images": [
+            "myres2/room_rule/wanxiang1.png",
+            "myres2/room_rule/wanxiang2.png",
+            ""
+        ]
+    }
+]

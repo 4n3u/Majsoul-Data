@@ -1,0 +1,230 @@
+[
+    {
+        "id": 8001,
+        "level": 1,
+        "price": 5,
+        "display_value": 3
+    },
+    {
+        "id": 8001,
+        "level": 2,
+        "price": 10,
+        "display_value": 4
+    },
+    {
+        "id": 8001,
+        "level": 3,
+        "price": 15,
+        "display_value": 5
+    },
+    {
+        "id": 8001,
+        "level": 4,
+        "price": 20,
+        "display_value": 6
+    },
+    {
+        "id": 8001,
+        "level": 5,
+        "price": 50,
+        "display_value": 7
+    },
+    {
+        "id": 8001,
+        "level": 6,
+        "price": 100,
+        "display_value": 8
+    },
+    {
+        "id": 8001,
+        "level": 7,
+        "price": 150,
+        "display_value": 9
+    },
+    {
+        "id": 8001,
+        "level": 8,
+        "price": 200,
+        "display_value": 10
+    },
+    {
+        "id": 8002,
+        "level": 1,
+        "price": 5,
+        "display_value": 2
+    },
+    {
+        "id": 8002,
+        "level": 2,
+        "price": 10,
+        "display_value": 3
+    },
+    {
+        "id": 8002,
+        "level": 3,
+        "price": 15,
+        "display_value": 4
+    },
+    {
+        "id": 8002,
+        "level": 4,
+        "price": 20,
+        "display_value": 5
+    },
+    {
+        "id": 8002,
+        "level": 5,
+        "price": 30,
+        "display_value": 6
+    },
+    {
+        "id": 8002,
+        "level": 6,
+        "price": 50,
+        "display_value": 7
+    },
+    {
+        "id": 8002,
+        "level": 7,
+        "price": 80,
+        "display_value": 8
+    },
+    {
+        "id": 8002,
+        "level": 8,
+        "price": 120,
+        "display_value": 9
+    },
+    {
+        "id": 8002,
+        "level": 9,
+        "price": 160,
+        "display_value": 10
+    },
+    {
+        "id": 8003,
+        "level": 1,
+        "price": 2,
+        "display_value": 7
+    },
+    {
+        "id": 8003,
+        "level": 2,
+        "price": 4,
+        "display_value": 8
+    },
+    {
+        "id": 8003,
+        "level": 3,
+        "price": 6,
+        "display_value": 9
+    },
+    {
+        "id": 8003,
+        "level": 4,
+        "price": 8,
+        "display_value": 10
+    },
+    {
+        "id": 8003,
+        "level": 5,
+        "price": 10,
+        "display_value": 11
+    },
+    {
+        "id": 8003,
+        "level": 6,
+        "price": 20,
+        "display_value": 12
+    },
+    {
+        "id": 8003,
+        "level": 7,
+        "price": 30,
+        "display_value": 13
+    },
+    {
+        "id": 8003,
+        "level": 8,
+        "price": 40,
+        "display_value": 14
+    },
+    {
+        "id": 8003,
+        "level": 9,
+        "price": 50,
+        "display_value": 15
+    },
+    {
+        "id": 8003,
+        "level": 10,
+        "price": 80,
+        "display_value": 16
+    },
+    {
+        "id": 8003,
+        "level": 11,
+        "price": 120,
+        "display_value": 17
+    },
+    {
+        "id": 8003,
+        "level": 12,
+        "price": 160,
+        "display_value": 18
+    },
+    {
+        "id": 8004,
+        "level": 1,
+        "price": 10,
+        "display_value": 1
+    },
+    {
+        "id": 8004,
+        "level": 2,
+        "price": 20,
+        "display_value": 2
+    },
+    {
+        "id": 8004,
+        "level": 3,
+        "price": 30,
+        "display_value": 3
+    },
+    {
+        "id": 8004,
+        "level": 4,
+        "price": 40,
+        "display_value": 4
+    },
+    {
+        "id": 8004,
+        "level": 5,
+        "price": 50,
+        "display_value": 5
+    },
+    {
+        "id": 8004,
+        "level": 6,
+        "price": 80,
+        "display_value": 6
+    },
+    {
+        "id": 8004,
+        "level": 7,
+        "price": 100,
+        "display_value": 7
+    },
+    {
+        "id": 8004,
+        "level": 8,
+        "price": 150,
+        "display_value": 8
+    },
+    {
+        "id": 8004,
+        "level": 9,
+        "price": 200,
+        "display_value": 9
+    }
+]

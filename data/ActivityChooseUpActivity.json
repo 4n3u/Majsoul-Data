@@ -1,0 +1,39 @@
+[
+    {
+        "activity_id": 250125,
+        "replace_id": 1001,
+        "base_chest_id": [
+            1004,
+            1005,
+            1006,
+            1007
+        ],
+        "choose_type": [
+            "chara"
+        ],
+        "sort": 100,
+        "title_str_id": 5018,
+        "str_id": "5110",
+        "chara_str_id": 5203,
+        "item_str_id": 5207,
+        "img": "chest_2",
+        "title_img": "myres2/treasurehead/zx.png",
+        "title_img_2": "",
+        "typeset": 4,
+        "enter_animation": "",
+        "special_effect_front": "",
+        "special_effect_back": "",
+        "special_audio": 0,
+        "up_items_type": 1,
+        "up_items": [
+            30580015,
+            30570009,
+            30560007,
+            30505005,
+            30550022,
+            0,
+            0,
+            0
+        ]
+    }
+]

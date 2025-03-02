@@ -1,0 +1,232 @@
+[
+    {
+        "id": 1001,
+        "activity_id": 231201,
+        "group": 1,
+        "level": 1,
+        "upgrade_craft_id": 1002,
+        "order_price": "",
+        "if_bonus": 0,
+        "img_name": "a1.png"
+    },
+    {
+        "id": 1002,
+        "activity_id": 231201,
+        "group": 1,
+        "level": 2,
+        "upgrade_craft_id": 1003,
+        "order_price": "30900006-20",
+        "if_bonus": 0,
+        "img_name": "a2.png"
+    },
+    {
+        "id": 1003,
+        "activity_id": 231201,
+        "group": 1,
+        "level": 3,
+        "upgrade_craft_id": 1004,
+        "order_price": "30900006-60",
+        "if_bonus": 0,
+        "img_name": "a3.png"
+    },
+    {
+        "id": 1004,
+        "activity_id": 231201,
+        "group": 1,
+        "level": 4,
+        "upgrade_craft_id": 1005,
+        "order_price": "30900006-160",
+        "if_bonus": 0,
+        "img_name": "a4.png"
+    },
+    {
+        "id": 1005,
+        "activity_id": 231201,
+        "group": 1,
+        "level": 5,
+        "upgrade_craft_id": 0,
+        "order_price": "30900006-380",
+        "if_bonus": 0,
+        "img_name": "a5.png"
+    },
+    {
+        "id": 2001,
+        "activity_id": 231201,
+        "group": 2,
+        "level": 1,
+        "upgrade_craft_id": 2002,
+        "order_price": "",
+        "if_bonus": 0,
+        "img_name": "b1.png"
+    },
+    {
+        "id": 2002,
+        "activity_id": 231201,
+        "group": 2,
+        "level": 2,
+        "upgrade_craft_id": 2003,
+        "order_price": "30900006-20",
+        "if_bonus": 0,
+        "img_name": "b2.png"
+    },
+    {
+        "id": 2003,
+        "activity_id": 231201,
+        "group": 2,
+        "level": 3,
+        "upgrade_craft_id": 2004,
+        "order_price": "30900006-60",
+        "if_bonus": 0,
+        "img_name": "b3.png"
+    },
+    {
+        "id": 2004,
+        "activity_id": 231201,
+        "group": 2,
+        "level": 4,
+        "upgrade_craft_id": 2005,
+        "order_price": "30900006-160",
+        "if_bonus": 0,
+        "img_name": "b4.png"
+    },
+    {
+        "id": 2005,
+        "activity_id": 231201,
+        "group": 2,
+        "level": 5,
+        "upgrade_craft_id": 0,
+        "order_price": "30900006-380",
+        "if_bonus": 0,
+        "img_name": "b5.png"
+    },
+    {
+        "id": 3001,
+        "activity_id": 231201,
+        "group": 3,
+        "level": 1,
+        "upgrade_craft_id": 3002,
+        "order_price": "",
+        "if_bonus": 0,
+        "img_name": "c1.png"
+    },
+    {
+        "id": 3002,
+        "activity_id": 231201,
+        "group": 3,
+        "level": 2,
+        "upgrade_craft_id": 3003,
+        "order_price": "30900006-20",
+        "if_bonus": 0,
+        "img_name": "c2.png"
+    },
+    {
+        "id": 3003,
+        "activity_id": 231201,
+        "group": 3,
+        "level": 3,
+        "upgrade_craft_id": 3004,
+        "order_price": "30900006-60",
+        "if_bonus": 0,
+        "img_name": "c3.png"
+    },
+    {
+        "id": 3004,
+        "activity_id": 231201,
+        "group": 3,
+        "level": 4,
+        "upgrade_craft_id": 3005,
+        "order_price": "30900006-160",
+        "if_bonus": 0,
+        "img_name": "c4.png"
+    },
+    {
+        "id": 3005,
+        "activity_id": 231201,
+        "group": 3,
+        "level": 5,
+        "upgrade_craft_id": 0,
+        "order_price": "30900006-380",
+        "if_bonus": 0,
+        "img_name": "c5.png"
+    },
+    {
+        "id": 4001,
+        "activity_id": 231201,
+        "group": 4,
+        "level": 1,
+        "upgrade_craft_id": 4002,
+        "order_price": "",
+        "if_bonus": 0,
+        "img_name": "d1.png"
+    },
+    {
+        "id": 4002,
+        "activity_id": 231201,
+        "group": 4,
+        "level": 2,
+        "upgrade_craft_id": 4003,
+        "order_price": "30900006-20",
+        "if_bonus": 0,
+        "img_name": "d2.png"
+    },
+    {
+        "id": 4003,
+        "activity_id": 231201,
+        "group": 4,
+        "level": 3,
+        "upgrade_craft_id": 4004,
+        "order_price": "30900006-60",
+        "if_bonus": 0,
+        "img_name": "d3.png"
+    },
+    {
+        "id": 4004,
+        "activity_id": 231201,
+        "group": 4,
+        "level": 4,
+        "upgrade_craft_id": 4005,
+        "order_price": "30900006-160",
+        "if_bonus": 0,
+        "img_name": "d4.png"
+    },
+    {
+        "id": 4005,
+        "activity_id": 231201,
+        "group": 4,
+        "level": 5,
+        "upgrade_craft_id": 0,
+        "order_price": "30900006-380",
+        "if_bonus": 0,
+        "img_name": "d5.png"
+    },
+    {
+        "id": 5001,
+        "activity_id": 231201,
+        "group": 5,
+        "level": 1,
+        "upgrade_craft_id": 5002,
+        "order_price": "",
+        "if_bonus": 1,
+        "img_name": "e1.png"
+    },
+    {
+        "id": 5002,
+        "activity_id": 231201,
+        "group": 5,
+        "level": 2,
+        "upgrade_craft_id": 5003,
+        "order_price": "",
+        "if_bonus": 1,
+        "img_name": "e2.png"
+    },
+    {
+        "id": 5003,
+        "activity_id": 231201,
+        "group": 5,
+        "level": 3,
+        "upgrade_craft_id": 0,
+        "order_price": "",
+        "if_bonus": 1,
+        "img_name": "e3.png"
+    }
+]
