@@ -1,0 +1,55 @@
+name: Update Majsoul Data
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: |
+          pip install protobuf requests
+
+      - name: Install Protocol Buffers Compiler
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y protobuf-compiler
+
+      - name: Run Data Update Script
+        run: python main.py
+
+      - name: Check for Changes in data directory
+        id: git-check
+        run: |
+          git add data/ version.json
+          if git diff --cached --quiet; then
+            echo "No changes detected in data directory"
+            echo "changed=false" >> $GITHUB_ENV
+          else
+            echo "Changes detected in data directory"
+            echo "changed=true" >> $GITHUB_ENV
+          fi
+
+      - name: Extract version from JSON
+        if: env.changed == 'true'
+        run: echo "LIVE_VERSION=$(jq -r '.version' version.json)" >> $GITHUB_ENV
+
+      - name: Commit and Push Changes
+        if: env.changed == 'true'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update Majsoul data files (version $LIVE_VERSION)"
+          git push
