@@ -33869,11 +33869,11 @@
     {
         "id": 20354,
         "type": "",
-        "chs": "使用MAKA可分析玩家参与的段位战-四人麻将的牌谱，给出牌谱评分和打牌建议\r\r\n每日可用分析次数：5次（月势御守生效中每日可用20次），每日5:00重置\r\r\n单次分析结果保留7天，请您及时查看分析结果",
-        "chs_t": "使用MAKA可分析玩家參與的段位戰-四人麻將的牌譜，給出牌譜評分和打牌建議\r\r\n每日可用分析次數：5次（月勢御守生效中每日可用20次），每日5:00重置\r\r\n單次分析結果保留7天，請您及時查看分析結果",
-        "jp": "オリジナル牌譜分析システム「MAKA」を使って、「段位戦・四人麻雀」の牌譜を分析し、評価することができる。\r\r\n分析完了後、各種評価は点数で表示され、打牌へのアドバイスも表示される。\r\r\n分析結果は、7日間経過するまではいつでも確認できる。一日に分析出来る牌譜は5件まで。",
-        "en": "Use MAKA to analyze your logs for Ranked Match (Four-Player). It will provide scores and playing suggestions.\r\r\nDaily analysis limit: 5 attempts (20 attempts daily with Fortune Charm in effect). Resets every day at 2:00 P.M. (UTC-7).\r\r\nSingle analysis results are retained for 7 days, so please check them promptly.",
-        "kr": "패보 분석 시스템 'MAKA'는 참여한 등급전-4인전의 패보를 분석할 수 있습니다. 분석 완료 후, 평점과 조언이 표시됩니다.\r\n매일 5회의 분석 횟수가 주어지며(운수 대통 부적 보유 시 매일 20회), 분석 횟수는 매일 오전 6시에 갱신됩니다.\r\n분석 결과는 7일 동안만 보관되니, 잊지 말고 확인해 주세요."
+        "chs": "使用MAKA可分析玩家参与的段位战-四人麻将的牌谱，给出牌谱评分和打牌建议\r\r\n每日可用分析次数：10次（月势御守生效中每日可用30次），每日5:00重置\r\r\n单次分析结果保留7天，请您及时查看分析结果",
+        "chs_t": "使用MAKA可分析玩家參與的段位戰-四人麻將的牌譜，給出牌譜評分和打牌建議\r\r\n每日可用分析次數：10次（月勢御守生效中每日可用30次），每日5:00重置\r\r\n單次分析結果保留7天，請您及時查看分析結果",
+        "jp": "オリジナル牌譜分析システム「MAKA」を使って、「段位戦・四人麻雀」の牌譜を分析し、評価することができる。\r\n分析完了後、各種評価は点数で表示され、打牌へのアドバイスも表示される。\r\n分析結果は、7日間経過するまではいつでも確認できる。\r\n※一日に分析出来る牌譜は10件まで。\r\n※開運御守有効期限内、一日に分析出来る牌譜は30件まで。",
+        "en": "Use MAKA to analyze your logs for Ranked Match (Four-Player). It will provide scores and playing suggestions.\r\r\nDaily analysis limit: 10 attempts (30 attempts daily with Fortune Charm in effect). Resets every day at 2:00 P.M. (UTC-7).\r\r\nSingle analysis results are retained for 7 days, so please check them promptly.",
+        "kr": "패보 분석 시스템 'MAKA'는 참여한 등급전-4인전의 패보를 분석할 수 있습니다. 분석 완료 후, 평점과 조언이 표시됩니다.\r\n매일 10회의 분석 횟수가 주어지며(운수 대통 부적 보유 시 매일 30회), 분석 횟수는 매일 오전 6시에 갱신됩니다.\r\n분석 결과는 7일 동안만 보관되니, 잊지 말고 확인해 주세요."
     },
     {
         "id": 20355,
