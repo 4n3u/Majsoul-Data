@@ -2566,5 +2566,53 @@
             0
         ],
         "cross_view": 0
+    },
+    {
+        "id": 600118,
+        "name_chs": "四象战冠军",
+        "name_chs_t": "四象戰冠軍",
+        "name_jp": "四象戦優勝",
+        "name_en": "四象戰冠軍",
+        "name_kr": "四象戰冠軍",
+        "desc_chs": "赠予四象战冠军",
+        "desc_chs_t": "贈予四象戰冠軍",
+        "desc_jp": "贈予四象戰冠軍",
+        "desc_en": "贈予四象戰冠軍",
+        "desc_kr": "贈予四象戰冠軍",
+        "icon": "extendRes/title/24sxz1.png",
+        "icon_item": "extendRes/title/24sxz1_item.jpg",
+        "priority": 1051,
+        "unlock_type": 1,
+        "unlock_param": [
+            30557027,
+            0,
+            0,
+            0
+        ],
+        "cross_view": 0
+    },
+    {
+        "id": 600119,
+        "name_chs": "四象战冠军",
+        "name_chs_t": "四象戰冠軍",
+        "name_jp": "四象・青龍",
+        "name_en": "四象戰冠軍",
+        "name_kr": "四象戰冠軍",
+        "desc_chs": "赠予四象战冠军",
+        "desc_chs_t": "贈予四象戰冠軍",
+        "desc_jp": "四象戦春の陣優勝称号",
+        "desc_en": "贈予四象戰冠軍",
+        "desc_kr": "贈予四象戰冠軍",
+        "icon": "extendRes/title/24sxz1.png",
+        "icon_item": "extendRes/title/24sxz1_item.jpg",
+        "priority": 1052,
+        "unlock_type": 1,
+        "unlock_param": [
+            30557028,
+            0,
+            0,
+            0
+        ],
+        "cross_view": 0
     }
 ]

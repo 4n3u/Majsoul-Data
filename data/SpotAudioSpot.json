@@ -539,6 +539,34 @@
         "type": 0
     },
     {
+        "id": 178,
+        "path": "spot/spot_se/cat_meow_1",
+        "time_length": 0.0,
+        "str": "猫叫1",
+        "type": 0
+    },
+    {
+        "id": 179,
+        "path": "spot/spot_se/cat_meow_2",
+        "time_length": 0.0,
+        "str": "猫叫2",
+        "type": 0
+    },
+    {
+        "id": 180,
+        "path": "spot/spot_se/cat_meow_3",
+        "time_length": 0.0,
+        "str": "猫叫3",
+        "type": 0
+    },
+    {
+        "id": 181,
+        "path": "spot/spot_se/baopo",
+        "time_length": 0.0,
+        "str": "爆破声",
+        "type": 0
+    },
+    {
         "id": 1001,
         "path": "spot/spot_se/yiliyase01",
         "time_length": 0.0,

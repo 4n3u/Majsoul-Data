@@ -85,7 +85,7 @@
         "str_rule": "3651",
         "set_jushu": 1,
         "rule_images": [
-            "",
+            "myres2/room_rule/baopai.png",
             "",
             ""
         ]
@@ -98,7 +98,7 @@
         "str_rule": "3588",
         "set_jushu": 0,
         "rule_images": [
-            "",
+            "myres2/room_rule/huanjing.png",
             "",
             ""
         ]
@@ -111,7 +111,7 @@
         "str_rule": "3705",
         "set_jushu": 1,
         "rule_images": [
-            "",
+            "myres2/room_rule/zhanxing.png",
             "",
             ""
         ]
@@ -124,8 +124,8 @@
         "str_rule": "3857",
         "set_jushu": 1,
         "rule_images": [
-            "",
-            "",
+            "myres2/room_rule/tianming1.png",
+            "myres2/room_rule/tianming2.png",
             ""
         ]
     },
@@ -137,8 +137,8 @@
         "str_rule": "3987",
         "set_jushu": 1,
         "rule_images": [
-            "",
-            "",
+            "myres2/room_rule/yongchang1.png",
+            "myres2/room_rule/yongchang2.png",
             ""
         ]
     },
@@ -150,8 +150,8 @@
         "str_rule": "4208",
         "set_jushu": 1,
         "rule_images": [
-            "",
-            "",
+            "myres2/room_rule/hunzhiyiji1.png",
+            "myres2/room_rule/hunzhiyiji2.png",
             ""
         ]
     },
@@ -165,6 +165,19 @@
         "rule_images": [
             "myres2/room_rule/wanxiang1.png",
             "myres2/room_rule/wanxiang2.png",
+            ""
+        ]
+    },
+    {
+        "id": 14,
+        "pre_rule": "longzhimuyu",
+        "sort": 14,
+        "str_name": "20198",
+        "str_rule": "20422",
+        "set_jushu": 1,
+        "rule_images": [
+            "myres2/room_rule/longzhimuyu1.png",
+            "myres2/room_rule/longzhimuyu2.png",
             ""
         ]
     }

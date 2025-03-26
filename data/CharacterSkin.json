@@ -238,5 +238,21 @@
         "audio_greeting": "ZKS_SE_406004/greeting",
         "audio_click": "ZKS_SE_406004/click",
         "audio_click2": ""
+    },
+    {
+        "skinid": 402407,
+        "spine_layers": 1,
+        "effects": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "audio_celebrate": "BJSHZ_SE_402407/celebrate",
+        "audio_celebrate_idle": "",
+        "audio_idle": "",
+        "audio_greeting": "BJSHZ_SE_402407/greeting",
+        "audio_click": "BJSHZ_SE_402407/click",
+        "audio_click2": ""
     }
 ]

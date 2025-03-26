@@ -4351,11 +4351,11 @@
     },
     {
         "id": 230143,
-        "name_chs": "",
-        "name_chs_t": "",
-        "name_jp": "",
-        "name_en": "",
-        "name_kr": "",
+        "name_chs": "比赛场轮换",
+        "name_chs_t": "比賽場輪換",
+        "name_jp": "今週の特殊ルール",
+        "name_en": "Mode Rotation",
+        "name_kr": "대회전 전환",
         "type": "activity_desktop",
         "need_popout": 0
     },
@@ -9371,6 +9371,136 @@
     },
     {
         "id": 250233,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_replace_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250301,
+        "name_chs": "喧水流觞",
+        "name_chs_t": "喧水流觴",
+        "name_jp": "湯治旅の酒宴",
+        "name_en": "Spring's Lilt",
+        "name_kr": "유상곡수",
+        "type": "game_task",
+        "need_popout": 1
+    },
+    {
+        "id": 250302,
+        "name_chs": "郁郁清芜",
+        "name_chs_t": "郁郁清蕪",
+        "name_jp": "萌黄の奥座敷",
+        "name_en": "Quiet of Verdure",
+        "name_kr": "무성한 풀숲",
+        "type": "exchange",
+        "need_popout": 0
+    },
+    {
+        "id": 250310,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "shop",
+        "need_popout": 0
+    },
+    {
+        "id": 250311,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "event_cross_time",
+        "need_popout": 0
+    },
+    {
+        "id": 250312,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "item",
+        "need_popout": 0
+    },
+    {
+        "id": 250320,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250321,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250322,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250323,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250330,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_replace_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250331,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_replace_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250332,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_replace_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250333,
         "name_chs": "",
         "name_chs_t": "",
         "name_jp": "",

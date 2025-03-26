@@ -10318,6 +10318,28 @@
         "deprecated": 0
     },
     {
+        "id": 100476,
+        "name_chs": "五十岚阳菜的守护者",
+        "name_chs_t": "五十嵐陽菜的守護者",
+        "name_jp": "五十嵐陽菜の守護者",
+        "name_en": "Protector of Haruna Igarashi",
+        "name_kr": "이가라시 하루나의 수호자",
+        "desc_chs": "解锁五十岚阳菜传记中的所有结局",
+        "desc_chs_t": "解鎖五十嵐陽菜傳記中的所有結局",
+        "desc_jp": "五十嵐陽菜の物語のエンディングをすべて解放する",
+        "desc_en": "Unlock all endings in Haruna Igarashi's Story",
+        "desc_kr": "이가라시 하루나 스토리의 엔딩 모두 오픈.",
+        "rare": 1,
+        "locked": 0,
+        "group_id": 10,
+        "sort": 516,
+        "segment_id": 0,
+        "base_task": 99164,
+        "reward": "30740016-1",
+        "hidden": 0,
+        "deprecated": 0
+    },
+    {
         "id": 800011,
         "name_chs": "四象-旗开得胜",
         "name_chs_t": "四象-旗開得勝",

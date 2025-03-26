@@ -17950,5 +17950,77 @@
             0,
             0
         ]
+    },
+    {
+        "charid": 200024,
+        "sub_id": 941,
+        "unlock_desc_chs": "服饰解锁",
+        "unlock_desc_chs_t": "服飾解鎖",
+        "unlock_desc_jp": "着せ替え入手",
+        "unlock_desc_en": "Unlock Outfit",
+        "unlock_desc_kr": "스킨 오픈",
+        "type": 1,
+        "view": "",
+        "audio": 0,
+        "after_unlock_desc_chs": "云泉意暖",
+        "after_unlock_desc_chs_t": "雲泉意暖",
+        "after_unlock_desc_jp": "湯気立ち込める温泉郷",
+        "after_unlock_desc_en": "Balmy Haze",
+        "after_unlock_desc_kr": "아늑한 물안개",
+        "unlock_type": 3,
+        "unlock_param": [
+            402407,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "charid": 200094,
+        "sub_id": 941,
+        "unlock_desc_chs": "服饰解锁",
+        "unlock_desc_chs_t": "服飾解鎖",
+        "unlock_desc_jp": "着せ替え入手",
+        "unlock_desc_en": "Unlock Outfit",
+        "unlock_desc_kr": "스킨 오픈",
+        "type": 1,
+        "view": "",
+        "audio": 0,
+        "after_unlock_desc_chs": "云泉意暖",
+        "after_unlock_desc_chs_t": "雲泉意暖",
+        "after_unlock_desc_jp": "湯気立ち込める温泉郷",
+        "after_unlock_desc_en": "Balmy Haze",
+        "after_unlock_desc_kr": "아늑한 물안개",
+        "unlock_type": 3,
+        "unlock_param": [
+            409403,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "charid": 200014,
+        "sub_id": 941,
+        "unlock_desc_chs": "服饰解锁",
+        "unlock_desc_chs_t": "服飾解鎖",
+        "unlock_desc_jp": "着せ替え入手",
+        "unlock_desc_en": "Unlock Outfit",
+        "unlock_desc_kr": "스킨 오픈",
+        "type": 1,
+        "view": "",
+        "audio": 0,
+        "after_unlock_desc_chs": "云泉意暖",
+        "after_unlock_desc_chs_t": "雲泉意暖",
+        "after_unlock_desc_jp": "湯気立ち込める温泉郷",
+        "after_unlock_desc_en": "Balmy Haze",
+        "after_unlock_desc_kr": "아늑한 물안개",
+        "unlock_type": 3,
+        "unlock_param": [
+            401406,
+            0,
+            0,
+            0
+        ]
     }
 ]

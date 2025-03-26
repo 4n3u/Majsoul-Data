@@ -2431,6 +2431,32 @@
         "old_effect_mark": 0
     },
     {
+        "id": 30550025,
+        "res_name": "sxz",
+        "audio_id": 0,
+        "character_id": 0,
+        "sargs": [
+            "0",
+            "",
+            "",
+            ""
+        ],
+        "old_effect_mark": 0
+    },
+    {
+        "id": 30550026,
+        "res_name": "sxz",
+        "audio_id": 0,
+        "character_id": 0,
+        "sargs": [
+            "0",
+            "",
+            "",
+            ""
+        ],
+        "old_effect_mark": 0
+    },
+    {
         "id": 305555,
         "res_name": "douya",
         "audio_id": 0,
@@ -4071,6 +4097,19 @@
     {
         "id": 30700003,
         "res_name": "beijing_gufengwoshi",
+        "audio_id": 0,
+        "character_id": 0,
+        "sargs": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "old_effect_mark": 0
+    },
+    {
+        "id": 30700004,
+        "res_name": "beijing_tangquan",
         "audio_id": 0,
         "character_id": 0,
         "sargs": [

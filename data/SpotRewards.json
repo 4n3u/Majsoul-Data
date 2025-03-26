@@ -1068,5 +1068,75 @@
         "content_en": "Unlock the Ending - What the Cold Brings",
         "content_kr": "End9. 감기의 대가",
         "reward": "304006-1"
+    },
+    {
+        "id": 20000041,
+        "type": 1,
+        "content_chs": "解锁结局【雨过天晴的笑颜】",
+        "content_chs_t": "解鎖結局【雨過天晴的笑顏】",
+        "content_jp": "End1.雨のち笑顔",
+        "content_en": "Unlock the Ending - Smile After the Storm",
+        "content_kr": "End1. 비 온 뒤 맑은 웃음",
+        "reward": "302008-1"
+    },
+    {
+        "id": 20000042,
+        "type": 2,
+        "content_chs": "解锁结局【作业补完计划】",
+        "content_chs_t": "解鎖結局【作業補完計畫】",
+        "content_jp": "End2.宿題補完計画",
+        "content_en": "Unlock the Ending - Homework Finishing Plan",
+        "content_kr": "End2. 숙제 보충 계획",
+        "reward": "100002-8000"
+    },
+    {
+        "id": 20000051,
+        "type": 1,
+        "content_chs": "解锁结局【超级棒冰之神】",
+        "content_chs_t": "解鎖結局【超級冰棒之神】",
+        "content_jp": "End3.アルティメットアイスの神様",
+        "content_en": "Unlock the Ending - Super God of Popsicles",
+        "content_kr": "End3. 슈퍼 아이스크림 신",
+        "reward": "304005-1"
+    },
+    {
+        "id": 20000052,
+        "type": 2,
+        "content_chs": "解锁结局【勇者的下一站】",
+        "content_chs_t": "解鎖結局【勇者的下一站】",
+        "content_jp": "End4.勇者の次なる挑戦",
+        "content_en": "Unlock the Ending - The Next Is...?",
+        "content_kr": "End4. 용사의 다음 목표",
+        "reward": "302011-1"
+    },
+    {
+        "id": 20000053,
+        "type": 3,
+        "content_chs": "解锁结局【义卖日的假期】",
+        "content_chs_t": "解鎖結局【義賣日的假期】",
+        "content_jp": "End5.バザーの日はお休み",
+        "content_en": "Unlock the Ending - Charity Day Break",
+        "content_kr": "End5. 바자회 휴일",
+        "reward": "100002-12000"
+    },
+    {
+        "id": 20000061,
+        "type": 1,
+        "content_chs": "解锁结局【独家回忆的夏天】",
+        "content_chs_t": "解鎖結局【獨家回憶的夏天】",
+        "content_jp": "End6.夏の特別な思い出",
+        "content_en": "Unlock the Ending - Summer of Special Memories",
+        "content_kr": "End6. 특별한 추억의 여름",
+        "reward": "302001-1"
+    },
+    {
+        "id": 20000062,
+        "type": 3,
+        "content_chs": "解锁结局【好好学习的夏天】",
+        "content_chs_t": "解鎖結局【好好學習的夏天】",
+        "content_jp": "End7.夏の猛勉強",
+        "content_en": "Unlock the Ending - Summer of Diligent Learning",
+        "content_kr": "End7. 열심히 공부한 여름",
+        "reward": "304006-1"
     }
 ]
