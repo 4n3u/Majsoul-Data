@@ -240,5 +240,16 @@
         "banner_left_selected": "",
         "banner_left_icon": "",
         "time_remind": 0
+    },
+    {
+        "id": 250391,
+        "sort": 115,
+        "banner_type": 2,
+        "enter_icon": "myres2/activity_banner/25fate_signin_0.png",
+        "banner_big": "",
+        "banner_left": "",
+        "banner_left_selected": "",
+        "banner_left_icon": "",
+        "time_remind": 0
     }
 ]

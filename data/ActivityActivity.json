@@ -9508,5 +9508,15 @@
         "name_kr": "",
         "type": "chest_replace_up",
         "need_popout": 0
+    },
+    {
+        "id": 250391,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "daily_sign",
+        "need_popout": 1
     }
 ]
