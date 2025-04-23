@@ -28891,7 +28891,7 @@
         "greeting": 5000,
         "celebrate": 11766,
         "click": 4000,
-        "greeting_init": 11000,
+        "greeting_init": 10000,
         "click2": 8000,
         "celebrate_idle": 5333,
         "illust_data": "yuanbanlin_1"
@@ -29104,7 +29104,7 @@
         "greeting": 8466,
         "celebrate": 6933,
         "click": 5400,
-        "greeting_init": 15000,
+        "greeting_init": 12000,
         "click2": 8000,
         "celebrate_idle": 2666,
         "illust_data": "aertuoliya_1"
