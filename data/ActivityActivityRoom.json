@@ -18,7 +18,8 @@
         "tianming_mode": 0,
         "yongchang_mode": 0,
         "hunzhiyiji_mode": 0,
-        "wanxiangxiuluo_mode": 0
+        "wanxiangxiuluo_mode": 0,
+        "beishuizhizhan_mode": 0
     },
     {
         "activity_id": 1166,
@@ -39,7 +40,8 @@
         "tianming_mode": 0,
         "yongchang_mode": 0,
         "hunzhiyiji_mode": 0,
-        "wanxiangxiuluo_mode": 0
+        "wanxiangxiuluo_mode": 0,
+        "beishuizhizhan_mode": 0
     },
     {
         "activity_id": 1190,
@@ -60,7 +62,8 @@
         "tianming_mode": 0,
         "yongchang_mode": 0,
         "hunzhiyiji_mode": 0,
-        "wanxiangxiuluo_mode": 0
+        "wanxiangxiuluo_mode": 0,
+        "beishuizhizhan_mode": 0
     },
     {
         "activity_id": 1232,
@@ -81,7 +84,8 @@
         "tianming_mode": 0,
         "yongchang_mode": 0,
         "hunzhiyiji_mode": 0,
-        "wanxiangxiuluo_mode": 0
+        "wanxiangxiuluo_mode": 0,
+        "beishuizhizhan_mode": 0
     },
     {
         "activity_id": 1233,
@@ -102,7 +106,8 @@
         "tianming_mode": 0,
         "yongchang_mode": 0,
         "hunzhiyiji_mode": 0,
-        "wanxiangxiuluo_mode": 0
+        "wanxiangxiuluo_mode": 0,
+        "beishuizhizhan_mode": 0
     },
     {
         "activity_id": 1296,
@@ -123,7 +128,8 @@
         "tianming_mode": 0,
         "yongchang_mode": 0,
         "hunzhiyiji_mode": 0,
-        "wanxiangxiuluo_mode": 0
+        "wanxiangxiuluo_mode": 0,
+        "beishuizhizhan_mode": 0
     },
     {
         "activity_id": 1297,
@@ -144,7 +150,8 @@
         "tianming_mode": 0,
         "yongchang_mode": 0,
         "hunzhiyiji_mode": 0,
-        "wanxiangxiuluo_mode": 0
+        "wanxiangxiuluo_mode": 0,
+        "beishuizhizhan_mode": 0
     },
     {
         "activity_id": 220410,
@@ -165,7 +172,8 @@
         "tianming_mode": 0,
         "yongchang_mode": 0,
         "hunzhiyiji_mode": 0,
-        "wanxiangxiuluo_mode": 0
+        "wanxiangxiuluo_mode": 0,
+        "beishuizhizhan_mode": 0
     },
     {
         "activity_id": 221107,
@@ -186,7 +194,8 @@
         "tianming_mode": 0,
         "yongchang_mode": 0,
         "hunzhiyiji_mode": 0,
-        "wanxiangxiuluo_mode": 0
+        "wanxiangxiuluo_mode": 0,
+        "beishuizhizhan_mode": 0
     },
     {
         "activity_id": 230408,
@@ -207,7 +216,8 @@
         "tianming_mode": 1,
         "yongchang_mode": 0,
         "hunzhiyiji_mode": 0,
-        "wanxiangxiuluo_mode": 0
+        "wanxiangxiuluo_mode": 0,
+        "beishuizhizhan_mode": 0
     },
     {
         "activity_id": 231123,
@@ -228,7 +238,8 @@
         "tianming_mode": 0,
         "yongchang_mode": 1,
         "hunzhiyiji_mode": 0,
-        "wanxiangxiuluo_mode": 0
+        "wanxiangxiuluo_mode": 0,
+        "beishuizhizhan_mode": 0
     },
     {
         "activity_id": 240412,
@@ -249,7 +260,8 @@
         "tianming_mode": 0,
         "yongchang_mode": 0,
         "hunzhiyiji_mode": 1,
-        "wanxiangxiuluo_mode": 0
+        "wanxiangxiuluo_mode": 0,
+        "beishuizhizhan_mode": 0
     },
     {
         "activity_id": 241141,
@@ -270,6 +282,29 @@
         "tianming_mode": 0,
         "yongchang_mode": 0,
         "hunzhiyiji_mode": 0,
-        "wanxiangxiuluo_mode": 1
+        "wanxiangxiuluo_mode": 1,
+        "beishuizhizhan_mode": 0
+    },
+    {
+        "activity_id": 250412,
+        "sort": 14,
+        "str_name": "20193",
+        "str_rule": "20194",
+        "friend_room_id": 15,
+        "dora3_mode": 0,
+        "begin_open_mode": 0,
+        "muyu_mode": 0,
+        "xuezhan_mode": 0,
+        "huanzhang_mode": 0,
+        "chuanma_mode": 0,
+        "jiuchao_mode": 0,
+        "reveal_discard": 0,
+        "field_spell_mode": 0,
+        "zhanxing_mode": 0,
+        "tianming_mode": 0,
+        "yongchang_mode": 0,
+        "hunzhiyiji_mode": 0,
+        "wanxiangxiuluo_mode": 0,
+        "beishuizhizhan_mode": 1
     }
 ]

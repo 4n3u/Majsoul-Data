@@ -2568,6 +2568,54 @@
         "cross_view": 0
     },
     {
+        "id": 600116,
+        "name_chs": "触类旁通",
+        "name_chs_t": "觸類旁通",
+        "name_jp": "聞一知十",
+        "name_en": "Warrior of All Arts",
+        "name_kr": "문일지십",
+        "desc_chs": "完成成就分类「触类旁通」纪念",
+        "desc_chs_t": "完成成就分類「觸類旁通」紀念",
+        "desc_jp": "実績「聞一知十」のすべての項目を完成した記念称号",
+        "desc_en": "A title for completing all the achievements of [Warrior of All Arts]",
+        "desc_kr": "업적 '문일지십'의 모든 항목을 달성한 기념 칭호",
+        "icon": "extendRes/title/achievementgroup13.png",
+        "icon_item": "extendRes/title/achievementgroup13_item.jpg",
+        "priority": 789,
+        "unlock_type": 0,
+        "unlock_param": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "cross_view": 0
+    },
+    {
+        "id": 600117,
+        "name_chs": "琳琅满目",
+        "name_chs_t": "琳琅滿目",
+        "name_jp": "琳琅満目",
+        "name_en": "Grand Gallery",
+        "name_kr": "오색영롱",
+        "desc_chs": "完成成就分类「琳琅满目」纪念",
+        "desc_chs_t": "完成成就分類「琳琅滿目」紀念",
+        "desc_jp": "実績「琳琅満目」のすべての項目を完成した記念称号",
+        "desc_en": "A title for completing all the achievements of [Grand Gallery]",
+        "desc_kr": "업적 '오색영롱'의 모든 항목을 달성한 기념 칭호",
+        "icon": "extendRes/title/achievementgroup14.png",
+        "icon_item": "extendRes/title/achievementgroup14_item.jpg",
+        "priority": 788,
+        "unlock_type": 0,
+        "unlock_param": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "cross_view": 0
+    },
+    {
         "id": 600118,
         "name_chs": "四象战冠军",
         "name_chs_t": "四象戰冠軍",
@@ -2609,6 +2657,54 @@
         "unlock_type": 1,
         "unlock_param": [
             30557028,
+            0,
+            0,
+            0
+        ],
+        "cross_view": 0
+    },
+    {
+        "id": 600120,
+        "name_chs": "B.league S2 冠军",
+        "name_chs_t": "B.league S2 冠軍",
+        "name_jp": "B.league S2 冠軍",
+        "name_en": "B.league S2 冠軍",
+        "name_kr": "B.league S2 冠軍",
+        "desc_chs": "赠予哔哩哔哩第二届立直麻将大赛冠军",
+        "desc_chs_t": "贈予嗶哩嗶哩第二屆立直麻將大賽冠軍",
+        "desc_jp": "贈予嗶哩嗶哩第二屆立直麻將大賽冠軍",
+        "desc_en": "贈予嗶哩嗶哩第二屆立直麻將大賽冠軍",
+        "desc_kr": "贈予嗶哩嗶哩第二屆立直麻將大賽冠軍",
+        "icon": "extendRes/title/25bl1.png",
+        "icon_item": "extendRes/title/25bl1_item.jpg",
+        "priority": 1053,
+        "unlock_type": 1,
+        "unlock_param": [
+            30557029,
+            0,
+            0,
+            0
+        ],
+        "cross_view": 0
+    },
+    {
+        "id": 600121,
+        "name_chs": "按钮亮了！",
+        "name_chs_t": "按鈕亮了！",
+        "name_jp": "按鈕亮了！",
+        "name_en": "按鈕亮了！",
+        "name_kr": "按鈕亮了！",
+        "desc_chs": "赠与哔哩哔哩【按钮亮了】活动赛冠军",
+        "desc_chs_t": "贈與嗶哩嗶哩【按鈕亮了】活動賽冠軍",
+        "desc_jp": "贈與嗶哩嗶哩【按鈕亮了】活動賽冠軍",
+        "desc_en": "贈與嗶哩嗶哩【按鈕亮了】活動賽冠軍",
+        "desc_kr": "贈與嗶哩嗶哩【按鈕亮了】活動賽冠軍",
+        "icon": "extendRes/title/25bl2.png",
+        "icon_item": "extendRes/title/25bl2_item.jpg",
+        "priority": 1054,
+        "unlock_type": 1,
+        "unlock_param": [
+            30557030,
             0,
             0,
             0

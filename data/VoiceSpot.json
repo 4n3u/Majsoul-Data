@@ -4198,5 +4198,341 @@
         "character": 200095,
         "type": 14,
         "path": "audio/sound/nanfenghua/spot/jtm_fuk_242"
+    },
+    {
+        "id": 10801,
+        "character": 20000108,
+        "type": 1,
+        "path": "audio/sound/jiantongying/spot/jtm_fhf_sakr_232"
+    },
+    {
+        "id": 10802,
+        "character": 20000108,
+        "type": 2,
+        "path": "audio/sound/jiantongying/spot/jtm_fhf_sakr_233"
+    },
+    {
+        "id": 10803,
+        "character": 20000108,
+        "type": 3,
+        "path": "audio/sound/jiantongying/spot/jtm_fhf_sakr_234"
+    },
+    {
+        "id": 10804,
+        "character": 20000108,
+        "type": 4,
+        "path": "audio/sound/jiantongying/spot/jtm_fhf_sakr_235"
+    },
+    {
+        "id": 10805,
+        "character": 20000108,
+        "type": 5,
+        "path": "audio/sound/jiantongying/spot/jtm_fhf_sakr_236"
+    },
+    {
+        "id": 10806,
+        "character": 20000108,
+        "type": 6,
+        "path": "audio/sound/jiantongying/spot/jtm_fhf_sakr_237"
+    },
+    {
+        "id": 10807,
+        "character": 20000108,
+        "type": 7,
+        "path": "audio/sound/jiantongying/spot/jtm_fhf_sakr_238"
+    },
+    {
+        "id": 10808,
+        "character": 20000108,
+        "type": 8,
+        "path": "audio/sound/jiantongying/spot/jtm_fhf_sakr_239"
+    },
+    {
+        "id": 10809,
+        "character": 20000108,
+        "type": 9,
+        "path": "audio/sound/jiantongying/spot/jtm_fhf_sakr_240"
+    },
+    {
+        "id": 10810,
+        "character": 20000108,
+        "type": 10,
+        "path": "audio/sound/jiantongying/spot/jtm_fhf_sakr_241"
+    },
+    {
+        "id": 10811,
+        "character": 20000108,
+        "type": 11,
+        "path": "audio/sound/jiantongying/spot/jtm_fhf_sakr_242"
+    },
+    {
+        "id": 10812,
+        "character": 20000108,
+        "type": 12,
+        "path": "audio/sound/jiantongying/spot/jtm_fhf_sakr_243"
+    },
+    {
+        "id": 10813,
+        "character": 20000108,
+        "type": 13,
+        "path": "audio/sound/jiantongying/spot/jtm_fhf_sakr_244"
+    },
+    {
+        "id": 10814,
+        "character": 20000108,
+        "type": 14,
+        "path": "audio/sound/jiantongying/spot/jtm_fhf_sakr_245"
+    },
+    {
+        "id": 10901,
+        "character": 20000109,
+        "type": 1,
+        "path": "audio/sound/yuanbanlin/spot/jtm_fhf_rin_232"
+    },
+    {
+        "id": 10902,
+        "character": 20000109,
+        "type": 2,
+        "path": "audio/sound/yuanbanlin/spot/jtm_fhf_rin_233"
+    },
+    {
+        "id": 10903,
+        "character": 20000109,
+        "type": 3,
+        "path": "audio/sound/yuanbanlin/spot/jtm_fhf_rin_234"
+    },
+    {
+        "id": 10904,
+        "character": 20000109,
+        "type": 4,
+        "path": "audio/sound/yuanbanlin/spot/jtm_fhf_rin_235"
+    },
+    {
+        "id": 10905,
+        "character": 20000109,
+        "type": 5,
+        "path": "audio/sound/yuanbanlin/spot/jtm_fhf_rin_236"
+    },
+    {
+        "id": 10906,
+        "character": 20000109,
+        "type": 6,
+        "path": "audio/sound/yuanbanlin/spot/jtm_fhf_rin_237"
+    },
+    {
+        "id": 10907,
+        "character": 20000109,
+        "type": 7,
+        "path": "audio/sound/yuanbanlin/spot/jtm_fhf_rin_238"
+    },
+    {
+        "id": 10908,
+        "character": 20000109,
+        "type": 8,
+        "path": "audio/sound/yuanbanlin/spot/jtm_fhf_rin_239"
+    },
+    {
+        "id": 10909,
+        "character": 20000109,
+        "type": 9,
+        "path": "audio/sound/yuanbanlin/spot/jtm_fhf_rin_240"
+    },
+    {
+        "id": 10910,
+        "character": 20000109,
+        "type": 10,
+        "path": "audio/sound/yuanbanlin/spot/jtm_fhf_rin_241"
+    },
+    {
+        "id": 10911,
+        "character": 20000109,
+        "type": 11,
+        "path": "audio/sound/yuanbanlin/spot/jtm_fhf_rin_242"
+    },
+    {
+        "id": 10912,
+        "character": 20000109,
+        "type": 12,
+        "path": "audio/sound/yuanbanlin/spot/jtm_fhf_rin_243"
+    },
+    {
+        "id": 10913,
+        "character": 20000109,
+        "type": 13,
+        "path": "audio/sound/yuanbanlin/spot/jtm_fhf_rin_244"
+    },
+    {
+        "id": 10914,
+        "character": 20000109,
+        "type": 14,
+        "path": "audio/sound/yuanbanlin/spot/jtm_fhf_rin_245"
+    },
+    {
+        "id": 11001,
+        "character": 20000110,
+        "type": 1,
+        "path": "audio/sound/saber/spot/jtm_sabe_054"
+    },
+    {
+        "id": 11002,
+        "character": 20000110,
+        "type": 2,
+        "path": "audio/sound/saber/spot/jtm_sabe_055"
+    },
+    {
+        "id": 11003,
+        "character": 20000110,
+        "type": 3,
+        "path": "audio/sound/saber/spot/jtm_sabe_056"
+    },
+    {
+        "id": 11004,
+        "character": 20000110,
+        "type": 4,
+        "path": "audio/sound/saber/spot/jtm_sabe_057"
+    },
+    {
+        "id": 11005,
+        "character": 20000110,
+        "type": 5,
+        "path": "audio/sound/saber/spot/jtm_sabe_058"
+    },
+    {
+        "id": 11006,
+        "character": 20000110,
+        "type": 6,
+        "path": "audio/sound/saber/spot/jtm_sabe_059"
+    },
+    {
+        "id": 11007,
+        "character": 20000110,
+        "type": 7,
+        "path": "audio/sound/saber/spot/jtm_sabe_060"
+    },
+    {
+        "id": 11008,
+        "character": 20000110,
+        "type": 8,
+        "path": "audio/sound/saber/spot/jtm_sabe_061"
+    },
+    {
+        "id": 11009,
+        "character": 20000110,
+        "type": 9,
+        "path": "audio/sound/saber/spot/jtm_sabe_062"
+    },
+    {
+        "id": 11010,
+        "character": 20000110,
+        "type": 10,
+        "path": "audio/sound/saber/spot/jtm_sabe_063"
+    },
+    {
+        "id": 11011,
+        "character": 20000110,
+        "type": 11,
+        "path": "audio/sound/saber/spot/jtm_sabe_064"
+    },
+    {
+        "id": 11012,
+        "character": 20000110,
+        "type": 12,
+        "path": "audio/sound/saber/spot/jtm_sabe_065"
+    },
+    {
+        "id": 11013,
+        "character": 20000110,
+        "type": 13,
+        "path": "audio/sound/saber/spot/jtm_sabe_066"
+    },
+    {
+        "id": 11014,
+        "character": 20000110,
+        "type": 14,
+        "path": "audio/sound/saber/spot/jtm_sabe_067"
+    },
+    {
+        "id": 11101,
+        "character": 20000111,
+        "type": 1,
+        "path": "audio/sound/archer/spot/jtm_arch_054"
+    },
+    {
+        "id": 11102,
+        "character": 20000111,
+        "type": 2,
+        "path": "audio/sound/archer/spot/jtm_arch_055"
+    },
+    {
+        "id": 11103,
+        "character": 20000111,
+        "type": 3,
+        "path": "audio/sound/archer/spot/jtm_arch_056"
+    },
+    {
+        "id": 11104,
+        "character": 20000111,
+        "type": 4,
+        "path": "audio/sound/archer/spot/jtm_arch_057"
+    },
+    {
+        "id": 11105,
+        "character": 20000111,
+        "type": 5,
+        "path": "audio/sound/archer/spot/jtm_arch_058"
+    },
+    {
+        "id": 11106,
+        "character": 20000111,
+        "type": 6,
+        "path": "audio/sound/archer/spot/jtm_arch_059"
+    },
+    {
+        "id": 11107,
+        "character": 20000111,
+        "type": 7,
+        "path": "audio/sound/archer/spot/jtm_arch_060"
+    },
+    {
+        "id": 11108,
+        "character": 20000111,
+        "type": 8,
+        "path": "audio/sound/archer/spot/jtm_arch_061"
+    },
+    {
+        "id": 11109,
+        "character": 20000111,
+        "type": 9,
+        "path": "audio/sound/archer/spot/jtm_arch_062"
+    },
+    {
+        "id": 11110,
+        "character": 20000111,
+        "type": 10,
+        "path": "audio/sound/archer/spot/jtm_arch_063"
+    },
+    {
+        "id": 11111,
+        "character": 20000111,
+        "type": 11,
+        "path": "audio/sound/archer/spot/jtm_arch_064"
+    },
+    {
+        "id": 11112,
+        "character": 20000111,
+        "type": 12,
+        "path": "audio/sound/archer/spot/jtm_arch_065"
+    },
+    {
+        "id": 11113,
+        "character": 20000111,
+        "type": 13,
+        "path": "audio/sound/archer/spot/jtm_arch_066"
+    },
+    {
+        "id": 11114,
+        "character": 20000111,
+        "type": 14,
+        "path": "audio/sound/archer/spot/jtm_arch_067"
     }
 ]

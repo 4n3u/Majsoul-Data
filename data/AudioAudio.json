@@ -306,6 +306,12 @@
         "type": "lobby"
     },
     {
+        "id": 154,
+        "path": "audio/audio_lobby/gacha_banner_fate",
+        "time_length": 0.0,
+        "type": "lobby"
+    },
+    {
         "id": 201,
         "path": "audio/audio_mj/beiman",
         "time_length": 2098.0,
@@ -1386,6 +1392,114 @@
         "type": "event"
     },
     {
+        "id": 10313,
+        "path": "audio/audio_event/2504quedou_train_bgm",
+        "time_length": 78000.0,
+        "type": "event"
+    },
+    {
+        "id": 10314,
+        "path": "audio/audio_event/2504quedou_match_bgm",
+        "time_length": 71000.0,
+        "type": "event"
+    },
+    {
+        "id": 10315,
+        "path": "audio/audio_event/2504quedou_activity_enter",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10316,
+        "path": "audio/audio_event/2504quedou_ui_open",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10317,
+        "path": "audio/audio_event/2504quedou_train_failure",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10318,
+        "path": "audio/audio_event/2504quedou_train_success",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10319,
+        "path": "audio/audio_event/2504quedou_train_great_success",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10320,
+        "path": "audio/audio_event/2504quedou_event_show",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10321,
+        "path": "audio/audio_event/2504quedou_event_normal",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10322,
+        "path": "audio/audio_event/2504quedou_event_success",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10323,
+        "path": "audio/audio_event/2504quedou_event_great_success",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10324,
+        "path": "audio/audio_event/2504quedou_waiting_enter_match",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10325,
+        "path": "audio/audio_event/2504quedou_match_begin",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10326,
+        "path": "audio/audio_event/2504quedou_traveling",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10327,
+        "path": "audio/audio_event/2504quedou_match_over",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10328,
+        "path": "audio/audio_event/2504quedou_lifetime_over",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10329,
+        "path": "audio/audio_event/2504beishui_big_fire",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10330,
+        "path": "audio/audio_event/2504beishui_normal_fire",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
         "id": 305032,
         "path": "audio/audio_mj/effect_liqi_canying",
         "time_length": 1314.0,
@@ -1958,6 +2072,18 @@
     {
         "id": 308037,
         "path": "audio/audio_mj/effect_liqi_24ba",
+        "time_length": 0.0,
+        "type": "effect"
+    },
+    {
+        "id": 308041,
+        "path": "audio/audio_mj/ron_25hf",
+        "time_length": 0.0,
+        "type": "effect"
+    },
+    {
+        "id": 308042,
+        "path": "audio/audio_mj/effect_liqi_25hf",
         "time_length": 0.0,
         "type": "effect"
     }

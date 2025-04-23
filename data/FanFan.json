@@ -16,7 +16,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 2,
@@ -35,7 +36,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 3,
@@ -54,7 +56,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 4,
@@ -73,7 +76,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 5,
@@ -92,7 +96,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 6,
@@ -111,7 +116,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 7,
@@ -130,7 +136,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 8,
@@ -149,7 +156,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 9,
@@ -168,7 +176,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 10,
@@ -187,7 +196,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 11,
@@ -206,7 +216,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 12,
@@ -225,7 +236,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 13,
@@ -244,7 +256,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 14,
@@ -263,7 +276,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 15,
@@ -282,7 +296,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 16,
@@ -301,7 +316,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 17,
@@ -320,7 +336,8 @@
         "rarity": 0,
         "show_range_1": 1,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 18,
@@ -339,7 +356,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 19,
@@ -358,7 +376,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 20,
@@ -377,7 +396,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 21,
@@ -396,7 +416,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 22,
@@ -415,7 +436,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 23,
@@ -434,7 +456,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 24,
@@ -453,7 +476,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 25,
@@ -472,7 +496,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 26,
@@ -491,7 +516,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 27,
@@ -510,7 +536,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 28,
@@ -529,7 +556,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 29,
@@ -548,7 +576,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 30,
@@ -567,7 +596,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 31,
@@ -586,7 +616,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 32,
@@ -605,7 +636,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 33,
@@ -624,7 +656,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 34,
@@ -643,7 +676,8 @@
         "rarity": 0,
         "show_range_1": 2,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 35,
@@ -662,7 +696,8 @@
         "rarity": 11,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 36,
@@ -681,7 +716,8 @@
         "rarity": 12,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 37,
@@ -700,7 +736,8 @@
         "rarity": 34,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 38,
@@ -719,7 +756,8 @@
         "rarity": 33,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 39,
@@ -738,7 +776,8 @@
         "rarity": 32,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 40,
@@ -757,7 +796,8 @@
         "rarity": 24,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 41,
@@ -776,7 +816,8 @@
         "rarity": 22,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 42,
@@ -795,7 +836,8 @@
         "rarity": 31,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 43,
@@ -814,7 +856,8 @@
         "rarity": 23,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 44,
@@ -833,7 +876,8 @@
         "rarity": 13,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 45,
@@ -852,7 +896,8 @@
         "rarity": 21,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 46,
@@ -871,7 +916,8 @@
         "rarity": 0,
         "show_range_1": 4294967295,
         "show_range_2": "-1",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 47,
@@ -890,7 +936,8 @@
         "rarity": 14,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 48,
@@ -909,7 +956,8 @@
         "rarity": 17,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 49,
@@ -928,7 +976,8 @@
         "rarity": 15,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 50,
@@ -947,7 +996,8 @@
         "rarity": 16,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 51,
@@ -966,7 +1016,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 52,
@@ -985,7 +1036,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 53,
@@ -1004,7 +1056,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 54,
@@ -1023,7 +1076,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 55,
@@ -1042,7 +1096,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 56,
@@ -1061,7 +1116,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 57,
@@ -1080,7 +1136,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 58,
@@ -1099,7 +1156,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 59,
@@ -1118,7 +1176,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 60,
@@ -1137,7 +1196,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 61,
@@ -1156,7 +1216,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 62,
@@ -1175,7 +1236,8 @@
         "rarity": 0,
         "show_range_1": 1,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 63,
@@ -1194,7 +1256,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 64,
@@ -1213,7 +1276,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 65,
@@ -1232,7 +1296,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 59
+        "merge_id": 59,
+        "mark": 0
     },
     {
         "id": 801,
@@ -1251,7 +1316,8 @@
         "rarity": 0,
         "show_range_1": 4294967295,
         "show_range_2": "-1",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 802,
@@ -1270,7 +1336,8 @@
         "rarity": 0,
         "show_range_1": 4294967295,
         "show_range_2": "-1",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 803,
@@ -1289,7 +1356,8 @@
         "rarity": 0,
         "show_range_1": 4294967295,
         "show_range_2": "-1",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 804,
@@ -1308,7 +1376,8 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 2
+        "merge_id": 2,
+        "mark": 0
     },
     {
         "id": 805,
@@ -1327,7 +1396,88 @@
         "rarity": 0,
         "show_range_1": 0,
         "show_range_2": "",
-        "merge_id": 18
+        "merge_id": 18,
+        "mark": 0
+    },
+    {
+        "id": 806,
+        "name_chs": "真-立直",
+        "name_chs_t": "真-立直",
+        "name_jp": "真・立直",
+        "name_en": "True Riichi",
+        "name_kr": "진-리치",
+        "xuanshang": 0,
+        "yiman": 0,
+        "fan_menqing": 3,
+        "fan_fulu": 3,
+        "show_index": 10,
+        "sound": "fan_liqi",
+        "is_guyi": 0,
+        "rarity": 0,
+        "show_range_1": 0,
+        "show_range_2": "",
+        "merge_id": 2,
+        "mark": 1
+    },
+    {
+        "id": 807,
+        "name_chs": "真-两立直",
+        "name_chs_t": "真-兩立直",
+        "name_jp": "真・ダブル立直",
+        "name_en": "True Double Riichi",
+        "name_kr": "진-더블 리치",
+        "xuanshang": 0,
+        "yiman": 0,
+        "fan_menqing": 4,
+        "fan_fulu": 4,
+        "show_index": 10,
+        "sound": "fan_dliqi",
+        "is_guyi": 0,
+        "rarity": 0,
+        "show_range_1": 0,
+        "show_range_2": "",
+        "merge_id": 18,
+        "mark": 1
+    },
+    {
+        "id": 808,
+        "name_chs": "极-立直",
+        "name_chs_t": "極-立直",
+        "name_jp": "極・立直",
+        "name_en": "Extreme Riichi",
+        "name_kr": "극-리치",
+        "xuanshang": 0,
+        "yiman": 0,
+        "fan_menqing": 5,
+        "fan_fulu": 5,
+        "show_index": 10,
+        "sound": "fan_liqi",
+        "is_guyi": 0,
+        "rarity": 0,
+        "show_range_1": 0,
+        "show_range_2": "",
+        "merge_id": 2,
+        "mark": 1
+    },
+    {
+        "id": 809,
+        "name_chs": "极-两立直",
+        "name_chs_t": "極-兩立直",
+        "name_jp": "極・ダブル立直",
+        "name_en": "Extreme Double Riichi",
+        "name_kr": "극-더블 리치",
+        "xuanshang": 0,
+        "yiman": 0,
+        "fan_menqing": 6,
+        "fan_fulu": 6,
+        "show_index": 10,
+        "sound": "fan_dliqi",
+        "is_guyi": 0,
+        "rarity": 0,
+        "show_range_1": 0,
+        "show_range_2": "",
+        "merge_id": 18,
+        "mark": 1
     },
     {
         "id": 1000,
@@ -1346,7 +1496,8 @@
         "rarity": 0,
         "show_range_1": 4294967295,
         "show_range_2": "-1",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 1001,
@@ -1365,7 +1516,8 @@
         "rarity": 0,
         "show_range_1": 4294967295,
         "show_range_2": "-1",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 1002,
@@ -1384,7 +1536,8 @@
         "rarity": 0,
         "show_range_1": 4294967295,
         "show_range_2": "-1",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 1003,
@@ -1403,7 +1556,8 @@
         "rarity": 0,
         "show_range_1": 4294967295,
         "show_range_2": "-1",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 1004,
@@ -1422,7 +1576,8 @@
         "rarity": 0,
         "show_range_1": 4294967295,
         "show_range_2": "-1",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 1021,
@@ -1441,7 +1596,8 @@
         "rarity": 0,
         "show_range_1": 4294967295,
         "show_range_2": "-1",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 1005,
@@ -1460,7 +1616,8 @@
         "rarity": 0,
         "show_range_1": 4294967295,
         "show_range_2": "-1",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 1006,
@@ -1479,7 +1636,8 @@
         "rarity": 0,
         "show_range_1": 4294967295,
         "show_range_2": "-1",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 1007,
@@ -1498,7 +1656,8 @@
         "rarity": 0,
         "show_range_1": 4294967295,
         "show_range_2": "-1",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 1008,
@@ -1517,7 +1676,8 @@
         "rarity": 0,
         "show_range_1": 4294967295,
         "show_range_2": "-1",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 1009,
@@ -1536,7 +1696,8 @@
         "rarity": 0,
         "show_range_1": 4294967295,
         "show_range_2": "-1",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 1010,
@@ -1555,7 +1716,8 @@
         "rarity": 0,
         "show_range_1": 4294967295,
         "show_range_2": "-1",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 1011,
@@ -1574,7 +1736,8 @@
         "rarity": 0,
         "show_range_1": 4294967295,
         "show_range_2": "-1",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 1012,
@@ -1593,7 +1756,8 @@
         "rarity": 0,
         "show_range_1": 4294967295,
         "show_range_2": "-1",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 1013,
@@ -1612,7 +1776,8 @@
         "rarity": 0,
         "show_range_1": 4294967295,
         "show_range_2": "-1",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 1020,
@@ -1631,7 +1796,8 @@
         "rarity": 0,
         "show_range_1": 4294967295,
         "show_range_2": "-1",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 1014,
@@ -1650,7 +1816,8 @@
         "rarity": 0,
         "show_range_1": 4294967295,
         "show_range_2": "-1",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 1015,
@@ -1669,7 +1836,8 @@
         "rarity": 0,
         "show_range_1": 4294967295,
         "show_range_2": "-1",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 1016,
@@ -1688,7 +1856,8 @@
         "rarity": 0,
         "show_range_1": 4294967295,
         "show_range_2": "-1",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 1017,
@@ -1707,7 +1876,8 @@
         "rarity": 0,
         "show_range_1": 4294967295,
         "show_range_2": "-1",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 1018,
@@ -1726,7 +1896,8 @@
         "rarity": 0,
         "show_range_1": 4294967295,
         "show_range_2": "-1",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     },
     {
         "id": 1019,
@@ -1745,6 +1916,7 @@
         "rarity": 0,
         "show_range_1": 4294967295,
         "show_range_2": "-1",
-        "merge_id": 0
+        "merge_id": 0,
+        "mark": 0
     }
 ]

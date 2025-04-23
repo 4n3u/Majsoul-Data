@@ -607,5 +607,96 @@
         "time_length": 0.0,
         "str": "优哉游哉",
         "type": 1
+    },
+    {
+        "id": 10001,
+        "path": "spot/spot_se/bubble01",
+        "time_length": 0.0,
+        "str": "气泡-爱心",
+        "type": 0
+    },
+    {
+        "id": 10002,
+        "path": "spot/spot_se/bubble02",
+        "time_length": 0.0,
+        "str": "气泡-畅想",
+        "type": 0
+    },
+    {
+        "id": 10003,
+        "path": "spot/spot_se/bubble03",
+        "time_length": 0.0,
+        "str": "气泡-惊讶",
+        "type": 0
+    },
+    {
+        "id": 10004,
+        "path": "spot/spot_se/bubble04",
+        "time_length": 0.0,
+        "str": "气泡-脸红",
+        "type": 0
+    },
+    {
+        "id": 10005,
+        "path": "spot/spot_se/bubble05",
+        "time_length": 0.0,
+        "str": "气泡-流汗",
+        "type": 0
+    },
+    {
+        "id": 10006,
+        "path": "spot/spot_se/bubble06",
+        "time_length": 0.0,
+        "str": "气泡-生气",
+        "type": 0
+    },
+    {
+        "id": 10007,
+        "path": "spot/spot_se/bubble07",
+        "time_length": 0.0,
+        "str": "气泡-说笑",
+        "type": 0
+    },
+    {
+        "id": 10008,
+        "path": "spot/spot_se/bubble08",
+        "time_length": 0.0,
+        "str": "气泡-无语",
+        "type": 0
+    },
+    {
+        "id": 10009,
+        "path": "spot/spot_se/bubble09",
+        "time_length": 0.0,
+        "str": "气泡-心碎",
+        "type": 0
+    },
+    {
+        "id": 10010,
+        "path": "spot/spot_se/bubble10",
+        "time_length": 0.0,
+        "str": "气泡-疑惑",
+        "type": 0
+    },
+    {
+        "id": 10011,
+        "path": "spot/spot_se/bubble11",
+        "time_length": 0.0,
+        "str": "气泡-震惊",
+        "type": 0
+    },
+    {
+        "id": 10012,
+        "path": "spot/spot_se/bubble12",
+        "time_length": 0.0,
+        "str": "气泡-注意",
+        "type": 0
+    },
+    {
+        "id": 10013,
+        "path": "spot/spot_se/bubble13",
+        "time_length": 0.0,
+        "str": "气泡-混乱",
+        "type": 0
     }
 ]

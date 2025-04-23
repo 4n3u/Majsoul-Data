@@ -180,5 +180,18 @@
             "myres2/room_rule/longzhimuyu2.png",
             ""
         ]
+    },
+    {
+        "id": 15,
+        "pre_rule": "beishui",
+        "sort": 15,
+        "str_name": "25040020",
+        "str_rule": "25040508",
+        "set_jushu": 1,
+        "rule_images": [
+            "myres2/room_rule/beishui.png",
+            "",
+            ""
+        ]
     }
 ]

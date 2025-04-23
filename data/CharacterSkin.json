@@ -13,7 +13,8 @@
         "audio_idle": "",
         "audio_greeting": "XYW_SE/240228_qh_xiangyuanwu_greeting",
         "audio_click": "XYW_SE/240228_qh_xiangyuanwu_click",
-        "audio_click2": ""
+        "audio_click2": "",
+        "celebrate_delay": 1
     },
     {
         "skinid": 403206,
@@ -29,7 +30,8 @@
         "audio_idle": "",
         "audio_greeting": "ALS_SE_403206/greeting",
         "audio_click": "ALS_SE_403206/click",
-        "audio_click2": ""
+        "audio_click2": "",
+        "celebrate_delay": 1
     },
     {
         "skinid": 402406,
@@ -45,7 +47,8 @@
         "audio_idle": "",
         "audio_greeting": "BJSHZ_SE_402406/greeting",
         "audio_click": "BJSHZ_SE_402406/click",
-        "audio_click2": ""
+        "audio_click2": "",
+        "celebrate_delay": 1
     },
     {
         "skinid": 401906,
@@ -61,7 +64,8 @@
         "audio_idle": "",
         "audio_greeting": "XNYCT_SE_401906/greeting",
         "audio_click": "XNYCT_SE_401906/click",
-        "audio_click2": ""
+        "audio_click2": "",
+        "celebrate_delay": 1
     },
     {
         "skinid": 403304,
@@ -77,7 +81,8 @@
         "audio_idle": "",
         "audio_greeting": "SQQSL_SE_403304/greeting",
         "audio_click": "SQQSL_SE_403304/click",
-        "audio_click2": ""
+        "audio_click2": "",
+        "celebrate_delay": 1
     },
     {
         "skinid": 405905,
@@ -93,7 +98,8 @@
         "audio_idle": "",
         "audio_greeting": "Y_SE_405905/greeting",
         "audio_click": "Y_SE_405905/click",
-        "audio_click2": ""
+        "audio_click2": "",
+        "celebrate_delay": 1
     },
     {
         "skinid": 409502,
@@ -109,7 +115,8 @@
         "audio_idle": "",
         "audio_greeting": "NFH_SE_409502/greeting",
         "audio_click": "NFH_SE_409502/click",
-        "audio_click2": "NFH_SE_409502/click2"
+        "audio_click2": "NFH_SE_409502/click2",
+        "celebrate_delay": 1
     },
     {
         "skinid": 403805,
@@ -125,7 +132,8 @@
         "audio_idle": "",
         "audio_greeting": "FUJI_SE_403805/greeting",
         "audio_click": "",
-        "audio_click2": ""
+        "audio_click2": "",
+        "celebrate_delay": 1
     },
     {
         "skinid": 400305,
@@ -141,7 +149,8 @@
         "audio_idle": "",
         "audio_greeting": "TTJN_SE_400305/greeting",
         "audio_click": "TTJN_SE_400305/click",
-        "audio_click2": ""
+        "audio_click2": "",
+        "celebrate_delay": 1
     },
     {
         "skinid": 404505,
@@ -157,7 +166,8 @@
         "audio_idle": "",
         "audio_greeting": "A37_SE_404505/greeting",
         "audio_click": "A37_SE_404505/click",
-        "audio_click2": ""
+        "audio_click2": "",
+        "celebrate_delay": 1
     },
     {
         "skinid": 404805,
@@ -173,7 +183,8 @@
         "audio_idle": "",
         "audio_greeting": "LZ_SE_404805/greeting",
         "audio_click": "LZ_SE_404805/click",
-        "audio_click2": ""
+        "audio_click2": "",
+        "celebrate_delay": 1
     },
     {
         "skinid": 401709,
@@ -189,7 +200,8 @@
         "audio_idle": "",
         "audio_greeting": "EZGH_SE_401709/greeting",
         "audio_click": "EZGH_SE_401709/click",
-        "audio_click2": ""
+        "audio_click2": "",
+        "celebrate_delay": 1
     },
     {
         "skinid": 406804,
@@ -205,7 +217,8 @@
         "audio_idle": "",
         "audio_greeting": "RYCY_SE_406804/greeting",
         "audio_click": "RYCY_SE_406804/click",
-        "audio_click2": ""
+        "audio_click2": "",
+        "celebrate_delay": 1
     },
     {
         "skinid": 400306,
@@ -221,7 +234,8 @@
         "audio_idle": "",
         "audio_greeting": "TTJN_SE_400306/greeting",
         "audio_click": "TTJN_SE_400306/click",
-        "audio_click2": ""
+        "audio_click2": "",
+        "celebrate_delay": 1
     },
     {
         "skinid": 406004,
@@ -237,7 +251,8 @@
         "audio_idle": "",
         "audio_greeting": "ZKS_SE_406004/greeting",
         "audio_click": "ZKS_SE_406004/click",
-        "audio_click2": ""
+        "audio_click2": "",
+        "celebrate_delay": 1
     },
     {
         "skinid": 402407,
@@ -253,6 +268,75 @@
         "audio_idle": "",
         "audio_greeting": "BJSHZ_SE_402407/greeting",
         "audio_click": "BJSHZ_SE_402407/click",
-        "audio_click2": ""
+        "audio_click2": "",
+        "celebrate_delay": 1
+    },
+    {
+        "skinid": 40010803,
+        "spine_layers": 3,
+        "effects": [
+            "",
+            "jiantongying_25hf_eff2",
+            "",
+            "jiantongying_25hf_eff4"
+        ],
+        "audio_celebrate": "JTY_SE_40010803/celebrate",
+        "audio_celebrate_idle": "",
+        "audio_idle": "",
+        "audio_greeting": "JTY_SE_40010803/greeting",
+        "audio_click": "JTY_SE_40010803/click",
+        "audio_click2": "",
+        "celebrate_delay": 0
+    },
+    {
+        "skinid": 40010903,
+        "spine_layers": 2,
+        "effects": [
+            "",
+            "yuanbanlin_25hf_eff2",
+            "yuanbanlin_25hf_eff3",
+            ""
+        ],
+        "audio_celebrate": "YBL_SE_40010903/celebrate",
+        "audio_celebrate_idle": "",
+        "audio_idle": "",
+        "audio_greeting": "YBL_SE_40010903/greeting",
+        "audio_click": "YBL_SE_40010903/click",
+        "audio_click2": "",
+        "celebrate_delay": 0
+    },
+    {
+        "skinid": 40011003,
+        "spine_layers": 2,
+        "effects": [
+            "",
+            "saber_25hf_eff2",
+            "saber_25hf_eff3",
+            ""
+        ],
+        "audio_celebrate": "Saber_SE_40011003/celebrate",
+        "audio_celebrate_idle": "",
+        "audio_idle": "",
+        "audio_greeting": "Saber_SE_40011003/greeting",
+        "audio_click": "Saber_SE_40011003/click",
+        "audio_click2": "",
+        "celebrate_delay": 0
+    },
+    {
+        "skinid": 40011103,
+        "spine_layers": 2,
+        "effects": [
+            "",
+            "archer_25hf_eff2",
+            "archer_25hf_eff3",
+            ""
+        ],
+        "audio_celebrate": "Archer_SE_40011103/celebrate",
+        "audio_celebrate_idle": "",
+        "audio_idle": "",
+        "audio_greeting": "Archer_SE_40011103/greeting",
+        "audio_click": "Archer_SE_40011103/click",
+        "audio_click2": "",
+        "celebrate_delay": 0
     }
 ]

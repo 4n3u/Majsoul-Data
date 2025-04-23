@@ -1348,5 +1348,365 @@
             0,
             0
         ]
+    },
+    {
+        "id": 1001601,
+        "name": "Dapai",
+        "type": "hand_jiantongying",
+        "lifetime": 460,
+        "speed": 0.9399999976158142,
+        "keypoint": [
+            319,
+            319,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 1001602,
+        "name": "LiQiPai",
+        "type": "hand_jiantongying",
+        "lifetime": 1615,
+        "speed": 2.0,
+        "keypoint": [
+            550,
+            1300,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 1001603,
+        "name": "LiZhi",
+        "type": "hand_jiantongying",
+        "lifetime": 800,
+        "speed": 1.0,
+        "keypoint": [
+            500,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 1001604,
+        "name": "Fulu",
+        "type": "hand_jiantongying",
+        "lifetime": 900,
+        "speed": 2.0,
+        "keypoint": [
+            150,
+            733,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 1001605,
+        "name": "Zimo",
+        "type": "hand_jiantongying",
+        "lifetime": 900,
+        "speed": 1.0,
+        "keypoint": [
+            450,
+            900,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 1001701,
+        "name": "Dapai",
+        "type": "hand_yuanbanlin",
+        "lifetime": 460,
+        "speed": 0.9399999976158142,
+        "keypoint": [
+            319,
+            319,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 1001702,
+        "name": "LiQiPai",
+        "type": "hand_yuanbanlin",
+        "lifetime": 1615,
+        "speed": 2.0,
+        "keypoint": [
+            550,
+            1300,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 1001703,
+        "name": "LiZhi",
+        "type": "hand_yuanbanlin",
+        "lifetime": 800,
+        "speed": 1.0,
+        "keypoint": [
+            500,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 1001704,
+        "name": "Fulu",
+        "type": "hand_yuanbanlin",
+        "lifetime": 900,
+        "speed": 2.0,
+        "keypoint": [
+            150,
+            733,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 1001705,
+        "name": "Zimo",
+        "type": "hand_yuanbanlin",
+        "lifetime": 900,
+        "speed": 1.0,
+        "keypoint": [
+            450,
+            900,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 1001801,
+        "name": "Dapai",
+        "type": "hand_saber",
+        "lifetime": 460,
+        "speed": 0.9399999976158142,
+        "keypoint": [
+            319,
+            319,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 1001802,
+        "name": "LiQiPai",
+        "type": "hand_saber",
+        "lifetime": 1615,
+        "speed": 2.0,
+        "keypoint": [
+            550,
+            1300,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 1001803,
+        "name": "LiZhi",
+        "type": "hand_saber",
+        "lifetime": 800,
+        "speed": 1.0,
+        "keypoint": [
+            500,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 1001804,
+        "name": "Fulu",
+        "type": "hand_saber",
+        "lifetime": 900,
+        "speed": 2.0,
+        "keypoint": [
+            150,
+            733,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 1001805,
+        "name": "Zimo",
+        "type": "hand_saber",
+        "lifetime": 900,
+        "speed": 1.0,
+        "keypoint": [
+            450,
+            900,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 1001901,
+        "name": "Dapai",
+        "type": "hand_archer",
+        "lifetime": 800,
+        "speed": 1.5,
+        "keypoint": [
+            650,
+            650,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 1001902,
+        "name": "LiQiPai",
+        "type": "hand_archer",
+        "lifetime": 900,
+        "speed": 1.0,
+        "keypoint": [
+            270,
+            650,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 1001903,
+        "name": "LiZhi",
+        "type": "hand_archer",
+        "lifetime": 800,
+        "speed": 1.0,
+        "keypoint": [
+            500,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 1001904,
+        "name": "Fulu",
+        "type": "hand_archer",
+        "lifetime": 500,
+        "speed": 1.0,
+        "keypoint": [
+            100,
+            325,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 1001905,
+        "name": "Zimo",
+        "type": "hand_archer",
+        "lifetime": 833,
+        "speed": 1.0,
+        "keypoint": [
+            520,
+            800,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
     }
 ]

@@ -4121,6 +4121,19 @@
         "old_effect_mark": 0
     },
     {
+        "id": 30700005,
+        "res_name": "beijing_dongmudaqiao",
+        "audio_id": 0,
+        "character_id": 0,
+        "sargs": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "old_effect_mark": 0
+    },
+    {
         "id": 308001,
         "res_name": "ron_saki",
         "audio_id": 308001,
@@ -4641,6 +4654,71 @@
         "old_effect_mark": 1
     },
     {
+        "id": 308041,
+        "res_name": "ron_25hf",
+        "audio_id": 308041,
+        "character_id": 0,
+        "sargs": [
+            "3300",
+            "1",
+            "",
+            ""
+        ],
+        "old_effect_mark": 0
+    },
+    {
+        "id": 308042,
+        "res_name": "effect_liqi_25hf",
+        "audio_id": 308042,
+        "character_id": 0,
+        "sargs": [
+            "shu",
+            "2",
+            "",
+            ""
+        ],
+        "old_effect_mark": 0
+    },
+    {
+        "id": 308043,
+        "res_name": "liqi_25hf",
+        "audio_id": 0,
+        "character_id": 0,
+        "sargs": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "old_effect_mark": 0
+    },
+    {
+        "id": 308044,
+        "res_name": "tablecloth_25hf",
+        "audio_id": 0,
+        "character_id": 0,
+        "sargs": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "old_effect_mark": 0
+    },
+    {
+        "id": 308045,
+        "res_name": "mjp_25hf",
+        "audio_id": 0,
+        "character_id": 0,
+        "sargs": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "old_effect_mark": 0
+    },
+    {
         "id": 308996,
         "res_name": "mjp_official",
         "audio_id": 0,
@@ -4838,6 +4916,58 @@
     {
         "id": 30990002,
         "res_name": "hand_vip",
+        "audio_id": 0,
+        "character_id": 0,
+        "sargs": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "old_effect_mark": 0
+    },
+    {
+        "id": 30990003,
+        "res_name": "hand_jiantongying",
+        "audio_id": 0,
+        "character_id": 0,
+        "sargs": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "old_effect_mark": 0
+    },
+    {
+        "id": 30990004,
+        "res_name": "hand_yuanbanlin",
+        "audio_id": 0,
+        "character_id": 0,
+        "sargs": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "old_effect_mark": 0
+    },
+    {
+        "id": 30990005,
+        "res_name": "hand_saber",
+        "audio_id": 0,
+        "character_id": 0,
+        "sargs": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "old_effect_mark": 0
+    },
+    {
+        "id": 30990006,
+        "res_name": "hand_archer",
         "audio_id": 0,
         "character_id": 0,
         "sargs": [

@@ -154,5 +154,31 @@
         "percentage": 1,
         "deprecated": 0,
         "sort": 2
+    },
+    {
+        "id": 13,
+        "name_chs": "触类旁通",
+        "name_chs_t": "觸類旁通",
+        "name_jp": "聞一知十",
+        "name_en": "Warrior of All Arts",
+        "name_kr": "문일지십",
+        "img": "chuleipangtong.png",
+        "reward": "600116-1",
+        "percentage": 1,
+        "deprecated": 0,
+        "sort": 11
+    },
+    {
+        "id": 14,
+        "name_chs": "琳琅满目",
+        "name_chs_t": "琳琅滿目",
+        "name_jp": "琳琅満目",
+        "name_en": "Grand Gallery",
+        "name_kr": "오색영롱",
+        "img": "linlangmanmu.png",
+        "reward": "600117-1",
+        "percentage": 1,
+        "deprecated": 0,
+        "sort": 12
     }
 ]

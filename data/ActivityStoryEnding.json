@@ -228,5 +228,55 @@
         "unlock_ending": "",
         "unlock_consume": "",
         "reward": ""
+    },
+    {
+        "story_id": 2504051,
+        "ending_id": 25040511,
+        "unlock_day": 0,
+        "unlock_item": "",
+        "unlock_story": "",
+        "unlock_ending": "",
+        "unlock_consume": "",
+        "reward": ""
+    },
+    {
+        "story_id": 2504052,
+        "ending_id": 25040521,
+        "unlock_day": 0,
+        "unlock_item": "",
+        "unlock_story": "",
+        "unlock_ending": "",
+        "unlock_consume": "",
+        "reward": ""
+    },
+    {
+        "story_id": 2504053,
+        "ending_id": 25040531,
+        "unlock_day": 0,
+        "unlock_item": "",
+        "unlock_story": "",
+        "unlock_ending": "",
+        "unlock_consume": "",
+        "reward": ""
+    },
+    {
+        "story_id": 2504054,
+        "ending_id": 25040541,
+        "unlock_day": 0,
+        "unlock_item": "",
+        "unlock_story": "",
+        "unlock_ending": "",
+        "unlock_consume": "",
+        "reward": ""
+    },
+    {
+        "story_id": 2504055,
+        "ending_id": 25040551,
+        "unlock_day": 0,
+        "unlock_item": "",
+        "unlock_story": "",
+        "unlock_ending": "",
+        "unlock_consume": "",
+        "reward": ""
     }
 ]

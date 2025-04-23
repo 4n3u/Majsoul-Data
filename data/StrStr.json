@@ -9095,8 +9095,8 @@
         "chs": "4.14 11:00 - 4.23 4:59",
         "chs_t": "4.14 11:00 - 4.23 4:59(UTC+8)",
         "jp": "4.14 12:00 - 4.23 5:59",
-        "en": "4/13 20:00 - 4/22 13:59 (UTC-7)",
-        "kr": "4.14 12:00 - 4.23 5:59(GMT+9)"
+        "en": "4/13 20:00 - \r\n4/22 13:59 (UTC-7)",
+        "kr": "4.14 12:00 - \r\n4.23 5:59(GMT+9)"
     },
     {
         "id": 3053,
@@ -17014,9 +17014,9 @@
         "type": "",
         "chs": "友人&友人对局昵称已隐藏",
         "chs_t": "友人&友人對局昵稱已隱藏",
-        "jp": "友人＆友人戦対局プレイヤー名非表示",
-        "en": "Player names in Friend List & Friendly Match are hidden",
-        "kr": "현재 친구 목록 및 친선전에서 닉네임 숨김 상태입니다."
+        "jp": "友人リスト・友人戦対局でのプレイヤー名・別名を非表示にした。",
+        "en": "Player names and notes in Friend List & Friendly Match are hidden.",
+        "kr": "현재 친구 목록 및 친선전에서 닉네임 및 별명 숨김 상태입니다."
     },
     {
         "id": 3949,
@@ -34714,6 +34714,1239 @@
     },
     {
         "id": 25030124,
+        "type": "",
+        "chs": "",
+        "chs_t": "",
+        "jp": "",
+        "en": "",
+        "kr": ""
+    },
+    {
+        "id": 25040001,
+        "type": "",
+        "chs": "运气",
+        "chs_t": "運氣",
+        "jp": "運勢",
+        "en": "Luck",
+        "kr": "운"
+    },
+    {
+        "id": 25040002,
+        "type": "",
+        "chs": "技术",
+        "chs_t": "技術",
+        "jp": "技巧",
+        "en": "Skill",
+        "kr": "요령"
+    },
+    {
+        "id": 25040003,
+        "type": "",
+        "chs": "洞察",
+        "chs_t": "洞察",
+        "jp": "洞察",
+        "en": "Insight",
+        "kr": "통찰"
+    },
+    {
+        "id": 25040004,
+        "type": "",
+        "chs": "直觉",
+        "chs_t": "直覺",
+        "jp": "直感",
+        "en": "Intuition",
+        "kr": "직감"
+    },
+    {
+        "id": 25040005,
+        "type": "",
+        "chs": "智谋",
+        "chs_t": "智謀",
+        "jp": "謀略",
+        "en": "Wisdom",
+        "kr": "지략"
+    },
+    {
+        "id": 25040006,
+        "type": "",
+        "chs": "匹配对局",
+        "chs_t": "匹配對局",
+        "jp": "対局参加",
+        "en": "Start Match",
+        "kr": "대국 매칭"
+    },
+    {
+        "id": 25040007,
+        "type": "",
+        "chs": "取消匹配",
+        "chs_t": "取消匹配",
+        "jp": "参加取消",
+        "en": "Cancel",
+        "kr": "매칭 취소"
+    },
+    {
+        "id": 25040008,
+        "type": "",
+        "chs": "匹配中",
+        "chs_t": "配對中",
+        "jp": "マッチング中",
+        "en": "Matchmaking...",
+        "kr": "매칭 중"
+    },
+    {
+        "id": 25040009,
+        "type": "",
+        "chs": "",
+        "chs_t": "",
+        "jp": "",
+        "en": "",
+        "kr": ""
+    },
+    {
+        "id": 25040010,
+        "type": "",
+        "chs": "剩余强化罐头不足，完成每周任务可以获得更多强化罐头。",
+        "chs_t": "剩餘強化罐頭不足，完成每週任務可以獲得更多強化罐頭。",
+        "jp": "ねこ缶が足りません。クエストを達成し、ねこ缶を入手しましょう。",
+        "en": "Not enough Boost Cans left; complete weekly missions to earn more",
+        "kr": "강화 통조림이 부족합니다. 임무를 완성하면 강화 통조림을 획득할 수 있습니다."
+    },
+    {
+        "id": 25040011,
+        "type": "",
+        "chs": "",
+        "chs_t": "",
+        "jp": "",
+        "en": "",
+        "kr": ""
+    },
+    {
+        "id": 25040012,
+        "type": "",
+        "chs": "",
+        "chs_t": "",
+        "jp": "",
+        "en": "",
+        "kr": ""
+    },
+    {
+        "id": 25040013,
+        "type": "",
+        "chs": "",
+        "chs_t": "",
+        "jp": "",
+        "en": "",
+        "kr": ""
+    },
+    {
+        "id": 25040014,
+        "type": "",
+        "chs": "",
+        "chs_t": "",
+        "jp": "",
+        "en": "",
+        "kr": ""
+    },
+    {
+        "id": 25040015,
+        "type": "",
+        "chs": "大会之道",
+        "chs_t": "大會之道",
+        "jp": "大会の道",
+        "en": "Winner's Path",
+        "kr": "대회의 길"
+    },
+    {
+        "id": 25040016,
+        "type": "",
+        "chs": "雀斗大会开赛，一姬挺身而出！",
+        "chs_t": "雀鬥大會開賽，一姬挺身而出！",
+        "jp": "魂天神社主催の大会の道に、今年は一姫も出場！",
+        "en": "The Sparrow Cup kicks off, and Ichihime is ready to take the stage!",
+        "kr": "작투 대회 시작, 이치히메 출전!"
+    },
+    {
+        "id": 25040017,
+        "type": "",
+        "chs": "重新开始",
+        "chs_t": "重新開始",
+        "jp": "もう一度",
+        "en": "Restart",
+        "kr": "다시 하기"
+    },
+    {
+        "id": 25040018,
+        "type": "",
+        "chs": "升级",
+        "chs_t": "升級",
+        "jp": "能力強化",
+        "en": "Upgrade",
+        "kr": "강화"
+    },
+    {
+        "id": 25040019,
+        "type": "",
+        "chs": "排行榜",
+        "chs_t": "排行榜",
+        "jp": "ランキング",
+        "en": "Rankings",
+        "kr": "랭킹"
+    },
+    {
+        "id": 25040020,
+        "type": "",
+        "chs": "背水之战",
+        "chs_t": "背水之戰",
+        "jp": "背水の戦",
+        "en": "Riichi Siege",
+        "kr": "배수의 전"
+    },
+    {
+        "id": 25040021,
+        "type": "",
+        "chs": "风险与回报并存，绝处逢生的背水之战！\r\n紧张刺激的四人东对局！",
+        "chs_t": "風險與報酬並存，絕處逢生的背水之戰！\r\n緊張刺激的四人東對局！",
+        "jp": "ハイリスクハイリターン！ 勇気ある者が勝つ背水の戦！",
+        "en": "High stakes, big rewards – it is all or nothing in this battle! Dive into the new 4-Player East special mode, Riichi Siege!",
+        "kr": "위험과 보상이 공존한다, 절체절명 배수의 전!\r\n짜릿한 긴장의 연속 4인 동풍전!"
+    },
+    {
+        "id": 25040022,
+        "type": "",
+        "chs": "联动限定活动-雀斗大会\r\n活动时间：4月23日维护后-5月14日4:59\r\n\r\n 【大会之道】活动开启！一姬在修行之路上，体验到各式各样的奇妙展开。和一姬一起挑战最高分数吧！一姬需要逐渐提升自己的能力值，并在比赛中与众多对手角逐，登上雀斗大会的巅峰。\r\n\r\n大会流程\r\n-大会共分为10轮，每轮由4个修行回合和1个比赛回合组成\r\n-每轮前4个回合为修行回合，第5个回合为比赛回合\r\n-修行回合中可以选择1个一姬的修行方向以提升能力值。结果可能为大成功、成功和失败，对应不同的数值提升\r\n-比赛回合一姬将于另外3位随机对手进行麻将对决，比赛结果会被记录\r\n-比赛回合一姬无法进行修行\r\n-比赛规则为四人东规则，马点：1位+15，2位+5，3位-5，4位-15\r\n-10轮比赛结束后，一姬累计的全部比赛结果将会被登记至分数榜中\r\n\r\n修行和比赛中，一姬会遇到各种各样的事件\r\n-事件发生时，需要对事件走向进行抉择\r\n-事件结果的发生概率受一姬的能力值影响\r\n-事件发生后，一姬可能获得能力值或特性，或是影响比赛中的表现\r\n-如果一姬持有对应特性，可能出现必定大成功的隐藏选项 \r\n\r\n一姬的能力值属性\r\n-运气：影响一姬的配牌和进张好坏\r\n-技术：影响一姬的向听推进效率\r\n-洞察：影响一姬的放铳概率，提升洞察更容易感知他人听牌\r\n-直觉：影响一姬对局势的感知，影响副露、立直、自摸的概率\r\n-智谋：影响一姬的和牌大小",
+        "chs_t": "聯動限定活動-雀鬥大會\r\n活動時間：4月23日維護後-5月14日4:59\r\n\r\n 【大會之道】活動開啟！一姬在修行之路上，體驗到各式各樣的奇妙展開。和一姬一起挑戰最高分數吧！一姬需要逐漸提升自己的能力值，並在比賽中與眾多對手角逐，登上雀鬥大會的巔峰。\r\n\r\n大會流程\r\n-大會共分為10輪，每輪由4個修行回合和1個比賽回合組成\r\n-每輪前4個回合為修行回合，第5個回合為比賽回合\r\n-修行回合中可以選擇1個一姬的修行方向以提升能力值。結果可能為大成功、成功和失敗，對應不同的數值提升\r\n-比賽回合一姬將於另外3位隨機對手進行麻將對決，比賽結果會被記錄\r\n-比賽回合一姬無法進行修行\r\n-比賽規則為四人東規則，馬點：1位+15，2位+5，3位-5，4位-15\r\n-10輪比賽結束後，一姬累計的全部比賽結果將會被登記至分數榜中\r\n\r\n修行和比賽中，一姬會遇到各種各樣的事件\r\n-事件發生時，需要對事件走向進行抉擇\r\n-事件結果的發生概率受一姬的能力值影響\r\n-事件發生後，一姬可能獲得能力值或特性，或是影響比賽中的表現\r\n-如果一姬持有對應特性，可能出現必定大成功的隱藏選項 \r\n\r\n一姬的能力值屬性\r\n-運氣：影響一姬的配牌和進張好壞\r\n-技術：影響一姬的向聽推進效率\r\n-洞察：影響一姬的放銃概率，提升洞察更容易感知他人聽牌\r\n-直覺：影響一姬對局勢的感知，影響副露、立直、自摸的概率\r\n-智謀：影響一姬的和牌大小",
+        "jp": "雀闘大会について\r\nイベント期間：4月23日(水) ～ 5月14日(水) 5:59\r\n\r\n魂天神社で開催される「雀闘大会」が始まった！\r\n一姫の様々な修行を応援して、各種能力を上げよう！\r\nそして、修行を終えた一姫が、大会で勝ち抜く姿を見届けよう！\r\n一姫と一緒に、ハイスコアに挑戦だ！\r\n\r\n大会の道の流れ\r\n・大会の道は全10ラウンド。1ラウンドに4つの修行ターンと1つの対局ターンがある。\r\n・各修行ターンでは、1回のみ、一姫が行う修行を選べる。結果（大成功・成功・失敗）によってステータスが変動する。\r\n・対局ターンでは、一姫がランダムで3人の相手と麻雀対局をする。対局結果は履歴に記録される。\r\n・10ラウンド経過後、一姫が参加した全ての対局の結果によって、最終的な得点が算出される。\r\n※一姫が参加する対局のウマは、1位+15、2位+5、3位-5、4位-15とする。\r\n※対局ターンでは修行できない。\r\n\r\n突発イベント\r\n・修行ターンや対局ターンでは、様々なイベントが発生する。\r\n・イベントの選択肢によって、一姫のステータスが変動する他、特性を得ることもある。\r\n※特定の特性を持った状態で、対応するイベントが発生した場合、必ず大成功になる選択肢が現れる。\r\n\r\n一姫のステータス\r\n・運勢：一姫の配牌とツモ牌の良し悪しに影響する。\r\n・技巧：一姫の牌効率に影響する。\r\n・洞察：一姫の他人のダマテンを感知する確率や放銃の確率に影響する。\r\n・直感：一姫の対局全体への直感と鳴き・立直宣言・ツモ上がりの確率に影響する。\r\n・謀略：一姫の手を進める方法と、打点の高さに影響する。",
+        "en": "Collab Limited Event - Sparrow Cup\r\nEvent Period: 4/22 - 5/13 1:59 P.M. (UTC-7)\r\n\r\nThe Winner's Path event in the Sparrow Cup has begun! Ichihime's training journey is full of surprises. Join her in aiming for the highest score! Help Ichihime enhance her Attributes to compete against other competitors and reach the top in the competition.\r\n\r\nAbout Winner's Path\r\n- The Winner's Path consists of 10 rounds, each with 4 training phases and 1 match phase.\r\n- Each round starts with 4 training phases, followed by a match phase.\r\n- In each training phase, choose a way to enhance Ichihime's Attributes. Outcomes can be Great Success, Success, or Failure, each resulting in different stat changes.\r\n- During match phases, Ichihime competes with 3 random opponents in mahjong, and the results are recorded.\r\n- Training is not available during match phases.\r\n- Matches follow 4-Player East rules; order bonus: 1st +15, 2nd +5, 3rd -5, 4th -15.\r\n- After 10 rounds, all the match results will be added to the rankings.\r\n\r\nAbout Incidents\r\nIchihime will face various incidents during training and match phases.\r\n- Different choices during incidents lead to varied outcomes.\r\n- The outcomes are affected by Ichihime's Attributes.\r\n- Incidents may grant Ichihime new Talents, Attribute boosts, or affect Ichihime's match performance.\r\n- Certain Talents may unlock special options ensuring Great Success.\r\n\r\nAbout Ichihime's Attributes\r\n- [Luck] affects her starting hand and the quality of her draws.\r\n- [Skill] affects how quickly she can reach Tenpai.\r\n- [Insight] affects how likely she is to deal into other hands, as well as her awareness of others' Tenpai.\r\n- [Intuition] affects her feel for the game and her chances of making Open Calls, Riichi, and Tsumo.\r\n- [Wisdom] affects the value of her winning hands.",
+        "kr": "콜라보 한정 이벤트 - 대회의 길\r\n이벤트 기간: 4월 23일 점검 후 ~ 5월 14일 05:59AM (GMT+9)\r\n\r\n혼천 신사에서 열리는 '대회의 길' 이벤트가 시작됐다! 이치히메의 수련을 응원해 각 능력치를 올리고, 수련을 마친 이치히메가 대회에서 보여주는 활약을 지켜보자.\r\n이치히메와 함께 최고 점수를 노리자!\r\n\r\n<대회의 길>\r\n-대회의 길은 총 10라운드이며, 매 라운드는 4개의 수련 턴과 1개의 시합 턴으로 구성됩니다. 매 라운드의 첫 4턴은 수련 턴이며, 제 5턴은 시합 턴입니다.\r\n-매 수련 턴에서는 하나의 수련 방향을 선택하여 이치히메의 능력치를 올릴 수 있습니다. 수련 결과는 대성공, 성공, 실패로 나뉘며, 각 결과 마다 올라가는 능력치가 다릅니다.\r\n-시합 턴에서는 이치히메가 임의의 3명 대국 상대와 마작 대결을 하게 되며, 시합 결과가 기록됩니다.\r\n-시합 턴에서는 수련할 수 없습니다.\r\n-시합 규칙은 4인 동풍전이며, 1위 +15, 2위 +5, 3위 -5, 4위 -15입니다.\r\n-10라운드가 종료된 후 이치히메가 참가했던 모든 시합 결과에 따라 최종 점수가 기록됩니다.\r\n\r\n<돌발 사건>\r\n-수련 턴 혹은 시합 턴 중 여러 사건이 발생합니다.\r\n-사건 선택지에 따라 이치히메가 능력치 혹은 특성을 획득하거나, 시합에 영향을 줍니다.\r\n-이치히메가 특정 특성을 가지고 있을 시, 꼭 대성공을 하게되는 특수 선택지가 나타날 수 있습니다.\r\n\r\n<이치히메의 능력치>\r\n-운: 이치히메의 배패와 들어오는 패에 영향을 줍니다.\r\n-요령: 이치히메의 상텐 추진 효율에 영향을 줍니다.\r\n-통찰: 이치히메의 방총 확률에 영향을 주며, 타인의 텐파이를 알아챌 가능성을 높입니다.\r\n-직감: 이치히메의 대국 상황 감지와 후로, 리치, 쯔모 확률에 영향을 줍니다.\r\n-지략: 이치히메의 화료 점수에 영향을 줍니다."
+    },
+    {
+        "id": 25040023,
+        "type": "",
+        "chs": "【大会之道】活动开启！一姬在修行之路上，体验到各式各样的奇妙展开。和一姬一起挑战最高分数吧！",
+        "chs_t": "【大會之道】活動開啟！一姬在修行之路上，體驗到各式各樣的奇妙展開。和一姬一起挑戰最高分數吧！",
+        "jp": "ご主人！ 魂天神社で開催される「雀闘大会」が始まったにゃ！ 一姫と一緒に「大会の道」で修行して、大会で戦って、ハイスコアに挑戦するにゃ！",
+        "en": "The Winner's Path event has begun! Ichihime's training journey is full of surprises. Join her in aiming for the highest score!",
+        "kr": "주인! [대회의 길] 이벤트가 시작됐다냥! 이치히메랑 함께 수련하고 시합에 나가서 최고 점수를 노리는 거다냥!"
+    },
+    {
+        "id": 25040024,
+        "type": "",
+        "chs": "全新特殊规则，体验风险与回报并存，绝处逢生的【背水之战】！",
+        "chs_t": "全新特殊規則，體驗風險與報酬並存，絕處逢生的【背水之戰】！",
+        "jp": "新しい特殊ルール、ハイリスクハイリターンな「背水の戦」のイベント対局はここから参加できるにゃ！",
+        "en": "High stakes, big rewards – it is all or nothing in this battle! Enjoy the brand-new special mode, Riichi Siege!",
+        "kr": "새로운 특수 규칙, 위험과 보상이 공존하는 절체절명의 [배수의 전]이다냥! 이벤트 대국은 여기에서 참여할 수 있다냥!"
+    },
+    {
+        "id": 25040025,
+        "type": "",
+        "chs": "活动期间完成【任务】，可以领取限定插画，限定大厅背景，寻觅卷轴等丰厚【奖励】！还有助力一姬修行的强化罐头！",
+        "chs_t": "活動期間完成【任務】，可以領取限定插畫，限定大廳背景，尋覓卷軸等豐厚【獎勵】！還有助力一姬修行的強化罐頭！",
+        "jp": "イベント期間中に「クエスト」を達成すると、限定のローディングイラストや背景、祈願の巻物などの豪華報酬がもらえるにゃ！ 一姫の能力強化を助けてくれる「ねこ缶」もあるにゃ！",
+        "en": "During the event, complete missions to claim various rewards including limited Illustration, limited Background, and Summon Scrolls! Plus, get Boost Cans to assist Ichihime's training.",
+        "kr": "이벤트 기간 내 [임무]를 완성하면 한정 일러스트, 한정 배경, 기원의 두루마리 등 풍부한 [보상]을 획득할 수 있다냥! 그리고 이치히메의 수련을 도와주는 강화 통조림까지냥!"
+    },
+    {
+        "id": 25040026,
+        "type": "",
+        "chs": "在【剧情】还可以回顾这次的活动剧情哦",
+        "chs_t": "在【劇情】還可以回顧這次的活動劇情哦",
+        "jp": "イベント限定のシナリオもあるにゃ！ 「物語」をチェックにゃ！",
+        "en": "You can review the collab event story at [Story].",
+        "kr": "[스토리]에서 이벤트 스토리를 다시 볼 수 있다냥."
+    },
+    {
+        "id": 25040027,
+        "type": "",
+        "chs": "全部领取",
+        "chs_t": "全部領取",
+        "jp": "一括受取",
+        "en": "Claim All",
+        "kr": "전부 받기"
+    },
+    {
+        "id": 25040028,
+        "type": "",
+        "chs": "排名",
+        "chs_t": "排名",
+        "jp": "順位",
+        "en": "Ranking",
+        "kr": "랭킹"
+    },
+    {
+        "id": 25040029,
+        "type": "",
+        "chs": "玩家",
+        "chs_t": "玩家",
+        "jp": "プレイヤー",
+        "en": "Player",
+        "kr": "플레이어"
+    },
+    {
+        "id": 25040030,
+        "type": "",
+        "chs": "最高分数",
+        "chs_t": "最高分數",
+        "jp": "ハイスコア",
+        "en": "Highest Score",
+        "kr": "최고 점수"
+    },
+    {
+        "id": 25040031,
+        "type": "",
+        "chs": "999+",
+        "chs_t": "999+",
+        "jp": "999+",
+        "en": "999+",
+        "kr": "999+"
+    },
+    {
+        "id": 25040032,
+        "type": "",
+        "chs": "暂无数据",
+        "chs_t": "暫無數據",
+        "jp": "データなし",
+        "en": "No Records",
+        "kr": "기록 없음"
+    },
+    {
+        "id": 25040033,
+        "type": "",
+        "chs": "在新一轮游戏中，提升一姬的初始运气值",
+        "chs_t": "在新一輪遊戲中，提升一姬的初始運氣值",
+        "jp": "次回ゲーム開始時から、初期運勢値が増加",
+        "en": "Increase Ichihime's initial Luck in a new game round.",
+        "kr": "새 게임에서 이치히메의 초기 운 상승"
+    },
+    {
+        "id": 25040034,
+        "type": "",
+        "chs": "在新一轮游戏中，提升一姬的初始技术值",
+        "chs_t": "在新一輪遊戲中，提升一姬的初始技術值",
+        "jp": "次回ゲーム開始時から、初期技巧値が増加",
+        "en": "Increase Ichihime's initial Skill in a new game round.",
+        "kr": "새 게임에서 이치히메의 초기 요령 상승"
+    },
+    {
+        "id": 25040035,
+        "type": "",
+        "chs": "在新一轮游戏中，提升一姬的初始洞察值",
+        "chs_t": "在新一輪遊戲中，提升一姬的初始洞察值",
+        "jp": "次回ゲーム開始時から、初期洞察値が増加",
+        "en": "Increase Ichihime's initial Insight in a new game round.",
+        "kr": "새 게임에서 이치히메의 초기 통찰 상승"
+    },
+    {
+        "id": 25040036,
+        "type": "",
+        "chs": "在新一轮游戏中，提升一姬的初始直觉值",
+        "chs_t": "在新一輪遊戲中，提升一姬的初始直覺值",
+        "jp": "次回ゲーム開始時から、初期直感値が増加",
+        "en": "Increase Ichihime's initial Intuition in a new game round.",
+        "kr": "새 게임에서 이치히메의 초기 직감 상승"
+    },
+    {
+        "id": 25040037,
+        "type": "",
+        "chs": "在新一轮游戏中，提升一姬的初始智谋值",
+        "chs_t": "在新一輪遊戲中，提升一姬的初始智謀值",
+        "jp": "次回ゲーム開始時から、初期謀略値が増加",
+        "en": "Increase Ichihime's initial Wisdom in a new game round.",
+        "kr": "새 게임에서 이치히메의 초기 지략 상승"
+    },
+    {
+        "id": 25040038,
+        "type": "",
+        "chs": "重置强化",
+        "chs_t": "重置強化",
+        "jp": "強化リセット",
+        "en": "Reset",
+        "kr": "초기화"
+    },
+    {
+        "id": 25040039,
+        "type": "",
+        "chs": "当前+{0}",
+        "chs_t": "當前+{0}",
+        "jp": "現在+{0}",
+        "en": "Currently +{0}",
+        "kr": "현재 +{0}"
+    },
+    {
+        "id": 25040040,
+        "type": "",
+        "chs": "剩余强化次数",
+        "chs_t": "剩餘強化次數",
+        "jp": "ねこ缶所持数：",
+        "en": "Remaining Upgrade Attempt(s)",
+        "kr": "남은 강화 횟수"
+    },
+    {
+        "id": 25040041,
+        "type": "",
+        "chs": "强化后的能力将在新一轮游戏中生效",
+        "chs_t": "強化後的能力將在新一輪遊戲中生效",
+        "jp": "強化後の能力値は、次回ゲーム開始時から反映される。",
+        "en": "Upgraded Attributes will take effect at the start of a new game round.",
+        "kr": "강화된 능력은 새로운 게임 시작 시 효력이 생깁니다."
+    },
+    {
+        "id": 25040042,
+        "type": "",
+        "chs": "当前分数",
+        "chs_t": "當前分數",
+        "jp": "スコア",
+        "en": "Current Score",
+        "kr": "현재 점수"
+    },
+    {
+        "id": 25040043,
+        "type": "",
+        "chs": "最高分数",
+        "chs_t": "最高分數",
+        "jp": "スコア",
+        "en": "Highest Score",
+        "kr": "최고 점수"
+    },
+    {
+        "id": 25040044,
+        "type": "",
+        "chs": "运气之道",
+        "chs_t": "運氣之道",
+        "jp": "運勢の道",
+        "en": "Way of Luck",
+        "kr": "운의 길"
+    },
+    {
+        "id": 25040045,
+        "type": "",
+        "chs": "技术之道",
+        "chs_t": "技術之道",
+        "jp": "技巧の道",
+        "en": "Way of Skill",
+        "kr": "요령의 길"
+    },
+    {
+        "id": 25040046,
+        "type": "",
+        "chs": "洞察之道",
+        "chs_t": "洞察之道",
+        "jp": "洞察の道",
+        "en": "Way of Insight",
+        "kr": "통찰의 길"
+    },
+    {
+        "id": 25040047,
+        "type": "",
+        "chs": "直觉之道",
+        "chs_t": "直覺之道",
+        "jp": "直感の道",
+        "en": "Way of Intuition",
+        "kr": "직감의 길"
+    },
+    {
+        "id": 25040048,
+        "type": "",
+        "chs": "智谋之道",
+        "chs_t": "智謀之道",
+        "jp": "謀略の道",
+        "en": "Way of Wisdom",
+        "kr": "지략의 길"
+    },
+    {
+        "id": 25040049,
+        "type": "",
+        "chs": "修炼",
+        "chs_t": "修煉",
+        "jp": "修行",
+        "en": "Train",
+        "kr": "수련"
+    },
+    {
+        "id": 25040050,
+        "type": "",
+        "chs": "修行回合",
+        "chs_t": "修行回合",
+        "jp": "修行ターン",
+        "en": "Training Phase",
+        "kr": "수련 턴"
+    },
+    {
+        "id": 25040051,
+        "type": "",
+        "chs": "开始比赛",
+        "chs_t": "開始比賽",
+        "jp": "対局開始",
+        "en": "Start Match",
+        "kr": "시합 시작"
+    },
+    {
+        "id": 25040052,
+        "type": "",
+        "chs": "历史成绩",
+        "chs_t": "歷史成績",
+        "jp": "スコア履歴",
+        "en": "Historical Record",
+        "kr": "역대 기록"
+    },
+    {
+        "id": 25040053,
+        "type": "",
+        "chs": "最高分数榜",
+        "chs_t": "最高分數榜",
+        "jp": "ランキング",
+        "en": "Top Rankings",
+        "kr": "최고 점수 랭킹"
+    },
+    {
+        "id": 25040054,
+        "type": "",
+        "chs": "雀斗大会第{0}轮开始了！",
+        "chs_t": "雀鬥大會第{0}輪開始了！",
+        "jp": "大会の道第{0}ラウンド、開始！",
+        "en": "Sparrow Cup Round {0} begins!",
+        "kr": "작투 대회 제 {0} 라운드 시작!"
+    },
+    {
+        "id": 25040055,
+        "type": "",
+        "chs": "特性",
+        "chs_t": "特性",
+        "jp": "特性",
+        "en": "Talent",
+        "kr": "특성"
+    },
+    {
+        "id": 25040056,
+        "type": "",
+        "chs": "向听",
+        "chs_t": "向聽",
+        "jp": "シャンテン",
+        "en": "Tile(s) from Tenpai",
+        "kr": "상텐"
+    },
+    {
+        "id": 25040057,
+        "type": "",
+        "chs": "听牌",
+        "chs_t": "聽牌",
+        "jp": "聴牌",
+        "en": "Tenpai",
+        "kr": "텐파이"
+    },
+    {
+        "id": 25040058,
+        "type": "",
+        "chs": "对局记录",
+        "chs_t": "對局記錄",
+        "jp": "対局履歴",
+        "en": "Log",
+        "kr": "대국 기록"
+    },
+    {
+        "id": 25040059,
+        "type": "",
+        "chs": "余牌",
+        "chs_t": "餘牌",
+        "jp": "残り牌",
+        "en": "Remaining Tile(s)",
+        "kr": "남은 패"
+    },
+    {
+        "id": 25040060,
+        "type": "",
+        "chs": "雀斗大会第{0}轮结束",
+        "chs_t": "雀鬥大會第{0}輪結束",
+        "jp": "大会の道第{0}ラウンド、終了！",
+        "en": "Sparrow Cup Round {0} ends.",
+        "kr": "작투 대회 제 {0} 라운드 종료"
+    },
+    {
+        "id": 25040061,
+        "type": "",
+        "chs": "确定",
+        "chs_t": "確定",
+        "jp": "確認",
+        "en": "Confirm",
+        "kr": "확인"
+    },
+    {
+        "id": 25040062,
+        "type": "",
+        "chs": "分数排名",
+        "chs_t": "分數排名",
+        "jp": "スコア順位",
+        "en": "Score Ranking",
+        "kr": "점수 랭킹"
+    },
+    {
+        "id": 25040063,
+        "type": "",
+        "chs": "总计分数",
+        "chs_t": "總計分數",
+        "jp": "最終スコア",
+        "en": "Total Score",
+        "kr": "총 점수"
+    },
+    {
+        "id": 25040064,
+        "type": "",
+        "chs": "各项属性",
+        "chs_t": "各項屬性",
+        "jp": "最終ステータス",
+        "en": "Attributes",
+        "kr": "각 속성"
+    },
+    {
+        "id": 25040065,
+        "type": "",
+        "chs": "获得特性",
+        "chs_t": "獲得特性",
+        "jp": "所持特性",
+        "en": "Talents",
+        "kr": "특성 획득"
+    },
+    {
+        "id": 25040066,
+        "type": "",
+        "chs": "和牌率：",
+        "chs_t": "和牌率：",
+        "jp": "和了率：",
+        "en": "Winning Rate:",
+        "kr": "화료:"
+    },
+    {
+        "id": 25040067,
+        "type": "",
+        "chs": "放铳率：",
+        "chs_t": "放銃率：",
+        "jp": "放銃率：",
+        "en": "Deal-In Rate:",
+        "kr": "방총:"
+    },
+    {
+        "id": 25040068,
+        "type": "",
+        "chs": "最大和牌：",
+        "chs_t": "最大和牌：",
+        "jp": "最大和了点数：",
+        "en": "Biggest Win:",
+        "kr": "최대 화료:"
+    },
+    {
+        "id": 25040069,
+        "type": "",
+        "chs": "最多连胜：",
+        "chs_t": "最多連勝：",
+        "jp": "最多連勝数：",
+        "en": "Winning Streak:",
+        "kr": "최대 연승:"
+    },
+    {
+        "id": 25040070,
+        "type": "",
+        "chs": "排名分布",
+        "chs_t": "排名分佈",
+        "jp": "順位グラフ：",
+        "en": "Match Stats",
+        "kr": "순위 그래프"
+    },
+    {
+        "id": 25040071,
+        "type": "",
+        "chs": "结束游戏",
+        "chs_t": "結束遊戲",
+        "jp": "ゲーム終了",
+        "en": "End",
+        "kr": "게임 종료"
+    },
+    {
+        "id": 25040072,
+        "type": "",
+        "chs": "按住此区域隐藏弹窗内容",
+        "chs_t": "按住此區域隱藏彈窗內容",
+        "jp": "長押しで一時非表示",
+        "en": "Hold this area to hide popup content",
+        "kr": "이곳을 꾹 누르면 사건이 숨겨집니다."
+    },
+    {
+        "id": 25040073,
+        "type": "",
+        "chs": "松开显示弹窗内容",
+        "chs_t": "鬆開顯示彈窗內容",
+        "jp": "離すと再表示",
+        "en": "Release to show popup content",
+        "kr": "손가락을 떼면 사건을 다시 볼 수 있습니다."
+    },
+    {
+        "id": 25040074,
+        "type": "",
+        "chs": "获得了【{0}】特性！",
+        "chs_t": "獲得了【{0}】特性！",
+        "jp": "特性【{0}】を獲得！",
+        "en": "Acquire Talent [{0}]!",
+        "kr": "【{0}】특성 획득!"
+    },
+    {
+        "id": 25040075,
+        "type": "",
+        "chs": "{0}%概率",
+        "chs_t": "{0}%概率",
+        "jp": "{0}％の確率で、",
+        "en": "{0}% Chance",
+        "kr": "{0}% 확률"
+    },
+    {
+        "id": 25040076,
+        "type": "",
+        "chs": "你的{0}增加了{1}！",
+        "chs_t": "你的{0}增加了{1}！",
+        "jp": "{0}が{1}増加！",
+        "en": "Your {0} increased by {1}!",
+        "kr": "{0} {1} 증가!"
+    },
+    {
+        "id": 25040077,
+        "type": "",
+        "chs": "你的{0}减少{1}",
+        "chs_t": "你的{0}減少{1}",
+        "jp": "{0}が{1}減少！",
+        "en": "Your {0} decreased by {1}",
+        "kr": "{0} {1} 감소"
+    },
+    {
+        "id": 25040078,
+        "type": "",
+        "chs": "受{0}属性影响",
+        "chs_t": "受{0}屬性影響",
+        "jp": "ステータス{0}の影響で、",
+        "en": "Affected by Attribute {0}",
+        "kr": "{0}에 영향 받음"
+    },
+    {
+        "id": 25040079,
+        "type": "",
+        "chs": "受{0}和{1}属性影响",
+        "chs_t": "受{0}和{1}屬性影響",
+        "jp": "ステータス{0}と{1}の影響で、",
+        "en": "Affected by Attributes {0} & {1}",
+        "kr": "{0}과 {1}에 영향 받음"
+    },
+    {
+        "id": 25040080,
+        "type": "",
+        "chs": "立直",
+        "chs_t": "立直",
+        "jp": "立直",
+        "en": "Riichi",
+        "kr": "리치"
+    },
+    {
+        "id": 25040081,
+        "type": "",
+        "chs": "修行结束",
+        "chs_t": "修行結束",
+        "jp": "修行終了",
+        "en": "Training Complete",
+        "kr": "수련 종료"
+    },
+    {
+        "id": 25040082,
+        "type": "",
+        "chs": "剩余回合",
+        "chs_t": "剩餘回合",
+        "jp": "残りターン",
+        "en": "Remaining Phase(s)",
+        "kr": "남은 턴"
+    },
+    {
+        "id": 25040083,
+        "type": "",
+        "chs": "结果",
+        "chs_t": "結果",
+        "jp": "結果",
+        "en": "Results",
+        "kr": "결과"
+    },
+    {
+        "id": 25040084,
+        "type": "",
+        "chs": "雀斗大会",
+        "chs_t": "雀鬥大會",
+        "jp": "雀闘大会",
+        "en": "Sparrow Cup",
+        "kr": "작투 대회"
+    },
+    {
+        "id": 25040085,
+        "type": "",
+        "chs": "生涯目标",
+        "chs_t": "生涯目標",
+        "jp": "最終目標",
+        "en": "Ultimate Goal",
+        "kr": "일생 목표"
+    },
+    {
+        "id": 25040086,
+        "type": "",
+        "chs": "第{0}轮",
+        "chs_t": "第{0}輪",
+        "jp": "第{0}ラウンド",
+        "en": "Round {0}",
+        "kr": "제 {0} 라운드"
+    },
+    {
+        "id": 25040087,
+        "type": "",
+        "chs": "自家",
+        "chs_t": "自家",
+        "jp": "自家",
+        "en": "Myself",
+        "kr": "집"
+    },
+    {
+        "id": 25040088,
+        "type": "",
+        "chs": "强化成功！",
+        "chs_t": "強化成功！",
+        "jp": "強化成功！",
+        "en": "Upgrade Successful!",
+        "kr": "강화 성공!"
+    },
+    {
+        "id": 25040089,
+        "type": "",
+        "chs": "确认重置强化吗？重置后，已使用的强化点数全部返还。",
+        "chs_t": "確認重置強化嗎？重置後，已使用的強化點數全部返還。",
+        "jp": "強化をリセットすると、使われたねこ缶は返還されます。リセットしますか？",
+        "en": "Confirm Reset? All used upgrade points will be returned.",
+        "kr": "정말 초기화 하시겠습니까? 초기화 후, 이미 사용한 강화 통조림은 전부 반환됩니다."
+    },
+    {
+        "id": 25040090,
+        "type": "",
+        "chs": "获得【{0}】特性",
+        "chs_t": "獲得【{0}】特性",
+        "jp": "特性【{0}】を獲得",
+        "en": "Acquire Talent [{0}]",
+        "kr": "【{0}】특성 획득"
+    },
+    {
+        "id": 25040091,
+        "type": "",
+        "chs": "",
+        "chs_t": "",
+        "jp": "",
+        "en": "",
+        "kr": ""
+    },
+    {
+        "id": 25040092,
+        "type": "",
+        "chs": "思考中",
+        "chs_t": "思考中",
+        "jp": "長考中",
+        "en": "Thinking",
+        "kr": "생각 중"
+    },
+    {
+        "id": 25040093,
+        "type": "",
+        "chs": "历史最佳成绩",
+        "chs_t": "歷史最佳成績",
+        "jp": "自己ベスト",
+        "en": "Best Record",
+        "kr": "역대 최고 기록"
+    },
+    {
+        "id": 25040094,
+        "type": "",
+        "chs": "无",
+        "chs_t": "無",
+        "jp": "なし",
+        "en": "None",
+        "kr": "없음"
+    },
+    {
+        "id": 25040095,
+        "type": "",
+        "chs": "运气会影响一姬的配牌和进张好坏",
+        "chs_t": "運氣會影響一姬的配牌和進張好壞",
+        "jp": "運勢の値は、一姫の配牌とツモの良し悪しに影響する。",
+        "en": "Luck affects Ichihime's starting hand and the quality of her draws.",
+        "kr": "운은 이치히메의 배패와 들어오는 패에 영향을 줍니다."
+    },
+    {
+        "id": 25040096,
+        "type": "",
+        "chs": "技术会影响一姬的向听推进效率",
+        "chs_t": "技術會影響一姬的向聽推進效率",
+        "jp": "技巧の値は、一姫の牌効率に影響する。",
+        "en": "Skill affects how quickly Ichihime can reach Tenpai.",
+        "kr": "요령은 이치히메의 상텐 추진 효율에 영향을 줍니다."
+    },
+    {
+        "id": 25040097,
+        "type": "",
+        "chs": "洞察会影响一姬的放铳概率，提升洞察更容易感知他人听牌",
+        "chs_t": "洞察會影響一姬的放銃概率，提升洞察更容易感知他人聽牌",
+        "jp": "洞察の値は、一姫の他人のダマテンを感知する確率や放銃の確率に影響する。",
+        "en": "Insight affects how likely Ichihime is to deal into other hands, as well as her awareness of others' Tenpai.",
+        "kr": "통찰은 이치히메의 방총 확률에 영향을 주며, 타인의 텐파이를 알아챌 가능성을 높입니다."
+    },
+    {
+        "id": 25040098,
+        "type": "",
+        "chs": "直觉会影响一姬对局势的感知，影响副露、立直、自摸的概率",
+        "chs_t": "直覺會影響一姬對局勢的感知，影響副露、立直、自摸的概率",
+        "jp": "直感の値は、一姫の対局全体への感知と鳴き・立直宣言・ツモ上がりの確率に影響する。",
+        "en": "Intuition affects Ichihime's feel for the game and her chances of making Open Calls, Riichi, and Tsumo.",
+        "kr": "직감은 이치히메의 대국 상황 감지와 후로, 리치, 쯔모 확률에 영향을 줍니다."
+    },
+    {
+        "id": 25040099,
+        "type": "",
+        "chs": "智谋会影响一姬的和牌大小",
+        "chs_t": "智謀會影響一姬的和牌大小",
+        "jp": "謀略の値は、打点の高さに影響する。",
+        "en": "Wisdom affects the value of Ichihime's winning hands.",
+        "kr": "지략은 이치히메의 화료 점수에 영향을 줍니다."
+    },
+    {
+        "id": 25040100,
+        "type": "",
+        "chs": "4.23-5.14 4:59",
+        "chs_t": "4.23-5.14 4:59(UTC+8)",
+        "jp": "4月23日(水) ～ 5月14日(水) 5:59",
+        "en": "4/22 - 5/13 1:59 P.M. (UTC-7)",
+        "kr": "4월 23일 ~ 5월 14일 05:59 AM (GMT+9)"
+    },
+    {
+        "id": 25040101,
+        "type": "",
+        "chs": "",
+        "chs_t": "",
+        "jp": "",
+        "en": "",
+        "kr": ""
+    },
+    {
+        "id": 25040102,
+        "type": "",
+        "chs": "",
+        "chs_t": "",
+        "jp": "",
+        "en": "",
+        "kr": ""
+    },
+    {
+        "id": 25040103,
+        "type": "",
+        "chs": "",
+        "chs_t": "",
+        "jp": "",
+        "en": "",
+        "kr": ""
+    },
+    {
+        "id": 25040104,
+        "type": "",
+        "chs": "特殊规则：背水之战说明\r\n- 满足立直条件时，玩家可以选择支付更多点数以强化立直效果\r\n-- 立直：支付1000点，1番\r\n-- 真-立直：支付5000点，在原基础上额外+2番\r\n-- 极-立直：支付10000点，在原基础上额外+4番\r\n-- 满足两立直条件时，也可对两立直进行强化，以2番为基础\r\n- 强化立直后，场中发光提示，玩家的头像框旁显示加番\r\n- 同时放铳多家时，场上供托由头跳家获得\r\n- 游戏结束时，所有供托由获得一位的玩家获得\r\n\r\n对局模式：背水之战-四人东\r\n段位限制：无\r\n入场料：5000铜币\r\n兑换比例：1000点=100铜币\r\n场代：1000铜币\r\n不计算段位分\r\n一姬的礼物盒获取进度：1位+260，2位+130，3位+95，4位+60\r\n好感度获得：40\r\n\r\n当自己最终精算点数为正时可以获得铜币，反之失去铜币",
+        "chs_t": "特殊規則：背水之戰說明\r\n- 滿足立直條件時，玩家可以選擇支付更多點數以強化立直效果\r\n-- 立直：支付1000點，1番\r\n-- 真-立直：支付5000點，在原基礎上額外+2番\r\n-- 極-立直：支付10000點，在原基礎上額外+4番\r\n-- 滿足兩立直條件時，也可對兩立直進行強化，以2番為基礎\r\n- 強化立直後，場中發光提示，玩家的頭像框旁顯示加番\r\n- 同時放銃多家時，場上供托由頭跳家獲得\r\n- 遊戲結束時，所有供托由獲得一位的玩家獲得\r\n\r\n對局模式：背水之戰-四人東\r\n段位限制：無\r\n入場料：5000銅幣\r\n兌換比例：1000點=100銅幣\r\n場代：1000銅幣\r\n不計算段位分\r\n一姬的禮物盒獲取進度：1位+260，2位+130，3位+95，4位+60\r\n好感度獲得：40\r\n\r\n當自己最終精算點數為正時可以獲得銅幣，反之失去銅幣",
+        "jp": "特殊ルール「背水の戦」について\r\n\r\n- 立直をかける際に、通常の1000点よりさらに多くの点数を場に出すことで、下記の強化立直をかけることができる。\r\n-- 通常の立直：1000点を場に出し、あがる際には1飜として計算する。\r\n-- 真・立直：5000点を場に出し、あがる際には3飜として計算する（通常より+2飜）。\r\n-- 極・立直：10000点を場に出し、あがる際には5飜として計算する（通常より+4飜）。\r\n-- ダブル立直の場合でも同様に強化でき、各種立直からさらに+1飜で計算する。\r\n\r\n- 強化立直がかけられた場合、かけたプレイヤーのアイコンの横に追加飜数が表示され、卓中央の対応した位置がハイライトされる。\r\n- ダブロン及びトリロンの場合、供託は上家取り。\r\n- 対局が終了した時、供託は1位のプレイヤーがもらう。\r\n\r\n対局モード：背水の戦-四人東\r\n段位制限：なし\r\n入場料：5000コイン\r\n交換レート：1000点=100コイン\r\n場代：1000コイン\r\n段位点数：影響しない\r\n一姫の宝箱解錠点数：1位+260，2位+130，3位+95，4位+60\\n\r\n絆ポイント：+40\r\n精算点数がプラスの場合はコインを獲得し、マイナスの場合はコインを失う。",
+        "en": "Special Rules: Riichi Siege\r\n\r\nWhen a player can declare Riichi, they can choose to pay extra points to enhance the Riichi effect.\r\n- Riichi: pay 1,000 points for 1 Han\r\n- True Riichi: pay 5,000 points for an extra +2 Han\r\n- Extreme Riichi: pay 10,000 points for an extra +4 Han\r\n- Double Riichi can also be enhanced, starting with a base of 2 Han.\r\n- Enhancing Riichi causes a glowing indicator to appear on the table, and the Han bonus is shown next to the player's avatar.\r\n- If you deal into multiple players' winning hands, the points put on the table go to the winning player closest to you in turn order.\r\n- At the end of the game, all points put on the table go to the player in first place.\r\n\r\nMatch Mode: Riichi Siege - 4-Player East\r\nRank Limit: None\r\nEntry Limit: 5,000 Coppers\r\nExchange Rate: 1,000 Points = 100 Coppers\r\nEntry Fee: 1,000 Coppers\r\nMatches played in this mode are not ranked.\r\nCasual Chest Progress: 1st +260, 2nd +130, 3rd +95, 4th +60\r\nBond Point Bonus: 40\r\n\r\nYou will receive Coppers if you finish with positive match points, or lose Coppers if you finish in negativity.",
+        "kr": "특수 규칙: 배수의 전\r\n\r\n- 리치 조건을 만족할 시, 플레이어는 더 많은 점수를 지불하여 리치 효과를 강화할 수 있습니다.\r\n- 리치: 1000점 지불, 1판\r\n- 진-리치: 5000점 지불, 원래 판 수 +2판\r\n- 극-리치: 5000점 지불, 원래 판 수 +4판\r\n- 더블 리치 조건을 만족할 시, 더블 리치를 강화할 수 있으며 원래 판 수는 2판으로 계산합니다.\r\n- 더블 론일 경우, 선오름 플레이어가 공탁점을 획득합니다.\r\n- 게임 종료 시, 1위 플레이어가 모든 공탁점을 획득합니다.\r\n\r\n대국 모드: 배수의 전-4인 동풍전\r\n등급 제한: 없음\r\n입장료: 5000코인\r\n교환 비율: 1000점= 100코인\r\n등급 점수: 영향 없음\r\n이치히메의 보물상자 포인트: 1위 +260, 2위 +130, 3위 +95, 4위 +60\r\n인연 포인트 획득: 40\r\n\r\n최종 점수가 플러스일 경우 코인을 습득하고, 마이너스일 경우 코인을 잃습니다."
+    },
+    {
+        "id": 25040105,
+        "type": "",
+        "chs": "主页",
+        "chs_t": "主頁",
+        "jp": "トップ",
+        "en": "Main Page",
+        "kr": "홈"
+    },
+    {
+        "id": 25040106,
+        "type": "",
+        "chs": "查看",
+        "chs_t": "查看",
+        "jp": "閲覧",
+        "en": "View",
+        "kr": "보기"
+    },
+    {
+        "id": 25040107,
+        "type": "",
+        "chs": "对局结束",
+        "chs_t": "對局結束",
+        "jp": "終局",
+        "en": "Match End",
+        "kr": "대국 종료"
+    },
+    {
+        "id": 25040108,
+        "type": "",
+        "chs": "倍速",
+        "chs_t": "倍速",
+        "jp": "倍速",
+        "en": "Speed",
+        "kr": "배속"
+    },
+    {
+        "id": 25040109,
+        "type": "",
+        "chs": "跳过修炼",
+        "chs_t": "跳過修煉",
+        "jp": "スキップ",
+        "en": "Skip Training",
+        "kr": "수련 스킵"
+    },
+    {
+        "id": 25040110,
+        "type": "",
+        "chs": "回看对局",
+        "chs_t": "回看對局",
+        "jp": "結果に戻る",
+        "en": "Match Review",
+        "kr": "대국 회상"
+    },
+    {
+        "id": 25040111,
+        "type": "",
+        "chs": "",
+        "chs_t": "",
+        "jp": "",
+        "en": "",
+        "kr": ""
+    },
+    {
+        "id": 25040112,
+        "type": "",
+        "chs": "",
+        "chs_t": "",
+        "jp": "",
+        "en": "",
+        "kr": ""
+    },
+    {
+        "id": 25040500,
+        "type": "",
+        "chs": "设置备注",
+        "chs_t": "設置備註",
+        "jp": "別名を編集",
+        "en": "Add Note",
+        "kr": "별명 설정"
+    },
+    {
+        "id": 25040501,
+        "type": "",
+        "chs": "设置备注",
+        "chs_t": "設置備註",
+        "jp": "別名を編集",
+        "en": "Add Note",
+        "kr": "별명 설정"
+    },
+    {
+        "id": 25040502,
+        "type": "",
+        "chs": "当前备注为：",
+        "chs_t": "當前備註為：",
+        "jp": "今の別名：",
+        "en": "Current Note:",
+        "kr": "현재 별명:"
+    },
+    {
+        "id": 25040503,
+        "type": "",
+        "chs": "无备注（最多7个字）",
+        "chs_t": "無備註（最多7個字）",
+        "jp": "なし（最大7文字）",
+        "en": "No note (up to 14 characters)",
+        "kr": "별명 없음 (최대 7자)"
+    },
+    {
+        "id": 25040504,
+        "type": "",
+        "chs": "不可用",
+        "chs_t": "不可用",
+        "jp": "その別名は使用できません",
+        "en": "Invalid",
+        "kr": "사용 불가"
+    },
+    {
+        "id": 25040505,
+        "type": "",
+        "chs": "如有直播或公开游戏画面需要，请注意保护隐私信息",
+        "chs_t": "如有直播或公開遊戲畫面需要，請注意保護隱私資訊",
+        "jp": "※ゲーム画面を公開する際に、個人情報等が流出しないよう十分ご注意ください。",
+        "en": "*Please protect your personal information when livestreaming or posting game footage publicly.",
+        "kr": "라이브 혹은 게임 화면을 공개할 시에, 개인정보가 노출되지 않도록 주의해주세요."
+    },
+    {
+        "id": 25040506,
+        "type": "",
+        "chs": "背水之战",
+        "chs_t": "背水之戰",
+        "jp": "背水の戦",
+        "en": "Riichi Siege",
+        "kr": "배수의 전"
+    },
+    {
+        "id": 25040508,
+        "type": "",
+        "chs": "特殊规则：背水之战说明\r\n- 满足立直条件时，玩家可以选择支付更多点数以强化立直效果\r\n-- 立直：支付1000点，1番\r\n-- 真-立直：支付5000点，在原基础上额外+2番\r\n-- 极-立直：支付10000点，在原基础上额外+4番\r\n-- 满足两立直条件时，也可对两立直进行强化，以2番为基础\r\n- 强化立直后，场中发光提示，玩家的头像框旁显示加番\r\n- 同时放铳多家时，场上供托由头跳家获得\r\n- 游戏结束时，所有供托由获得一位的玩家获得",
+        "chs_t": "特殊規則：背水之戰說明\r\n- 滿足立直條件時，玩家可以選擇支付更多點數以強化立直效果\r\n-- 立直：支付1000點，1番\r\n-- 真-立直：支付5000點，在原基礎上額外+2番\r\n-- 極-立直：支付10000點，在原基礎上額外+4番\r\n-- 滿足兩立直條件時，也可對兩立直進行強化，以2番為基礎\r\n- 強化立直後，場中發光提示，玩家的頭像框旁顯示加番\r\n- 同時放銃多家時，場上供托由頭跳家獲得\r\n- 遊戲結束時，所有供托由獲得一位的玩家獲得",
+        "jp": "特殊ルール「背水の戦」について\r\n\r\n- 立直をかける際に、通常の1000点よりさらに多くの点数を場に出すことで、下記の強化立直をかけることができる。\r\n-- 通常の立直：1000点を場に出し、あがる際には1飜として計算する。\r\n-- 真・立直：5000点を場に出し、あがる際には3飜として計算する（通常より+2飜）。\r\n-- 極・立直：10000点を場に出し、あがる際には5飜として計算する（通常より+4飜）。\r\n-- W立直の場合でも同様に強化でき、上記各種からさらに+1飜で計算する。\r\n\r\n- 強化立直がかけられた場合、かけたプレイヤーのアイコンの横に追加飜数が表示され、卓中央の対応した位置がハイライトされる。\r\n- ダブロン及びトリロンの場合、供託は上家取り。\r\n- 対局が終了した時、供託は1位のプレイヤーがもらう。",
+        "en": "Special Rules: Riichi Siege\r\n\r\nWhen a player can declare Riichi, they can choose to pay extra points to enhance the Riichi effect.\r\n- Riichi: pay 1,000 points for 1 Han\r\n- True Riichi: pay 5,000 points for an extra +2 Han\r\n- Extreme Riichi: pay 10,000 points for an extra +4 Han\r\n- Double Riichi can also be enhanced, starting with a base of 2 Han.\r\n- Enhancing Riichi causes a glowing indicator to appear on the table, and the Han bonus is shown next to the player's avatar.\r\n- If you deal into multiple players' winning hands, the points put on the table go to the winning player closest to you in turn order.\r\n- At the end of the game, all points put on the table go to the player in first place.",
+        "kr": "특수 규칙: 배수의 전\r\n\r\n- 리치 조건을 만족할 시, 플레이어는 더 많은 점수를 지불하여 리치 효과를 강화할 수 있습니다.\r\n- 리치: 1000점 지불, 1판\r\n- 진-리치: 5000점 지불, 원래 판 수 +2판\r\n- 극-리치: 5000점 지불, 원래 판 수 +4판\r\n- 더블 리치 조건을 만족할 시, 더블 리치를 강화할 수 있으며 원래 판 수는 2판으로 계산합니다.\r\n- 더블 론일 경우, 선오름 플레이어가 공탁점을 획득합니다.\r\n- 게임 종료 시, 1위 플레이어가 모든 공탁점을 획득합니다."
+    },
+    {
+        "id": 25040509,
+        "type": "",
+        "chs": "暂无数据",
+        "chs_t": "暫無數據",
+        "jp": "データなし",
+        "en": "No Records",
+        "kr": "기록 없음"
+    },
+    {
+        "id": 25040510,
+        "type": "",
+        "chs": "持有效果",
+        "chs_t": "持有效果",
+        "jp": "効果一覧",
+        "en": "Talents Acquired",
+        "kr": "보유 특성"
+    },
+    {
+        "id": 25040511,
+        "type": "",
+        "chs": "对局开始",
+        "chs_t": "對局開始",
+        "jp": "対戦開始",
+        "en": "Start",
+        "kr": "대국 시작"
+    },
+    {
+        "id": 25040512,
+        "type": "",
+        "chs": "一姬的{0}提升了{1}!",
+        "chs_t": "一姬的{0}提升了{1}!",
+        "jp": "一姫の{0}が{1}上がった!",
+        "en": "Ichihime's {0} increased by {1}!",
+        "kr": "이치히메의 {0}이 {1} 상승했다!"
+    },
+    {
+        "id": 25040513,
+        "type": "",
+        "chs": "选择",
+        "chs_t": "選擇",
+        "jp": "選ぶ",
+        "en": "Choose",
+        "kr": "선택"
+    },
+    {
+        "id": 25040514,
+        "type": "",
+        "chs": "持有【{0}】触发",
+        "chs_t": "持有【{0}】觸發",
+        "jp": "特性【{0}】の効果が発動！",
+        "en": "Triggered with Talent [{0}]",
+        "kr": "【{0}】특성 효과 발생"
+    },
+    {
+        "id": 25040515,
+        "type": "",
+        "chs": "？？？",
+        "chs_t": "？？？",
+        "jp": "？？？",
+        "en": "???",
+        "kr": "???"
+    },
+    {
+        "id": 25040516,
+        "type": "",
+        "chs": "副露次数：{0}",
+        "chs_t": "副露次數：{0}",
+        "jp": "鳴き回数：{0}",
+        "en": "Open Call: {0}",
+        "kr": "후로 횟수: {0}"
+    },
+    {
+        "id": 25040517,
+        "type": "",
+        "chs": "",
+        "chs_t": "",
+        "jp": "",
+        "en": "",
+        "kr": ""
+    },
+    {
+        "id": 25040518,
+        "type": "",
+        "chs": "",
+        "chs_t": "",
+        "jp": "",
+        "en": "",
+        "kr": ""
+    },
+    {
+        "id": 25040519,
+        "type": "",
+        "chs": "",
+        "chs_t": "",
+        "jp": "",
+        "en": "",
+        "kr": ""
+    },
+    {
+        "id": 25040520,
+        "type": "",
+        "chs": "雀斗大会开赛",
+        "chs_t": "雀鬥大會開賽",
+        "jp": "大会の道について",
+        "en": "Sparrow Cup",
+        "kr": "작투 대회 시작"
+    },
+    {
+        "id": 25040521,
+        "type": "",
+        "chs": "让一姬修行！",
+        "chs_t": "讓一姬修行！",
+        "jp": "修行について",
+        "en": "Train!",
+        "kr": "이치히메 수련!"
+    },
+    {
+        "id": 25040522,
+        "type": "",
+        "chs": "让一姬参赛！",
+        "chs_t": "讓一姬參賽！",
+        "jp": "対局について",
+        "en": "Compete!",
+        "kr": "이치히메 시합!"
+    },
+    {
+        "id": 25040523,
+        "type": "",
+        "chs": "事件与特性",
+        "chs_t": "事件與特性",
+        "jp": "イベントと\r\n特性について",
+        "en": "Incidents and Talents",
+        "kr": "사건과 특성"
+    },
+    {
+        "id": 25040524,
+        "type": "",
+        "chs": "",
+        "chs_t": "",
+        "jp": "",
+        "en": "",
+        "kr": ""
+    },
+    {
+        "id": 25040525,
         "type": "",
         "chs": "",
         "chs_t": "",
