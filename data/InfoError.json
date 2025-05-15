@@ -2617,11 +2617,11 @@
     },
     {
         "id": 2574,
-        "chs": "",
-        "chs_t": "",
-        "jp": "",
-        "en": "",
-        "kr": ""
+        "chs": "配置赛事规则有误，请重新检查",
+        "chs_t": "配置賽事規則有誤，請重新檢查",
+        "jp": "大会ルールの設定に誤りがあります。再度確認してください。",
+        "en": "The configuration of the event rules is incorrect, please review again.",
+        "kr": "이벤트 규칙 구성이 잘못되었습니다. 다시 검토해 주세요."
     },
     {
         "id": 2575,
