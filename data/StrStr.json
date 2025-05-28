@@ -22646,11 +22646,11 @@
     {
         "id": 4601,
         "type": "",
-        "chs": "",
-        "chs_t": "",
-        "jp": "",
-        "en": "",
-        "kr": ""
+        "chs": "神秘扭蛋机——回旋舞步特别版！\r\n\r\n魂天神社的神秘扭蛋机新装登场！\r\n完成每日任务，获得扭蛋代币（与电脑的对局除外）\r\n使用扭蛋代币，抽取扭蛋机中的奖励吧！\r\n\r\n*每次扭蛋可以获得奖励，被抽到的奖励不放回奖池。\r\n*30次扭蛋后可直接获得特别奖哦~",
+        "chs_t": "神秘扭蛋機——迴旋舞步特別版！\r\n\r\n魂天神社的神秘扭蛋機新裝登場！\r\n完成每日任務，獲得扭蛋代幣（與電腦的對局除外）\r\n使用扭蛋代幣，抽取扭蛋機中的獎勵吧！\r\n\r\n*每次扭蛋可以獲得獎勵，被抽到的獎勵不放回獎池。\r\n*30次扭蛋後可直接獲得特別獎哦~",
+        "jp": "魂天神社にまたもや謎のガチャマシンが現れたにゃ！今回のテーマは……「アン・ドゥオール」！\r\n\r\n・毎日更新されるイベントクエストを達成すると、ガチャコインが入手できます（CPUとの対局は対象外）。\r\n・ガチャコインを使用すると、ガチャマシーンにある賞品を獲得できます。\r\n\r\n※排出される賞品の内容は、賞品一覧をご確認ください。\r\n※特別賞は、30回目の抽選を行うとボーナスとして入手できます。",
+        "en": "Mystery Gacha - Poised Pirouette Edition\r\n\r\nThe Mahjong Soul Shrine's mystery gacha machine returns with a brand-new look!\r\nComplete daily missions to earn gacha tokens (except matches played against AI).\r\nUse gacha tokens to pull for prizes in the machine!\r\n\r\n*Each gacha pull guarantees a prize, and pulled prizes will be removed from the prize pool.\r\n*The Special Prize is guaranteed after 30 pulls!",
+        "kr": "신비한 뽑기통 - 우아한 피루엣\r\n혼천 신사에 신비한 뽑기통이 새롭게 등장했습니다!\r\n매일 임무를 완료하여, 뽑기권을 획득(AI전 제외)\r\n뽑기권을 사용하여, 뽑기통에서 보상을 뽑아보세요!\r\n\r\n*뽑기를 할 때마다 보상을 획득하며, 이미 뽑은 보상은 뽑기통에서 제외됩니다.\r\n*뽑기 진행 30회 이후, 바로 특별상을 획득할 수 있습니다."
     },
     {
         "id": 4602,
@@ -29963,11 +29963,11 @@
     {
         "id": 10251,
         "type": "",
-        "chs": "",
-        "chs_t": "",
-        "jp": "",
-        "en": "",
-        "kr": ""
+        "chs": "工具栏",
+        "chs_t": "工具列",
+        "jp": "ツール",
+        "en": "Tools",
+        "kr": "툴바"
     },
     {
         "id": 10252,

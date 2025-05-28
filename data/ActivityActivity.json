@@ -9648,5 +9648,135 @@
         "name_kr": "",
         "type": "chest_replace_up",
         "need_popout": 0
+    },
+    {
+        "id": 250501,
+        "name_chs": "回旋舞步",
+        "name_chs_t": "迴旋舞步",
+        "name_jp": "アン・ドゥオール",
+        "name_en": "Poised Pirouette",
+        "name_kr": "우아한 피루엣",
+        "type": "gacha",
+        "need_popout": 1
+    },
+    {
+        "id": 250502,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "random_task",
+        "need_popout": 0
+    },
+    {
+        "id": 250510,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "shop",
+        "need_popout": 0
+    },
+    {
+        "id": 250511,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "event_cross_time",
+        "need_popout": 0
+    },
+    {
+        "id": 250512,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "item",
+        "need_popout": 0
+    },
+    {
+        "id": 250520,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250521,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250522,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250523,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250530,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_replace_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250531,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_replace_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250532,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_replace_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250533,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_replace_up",
+        "need_popout": 0
     }
 ]

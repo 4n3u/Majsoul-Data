@@ -1216,5 +1216,19 @@
         "args": [
             0
         ]
+    },
+    {
+        "id": 250501,
+        "img_path": "extendRes/loading_cg/250501.jpg",
+        "thumb_path": "extendRes/loading_cg/250501_thumb.jpg",
+        "sort": 1072,
+        "unlock_items": [
+            307472,
+            307272,
+            0
+        ],
+        "args": [
+            0
+        ]
     }
 ]

@@ -18406,5 +18406,77 @@
             0,
             0
         ]
+    },
+    {
+        "charid": 200021,
+        "sub_id": 939,
+        "unlock_desc_chs": "服饰解锁",
+        "unlock_desc_chs_t": "服飾解鎖",
+        "unlock_desc_jp": "着せ替え入手",
+        "unlock_desc_en": "Unlock Outfit",
+        "unlock_desc_kr": "스킨 오픈",
+        "type": 1,
+        "view": "",
+        "audio": 0,
+        "after_unlock_desc_chs": "足尖独白",
+        "after_unlock_desc_chs_t": "足尖獨白",
+        "after_unlock_desc_jp": "つま先のモノローグ",
+        "after_unlock_desc_en": "Pointe Monologue",
+        "after_unlock_desc_kr": "발끝의 독백",
+        "unlock_type": 3,
+        "unlock_param": [
+            402106,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "charid": 200059,
+        "sub_id": 939,
+        "unlock_desc_chs": "服饰解锁",
+        "unlock_desc_chs_t": "服飾解鎖",
+        "unlock_desc_jp": "着せ替え入手",
+        "unlock_desc_en": "Unlock Outfit",
+        "unlock_desc_kr": "스킨 오픈",
+        "type": 1,
+        "view": "",
+        "audio": 0,
+        "after_unlock_desc_chs": "足尖独白",
+        "after_unlock_desc_chs_t": "足尖獨白",
+        "after_unlock_desc_jp": "つま先のモノローグ",
+        "after_unlock_desc_en": "Pointe Monologue",
+        "after_unlock_desc_kr": "발끝의 독백",
+        "unlock_type": 3,
+        "unlock_param": [
+            405906,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "charid": 200069,
+        "sub_id": 939,
+        "unlock_desc_chs": "服饰解锁",
+        "unlock_desc_chs_t": "服飾解鎖",
+        "unlock_desc_jp": "着せ替え入手",
+        "unlock_desc_en": "Unlock Outfit",
+        "unlock_desc_kr": "스킨 오픈",
+        "type": 1,
+        "view": "",
+        "audio": 0,
+        "after_unlock_desc_chs": "足尖独白",
+        "after_unlock_desc_chs_t": "足尖獨白",
+        "after_unlock_desc_jp": "つま先のモノローグ",
+        "after_unlock_desc_en": "Pointe Monologue",
+        "after_unlock_desc_kr": "발끝의 독백",
+        "unlock_type": 3,
+        "unlock_param": [
+            406904,
+            0,
+            0,
+            0
+        ]
     }
 ]

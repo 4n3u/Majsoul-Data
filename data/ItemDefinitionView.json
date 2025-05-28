@@ -2646,6 +2646,20 @@
         "new_hand": 0
     },
     {
+        "id": 30550027,
+        "res_name": "ssz",
+        "audio_id": 0,
+        "character_id": 0,
+        "sargs": [
+            "0",
+            "",
+            "",
+            ""
+        ],
+        "old_effect_mark": 0,
+        "new_hand": 0
+    },
+    {
         "id": 305555,
         "res_name": "douya",
         "audio_id": 0,
@@ -4132,6 +4146,20 @@
     {
         "id": 30580017,
         "res_name": "tablecloth_25krsaishi",
+        "audio_id": 0,
+        "character_id": 0,
+        "sargs": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "old_effect_mark": 0,
+        "new_hand": 0
+    },
+    {
+        "id": 30580018,
+        "res_name": "tablecloth_25sanyuanbei",
         "audio_id": 0,
         "character_id": 0,
         "sargs": [

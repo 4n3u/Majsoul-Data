@@ -2710,5 +2710,77 @@
             0
         ],
         "cross_view": 0
+    },
+    {
+        "id": 600122,
+        "name_chs": "麒麟位2025",
+        "name_chs_t": "麒麟位2025",
+        "name_jp": "麒麟位2025",
+        "name_en": "麒麟位2025",
+        "name_kr": "麒麟位2025",
+        "desc_chs": "麒麟戦2025優勝記念",
+        "desc_chs_t": "麒麟戦2025優勝記念",
+        "desc_jp": "麒麟戦2025優勝記念",
+        "desc_en": "麒麟戦2025優勝記念",
+        "desc_kr": "麒麟戦2025優勝記念",
+        "icon": "extendRes/title/kirin2025jp.png",
+        "icon_item": "extendRes/title/kirin2025jp_item.jpg",
+        "priority": 40067,
+        "unlock_type": 0,
+        "unlock_param": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "cross_view": 0
+    },
+    {
+        "id": 600123,
+        "name_chs": "天元北斗",
+        "name_chs_t": "天元北斗",
+        "name_jp": "天元北斗",
+        "name_en": "Grand Charioteer",
+        "name_kr": "MGC 2025 천원북두",
+        "desc_chs": "北斗战2025冠军纪念",
+        "desc_chs_t": "北斗戰2025冠軍紀念",
+        "desc_jp": "北斗戦2025優勝記念",
+        "desc_en": "Champion commemorative title for 2025 Grand Chariot Cup",
+        "desc_kr": "MGC 2025 글로벌 공식 대회 우승 그룹 전용 칭호 (유효기간 1년)",
+        "icon": "extendRes/title/tianyuanbeidou.png",
+        "icon_item": "extendRes/title/tianyuanbeidou_item.jpg",
+        "priority": 40068,
+        "unlock_type": 1,
+        "unlock_param": [
+            30557031,
+            0,
+            0,
+            0
+        ],
+        "cross_view": 1
+    },
+    {
+        "id": 600124,
+        "name_chs": "天元北斗",
+        "name_chs_t": "天元北斗",
+        "name_jp": "天元北斗",
+        "name_en": "Grand Charioteer",
+        "name_kr": "MGC 2025 천원북두",
+        "desc_chs": "北斗战2025冠军纪念",
+        "desc_chs_t": "北斗戰2025冠軍紀念",
+        "desc_jp": "北斗戦2025優勝記念",
+        "desc_en": "Champion commemorative title for 2025 Grand Chariot Cup",
+        "desc_kr": "MGC 2025 글로벌 공식 대회 우승 그룹 전용 칭호 (유효기간 1년)",
+        "icon": "extendRes/title/tianyuanbeidou.png",
+        "icon_item": "extendRes/title/tianyuanbeidou_item.jpg",
+        "priority": 40069,
+        "unlock_type": 1,
+        "unlock_param": [
+            30557032,
+            0,
+            0,
+            0
+        ],
+        "cross_view": 1
     }
 ]

@@ -273,5 +273,16 @@
         "banner_left_selected": "",
         "banner_left_icon": "",
         "time_remind": 0
+    },
+    {
+        "id": 250501,
+        "sort": 117,
+        "banner_type": 2,
+        "enter_icon": "myres2/activity_banner/25balei_0.png",
+        "banner_big": "myres2/activity_banner/25balei_b.jpg",
+        "banner_left": "myres2/activity_banner/25balei.png",
+        "banner_left_selected": "",
+        "banner_left_icon": "",
+        "time_remind": 0
     }
 ]

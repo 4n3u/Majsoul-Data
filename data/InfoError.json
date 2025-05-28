@@ -704,6 +704,30 @@
         "kr": "분석 가능한 기간 내의 패보가 아닙니다. 다른 패보를 선택해 주세요."
     },
     {
+        "id": 536,
+        "chs": "发生了一些不可预料的错误，请刷新重试",
+        "chs_t": "發生了一些不可預料的錯誤，請刷新重試",
+        "jp": "予期しないエラーが発生しました。画面を更新してください。",
+        "en": "An unexpected error occurred. Please refresh and try again.",
+        "kr": "오류가 발생했습니다. 새로고침 후 다시 시도해 주세요."
+    },
+    {
+        "id": 537,
+        "chs": "年度报告功能尚未开启，请耐心等待",
+        "chs_t": "年度報告功能尚未開啓，請耐心等待",
+        "jp": "年度報告はまだ解放されていません。しばらくお待ちください。",
+        "en": "The annual report feature is not yet available. Please wait.",
+        "kr": "연도 보고서 기능이 아직 오픈되지 않았습니다. 조금만 기다려 주세요."
+    },
+    {
+        "id": 538,
+        "chs": "年度报告出现了一些小问题，请稍后重试",
+        "chs_t": "年度報告出現了一些小問題，請稍後重試",
+        "jp": "年度報告にエラーが発生しました。しばらく待ってから再度お試しください。",
+        "en": "A small issue occurred with the annual report. Please try again later.",
+        "kr": "연도 보고서에 오류가 있습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
         "id": 1001,
         "chs": "嗨呀，这个账号已经注册过了",
         "chs_t": "唉呀，這個帳號已經註冊過了",
@@ -1526,6 +1550,14 @@
         "jp": "ただいま購入機能が無効です。しばらくお待ちください。",
         "en": "The purchase function in Shop has been temporarily disabled, please contact Customer Support if you need help.",
         "kr": "현재 상품 구매 기능이 비활성화되었습니다. 자세한 사항은 고객센터를 통해 문의하여 주시기 바랍니다."
+    },
+    {
+        "id": 1932,
+        "chs": "当前账号充值订单存在异常，请发送电子邮件联系客服人员cs@maj-soul.com寻求帮助",
+        "chs_t": "當前帳號儲值訂單存在異常，請發送電子信件聯絡客服人員cs@maj-soul.com尋求幫助",
+        "jp": "",
+        "en": "",
+        "kr": ""
     },
     {
         "id": 1951,
