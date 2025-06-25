@@ -1138,5 +1138,65 @@
         "content_en": "Unlock the Ending - Summer of Diligent Learning",
         "content_kr": "End7. 열심히 공부한 여름",
         "reward": "304006-1"
+    },
+    {
+        "id": 9400041,
+        "type": 1,
+        "content_chs": "解锁结局【熊猫果然不会出错】",
+        "content_chs_t": "解鎖結局【熊貓果然不會出錯】",
+        "content_jp": "End1.パンダだったら間違いない",
+        "content_en": "Unlock the Ending - Can't Go Wrong with Pandas",
+        "content_kr": "End1. 판다는 틀리지 않아",
+        "reward": "302005-1"
+    },
+    {
+        "id": 9400042,
+        "type": 3,
+        "content_chs": "解锁结局【过于前卫的设计】",
+        "content_chs_t": "解鎖結局【過於前衛的設計】",
+        "content_jp": "End2.前衛的すぎるデザイン",
+        "content_en": "Unlock the Ending - Way Out There Design",
+        "content_kr": "End2. 아방가르드한 디자인",
+        "reward": "100002-8000"
+    },
+    {
+        "id": 9400051,
+        "type": 1,
+        "content_chs": "解锁结局【真实的自己】",
+        "content_chs_t": "解鎖結局【真實的自己】",
+        "content_jp": "End3.素の自分",
+        "content_en": "Unlock the Ending - True Colors",
+        "content_kr": "End3. 진짜 나",
+        "reward": "304005-1"
+    },
+    {
+        "id": 9400052,
+        "type": 3,
+        "content_chs": "解锁结局【训练不能停！】",
+        "content_chs_t": "解鎖結局【訓練不能停！】",
+        "content_jp": "End4.トレーニングは続く",
+        "content_en": "Unlock the Ending - Training Never Stops",
+        "content_kr": "End4. 멈추지 않는 트레이닝!",
+        "reward": "302007-1,100002-12000"
+    },
+    {
+        "id": 9400061,
+        "type": 1,
+        "content_chs": "解锁结局【命运之人】",
+        "content_chs_t": "解鎖結局【命運之人】",
+        "content_jp": "End5.運命の人",
+        "content_en": "Unlock the Ending - The One",
+        "content_kr": "End5. 운명의 상대",
+        "reward": "302001-1"
+    },
+    {
+        "id": 9400062,
+        "type": 3,
+        "content_chs": "解锁结局【当务之急】",
+        "content_chs_t": "解鎖結局【當務之急】",
+        "content_jp": "End6.まずは腹ごしらえ",
+        "content_en": "Unlock the Ending - Top Priority",
+        "content_kr": "End6. 식사가 우선",
+        "reward": "304006-1"
     }
 ]

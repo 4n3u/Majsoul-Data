@@ -9778,5 +9778,195 @@
         "name_kr": "",
         "type": "chest_replace_up",
         "need_popout": 0
+    },
+    {
+        "id": 250601,
+        "name_chs": "海滨料理屋",
+        "name_chs_t": "海濱料理屋",
+        "name_jp": "海の家レッパンズ",
+        "name_en": "Seaside Cafe",
+        "name_kr": "해변 레스토랑",
+        "type": "combining",
+        "need_popout": 1
+    },
+    {
+        "id": 250602,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "game_task",
+        "need_popout": 0
+    },
+    {
+        "id": 250603,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "period_task",
+        "need_popout": 0
+    },
+    {
+        "id": 250604,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "period_task",
+        "need_popout": 0
+    },
+    {
+        "id": 250610,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "shop",
+        "need_popout": 0
+    },
+    {
+        "id": 250611,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "event_cross_time",
+        "need_popout": 0
+    },
+    {
+        "id": 250612,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "item",
+        "need_popout": 0
+    },
+    {
+        "id": 250620,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250621,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250622,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250623,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250624,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250625,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250630,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_replace_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250631,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_replace_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250632,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_replace_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250633,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_replace_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250634,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_replace_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250635,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_replace_up",
+        "need_popout": 0
     }
 ]

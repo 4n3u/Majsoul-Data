@@ -2660,6 +2660,34 @@
         "new_hand": 0
     },
     {
+        "id": 30550028,
+        "res_name": "sxz",
+        "audio_id": 0,
+        "character_id": 0,
+        "sargs": [
+            "0",
+            "",
+            "",
+            ""
+        ],
+        "old_effect_mark": 0,
+        "new_hand": 0
+    },
+    {
+        "id": 30550029,
+        "res_name": "sxz",
+        "audio_id": 0,
+        "character_id": 0,
+        "sargs": [
+            "0",
+            "",
+            "",
+            ""
+        ],
+        "old_effect_mark": 0,
+        "new_hand": 0
+    },
+    {
         "id": 305555,
         "res_name": "douya",
         "audio_id": 0,
@@ -3150,6 +3178,20 @@
         "new_hand": 0
     },
     {
+        "id": 30560008,
+        "res_name": "liqi_25xila",
+        "audio_id": 0,
+        "character_id": 0,
+        "sargs": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "old_effect_mark": 0,
+        "new_hand": 0
+    },
+    {
         "id": 305700,
         "res_name": "mjp_youling",
         "audio_id": 0,
@@ -3614,6 +3656,34 @@
     {
         "id": 30570009,
         "res_name": "mjp_25chunjie",
+        "audio_id": 0,
+        "character_id": 0,
+        "sargs": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "old_effect_mark": 0,
+        "new_hand": 0
+    },
+    {
+        "id": 30570010,
+        "res_name": "mjp_25xila1",
+        "audio_id": 0,
+        "character_id": 0,
+        "sargs": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "old_effect_mark": 0,
+        "new_hand": 0
+    },
+    {
+        "id": 30570011,
+        "res_name": "mjp_25xila2",
         "audio_id": 0,
         "character_id": 0,
         "sargs": [
@@ -4172,6 +4242,20 @@
         "new_hand": 0
     },
     {
+        "id": 30580019,
+        "res_name": "tablecloth_25xila",
+        "audio_id": 0,
+        "character_id": 0,
+        "sargs": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "old_effect_mark": 0,
+        "new_hand": 0
+    },
+    {
         "id": 305901,
         "res_name": "mpzs_shandian",
         "audio_id": 0,
@@ -4468,6 +4552,20 @@
     {
         "id": 30700005,
         "res_name": "beijing_dongmudaqiao",
+        "audio_id": 0,
+        "character_id": 0,
+        "sargs": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "old_effect_mark": 0,
+        "new_hand": 0
+    },
+    {
+        "id": 30700006,
+        "res_name": "beijing_shamo",
         "audio_id": 0,
         "character_id": 0,
         "sargs": [

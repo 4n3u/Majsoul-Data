@@ -726,6 +726,12 @@
         "type": "event"
     },
     {
+        "id": 10000,
+        "path": "audio/audio_event/2506xila_bgm",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
         "id": 10001,
         "path": "audio/audio_event/2312winter_combine",
         "time_length": 0.0,

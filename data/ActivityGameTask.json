@@ -7648,5 +7648,65 @@
         "hidden_reward": "",
         "limit_id": 10016,
         "deprecated": 0
+    },
+    {
+        "id": 25060201,
+        "activity_id": 250602,
+        "base_task_id": 22799,
+        "reward_id": 30900090,
+        "reward_count": 30,
+        "hidden_reward": "",
+        "limit_id": 0,
+        "deprecated": 0
+    },
+    {
+        "id": 25060202,
+        "activity_id": 250602,
+        "base_task_id": 22800,
+        "reward_id": 30900090,
+        "reward_count": 60,
+        "hidden_reward": "",
+        "limit_id": 0,
+        "deprecated": 0
+    },
+    {
+        "id": 25060203,
+        "activity_id": 250602,
+        "base_task_id": 22801,
+        "reward_id": 30900090,
+        "reward_count": 90,
+        "hidden_reward": "",
+        "limit_id": 0,
+        "deprecated": 0
+    },
+    {
+        "id": 25060204,
+        "activity_id": 250602,
+        "base_task_id": 22802,
+        "reward_id": 30900090,
+        "reward_count": 120,
+        "hidden_reward": "",
+        "limit_id": 0,
+        "deprecated": 0
+    },
+    {
+        "id": 25060205,
+        "activity_id": 250602,
+        "base_task_id": 22803,
+        "reward_id": 30900090,
+        "reward_count": 180,
+        "hidden_reward": "",
+        "limit_id": 0,
+        "deprecated": 0
+    },
+    {
+        "id": 25060206,
+        "activity_id": 250602,
+        "base_task_id": 22804,
+        "reward_id": 30900090,
+        "reward_count": 240,
+        "hidden_reward": "",
+        "limit_id": 0,
+        "deprecated": 0
     }
 ]

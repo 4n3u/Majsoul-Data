@@ -284,5 +284,16 @@
         "banner_left_selected": "",
         "banner_left_icon": "",
         "time_remind": 0
+    },
+    {
+        "id": 250601,
+        "sort": 118,
+        "banner_type": 2,
+        "enter_icon": "myres2/activity_banner/25xila_0.png",
+        "banner_big": "myres2/activity_banner/25xila_b.jpg",
+        "banner_left": "myres2/activity_banner/25xila.png",
+        "banner_left_selected": "",
+        "banner_left_icon": "",
+        "time_remind": 0
     }
 ]

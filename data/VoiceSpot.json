@@ -1221,37 +1221,37 @@
         "id": 6808,
         "character": 200068,
         "type": 8,
-        "path": "audio/sound/ruyuecaiyin/spot/jtm_ayn_242"
+        "path": "audio/sound/ruyuecaiyin/spot/jtm_ayn_237"
     },
     {
         "id": 6809,
         "character": 200068,
         "type": 9,
-        "path": "audio/sound/ruyuecaiyin/spot/jtm_ayn_237"
+        "path": "audio/sound/ruyuecaiyin/spot/jtm_ayn_238"
     },
     {
         "id": 6810,
         "character": 200068,
         "type": 10,
-        "path": "audio/sound/ruyuecaiyin/spot/jtm_ayn_238"
+        "path": "audio/sound/ruyuecaiyin/spot/jtm_ayn_239"
     },
     {
         "id": 6811,
         "character": 200068,
         "type": 11,
-        "path": "audio/sound/ruyuecaiyin/spot/jtm_ayn_239"
+        "path": "audio/sound/ruyuecaiyin/spot/jtm_ayn_240"
     },
     {
         "id": 6812,
         "character": 200068,
         "type": 12,
-        "path": "audio/sound/ruyuecaiyin/spot/jtm_ayn_240"
+        "path": "audio/sound/ruyuecaiyin/spot/jtm_ayn_241"
     },
     {
         "id": 6813,
         "character": 200068,
         "type": 13,
-        "path": "audio/sound/ruyuecaiyin/spot/jtm_ayn_241"
+        "path": "audio/sound/ruyuecaiyin/spot/jtm_ayn_242"
     },
     {
         "id": 6814,
@@ -4534,5 +4534,929 @@
         "character": 20000111,
         "type": 14,
         "path": "audio/sound/archer/spot/jtm_arch_067"
+    },
+    {
+        "id": 701,
+        "character": 200007,
+        "type": 1,
+        "path": "audio/sound/bamuwei/spot/jtm_2_yui_073"
+    },
+    {
+        "id": 702,
+        "character": 200007,
+        "type": 2,
+        "path": "audio/sound/bamuwei/spot/jtm_2_yui_074"
+    },
+    {
+        "id": 703,
+        "character": 200007,
+        "type": 3,
+        "path": "audio/sound/bamuwei/spot/jtm_2_yui_075"
+    },
+    {
+        "id": 704,
+        "character": 200007,
+        "type": 4,
+        "path": "audio/sound/bamuwei/spot/jtm_2_yui_076"
+    },
+    {
+        "id": 705,
+        "character": 200007,
+        "type": 5,
+        "path": "audio/sound/bamuwei/spot/jtm_2_yui_077"
+    },
+    {
+        "id": 706,
+        "character": 200007,
+        "type": 6,
+        "path": "audio/sound/bamuwei/spot/jtm_2_yui_078"
+    },
+    {
+        "id": 707,
+        "character": 200007,
+        "type": 7,
+        "path": "audio/sound/bamuwei/spot/jtm_2_yui_079"
+    },
+    {
+        "id": 708,
+        "character": 200007,
+        "type": 8,
+        "path": "audio/sound/bamuwei/spot/jtm_2_yui_080"
+    },
+    {
+        "id": 709,
+        "character": 200007,
+        "type": 9,
+        "path": "audio/sound/bamuwei/spot/jtm_2_yui_081"
+    },
+    {
+        "id": 710,
+        "character": 200007,
+        "type": 10,
+        "path": "audio/sound/bamuwei/spot/jtm_2_yui_082"
+    },
+    {
+        "id": 711,
+        "character": 200007,
+        "type": 11,
+        "path": "audio/sound/bamuwei/spot/jtm_2_yui_083"
+    },
+    {
+        "id": 712,
+        "character": 200007,
+        "type": 12,
+        "path": "audio/sound/bamuwei/spot/jtm_2_yui_084"
+    },
+    {
+        "id": 713,
+        "character": 200007,
+        "type": 13,
+        "path": "audio/sound/bamuwei/spot/jtm_2_yui_085"
+    },
+    {
+        "id": 714,
+        "character": 200007,
+        "type": 14,
+        "path": "audio/sound/bamuwei/spot/jtm_2_yui_086"
+    },
+    {
+        "id": 1901,
+        "character": 200019,
+        "type": 1,
+        "path": "audio/sound/xiaoniaoyouchutian/spot/jtm_hnt_226"
+    },
+    {
+        "id": 1902,
+        "character": 200019,
+        "type": 2,
+        "path": "audio/sound/xiaoniaoyouchutian/spot/jtm_hnt_227"
+    },
+    {
+        "id": 1903,
+        "character": 200019,
+        "type": 3,
+        "path": "audio/sound/xiaoniaoyouchutian/spot/jtm_hnt_228"
+    },
+    {
+        "id": 1904,
+        "character": 200019,
+        "type": 4,
+        "path": "audio/sound/xiaoniaoyouchutian/spot/jtm_hnt_229"
+    },
+    {
+        "id": 1905,
+        "character": 200019,
+        "type": 5,
+        "path": "audio/sound/xiaoniaoyouchutian/spot/jtm_hnt_230"
+    },
+    {
+        "id": 1906,
+        "character": 200019,
+        "type": 6,
+        "path": "audio/sound/xiaoniaoyouchutian/spot/jtm_hnt_231"
+    },
+    {
+        "id": 1907,
+        "character": 200019,
+        "type": 7,
+        "path": "audio/sound/xiaoniaoyouchutian/spot/jtm_hnt_232"
+    },
+    {
+        "id": 1908,
+        "character": 200019,
+        "type": 8,
+        "path": "audio/sound/xiaoniaoyouchutian/spot/jtm_hnt_233"
+    },
+    {
+        "id": 1909,
+        "character": 200019,
+        "type": 9,
+        "path": "audio/sound/xiaoniaoyouchutian/spot/jtm_hnt_234"
+    },
+    {
+        "id": 1910,
+        "character": 200019,
+        "type": 10,
+        "path": "audio/sound/xiaoniaoyouchutian/spot/jtm_hnt_235"
+    },
+    {
+        "id": 1911,
+        "character": 200019,
+        "type": 11,
+        "path": "audio/sound/xiaoniaoyouchutian/spot/jtm_hnt_236"
+    },
+    {
+        "id": 1912,
+        "character": 200019,
+        "type": 12,
+        "path": "audio/sound/xiaoniaoyouchutian/spot/jtm_hnt_237"
+    },
+    {
+        "id": 1913,
+        "character": 200019,
+        "type": 13,
+        "path": "audio/sound/xiaoniaoyouchutian/spot/jtm_hnt_238"
+    },
+    {
+        "id": 1914,
+        "character": 200019,
+        "type": 14,
+        "path": "audio/sound/xiaoniaoyouchutian/spot/jtm_hnt_239"
+    },
+    {
+        "id": 2001,
+        "character": 200020,
+        "type": 1,
+        "path": "audio/sound/wushilanyangcai/spot/jtm_hrn_226"
+    },
+    {
+        "id": 2002,
+        "character": 200020,
+        "type": 2,
+        "path": "audio/sound/wushilanyangcai/spot/jtm_hrn_227"
+    },
+    {
+        "id": 2003,
+        "character": 200020,
+        "type": 3,
+        "path": "audio/sound/wushilanyangcai/spot/jtm_hrn_228"
+    },
+    {
+        "id": 2004,
+        "character": 200020,
+        "type": 4,
+        "path": "audio/sound/wushilanyangcai/spot/jtm_hrn_229"
+    },
+    {
+        "id": 2005,
+        "character": 200020,
+        "type": 5,
+        "path": "audio/sound/wushilanyangcai/spot/jtm_hrn_230"
+    },
+    {
+        "id": 2006,
+        "character": 200020,
+        "type": 6,
+        "path": "audio/sound/wushilanyangcai/spot/jtm_hrn_231"
+    },
+    {
+        "id": 2007,
+        "character": 200020,
+        "type": 7,
+        "path": "audio/sound/wushilanyangcai/spot/jtm_hrn_232"
+    },
+    {
+        "id": 2008,
+        "character": 200020,
+        "type": 8,
+        "path": "audio/sound/wushilanyangcai/spot/jtm_hrn_233"
+    },
+    {
+        "id": 2009,
+        "character": 200020,
+        "type": 9,
+        "path": "audio/sound/wushilanyangcai/spot/jtm_hrn_234"
+    },
+    {
+        "id": 2010,
+        "character": 200020,
+        "type": 10,
+        "path": "audio/sound/wushilanyangcai/spot/jtm_hrn_235"
+    },
+    {
+        "id": 2011,
+        "character": 200020,
+        "type": 11,
+        "path": "audio/sound/wushilanyangcai/spot/jtm_hrn_236"
+    },
+    {
+        "id": 2012,
+        "character": 200020,
+        "type": 12,
+        "path": "audio/sound/wushilanyangcai/spot/jtm_hrn_237"
+    },
+    {
+        "id": 2013,
+        "character": 200020,
+        "type": 13,
+        "path": "audio/sound/wushilanyangcai/spot/jtm_hrn_238"
+    },
+    {
+        "id": 2014,
+        "character": 200020,
+        "type": 14,
+        "path": "audio/sound/wushilanyangcai/spot/jtm_hrn_239"
+    },
+    {
+        "id": 9001,
+        "character": 200090,
+        "type": 1,
+        "path": "audio/sound/jiushi/spot/jtm_ktj_232"
+    },
+    {
+        "id": 9002,
+        "character": 200090,
+        "type": 2,
+        "path": "audio/sound/jiushi/spot/jtm_ktj_233"
+    },
+    {
+        "id": 9003,
+        "character": 200090,
+        "type": 3,
+        "path": "audio/sound/jiushi/spot/jtm_ktj_234"
+    },
+    {
+        "id": 9004,
+        "character": 200090,
+        "type": 4,
+        "path": "audio/sound/jiushi/spot/jtm_ktj_235"
+    },
+    {
+        "id": 9005,
+        "character": 200090,
+        "type": 5,
+        "path": "audio/sound/jiushi/spot/jtm_ktj_236"
+    },
+    {
+        "id": 9006,
+        "character": 200090,
+        "type": 6,
+        "path": "audio/sound/jiushi/spot/jtm_ktj_237"
+    },
+    {
+        "id": 9007,
+        "character": 200090,
+        "type": 7,
+        "path": "audio/sound/jiushi/spot/jtm_ktj_238"
+    },
+    {
+        "id": 9008,
+        "character": 200090,
+        "type": 8,
+        "path": "audio/sound/jiushi/spot/jtm_ktj_239"
+    },
+    {
+        "id": 9009,
+        "character": 200090,
+        "type": 9,
+        "path": "audio/sound/jiushi/spot/jtm_ktj_240"
+    },
+    {
+        "id": 9010,
+        "character": 200090,
+        "type": 10,
+        "path": "audio/sound/jiushi/spot/jtm_ktj_241"
+    },
+    {
+        "id": 9011,
+        "character": 200090,
+        "type": 11,
+        "path": "audio/sound/jiushi/spot/jtm_ktj_242"
+    },
+    {
+        "id": 9012,
+        "character": 200090,
+        "type": 12,
+        "path": "audio/sound/jiushi/spot/jtm_ktj_243"
+    },
+    {
+        "id": 9013,
+        "character": 200090,
+        "type": 13,
+        "path": "audio/sound/jiushi/spot/jtm_ktj_244"
+    },
+    {
+        "id": 9014,
+        "character": 200090,
+        "type": 14,
+        "path": "audio/sound/jiushi/spot/jtm_ktj_245"
+    },
+    {
+        "id": 9201,
+        "character": 200092,
+        "type": 1,
+        "path": "audio/sound/ju/spot/jtm_ju2_232"
+    },
+    {
+        "id": 9202,
+        "character": 200092,
+        "type": 2,
+        "path": "audio/sound/ju/spot/jtm_ju2_233"
+    },
+    {
+        "id": 9203,
+        "character": 200092,
+        "type": 3,
+        "path": "audio/sound/ju/spot/jtm_ju2_234"
+    },
+    {
+        "id": 9204,
+        "character": 200092,
+        "type": 4,
+        "path": "audio/sound/ju/spot/jtm_ju2_235"
+    },
+    {
+        "id": 9205,
+        "character": 200092,
+        "type": 5,
+        "path": "audio/sound/ju/spot/jtm_ju2_236"
+    },
+    {
+        "id": 9206,
+        "character": 200092,
+        "type": 6,
+        "path": "audio/sound/ju/spot/jtm_ju2_237"
+    },
+    {
+        "id": 9207,
+        "character": 200092,
+        "type": 7,
+        "path": "audio/sound/ju/spot/jtm_ju2_238"
+    },
+    {
+        "id": 9208,
+        "character": 200092,
+        "type": 8,
+        "path": "audio/sound/ju/spot/jtm_ju2_239"
+    },
+    {
+        "id": 9209,
+        "character": 200092,
+        "type": 9,
+        "path": "audio/sound/ju/spot/jtm_ju2_240"
+    },
+    {
+        "id": 9210,
+        "character": 200092,
+        "type": 10,
+        "path": "audio/sound/ju/spot/jtm_ju2_241"
+    },
+    {
+        "id": 9211,
+        "character": 200092,
+        "type": 11,
+        "path": "audio/sound/ju/spot/jtm_ju2_242"
+    },
+    {
+        "id": 9212,
+        "character": 200092,
+        "type": 12,
+        "path": "audio/sound/ju/spot/jtm_ju2_243"
+    },
+    {
+        "id": 9213,
+        "character": 200092,
+        "type": 13,
+        "path": "audio/sound/ju/spot/jtm_ju2_244"
+    },
+    {
+        "id": 9214,
+        "character": 200092,
+        "type": 14,
+        "path": "audio/sound/ju/spot/jtm_ju2_245"
+    },
+    {
+        "id": 9601,
+        "character": 200096,
+        "type": 1,
+        "path": "audio/sound/feiming/spot/jtm_fem_232"
+    },
+    {
+        "id": 9602,
+        "character": 200096,
+        "type": 2,
+        "path": "audio/sound/feiming/spot/jtm_fem_233"
+    },
+    {
+        "id": 9603,
+        "character": 200096,
+        "type": 3,
+        "path": "audio/sound/feiming/spot/jtm_fem_234"
+    },
+    {
+        "id": 9604,
+        "character": 200096,
+        "type": 4,
+        "path": "audio/sound/feiming/spot/jtm_fem_235"
+    },
+    {
+        "id": 9605,
+        "character": 200096,
+        "type": 5,
+        "path": "audio/sound/feiming/spot/jtm_fem_236"
+    },
+    {
+        "id": 9606,
+        "character": 200096,
+        "type": 6,
+        "path": "audio/sound/feiming/spot/jtm_fem_237"
+    },
+    {
+        "id": 9607,
+        "character": 200096,
+        "type": 7,
+        "path": "audio/sound/feiming/spot/jtm_fem_238"
+    },
+    {
+        "id": 9608,
+        "character": 200096,
+        "type": 8,
+        "path": "audio/sound/feiming/spot/jtm_fem_239"
+    },
+    {
+        "id": 9609,
+        "character": 200096,
+        "type": 9,
+        "path": "audio/sound/feiming/spot/jtm_fem_240"
+    },
+    {
+        "id": 9610,
+        "character": 200096,
+        "type": 10,
+        "path": "audio/sound/feiming/spot/jtm_fem_241"
+    },
+    {
+        "id": 9611,
+        "character": 200096,
+        "type": 11,
+        "path": "audio/sound/feiming/spot/jtm_fem_242"
+    },
+    {
+        "id": 9612,
+        "character": 200096,
+        "type": 12,
+        "path": "audio/sound/feiming/spot/jtm_fem_243"
+    },
+    {
+        "id": 9613,
+        "character": 200096,
+        "type": 13,
+        "path": "audio/sound/feiming/spot/jtm_fem_244"
+    },
+    {
+        "id": 9614,
+        "character": 200096,
+        "type": 14,
+        "path": "audio/sound/feiming/spot/jtm_fem_245"
+    },
+    {
+        "id": 10701,
+        "character": 20000107,
+        "type": 1,
+        "path": "audio/sound/yuanxiao/spot/jtm_yuxi_232"
+    },
+    {
+        "id": 10702,
+        "character": 20000107,
+        "type": 2,
+        "path": "audio/sound/yuanxiao/spot/jtm_yuxi_233"
+    },
+    {
+        "id": 10703,
+        "character": 20000107,
+        "type": 3,
+        "path": "audio/sound/yuanxiao/spot/jtm_yuxi_234"
+    },
+    {
+        "id": 10704,
+        "character": 20000107,
+        "type": 4,
+        "path": "audio/sound/yuanxiao/spot/jtm_yuxi_235"
+    },
+    {
+        "id": 10705,
+        "character": 20000107,
+        "type": 5,
+        "path": "audio/sound/yuanxiao/spot/jtm_yuxi_236"
+    },
+    {
+        "id": 10706,
+        "character": 20000107,
+        "type": 6,
+        "path": "audio/sound/yuanxiao/spot/jtm_yuxi_237"
+    },
+    {
+        "id": 10707,
+        "character": 20000107,
+        "type": 7,
+        "path": "audio/sound/yuanxiao/spot/jtm_yuxi_238"
+    },
+    {
+        "id": 10708,
+        "character": 20000107,
+        "type": 8,
+        "path": "audio/sound/yuanxiao/spot/jtm_yuxi_239"
+    },
+    {
+        "id": 10709,
+        "character": 20000107,
+        "type": 9,
+        "path": "audio/sound/yuanxiao/spot/jtm_yuxi_240"
+    },
+    {
+        "id": 10710,
+        "character": 20000107,
+        "type": 10,
+        "path": "audio/sound/yuanxiao/spot/jtm_yuxi_241"
+    },
+    {
+        "id": 10711,
+        "character": 20000107,
+        "type": 11,
+        "path": "audio/sound/yuanxiao/spot/jtm_yuxi_242"
+    },
+    {
+        "id": 10712,
+        "character": 20000107,
+        "type": 12,
+        "path": "audio/sound/yuanxiao/spot/jtm_yuxi_243"
+    },
+    {
+        "id": 10713,
+        "character": 20000107,
+        "type": 13,
+        "path": "audio/sound/yuanxiao/spot/jtm_yuxi_244"
+    },
+    {
+        "id": 10714,
+        "character": 20000107,
+        "type": 14,
+        "path": "audio/sound/yuanxiao/spot/jtm_yuxi_245"
+    },
+    {
+        "id": 9901,
+        "character": 200099,
+        "type": 1,
+        "path": "audio/sound/huayubai/spot/jtm_kghk_232"
+    },
+    {
+        "id": 9902,
+        "character": 200099,
+        "type": 2,
+        "path": "audio/sound/huayubai/spot/jtm_kghk_233"
+    },
+    {
+        "id": 9903,
+        "character": 200099,
+        "type": 3,
+        "path": "audio/sound/huayubai/spot/jtm_kghk_234"
+    },
+    {
+        "id": 9904,
+        "character": 200099,
+        "type": 4,
+        "path": "audio/sound/huayubai/spot/jtm_kghk_235"
+    },
+    {
+        "id": 9905,
+        "character": 200099,
+        "type": 5,
+        "path": "audio/sound/huayubai/spot/jtm_kghk_236"
+    },
+    {
+        "id": 9906,
+        "character": 200099,
+        "type": 6,
+        "path": "audio/sound/huayubai/spot/jtm_kghk_237"
+    },
+    {
+        "id": 9907,
+        "character": 200099,
+        "type": 7,
+        "path": "audio/sound/huayubai/spot/jtm_kghk_238"
+    },
+    {
+        "id": 9908,
+        "character": 200099,
+        "type": 8,
+        "path": "audio/sound/huayubai/spot/jtm_kghk_239"
+    },
+    {
+        "id": 9909,
+        "character": 200099,
+        "type": 9,
+        "path": "audio/sound/huayubai/spot/jtm_kghk_240"
+    },
+    {
+        "id": 9910,
+        "character": 200099,
+        "type": 10,
+        "path": "audio/sound/huayubai/spot/jtm_kghk_241"
+    },
+    {
+        "id": 9911,
+        "character": 200099,
+        "type": 11,
+        "path": "audio/sound/huayubai/spot/jtm_kghk_242"
+    },
+    {
+        "id": 9912,
+        "character": 200099,
+        "type": 12,
+        "path": "audio/sound/huayubai/spot/jtm_kghk_243"
+    },
+    {
+        "id": 9913,
+        "character": 200099,
+        "type": 13,
+        "path": "audio/sound/huayubai/spot/jtm_kghk_244"
+    },
+    {
+        "id": 9914,
+        "character": 200099,
+        "type": 14,
+        "path": "audio/sound/huayubai/spot/jtm_kghk_245"
+    },
+    {
+        "id": 9801,
+        "character": 200098,
+        "type": 1,
+        "path": "audio/sound/huayuqing/spot/jtm_kgse_232"
+    },
+    {
+        "id": 9802,
+        "character": 200098,
+        "type": 2,
+        "path": "audio/sound/huayuqing/spot/jtm_kgse_233"
+    },
+    {
+        "id": 9803,
+        "character": 200098,
+        "type": 3,
+        "path": "audio/sound/huayuqing/spot/jtm_kgse_234"
+    },
+    {
+        "id": 9804,
+        "character": 200098,
+        "type": 4,
+        "path": "audio/sound/huayuqing/spot/jtm_kgse_235"
+    },
+    {
+        "id": 9805,
+        "character": 200098,
+        "type": 5,
+        "path": "audio/sound/huayuqing/spot/jtm_kgse_236"
+    },
+    {
+        "id": 9806,
+        "character": 200098,
+        "type": 6,
+        "path": "audio/sound/huayuqing/spot/jtm_kgse_237"
+    },
+    {
+        "id": 9807,
+        "character": 200098,
+        "type": 7,
+        "path": "audio/sound/huayuqing/spot/jtm_kgse_238"
+    },
+    {
+        "id": 9808,
+        "character": 200098,
+        "type": 8,
+        "path": "audio/sound/huayuqing/spot/jtm_kgse_239"
+    },
+    {
+        "id": 9809,
+        "character": 200098,
+        "type": 9,
+        "path": "audio/sound/huayuqing/spot/jtm_kgse_240"
+    },
+    {
+        "id": 9810,
+        "character": 200098,
+        "type": 10,
+        "path": "audio/sound/huayuqing/spot/jtm_kgse_241"
+    },
+    {
+        "id": 9811,
+        "character": 200098,
+        "type": 11,
+        "path": "audio/sound/huayuqing/spot/jtm_kgse_242"
+    },
+    {
+        "id": 9812,
+        "character": 200098,
+        "type": 12,
+        "path": "audio/sound/huayuqing/spot/jtm_kgse_243"
+    },
+    {
+        "id": 9813,
+        "character": 200098,
+        "type": 13,
+        "path": "audio/sound/huayuqing/spot/jtm_kgse_244"
+    },
+    {
+        "id": 9814,
+        "character": 200098,
+        "type": 14,
+        "path": "audio/sound/huayuqing/spot/jtm_kgse_245"
+    },
+    {
+        "id": 10601,
+        "character": 20000106,
+        "type": 1,
+        "path": "audio/sound/jian/spot/jtm_jane_232"
+    },
+    {
+        "id": 10602,
+        "character": 20000106,
+        "type": 2,
+        "path": "audio/sound/jian/spot/jtm_jane_233"
+    },
+    {
+        "id": 10603,
+        "character": 20000106,
+        "type": 3,
+        "path": "audio/sound/jian/spot/jtm_jane_234"
+    },
+    {
+        "id": 10604,
+        "character": 20000106,
+        "type": 4,
+        "path": "audio/sound/jian/spot/jtm_jane_235"
+    },
+    {
+        "id": 10605,
+        "character": 20000106,
+        "type": 5,
+        "path": "audio/sound/jian/spot/jtm_jane_236"
+    },
+    {
+        "id": 10606,
+        "character": 20000106,
+        "type": 6,
+        "path": "audio/sound/jian/spot/jtm_jane_237"
+    },
+    {
+        "id": 10607,
+        "character": 20000106,
+        "type": 7,
+        "path": "audio/sound/jian/spot/jtm_jane_238"
+    },
+    {
+        "id": 10608,
+        "character": 20000106,
+        "type": 8,
+        "path": "audio/sound/jian/spot/jtm_jane_239"
+    },
+    {
+        "id": 10609,
+        "character": 20000106,
+        "type": 9,
+        "path": "audio/sound/jian/spot/jtm_jane_240"
+    },
+    {
+        "id": 10610,
+        "character": 20000106,
+        "type": 10,
+        "path": "audio/sound/jian/spot/jtm_jane_241"
+    },
+    {
+        "id": 10611,
+        "character": 20000106,
+        "type": 11,
+        "path": "audio/sound/jian/spot/jtm_jane_242"
+    },
+    {
+        "id": 10612,
+        "character": 20000106,
+        "type": 12,
+        "path": "audio/sound/jian/spot/jtm_jane_243"
+    },
+    {
+        "id": 10613,
+        "character": 20000106,
+        "type": 13,
+        "path": "audio/sound/jian/spot/jtm_jane_244"
+    },
+    {
+        "id": 10614,
+        "character": 20000106,
+        "type": 14,
+        "path": "audio/sound/jian/spot/jtm_jane_245"
+    },
+    {
+        "id": 9701,
+        "character": 200097,
+        "type": 1,
+        "path": "audio/sound/sataen/spot/jtm_sat_232"
+    },
+    {
+        "id": 9702,
+        "character": 200097,
+        "type": 2,
+        "path": "audio/sound/sataen/spot/jtm_sat_233"
+    },
+    {
+        "id": 9703,
+        "character": 200097,
+        "type": 3,
+        "path": "audio/sound/sataen/spot/jtm_sat_234"
+    },
+    {
+        "id": 9704,
+        "character": 200097,
+        "type": 4,
+        "path": "audio/sound/sataen/spot/jtm_sat_235"
+    },
+    {
+        "id": 9705,
+        "character": 200097,
+        "type": 5,
+        "path": "audio/sound/sataen/spot/jtm_sat_236"
+    },
+    {
+        "id": 9706,
+        "character": 200097,
+        "type": 6,
+        "path": "audio/sound/sataen/spot/jtm_sat_237"
+    },
+    {
+        "id": 9707,
+        "character": 200097,
+        "type": 7,
+        "path": "audio/sound/sataen/spot/jtm_sat_238"
+    },
+    {
+        "id": 9708,
+        "character": 200097,
+        "type": 8,
+        "path": "audio/sound/sataen/spot/jtm_sat_239"
+    },
+    {
+        "id": 9709,
+        "character": 200097,
+        "type": 9,
+        "path": "audio/sound/sataen/spot/jtm_sat_240"
+    },
+    {
+        "id": 9710,
+        "character": 200097,
+        "type": 10,
+        "path": "audio/sound/sataen/spot/jtm_sat_241"
+    },
+    {
+        "id": 9711,
+        "character": 200097,
+        "type": 11,
+        "path": "audio/sound/sataen/spot/jtm_sat_242"
+    },
+    {
+        "id": 9712,
+        "character": 200097,
+        "type": 12,
+        "path": "audio/sound/sataen/spot/jtm_sat_243"
+    },
+    {
+        "id": 9713,
+        "character": 200097,
+        "type": 13,
+        "path": "audio/sound/sataen/spot/jtm_sat_244"
+    },
+    {
+        "id": 9714,
+        "character": 200097,
+        "type": 14,
+        "path": "audio/sound/sataen/spot/jtm_sat_245"
     }
 ]

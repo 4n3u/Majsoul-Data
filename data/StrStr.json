@@ -1559,8 +1559,8 @@
     {
         "id": 2091,
         "type": "",
-        "chs": "无",
-        "chs_t": "無",
+        "chs": "关闭",
+        "chs_t": "關閉",
         "jp": "無効",
         "en": "Disable",
         "kr": "OFF"
@@ -1568,8 +1568,8 @@
     {
         "id": 2092,
         "type": "",
-        "chs": "有",
-        "chs_t": "有",
+        "chs": "开启",
+        "chs_t": "開啟",
         "jp": "有効",
         "en": "Enable",
         "kr": "ON"
@@ -4403,8 +4403,8 @@
     {
         "id": 2407,
         "type": "",
-        "chs": "礼品奉纳",
-        "chs_t": "禮品奉納",
+        "chs": "礼物奉纳",
+        "chs_t": "禮物奉納",
         "jp": "奉納",
         "en": "Donate",
         "kr": "봉납"
@@ -4646,8 +4646,8 @@
     {
         "id": 2434,
         "type": "",
-        "chs": "不启用",
-        "chs_t": "不啟用",
+        "chs": "关闭",
+        "chs_t": "關閉",
         "jp": "無効",
         "en": "Disable",
         "kr": "OFF"
@@ -4655,8 +4655,8 @@
     {
         "id": 2435,
         "type": "",
-        "chs": "启用",
-        "chs_t": "啟用",
+        "chs": "开启",
+        "chs_t": "開啟",
         "jp": "有効",
         "en": "Enable",
         "kr": "ON"
@@ -17573,7 +17573,7 @@
         "chs": "{0}积分解锁",
         "chs_t": "{0}積分解鎖",
         "jp": "{0}レビューPTで解禁",
-        "en": "Unlocks at {0} PT",
+        "en": "Unlocks at {0} Praise PT",
         "kr": "{0}포인트로 해제"
     },
     {
@@ -17582,7 +17582,7 @@
         "chs": "{0}积分\r\n解锁",
         "chs_t": "{0}積分\r\n解鎖",
         "jp": "{0}レビューPT\r\nで解禁",
-        "en": "Unlocks at\r\n{0} PT",
+        "en": "Unlocks at\r\n{0} Praise PT",
         "kr": "{0}포인트\r\n해제"
     },
     {
@@ -23411,11 +23411,11 @@
     {
         "id": 5230,
         "type": "",
-        "chs": "",
-        "chs_t": "",
-        "jp": "",
-        "en": "",
-        "kr": ""
+        "chs": "每次寻觅都可以获得1点",
+        "chs_t": "每次尋覓都可以獲得1點",
+        "jp": "1回祈願するたびに1点",
+        "en": "For each summon: you can get 1",
+        "kr": "기원 1회당 1포인트"
     },
     {
         "id": 7000,
@@ -23781,7 +23781,7 @@
         "id": 7040,
         "type": "",
         "chs": "",
-        "chs_t": "",
+        "chs_t": "裡",
         "jp": "",
         "en": "",
         "kr": ""
@@ -33869,11 +33869,11 @@
     {
         "id": 20354,
         "type": "",
-        "chs": "使用MAKA可分析玩家参与的段位战-四人麻将的牌谱，给出牌谱评分和打牌建议\r\n\r\n每日可用分析次数：10次（月势御守生效中每日可用30次），每日5:00重置\r\n单次分析结果保留7天，请您及时查看分析结果\r\n\r\n分析后，MAKA会在牌谱中，按照当时的场面条件提供分析思路以供参考\r\n牌面或按钮上的数字越高，代表选择此行为的倾向性越强\r\n\r\n在「局列表」中，可以查看每小局的评分\r\n在「巡目列表」中，可以查看具体哪一巡与MAKA的建议有差异\r\n此外，也可以通过「上/下个差异」按钮，快速定位到差异处\r\n\r\n希望MAKA能为您的对局复盘提供帮助",
-        "chs_t": "使用MAKA可分析玩家參與的段位戰-四人麻將的牌譜，給出牌譜評分和打牌建議\r\n\r\n每日可用分析次數：10次（月勢御守生效中每日可用30次），每日5:00重置\r\n單次分析結果保留7天，請您及時查看分析結果\r\n\r\n分析後，MAKA會在牌譜中，按照當時的場面條件提供分析思路以供參考\r\n牌面或按鈕上的數位越高，代表選擇此行為的傾向性越強\r\n\r\n在「局列表」中，可以查看每小局的評分\r\n在「巡目列表」中，可以查看具體哪一巡與MAKA的建議有差異\r\n此外，也可以透過「上/下個差異」按鈕，快速定位到差異處\r\n\r\n希望MAKA能為您的對局覆盤提供幫助",
-        "jp": "オリジナル牌譜分析システム「MAKA」を使うと、「段位戦・四人麻雀」の牌譜を分析し、評価することができる。\r\n\r\n分析完了後、各種評価が点数で表示され、打牌へのアドバイスも表示される。\r\n手牌または操作ボタンの上に表示された数字が高ければ高いほど、MAKAによる行動のおすすめ度が高い。\r\n\r\n「局リスト」で、各局の評価を確認できる。\r\n「巡目リスト」で、MAKAが推奨する行動と異なる行動をとった巡目を一覧できる。\r\nまた、牌譜確認中でも「前/次の分岐へ」ボタンで、MAKAが推奨する行動と異なる行動をとった巡目まで移動できる。\r\n\r\n※分析結果は、7日経過するまではいつでも確認できる。\r\n※一日に分析出来る牌譜は10件まで（分析可能回数は毎日朝6:00にリセットされる）。\r\n※開運御守の有効期間中は、一日に分析出来る牌譜は30件まで。",
-        "en": "Use MAKA to analyze your logs for Ranked Match (Four-Player). It will provide scores and playing suggestions.\r\n\r\nDaily analysis limit: 10 attempts (30 attempts daily with Fortune Charm in effect). Resets every day at 2:00 P.M. (UTC-7).\r\n\r\nSingle analysis results are retained for 7 days, so please check them promptly.\r\n\r\nAfter analysis, MAKA offers suggestions based on the game situation for your reference.\r\nA higher number on a tile or button indicates a stronger recommendation for that choice.\r\n\r\nIn the Round List, you can view scores for each round.\r\nIn the Turn List, you can see where your decisions differ from MAKA's suggestions.\r\nAdditionally, use the \"Prev/Next Diff\" buttons to quickly locate these differences.\r\n\r\nWe hope MAKA helps you review and enhance your mahjong skills.",
-        "kr": "패보 분석 시스템 'MAKA'는 참여한 등급전-4인전의 패보를 분석할 수 있습니다. 분석 완료 후, 평점과 조언이 표시됩니다.\r\n\r\n매일 10회의 분석 횟수가 주어지며(운수 대통 부적 보유 시 매일 30회), 분석 횟수는 매일 오전 6시에 갱신됩니다.\r\n\r\n분석 결과는 7일 동안만 보관되니, 잊지 말고 확인해 주세요.\r\n\r\n분석 후, 'MAKA'는 패보의 당시 상황에 따른 분석 및 플레이 방향을 제안하여 참고할 수 있도록 합니다.\r\n패 혹은 버튼의 숫자가 높을수록 해당 행동을 선택할 경향이 높다는 의미입니다.\r\n\r\n'국 목록'에서는 각 국별 평가 점수를 확인할 수 있습니다.\r\n'순 목록'에서는 특정 순에서 'MAKA'의 제안과 실제 플레이 간의 차이점을 확인할 수 있습니다.\r\n또한 '이전/다음 분기점으로' 버튼으로 차이 발생 지점에 빠르게 이동할 수 있습니다.\r\n\r\n'MAKA'가 여러분의 대국 복기에 도움이 되길 바랍니다."
+        "chs": "使用MAKA可分析玩家参与的段位战-四人麻将、与段位战规则相同的友人战&赛事牌谱，给出牌谱评分和打牌建议\r\n \r\n每日可用分析次数：10次（月势御守生效中每日可用30次），每日5:00重置\r\n单次分析结果保留7天，请您及时查看分析结果\r\n \r\n分析后，MAKA会在牌谱中，按照当时的场面条件提供分析思路以供参考\r\n牌面或按钮上的数字越高，代表选择此行为的倾向性越强\r\n \r\n在「局列表」中，可以查看每小局的评分\r\n在「巡目列表」中，可以查看具体哪一巡与MAKA的建议有差异\r\n此外，也可以通过「上/下个差异」按钮，快速定位到差异处\r\n \r\n希望MAKA能为您的对局复盘提供帮助",
+        "chs_t": "使用MAKA可分析玩家參與的段位戰-四人麻將、與段位戰規則相同的友人戰&賽事牌譜，給出牌譜評分和打牌建議\r\n\r\n每日可用分析次數：10次（月勢御守生效中每日可用30次），每日5:00重置\r\n單次分析結果保留7天，請您及時查看分析結果\r\n\r\n分析後，MAKA會在牌譜中，按照當時的場面條件提供分析思路以供參考\r\n牌面或按鈕上的數位越高，代表選擇此行為的傾向性越強\r\n\r\n在「局列表」中，可以查看每小局的評分\r\n在「巡目列表」中，可以查看具體哪一巡與MAKA的建議有差異\r\n此外，也可以透過「上/下個差異」按鈕，快速定位到差異處\r\n\r\n希望MAKA能為您的對局覆盤提供幫助",
+        "jp": "オリジナル牌譜分析システム「MAKA」を使うと、「段位戦・四人麻雀」、および段位戦と同じ設定の「友人戦」・「大会ロビー」の牌譜を分析し、評価することができる。\r\n\r\n分析完了後、各種評価が点数で表示され、打牌へのアドバイスも表示される。\r\n手牌または操作ボタンの上に表示された数字が高ければ高いほど、MAKAによる行動のおすすめ度が高い。\r\n\r\n「局リスト」で、各局の評価を確認できる。\r\n「巡目リスト」で、MAKAが推奨する行動と異なる行動をとった巡目を一覧できる。\r\nまた、牌譜確認中でも「前/次の分岐へ」ボタンで、MAKAが推奨する行動と異なる行動をとった巡目まで移動できる。\r\n\r\n※分析結果は、7日経過するまではいつでも確認できる。\r\n※一日に分析出来る牌譜は10件まで（分析可能回数は毎日朝6:00にリセットされる）。\r\n※開運御守の有効期間中は、一日に分析出来る牌譜は30件まで。",
+        "en": "Use MAKA to analyze your logs from 4-Player Ranked matches, as well as Friendly and Tournament matches that use the same rules as Ranked matches. It will provide scores and playing suggestions.\r\n\r\nDaily analysis limit: 10 attempts (30 attempts daily with Fortune Charm in effect). Resets every day at 2:00 P.M. (UTC-7).\r\n\r\nSingle analysis results are retained for 7 days, so please check them promptly.\r\n\r\nAfter analysis, MAKA offers suggestions based on the game situation for your reference.\r\nA higher number on a tile or button indicates a stronger recommendation for that choice.\r\n\r\nIn the Round List, you can view scores for each round.\r\nIn the Turn List, you can see where your decisions differ from MAKA's suggestions.\r\nAdditionally, use the \"Prev/Next Diff\" buttons to quickly locate these differences.\r\n\r\nWe hope MAKA helps you review and enhance your mahjong skills.",
+        "kr": "패보 분석 시스템 'MAKA'는 참여한 등급전-4인전 및 등급전 규칙과 동일한 친선전/대회전의 패보를 분석할 수 있습니다. 분석 완료 후, 평점과 조언이 표시됩니다.\r\n\r\n매일 10회의 분석 횟수가 주어지며(운수 대통 부적 보유 시 매일 30회), 분석 횟수는 매일 오전 6시에 갱신됩니다.\r\n\r\n분석 결과는 7일 동안만 보관되니, 잊지 말고 확인해 주세요.\r\n\r\n분석 후, 'MAKA'는 패보의 당시 상황에 따른 분석 및 플레이 방향을 제안하여 참고할 수 있도록 합니다.\r\n패 혹은 버튼의 숫자가 높을수록 해당 행동을 선택할 경향이 높다는 의미입니다.\r\n\r\n'국 목록'에서는 각 국별 평가 점수를 확인할 수 있습니다.\r\n'순 목록'에서는 특정 순에서 'MAKA'의 제안과 실제 플레이 간의 차이점을 확인할 수 있습니다.\r\n또한 '이전/다음 분기점으로' 버튼으로 차이 발생 지점에 빠르게 이동할 수 있습니다.\r\n\r\n'MAKA'가 여러분의 대국 복기에 도움이 되길 바랍니다."
     },
     {
         "id": 20355,
@@ -36052,5 +36052,113 @@
         "jp": "",
         "en": "",
         "kr": ""
+    },
+    {
+        "id": 25060001,
+        "type": "",
+        "chs": "夏日限定活动-海滨料理屋\r\n活动时间：6月25日-7月16日4:59\r\n\r\n“把一番市的美食故事带给全世界？”\r\n于是，小熊猫主厨远渡重洋，开启了全新的海滨料理屋！\r\n老板柚x主厨小熊猫向你发出组队邀请——\r\n完成订单，收集好评，用美味料理征服所有食客吧！\r\n\r\n活动期间完成经营目标，可以获得限定牌背、活动插画、寻觅卷轴等丰厚奖励！\r\n\r\n关于订单\r\n-每日5:00，料理屋会迎来一定数量的客人，并提出自己想吃的菜品\r\n-正确完成菜品订单，可以获得好评积分，用于换取各种奖励！\r\n-部分客人的订单需要提交两个菜品才可以完成，完成后会收到更多好评！\r\n\r\n关于原材料的获取\r\n-活动期间完成每日任务可以获得小熊猫硬币\r\n-在任意无电脑对局中和牌，也可以获得小熊猫硬币\r\n和牌（满贯未满）+30\r\n和牌（满贯）+60\r\n和牌（跳满）+90\r\n和牌（倍满）+120\r\n和牌（三倍满）+180\r\n和牌（役满及以上）+240\r\n-小熊猫硬币可以用于点击材料盘，并在桌面上生成原材料\r\n-每种材料盘只会生成对应的两种原材料\r\n\r\n关于合成操作\r\n-桌面上的食物可以用来合成和提交订单\r\n-将两个相同的低等级食物拖动到一起，可以合成为一个更高级的食物！\r\n-食物到达最大等级后无法再继续合成\r\n-合成路径可以随时到食谱界面查看\r\n\r\n关于小费\r\n-每次合成操作都有概率生成小费\r\n-将小费拖动至回收台出售可以直接获得好评积分哦！\r\n-小费也可以用于合成，售出更多好评积分\r\n-小费有每日10个的生成上限\r\n\r\n关于出售\r\n-桌面上不需要的材料可以拖到回收台出售，重新获得小熊猫硬币\r\n-出售时获得的小熊猫硬币是会有损耗的，所以还请不要无节制地出售哦\r\n-在没有进行任何其他操作的情况下，可以撤回上一次的出售操作（小费除外）\r\n\r\n柚的小贴士\r\n-先看好客人要什么菜品，再去选择对应的材料盘，可以事半功倍\r\n-尽量避免浪费是任何一位正义伙伴的必修课\r\n-菜品被施加了神奇的魔法所以不会变质",
+        "chs_t": "夏日限定活動-海濱料理屋\r\n活動時間：6月25日-7月16日4:59\r\n\r\n「把一番市的美食故事帶給全世界？」\r\n於是，小貓熊主廚遠渡重洋，開啟了全新的海濱料理屋！\r\n老闆柚x主廚小貓熊向你發出組隊邀請——\r\n完成訂單，收集好評，用美味料理征服所有食客吧！\r\n\r\n活動期間完成經營目標，可以獲得限定牌背、活動插畫、尋覓卷軸等豐厚獎勵！\r\n\r\n關於訂單\r\n-每日5:00，料理屋會迎來一定數量的客人，並提出自己想吃的菜品\r\n-正確完成菜品訂單，可以獲得好評積分，用於換取各種獎勵！\r\n-部分客人的訂單需要提交兩個菜品才可以完成，完成後會收到更多好評！\r\n\r\n關於原材料的獲取\r\n-活動期間完成每日任務可以獲得小貓熊硬幣\r\n-在任意無電腦對局中和牌，也可以獲得小貓熊硬幣\r\n和牌（滿貫未滿）+30\r\n和牌（滿貫）+60\r\n和牌（跳滿）+90\r\n和牌（倍滿）+120\r\n和牌（三倍滿）+180\r\n和牌（役滿及以上）+240\r\n-小貓熊硬幣可以用於點擊材料盤，並在桌面上生成原材料\r\n-每種材料盤只會生成對應的兩種原材料\r\n\r\n關於合成操作\r\n-桌面上的食物可以用來合成和提交訂單\r\n-將兩個相同的低等級食物拖動到一起，可以合成為一個更高級的食物！\r\n-食物到達最大等級後無法再繼續合成\r\n-合成路徑可以隨時到食譜介面查看\r\n\r\n關於小費\r\n-每次合成操作都有概率生成小費\r\n-將小費拖動至回收台出售可以直接獲得好評積分哦！\r\n-小費也可以用於合成，售出更多好評積分\r\n-小費有每日10個的生成上限\r\n\r\n關於出售\r\n-桌面上不需要的材料可以拖到回收台出售，重新獲得小貓熊硬幣\r\n-出售時獲得的小貓熊硬幣是會有損耗的，所以還請不要無節制地出售哦\r\n-在沒有進行任何其他操作的情況下，可以撤回上一次的出售操作（小費除外）\r\n\r\n柚的小貼士\r\n-先看好客人要什麼菜品，再去選擇對應的材料盤，可以事半功倍\r\n-儘量避免浪費是任何一位正義夥伴的必修課\r\n-菜品被施加了神奇的魔法所以不會變質",
+        "jp": "「海の家レッパンズ」について\r\n\r\n「一飜市のグルメを世界に……！」\r\nそう決めたシェフレッパンズは、海辺にやってきた。\r\n「レストランゆず」で経験を積んだレッパンズ。今度こそスムーズに店を回せるだろう……と思いきや、海の家は大繁盛でやっぱりみんなてんてこ舞い！\r\n頼もしい助っ人として、どうかゆずとレッパンズを助けてあげて！\r\n\r\nイベント期間：6月25日（水）～7月16日（水）\r\nイベント内容：\r\n1. イベント期間中、イベントクエストを達成、またはCPUを含まない対局をすると「レッパンズコイン」を入手できます。イベント画面で「レッパンズコイン」を使用すると、食材を購入できます。\r\n2. お客様のオーダーに沿った料理を出すと、「レビューPT」が入手できます。「レビューPT」をたくさん集めて、限定麻雀牌、ローディングイラストや祈願の巻物などの豪華報酬を手に入れましょう！\r\n\r\nお客様について\r\n-イベント期間中、毎朝6時にお客様が来店します。\r\n-オーダーに沿った料理を出すと、「レビューPT」が入手できます。\r\n-一部のお客様は2品オーダーすることもあります。その場合、獲得できる「レビューPT」も多くなります。\r\n\r\nレッパンズコインの獲得数について\r\n-CPUを含まない対局の一回ごとのレッパンズコイン入手数は以下の通りです。\r\n四人麻雀＆三人麻雀\r\n満貫未満 +30\r\n満貫 +60\r\n跳満 +90\r\n倍満 +120\r\n三倍満 +180\r\n役満以上 +240\r\n※レッパンズコインはイベント画面の食材トレーから食材を購入すると消費されます。\r\n※1つの食材トレーからは、2種類の食材が入手出来ます。\r\n\r\n食材の合成について\r\n-イベント画面の食材は、料理として提出するか、合成に使用することができます。\r\n-低レベルの食材同士をドラッグして合成すると、高レベルの食材を獲得できます。\r\n-最高レベルの食材は合成できません。\r\n-合成レシピは「レシピ」で確認できます。\r\n\r\n回収について\r\n-不要な食材は、回収に出すと一部のレッパンズコインが返還されます。\r\n-回収後、次の操作を行うまでの間に限り回収を取消すことも可能です。\r\n\r\n縁起物について\r\n-合成する度に、1日10回まで一定の確率で「縁起物」が生成されます。\r\n-縁起物を回収すると、レベルに応じてレビューPTが入手できます。\r\n-縁起物も、合成することで高レベルの縁起物を獲得できます。\r\n\r\n（秘）ゆずのメモ書き\r\n-オーダーを見てから食材トレーの食材を選ぶべし。\r\n-浪費は正義の魔女の恥なのだ。\r\n-魔女の魔法で、食材が腐る事はないのだ。",
+        "en": "Summer Limited Event - Seaside Cafe\r\nEvent Period: 6/24 - 7/15 1:59 P.M. (UTC-7)\r\n\r\n\"Bringing the culinary stories of One Han City to the world?\"\r\nAnd so, Chef Red Panda set sail across the seas to open a brand-new Seaside Cafe!\r\nYuzu and Chef Red Panda invite you to join their team –\r\nComplete orders and win over every customer with delicious dishes!\r\n\r\nDuring the event, complete customer orders to earn Praise PT and claim rewards including the new limited Tile Back, Event Illustration, Summon Scroll, and more!\r\n\r\nAbout Orders\r\n- Every day at 2:00 P.M. (UTC-7), a certain number of customers will arrive at Seaside Cafe with their orders.\r\n- Successfully complete orders to earn Praise PT and claim various rewards!\r\n- Some customer orders need two dishes. Completing these will reward you with even more Praise PT!\r\n\r\nAbout Food\r\n- During the event, complete daily missions to earn Red Panda Coins.\r\n- You can also get Red Panda Coins when winning in matches with no AI:\r\nWinning (Score below Mangan) +30\r\nWinning (Mangan) +60\r\nWinning (Haneman) +90\r\nWinning (Baiman) +120\r\nWinning (Sanbaiman) +180\r\nWinning (Yakuman and above) +240\r\n- Tap the food tray on the right to spend Red Panda Coins and get a new dish on the table.\r\n- Each food tray will give you only one of the two dishes shown.\r\n\r\nHow to Merge\r\n- Dishes on the table can be merged or used to complete orders.\r\n- Drag two identical dishes together to merge them into a higher-level dish of the same category.\r\n- Dishes of the highest level cannot be merged further.\r\n- Tap Recipes to view the merging paths.\r\n\r\nAbout Tips\r\n- Every time you merge items, there is a chance Tips will appear.\r\n- Drag Tips to the Collect pot and you will get Praise PT directly!\r\n- You can also merge Tips to create higher-level ones and earn even more Praise PT.\r\n- Only up to 10 Tips can appear each day.\r\n\r\nAbout Collecting\r\n- Drag any unwanted dishes to the Collect pot to receive Red Panda Coins in return.\r\n- Collecting dishes involves some loss of their value, so tread carefully!\r\n- If there is no other action taken in between, you can undo your last Collect action (except Tips).\r\n\r\nYuzu's Note\r\n- Always check what the customers want before picking a food tray!\r\n- Avoiding food waste is a lesson every friend of justice must learn!\r\n- Thanks to a magic spell, the dishes won't spoil.",
+        "kr": "여름 한정 이벤트 - 해변 레스토랑\r\n이벤트 기간: 6월 25일 ~ 7월 16일 5:59 AM (GMT+9)\r\n\r\n\"이한시의 미식을 전세계로……!\"\r\n그런 이상을 품고, 레서판다 셰프는 해변 레스토랑으로 왔다.\r\n가게 주인 유즈와 레서판다즈가 당신에게 참여 요청을 보냈다. 맛있는 요리로 모든 손님을 사로잡자!\r\n\r\n이벤트 기간 동안 유즈를 도와 주문을 받고 좋은 평가를 받으면, 한정 마작패, 이벤트 일러스트, 기원의 두루마리 등 풍부한 보상을 획득할 수 있습니다!\r\n\r\n\r\n<주문 설명>\r\n- 매일 6:00 AM, 레스토랑에 손님들이 찾아와 자신이 먹고 싶은 메뉴를 말합니다.\r\n- 주문에 맞게 음식을 서빙하면 리뷰 포인트를 획득하고 각종 보상으로 교환할 수 있습니다.\r\n- 일부 손님은 음식을 두 개 주문하며, 서빙 완료 시 더 많은 리뷰 포인트를 획득할 수 있습니다.\r\n\r\n<재료 획득 방법>\r\n- 이벤트 기간동안 일일 임무를 완성하고 레서판다즈 코인을 획득합니다.\r\n- 대국에서 화료 후에도 레서판다즈 코인을 획득할 수 있습니다. (AI 제외)\r\n화료(만관 미만) +30\r\n화료(만관) +60\r\n화료(하네만) +90\r\n화료(배만) +120\r\n화료(삼배만) +180\r\n화료(역만 이상) +240\r\n- 접시를 클릭하여 레서판다즈 코인을 사용하면 테이블 위에 재료가 나타납니다.\r\n- 테이블에는 접시 하나에 해당하는 두 종류의 재료만 나타납니다.\r\n\r\n<레시피 조합 설명>\r\n- 테이블에 놓인 음식을 합성하고 주문을 완성할 수 있습니다.\r\n- 테이블 위에 놓인 두 개의 동일한 재료끼리 드래그하여 합성하면, 높은 등급의 음식으로 합성됩니다.\r\n- 음식이 최종 등급에 도달하면 더 이상 합성이 불가능합니다.\r\n- 합성하여 만들 수 있는 음식은 레시피 조합에서 확인할 수 있습니다.\r\n\r\n<팁 설명>\r\n- 음식을 합성하면 확률에 따라 인형이 출현하는 팁을 얻을 수 있습니다.\r\n- 인형을 드래그하여 회수대로 가져가면 리뷰 포인트를 획득할 수 있습니다.\r\n- 인형 팁끼리도 합성이 가능하며, 합성 시 더 많은 리뷰 포인트를 획득합니다.\r\n- 인형 팁은 최대 10회 획득 가능합니다.\r\n\r\n<판매 관련>\r\n- 테이블 위 불필요한 재료는 회수대에 드래그하여 반납하면 일부 레서판다즈 코인을 회수할 수 있습니다.\r\n- 재료 구매에 소모한 레서판다즈 코인을 손해 볼 수 있으니, 신중하게 구매하셔야 합니다.\r\n- 재료 반납 후 다른 조작을 하지 않았다면 취소 표시를 눌러 반납을 취소할 수 있습니다. (인형 팁 제외)\r\n\r\n<유즈의 메모>\r\n- 손님이 주문한 메뉴를 잘 보고, 거기에 해당하는 재료를 선택하면 쉽게 음식을 만들 수 있을 거다! 큐르큐르!\r\n- 음식을 낭비하면 정의의 심판을 받을 것이다! 큐르~\r\n- 마녀의 마법을 걸었으니 재료가 상할 일은 없을 것이다! 큐르르~"
+    },
+    {
+        "id": 25060002,
+        "type": "",
+        "chs": "今日的客人已经全部招待完毕啦！",
+        "chs_t": "今日的客人已經全部招待完畢啦！",
+        "jp": "本日のオーダーは全てさばききりました！",
+        "en": "You have served all customers today!",
+        "kr": "오늘의 손님을 모두 맞이하였습니다!"
+    },
+    {
+        "id": 25060003,
+        "type": "",
+        "chs": "所有的客人已经全部招待完毕啦！",
+        "chs_t": "所有的客人已經全部招待完畢啦！",
+        "jp": "全てのオーダーをさばききりました！",
+        "en": "You have served all the customers!",
+        "kr": "모든 손님을 맞이하였습니다!"
+    },
+    {
+        "id": 25060004,
+        "type": "",
+        "chs": "撤回",
+        "chs_t": "撤回",
+        "jp": "取消",
+        "en": "Undo",
+        "kr": "취소"
+    },
+    {
+        "id": 25060005,
+        "type": "",
+        "chs": "或",
+        "chs_t": "或",
+        "jp": "or",
+        "en": "or",
+        "kr": "또는"
+    },
+    {
+        "id": 25060006,
+        "type": "",
+        "chs": "{0}好评积分解锁",
+        "chs_t": "{0}好評積分解鎖",
+        "jp": "{0}レビューPTで解禁",
+        "en": "Unlocks at {0} Praise PT",
+        "kr": "{0}리뷰 포인트로 해제"
+    },
+    {
+        "id": 25060007,
+        "type": "",
+        "chs": "点击屏幕任意区域继续",
+        "chs_t": "點擊螢幕任意區域繼續",
+        "jp": "タップして閉じる",
+        "en": "Click to continue",
+        "kr": "클릭하여 계속하기"
+    },
+    {
+        "id": 25060008,
+        "type": "",
+        "chs": "活动任务每日5:00刷新",
+        "chs_t": "活動任務每日5:00刷新",
+        "jp": "イベントクエストは毎日6:00に更新されます。",
+        "en": "Daily missions will be refreshed at 2:00 P.M. (UTC-7) every day.",
+        "kr": "일일 임무는 매일 6:00 AM에 갱신됩니다."
+    },
+    {
+        "id": 25060009,
+        "type": "",
+        "chs": "无电脑的对局也可以根据和牌点数获得活动代币\r\n详情请参阅活动规则介绍",
+        "chs_t": "無電腦的對局也可以根據和牌點數獲得活動代幣\r\n詳情請參閱活動規則介紹",
+        "jp": "対局からでもレッパンズコインが入手できます（CPU相手の対局は対象外）。詳細はイベント説明をご覧ください。",
+        "en": "You can also get Red Panda Coins by playing matches with no AI (the number depends on your winning points).",
+        "kr": "대국(AI 제외) 화료 점수로도 이벤트 코인을 획득할 수 있습니다.\r\n자세한 내용은 이벤트 규칙을 참고하여 주시기 바랍니다."
+    },
+    {
+        "id": 25060010,
+        "type": "",
+        "chs": "桌面上的食材已经堆满啦，请先清理桌面",
+        "chs_t": "桌面上的食材已經堆滿啦，請先清理桌面",
+        "jp": "食材がいっぱいです！先に机を整理しましょう。",
+        "en": "The table is full! Please clear some space first.",
+        "kr": "테이블 위의 재료가 가득 찼습니다. 테이블을 정리해주세요."
+    },
+    {
+        "id": 25060011,
+        "type": "",
+        "chs": "持有的小熊猫硬币不足，完成每日任务、在任意无电脑对局中和牌可以获得小熊猫硬币",
+        "chs_t": "持有的小貓熊硬幣不足，完成每日任務、在任意無電腦對局中和牌可以獲得小貓熊硬幣",
+        "jp": "アイテムが足りません。",
+        "en": "You don't have enough Red Panda Coins. Complete daily missions or play matches with no AI to earn more coins.",
+        "kr": "코인이 부족합니다. 일일 임무 완료 또는 대국(AI 제외)에서 화료 시 코인을 획득할 수 있습니다."
+    },
+    {
+        "id": 25060012,
+        "type": "",
+        "chs": "未完成",
+        "chs_t": "未完成",
+        "jp": "未完成",
+        "en": "Incomplete",
+        "kr": "미완료"
     }
 ]

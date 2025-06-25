@@ -372,5 +372,22 @@
         "audio_click": "Y_SE_405906/click",
         "audio_click2": "",
         "celebrate_delay": 0
+    },
+    {
+        "skinid": 401907,
+        "spine_layers": 1,
+        "effects": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "audio_celebrate": "XNYCT_SE_401907/celebrate",
+        "audio_celebrate_idle": "",
+        "audio_idle": "",
+        "audio_greeting": "XNYCT_SE_401907/greeting",
+        "audio_click": "XNYCT_SE_401907/click",
+        "audio_click2": "",
+        "celebrate_delay": 0
     }
 ]

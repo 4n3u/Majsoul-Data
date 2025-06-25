@@ -340,5 +340,23 @@
         "unlock_desc_en": "Event Limited",
         "unlock_desc_kr": "이벤트 한정",
         "unlock_item": 30610005
+    },
+    {
+        "id": 30610006,
+        "auto_hide": 1,
+        "name_chs": "优雅格调",
+        "name_chs_t": "優雅格調",
+        "name_jp": "優雅に、格調高く",
+        "name_en": "Majestic Elegance",
+        "name_kr": "우아한 격조",
+        "path": "music/25xila_duiju.mp3",
+        "time_length": 0.0,
+        "type": "mj",
+        "unlock_desc_chs": "寻觅获得",
+        "unlock_desc_chs_t": "尋覓獲得",
+        "unlock_desc_jp": "祈願から入手",
+        "unlock_desc_en": "Obtain from Summon",
+        "unlock_desc_kr": "기원 획득",
+        "unlock_item": 30610006
     }
 ]

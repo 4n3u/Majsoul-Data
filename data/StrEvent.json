@@ -65338,5 +65338,419 @@
         "jp": "第五章",
         "en": "Chapter V",
         "kr": "5화"
+    },
+    {
+        "id": 25060101,
+        "type": "",
+        "chs": "白面团",
+        "chs_t": "白麵團",
+        "jp": "真っ白な生地",
+        "en": "Steamed Bun",
+        "kr": "빵 반죽"
+    },
+    {
+        "id": 25060102,
+        "type": "",
+        "chs": "牛乳吐司",
+        "chs_t": "牛乳吐司",
+        "jp": "ミルクブレッド",
+        "en": "Milk Bread",
+        "kr": "우유 식빵"
+    },
+    {
+        "id": 25060103,
+        "type": "",
+        "chs": "特制口袋馍",
+        "chs_t": "特製口袋饃",
+        "jp": "特製ピタパン",
+        "en": "Pita Pocket",
+        "kr": "특제 포켓 피타"
+    },
+    {
+        "id": 25060104,
+        "type": "",
+        "chs": "低卡三明治",
+        "chs_t": "低卡三明治",
+        "jp": "ヘルシーサンド",
+        "en": "Sandwich",
+        "kr": "샌드위치"
+    },
+    {
+        "id": 25060105,
+        "type": "",
+        "chs": "汉堡套餐",
+        "chs_t": "漢堡套餐",
+        "jp": "バーガーセット",
+        "en": "Burger Combo",
+        "kr": "햄버거 세트"
+    },
+    {
+        "id": 25060106,
+        "type": "",
+        "chs": "脆脆虾",
+        "chs_t": "脆脆蝦",
+        "jp": "ぷりぷりエビ",
+        "en": "Crispy Shrimp",
+        "kr": "새우"
+    },
+    {
+        "id": 25060107,
+        "type": "",
+        "chs": "鲜虾刺身",
+        "chs_t": "鮮蝦刺身",
+        "jp": "エビのカナッペ",
+        "en": "Shrimp Sashimi",
+        "kr": "새우회"
+    },
+    {
+        "id": 25060108,
+        "type": "",
+        "chs": "酸辣虾尾",
+        "chs_t": "酸辣蝦尾",
+        "jp": "シュリンプカクテル",
+        "en": "Shrimp with Chili Dip",
+        "kr": "마라새우"
+    },
+    {
+        "id": 25060109,
+        "type": "",
+        "chs": "芝士焗虾",
+        "chs_t": "芝士焗蝦",
+        "jp": "半身のチーズ焼き",
+        "en": "Cheesy Garlic Shrimp",
+        "kr": "새우 치즈구이"
+    },
+    {
+        "id": 25060110,
+        "type": "",
+        "chs": "炙烤鳌虾",
+        "chs_t": "炙烤鰲蝦",
+        "jp": "ロブスターの丸焼き",
+        "en": "Grilled Lobster",
+        "kr": "랍스터 버터구이"
+    },
+    {
+        "id": 25060111,
+        "type": "",
+        "chs": "天然蜂巢",
+        "chs_t": "天然蜂巢",
+        "jp": "天然蜂蜜",
+        "en": "Natural Honeycomb",
+        "kr": "벌집"
+    },
+    {
+        "id": 25060112,
+        "type": "",
+        "chs": "百花蜜",
+        "chs_t": "百花蜜",
+        "jp": "高級蜂蜜",
+        "en": "Wildflower Honey",
+        "kr": "벌꿀"
+    },
+    {
+        "id": 25060113,
+        "type": "",
+        "chs": "焦糖华夫饼",
+        "chs_t": "焦糖華夫餅",
+        "jp": "ハニーワッフル",
+        "en": "Caramel Waffles",
+        "kr": "캐러멜 와플"
+    },
+    {
+        "id": 25060114,
+        "type": "",
+        "chs": "蜂蜜厚多士",
+        "chs_t": "蜂蜜厚多士",
+        "jp": "ハニートースト",
+        "en": "Honey Brick Toast",
+        "kr": "허니브레드"
+    },
+    {
+        "id": 25060115,
+        "type": "",
+        "chs": "蓝莓松饼塔",
+        "chs_t": "藍莓鬆餅塔",
+        "jp": "ハニーパンケーキ",
+        "en": "Blueberry Pancakes",
+        "kr": "블루베리 팬케이크"
+    },
+    {
+        "id": 25060116,
+        "type": "",
+        "chs": "猫屎咖啡豆",
+        "chs_t": "貓屎咖啡豆",
+        "jp": "焙煎コーヒー豆",
+        "en": "Civet Coffee Beans",
+        "kr": "루왁 커피"
+    },
+    {
+        "id": 25060117,
+        "type": "",
+        "chs": "招牌冷萃",
+        "chs_t": "招牌冷萃",
+        "jp": "アイスコーヒー",
+        "en": "Cold Brew",
+        "kr": "콜드 브루"
+    },
+    {
+        "id": 25060118,
+        "type": "",
+        "chs": "生酪拿铁",
+        "chs_t": "生酪拿鐵",
+        "jp": "カフェラテ",
+        "en": "Cloud Latte",
+        "kr": "카페 라테"
+    },
+    {
+        "id": 25060119,
+        "type": "",
+        "chs": "椰香摩卡",
+        "chs_t": "椰香摩卡",
+        "jp": "3Dラテアート",
+        "en": "Coconut Mocha",
+        "kr": "코코넛 모카"
+    },
+    {
+        "id": 25060120,
+        "type": "",
+        "chs": "雪葩玛奇朵",
+        "chs_t": "雪葩瑪奇朵",
+        "jp": "豪華クリームコーヒー",
+        "en": "Velvet Macchiato",
+        "kr": "마키아토 프라페"
+    },
+    {
+        "id": 25060121,
+        "type": "",
+        "chs": "幸运达摩",
+        "chs_t": "幸運達摩",
+        "jp": "幸運のだるま",
+        "en": "Daruma Doll",
+        "kr": "오뚝이냥"
+    },
+    {
+        "id": 25060122,
+        "type": "",
+        "chs": "迎客小喵",
+        "chs_t": "迎客小喵",
+        "jp": "招き子猫",
+        "en": "Welcoming Kitty",
+        "kr": "손님맞이냥"
+    },
+    {
+        "id": 25060123,
+        "type": "",
+        "chs": "招财猫咪",
+        "chs_t": "招財貓咪",
+        "jp": "開運招き猫",
+        "en": "Lucky Beckoning Cat",
+        "kr": "마네키네코"
+    },
+    {
+        "id": 25060201,
+        "type": "",
+        "chs": "面多加水，水多加面，面团之大，一锅蒸不下。",
+        "chs_t": "麵多加水，水多加麵，麵團之大，一鍋蒸不下。",
+        "jp": "粉と水分のバランス、こねる時の力加減……いい生地にはこだわりがいっぱい！",
+        "en": "So big and fluffy, we can barely fit it in the steamer!",
+        "kr": "밀가루가 많으면 물을 넣고, 물이 많으면 밀가루를 넣는다. 반죽이 너무 커져서 한 번에 다 구울 수 없다."
+    },
+    {
+        "id": 25060202,
+        "type": "",
+        "chs": "3.5厘米的厚切吐司，一番市早餐天花板。",
+        "chs_t": "3.5公分的厚切吐司，一番市早餐天花板。",
+        "jp": "一切れ厚さ3.5センチ、一飜市民のド定番朝食。",
+        "en": "A generous 3.5cm thick slice – One Han City's ultimate breakfast toast.",
+        "kr": "3.5cm 두께로 자른 식빵, 이한시 최고의 아침 식사 메뉴다."
+    },
+    {
+        "id": 25060203,
+        "type": "",
+        "chs": "人间至味是清欢，万物皆可卷馍馍。",
+        "chs_t": "人間至味是清歡，萬物皆可捲饃饃。",
+        "jp": "肉を包んでよし、野菜を包んでもよし！",
+        "en": "Pure bliss in every bite. Fill this perfect pocket with anything your heart desires!",
+        "kr": "인간 세상 최고의 맛은 평온. 모든 걱정은 포켓에 담아 먹어버리자."
+    },
+    {
+        "id": 25060204,
+        "type": "",
+        "chs": "有幸获得食客评论——“这三明治有妈妈的味道。”",
+        "chs_t": "有幸獲得食客評論——「這三明治有媽媽的味道。」",
+        "jp": "常連さんのレビュー「このサンドイッチは母の味がする」。",
+        "en": "One diner raved, \"This sandwich tastes just like my mom used to make!\"",
+        "kr": "손님에게 '엄마가 해준 맛과 비슷한 샌드위치'라는 평가를 받았다."
+    },
+    {
+        "id": 25060205,
+        "type": "",
+        "chs": "不健康饮食？优质蛋白+适量碳水，这明明就是符合减脂标准的健康餐！",
+        "chs_t": "不健康飲食？優質蛋白+適量碳水，這明明就是符合減脂標準的健康餐！",
+        "jp": "野菜、タンパク質、適度な炭水化物。これのどこがジャンクフードなんだ！？",
+        "en": "Unhealthy? Think again! Premium protein + just the right carbs = a guilt-free, satisfying meal!",
+        "kr": "건강하지 않은 음식이라니? 적당한 단백질과 탄수화물, 분명 다이어트 식단으로 알맞은 메뉴다!"
+    },
+    {
+        "id": 25060206,
+        "type": "",
+        "chs": "生活在近海的野生虾，肉质紧实，味道鲜美，是海鲜料理的不二之选。",
+        "chs_t": "生活在近海的野生蝦，肉質緊實，味道鮮美，是海鮮料理的不二之選。",
+        "jp": "一飜市近海で獲れた天然もののエビたち。シーフードは一飜市でも大人気。",
+        "en": "Fresh from coastal waters! These wild shrimp are firm, sweet, and simply irresistible.",
+        "kr": "근처 해변에 사는 야생 새우. 육질이 탄탄하고 싱싱해서 해산물 요리를 만들기에 제격이다."
+    },
+    {
+        "id": 25060207,
+        "type": "",
+        "chs": "新鲜的食材只需要去壳即可食用，感谢大自然的馈赠。",
+        "chs_t": "新鮮的食材只需要去殼即可食用，感謝大自然的饋贈。",
+        "jp": "新鮮なエビにはシンプルな調理方法が一番合う。",
+        "en": "So fresh, they only need shelling to be enjoyed. A delicious gift from nature!",
+        "kr": "신선한 식재료는 껍질을 벗겨내기만 하면 먹을 수 있다. 자연의 은혜에 감사하라."
+    },
+    {
+        "id": 25060208,
+        "type": "",
+        "chs": "料理屋诚挚推出剥虾服务，如果有需要，也可以提供代吃服务。",
+        "chs_t": "料理屋誠摯推出剝蝦服務，如果有需要，也可以提供代吃服務。",
+        "jp": "殻を剥いたエビに、辛くて酸っぱいディップソースを添えた一品。",
+        "en": "We'll even peel them for you! (And if you're really busy, we offer \"designated eater\" services too!)",
+        "kr": "레스토랑에서 새우 껍질 벗기기 서비스를 제공한다. 필요하다면, 대신 먹기 서비스도 신청할 수 있다."
+    },
+    {
+        "id": 25060209,
+        "type": "",
+        "chs": "盘要大，量要少，空的地方摆点草，看来小熊猫主厨已经深切领悟到摆盘的精髓所在了。",
+        "chs_t": "盤要大，量要少，空的地方擺點草，看來小貓熊主廚已經深切領悟到擺盤的精髓所在了。",
+        "jp": "え、えびが、ロブスターになっちゃったー！？！？\r\nま、美味しいからいっか。",
+        "en": "Big plate, small portion, artfully placed garnish... Chef Red Panda has mastered fine dining presentation!",
+        "kr": "접시는 크게, 양은 적게, 빈 곳에는 허브를. 레서판다 셰프는 플레이팅의 핵심을 깨달았다."
+    },
+    {
+        "id": 25060210,
+        "type": "",
+        "chs": "肉质鲜嫩，口感醇厚，每一口都是极致的味觉享受。",
+        "chs_t": "肉質鮮嫩，口感醇厚，每一口都是極致的味覺享受。",
+        "jp": "今更お皿よりデカいロブスターが出てきてももう驚かないよ。",
+        "en": "Tender, rich, and incredibly flavorful. Every bite is a luxurious taste experience!",
+        "kr": "육질은 신선하고, 풍미는 깊다. 한 입 베어 물 때마다 극상의 맛이 느껴진다."
+    },
+    {
+        "id": 25060211,
+        "type": "",
+        "chs": "真正纯天然、无公害的美味，唯一的缺点是采集时必须全副武装。",
+        "chs_t": "真正純天然、無公害的美味，唯一的缺點是採集時必須全副武裝。",
+        "jp": "純粋天然、無添加の美味しさ。採取時は防護服を忘れずに！",
+        "en": "Nature's sweetest treat! So good, its tiny winged guardians protect it fiercely.",
+        "kr": "무첨가 천연의 맛. 채취할 때 완전무장이 필요하다는 게 유일한 단점이다."
+    },
+    {
+        "id": 25060212,
+        "type": "",
+        "chs": "吃进嘴里，甜在心里。\r\n小熊猫主厨的年度爱用材料之一。",
+        "chs_t": "吃進嘴裡，甜在心裡。\r\n小貓熊主廚的年度愛用材料之一。",
+        "jp": "職人によるオリジナルブレンド。レッパンズシェフが愛用する食材の一つ。",
+        "en": "A taste of joy that sweetens the soul. A beloved ingredient in Chef Red Panda's kitchen.",
+        "kr": "레서판다 셰프가 제일 자주 사용하는 재료 중 하나. 입안에 넣으면 마음속도 달콤해진다."
+    },
+    {
+        "id": 25060213,
+        "type": "",
+        "chs": "口感同时具备蛋糕的绵密和饼干的酥脆，建议搭配咖啡食用哦。",
+        "chs_t": "口感同時具備蛋糕的綿密和餅乾的酥脆，建議搭配咖啡食用哦。",
+        "jp": "一口かじればサクふわ食感！ コーヒーと一緒にどうぞ！",
+        "en": "Soft like cake, crispy like a biscuit! Best enjoyed with your favorite brew.",
+        "kr": "케이크의 부드러움과 비스킷의 바삭함을 동시에 갖추었다. 커피와 함께 먹기를 추천한다."
+    },
+    {
+        "id": 25060214,
+        "type": "",
+        "chs": "一番市市民聚会隐藏规则——谁先挖到冰淇淋球，谁买单！",
+        "chs_t": "一番市市民聚會隱藏規則——誰先挖到霜淇淋球，誰買單！",
+        "jp": "パーティーに欠かせない一品。中のアイスクリームの方が人気だという噂も。",
+        "en": "A towering treat, perfect for sharing. Topped with ice cream – dig in!",
+        "kr": "아이스크림을 먼저 파낸 사람이 결제하는 건 이한시 시민 파티에서의 숨겨진 규칙이다."
+    },
+    {
+        "id": 25060215,
+        "type": "",
+        "chs": "小熊猫主厨向你发出哲学三问：香吗？软吗？再来一份吗？",
+        "chs_t": "小貓熊主廚向你發出哲學三問：香嗎？軟嗎？再來一份嗎？",
+        "jp": "三段重ねのパンケーキには、それぞれ名前がついているらしい。",
+        "en": "Chef Red Panda poses the ultimate test: Tempting aroma? Cloud-like softness? Resistance is futile... order another!",
+        "kr": "\"냄새 좋아? 부드러워? 하나 더 주문할래?\" 레서판다 셰프가 물었다."
+    },
+    {
+        "id": 25060216,
+        "type": "",
+        "chs": "特殊环境下发酵的超珍贵咖啡。\r\n声明：该物品只能由麝香猫产出，请不要向一姬投喂咖啡豆。",
+        "chs_t": "特殊環境下發酵的超珍貴咖啡。\r\n聲明：該物品只能由麝香貓產出，請不要向一姬投喂咖啡豆。",
+        "jp": "コピ・ルアクが採れるのは、別のネコです！ 一姫にコーヒー豆を与えないでください！",
+        "en": "An ultra-rare coffee, uniquely fermented. Disclaimer: Exclusively produced by civets. Please do not feed coffee beans to Ichihime.",
+        "kr": "특수한 조건에서 발효되는 진귀한 커피. 주의: 이 제품은 사향고양이만 생산할 수 있으니, 이치히메에게 커피콩을 먹이지 마시오."
+    },
+    {
+        "id": 25060217,
+        "type": "",
+        "chs": "「Éternité」夏季销售额第一的饮品，顾客严选，值得信赖！",
+        "chs_t": "「Éternité」夏季銷售額第一的飲品，顧客嚴選，值得信賴！",
+        "jp": "エテルニテの大人気商品！ この夏も販売数No.1の座を守り切れるのか！？",
+        "en": "Éternité's #1 summer bestseller! A fan favorite you can count on.",
+        "kr": "Éternité 여름 시즌 매출 1위 음료수. 고객의 선택은 언제나 믿을 수 있다!"
+    },
+    {
+        "id": 25060218,
+        "type": "",
+        "chs": "第一口微苦，第二口回甘，第三口清香，第四口……嗯？已经喝完了？",
+        "chs_t": "第一口微苦，第二口回甘，第三口清香，第四口……嗯？已經喝完了？",
+        "jp": "最初はわずかな苦みが来て、徐々にコクと甘みが増していく。飲み始めたら止まらなくなっちゃう一品。",
+        "en": "A journey in one cup – bitterness, then sweetness, then fragrance... then refill?",
+        "kr": "첫입은 씁쓸하고, 두입은 달콤하고, 세입은 향긋하고, 네입은…… 응? 벌써 다 마셨네?"
+    },
+    {
+        "id": 25060219,
+        "type": "",
+        "chs": "出餐快慢完全取决于小熊猫主厨是否能够顺利将椰子开壳。",
+        "chs_t": "出餐快慢完全取決於小貓熊主廚是否能夠順利將椰子開殼。",
+        "jp": "レッパンズシェフのラテアートは、いよいよ2Dから3Dの世界へ！ でもお時間はいただきますので、気長にお待ちください。",
+        "en": "Your wait time depends entirely on whether Chef Red Panda conquers the coconut shell.",
+        "kr": "메뉴가 나오는 속도는 오직 레서판다 셰프가 코코넛 껍질을 순조롭게 깔 수 있을지에 달렸다."
+    },
+    {
+        "id": 25060220,
+        "type": "",
+        "chs": "据不完全统计，99%的顾客在品尝前都会选择手机先吃。",
+        "chs_t": "據不完全統計，99%的顧客在品嘗前都會選擇手機先吃。",
+        "jp": "見た目はコーヒーというよりもはやパフェ。お客さんの九割が、飲む前にスマホで撮影するらしい。",
+        "en": "Unofficial stats show that 99% of customers let their phones eat first. It's that photogenic!",
+        "kr": "불완전 통계에 따르면, 99%의 고객은 먹기 전에 핸드폰으로 맛을 본다."
+    },
+    {
+        "id": 25060221,
+        "type": "",
+        "chs": "憨态可掬的精致摆件，出售可以获得{0}个好评积分。\r\n今日还可以获得{1}个小费。",
+        "chs_t": "憨態可掬的精緻擺件，出售可以獲得{0}個好評積分。\r\n今日還可以獲得{1}個小費。",
+        "jp": "可愛らしい置き物。回収すると{0}レビュアーPTを獲得できる。本日は合成からあと{1}の縁起物を獲得できる。",
+        "en": "An adorable, exquisitely crafted charm. Collect it for {0} Praise PT.\r\n(Remaining Tips for today: {1})",
+        "kr": "앙증맞고 정교한 장식품. 판매 시 {0}리뷰포인트를 획득한다. (오늘 남은 팁 획득 수: {1}개)"
+    },
+    {
+        "id": 25060222,
+        "type": "",
+        "chs": "以萌著称吸引了大量食客的工艺品，出售可以获得{0}个好评积分。\r\n今日还可以获得{1}个小费。",
+        "chs_t": "以萌著稱吸引了大量食客的工藝品，出售可以獲得{0}個好評積分。\r\n今日還可以獲得{1}個小費。",
+        "jp": "海の家のお客さんに大人気な置き物。回収すると{0}レビュアーPTを獲得できる。本日は合成からあと{1}の縁起物を獲得できる。",
+        "en": "Famous for its cuteness, this kitty attracts a crowd! Collect it for {0} Praise PT.\r\n(Remaining Tips for today: {1})",
+        "kr": "귀여움으로 대량의 손님을 끌어들이는 공예품. 판매 시 {0}리뷰포인트를 획득한다. (오늘 남은 팁 획득 수: {1}개)"
+    },
+    {
+        "id": 25060223,
+        "type": "",
+        "chs": "传说中每天上贡一个小鱼干就能获得庇佑的神秘吉祥物，出售可以获得{0}个好评积分。\r\n今日还可以获得{1}个小费。",
+        "chs_t": "傳說中每天上貢一個小魚乾就能獲得庇佑的神秘吉祥物，出售可以獲得{0}個好評積分。\r\n今日還可以獲得{1}個小費。",
+        "jp": "毎日煮干しを一つ供えれば猫の神様のご加護を受けられると言われている、ご利益のありそうな置き物。回収すると{0}レビュアーPTを獲得できる。本日は合成からあと{1}の縁起物を獲得できる。",
+        "en": "Legend says a daily fishy treat brings its blessings! Collect it for {0} Praise PT.\r\n(Remaining Tips for today: {1})",
+        "kr": "매일 말린 생선 하나를 바친다면 가호를 얻을 수 있다는 전설을 가진 신비한 마스코트. 판매 시 {0}리뷰포인트를 획득한다. (오늘 남은 팁 획득 수: {1}개)"
     }
 ]
