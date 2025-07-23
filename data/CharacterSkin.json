@@ -389,5 +389,39 @@
         "audio_click": "XNYCT_SE_401907/click",
         "audio_click2": "",
         "celebrate_delay": 0
+    },
+    {
+        "skinid": 400107,
+        "spine_layers": 1,
+        "effects": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "audio_celebrate": "YJ_SE_400107/celebrate",
+        "audio_celebrate_idle": "",
+        "audio_idle": "",
+        "audio_greeting": "YJ_SE_400107/greeting",
+        "audio_click": "YJ_SE_400107/click",
+        "audio_click2": "",
+        "celebrate_delay": 0
+    },
+    {
+        "skinid": 400907,
+        "spine_layers": 1,
+        "effects": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "audio_celebrate": "ZNY_SE_400907/celebrate",
+        "audio_celebrate_idle": "",
+        "audio_idle": "",
+        "audio_greeting": "ZNY_SE_400907/greeting",
+        "audio_click": "ZNY_SE_400907/click",
+        "audio_click2": "",
+        "celebrate_delay": 0
     }
 ]

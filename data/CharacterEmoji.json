@@ -18694,5 +18694,101 @@
             0,
             0
         ]
+    },
+    {
+        "charid": 200001,
+        "sub_id": 937,
+        "unlock_desc_chs": "服饰解锁",
+        "unlock_desc_chs_t": "服飾解鎖",
+        "unlock_desc_jp": "着せ替え入手",
+        "unlock_desc_en": "Unlock Outfit",
+        "unlock_desc_kr": "스킨 오픈",
+        "type": 1,
+        "view": "",
+        "audio": 0,
+        "after_unlock_desc_chs": "校园微风",
+        "after_unlock_desc_chs_t": "校園微風",
+        "after_unlock_desc_jp": "校舎を吹き抜ける風",
+        "after_unlock_desc_en": "Freshman Mornings",
+        "after_unlock_desc_kr": "산들바람 캠퍼스",
+        "unlock_type": 3,
+        "unlock_param": [
+            400107,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "charid": 200009,
+        "sub_id": 937,
+        "unlock_desc_chs": "服饰解锁",
+        "unlock_desc_chs_t": "服飾解鎖",
+        "unlock_desc_jp": "着せ替え入手",
+        "unlock_desc_en": "Unlock Outfit",
+        "unlock_desc_kr": "스킨 오픈",
+        "type": 1,
+        "view": "",
+        "audio": 0,
+        "after_unlock_desc_chs": "校园微风",
+        "after_unlock_desc_chs_t": "校園微風",
+        "after_unlock_desc_jp": "校舎を吹き抜ける風",
+        "after_unlock_desc_en": "Freshman Mornings",
+        "after_unlock_desc_kr": "산들바람 캠퍼스",
+        "unlock_type": 3,
+        "unlock_param": [
+            400907,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "charid": 200008,
+        "sub_id": 937,
+        "unlock_desc_chs": "服饰解锁",
+        "unlock_desc_chs_t": "服飾解鎖",
+        "unlock_desc_jp": "着せ替え入手",
+        "unlock_desc_en": "Unlock Outfit",
+        "unlock_desc_kr": "스킨 오픈",
+        "type": 1,
+        "view": "",
+        "audio": 0,
+        "after_unlock_desc_chs": "校园微风",
+        "after_unlock_desc_chs_t": "校園微風",
+        "after_unlock_desc_jp": "校舎を吹き抜ける風",
+        "after_unlock_desc_en": "Freshman Mornings",
+        "after_unlock_desc_kr": "산들바람 캠퍼스",
+        "unlock_type": 3,
+        "unlock_param": [
+            400807,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "charid": 200028,
+        "sub_id": 937,
+        "unlock_desc_chs": "服饰解锁",
+        "unlock_desc_chs_t": "服飾解鎖",
+        "unlock_desc_jp": "着せ替え入手",
+        "unlock_desc_en": "Unlock Outfit",
+        "unlock_desc_kr": "스킨 오픈",
+        "type": 1,
+        "view": "",
+        "audio": 0,
+        "after_unlock_desc_chs": "校园微风",
+        "after_unlock_desc_chs_t": "校園微風",
+        "after_unlock_desc_jp": "校舎を吹き抜ける風",
+        "after_unlock_desc_en": "Freshman Mornings",
+        "after_unlock_desc_kr": "산들바람 캠퍼스",
+        "unlock_type": 3,
+        "unlock_param": [
+            402806,
+            0,
+            0,
+            0
+        ]
     }
 ]

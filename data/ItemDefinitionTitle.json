@@ -2830,5 +2830,29 @@
             0
         ],
         "cross_view": 0
+    },
+    {
+        "id": 600128,
+        "name_chs": "双圣战冠军",
+        "name_chs_t": "雙聖戰冠軍",
+        "name_jp": "双聖戦優勝",
+        "name_en": "双圣战冠军",
+        "name_kr": "双圣战冠军",
+        "desc_chs": "赠予双圣战冠军",
+        "desc_chs_t": "贈予雙聖戰冠軍",
+        "desc_jp": "赠予双圣战冠军",
+        "desc_en": "赠予双圣战冠军",
+        "desc_kr": "赠予双圣战冠军",
+        "icon": "extendRes/title/ssz_l.png",
+        "icon_item": "extendRes/title/ssz_l_item.jpg",
+        "priority": 40073,
+        "unlock_type": 1,
+        "unlock_param": [
+            30557036,
+            0,
+            0,
+            0
+        ],
+        "cross_view": 0
     }
 ]

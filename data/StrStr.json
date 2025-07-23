@@ -6,7 +6,7 @@
         "chs_t": "起點：25000\r\n返點：30000\r\n場次：東一局\r\n赤寶牌：3張\r\n食斷：有\r\n等待時間：5+20",
         "jp": "配原：25000\r\n返し点：30000\r\n局数：東一局\r\n赤ドラ：3枚\r\n喰い断：あり\r\n長考時間：5+20",
         "en": "Starting Points: 25,000\r\nBase Points: 30,000\r\nLength: East (1 Game) Match\r\nRed Five: 3\r\nOpen Tanyao: On\r\nWaiting Time: 5+20",
-        "kr": "시작 점수: 25000\\n반환 점수: 30000\\n대국 수: 단기전\\n적도라: 3개\\n쿠이탕: 있음\\n장고 시간: 5+20"
+        "kr": "시작 점수: 25000\\n반환 점수: 30000\\n대국 수: 단기전\\n적도라: 3개\\n쿠이탕: 있음\\n장고 시간: 5+20초"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "chs_t": "起點：25000\r\n南入：東四局結束1位不足30000點南入\r\n場次：東風\r\n赤寶牌：3張\r\n食斷：有\r\n等待時間：5+20",
         "jp": "配原：25000\r\n南入：東場終了後に、1位の持ち点が30000点未満の場合、南場に入る\r\n局数：東風戦\r\n赤ドラ：3枚\r\n喰い断：あり\r\n長考時間：5+20",
         "en": "Starting Points: 25,000\r\nExtension into South: At the end of 4th East game, if 1st place has less than 30,000 points\r\nLength: East Round Match\r\nRed Five: 3\r\nOpen Tanyao: On\r\nWaiting Time: 5+20",
-        "kr": "시작 점수: 25000\\n남입: 동장 종료 시, 1위의 점수가 30000점 미만일 경우 남입\\n대국 수: 동풍전\\n적도라: 3개\\n쿠이탕: 있음\\n장고 시간: 5+20"
+        "kr": "시작 점수: 25000\\n남입: 동장 종료 시, 1위의 점수가 30000점 미만일 경우 남입\\n대국 수: 동풍전\\n적도라: 3개\\n쿠이탕: 있음\\n장고 시간: 5+20초"
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "chs_t": "起點：25000\r\n西入：南四局結束1位不足30000點西入\r\n場次：半莊\r\n赤寶牌：3張\r\n食斷：有\r\n等待時間：5+20",
         "jp": "配原：25000\r\n西入：南場終了後に、1位の持ち点が30000点未満の場合、西場に入る\r\n局数：半荘\r\n赤ドラ：3枚\r\n喰い断：あり\r\n長考時間：5+20",
         "en": "Starting Points: 25,000\r\nExtension into West: At the end of 4th South game, if 1st place has less than 30,000 points\r\nLength: Two-Wind Match\r\nRed Five: 3\r\nOpen Tanyao: On\r\nWaiting Time: 5+20",
-        "kr": "시작 점수: 25000\\n서입: 남장 종료 시, 1위의 점수가 30000점 미만일 경우 서입\\n대국 수: 반장전\\n적도라: 3개\\n쿠이탕: 있음\\n장고 시간: 5+20"
+        "kr": "시작 점수: 25000\\n서입: 남장 종료 시, 1위의 점수가 30000점 미만일 경우 서입\\n대국 수: 반장전\\n적도라: 3개\\n쿠이탕: 있음\\n장고 시간: 5+20초"
     },
     {
         "id": 4,
@@ -349,6 +349,60 @@
         "jp": "段位制限：雀聖以上\r\n四麻ウマ：1位+15,2位+5,3位-5,4位-15\r\n三麻ウマ：1位+15,2位+0,3位-15\r\n王座の間では便利表示が無効になります。\r\n\r\n東風戦：\r\n入場料：10000コイン\r\n交換レート：1000点=200コイン\r\n場代：2000コイン\r\n四麻段位点数：1位+60，2位+30，3位+0，4位段位により減点\r\n三麻段位点数：1位+120，2位+0，3位段位により減点\r\n四麻王者の宝箱解錠点数：1位+260，2位+130，3位+95，4位+60\r\n三麻王者の宝箱解錠点数：1位+170，2位+100，3位+40\r\n四麻絆ポイント：+40\r\n三麻絆ポイント：+25\r\n※魂天Lv1以上のプレイヤーにつき 、段位点数が変化しない代わりに魂珠の変化量は以下となります：\r\n　四麻：1位+0.3、2位+0.1、3位−0.1、4位-0.3\r\n　三麻：1位+0.3、2位+0、3位−0.3\r\n※同卓のプレイヤーは全て魂天Lv1以上の場合、魂珠の変化量は2倍になる。\r\n\r\n半荘：\r\n入場料：14000コイン\r\n交換レート：1000点=280コイン\r\n場代：2800コイン\r\n四麻段位点数：1位+120，2位+60，3位+0，4位段位により減点\r\n三麻段位点数：1位+240，2位+0，3位段位により減点\r\n四麻王者の宝箱解錠点数：1位+360，2位+180，3位+130，4位+80\r\n三麻王者の宝箱解錠点数：1位+240，2位+135，3位+50\r\n四麻絆ポイント：+60\r\n三麻絆ポイント：+40\r\n※魂天Lv1以上のプレイヤーにつき 、段位点数が変化しない代わりに魂珠の変化量は以下となります：\r\n　四麻：1位+0.5、2位+0.2、3位−0.2、4位-0.5\r\n　三麻：1位+0.5、2位+0、3位−0.5\r\n※同卓のプレイヤーは全て魂天Lv1以上の場合、魂珠の変化量は2倍になる。\r\n\r\n精算点数がプラスの場合はコインを獲得し、マイナスの場合はコインを失う。",
         "en": "Rank Limit: Saint and above\r\n\r\n4-player Order Bonus: 1st +15, 2nd +5, 3rd -5, 4th -15\r\n3-player Order Bonus: 1st +15, 2nd +0, 3rd -15\r\n\r\nIn Throne Room, Dora tips, same tile tips and Tenpai tips are disabled.\r\n\r\n\r\nEast Round Match:\r\n\r\nEntry Limit: 10000 Coppers\r\n\r\nExchange Rate: 1000 Points = 200 Coppers\r\n\r\nEntry Fee: 2000 Coppers\r\n\r\n4-player Rank Bonus: 1st +60, 2nd +30, 3rd +0, 4th - penalty based on current rank\r\n3-player Rank Bonus: 1st +120, 2nd +0, 3rd - penalty based on current rank\r\n4-player Throne Chest Progress: 1st +260, 2nd +130, 3rd +95, 4th +60\r\n3-player Throne Chest Progress: 1st +170, 2nd +100, 3rd +40\r\n4-player Bond Point Bonus: 40\r\n3-player Bond Point Bonus: 25\r\n\r\n*In Celestial Rank, the Rank Points Bonus will be replaced by Soul Points Order Bonus:\r\n  4-Player: 1st +0.3, 2nd +0.1, 3rd -0.1, 4th -0.3\r\n  3-Player: 1st +0.3, 2nd +0, 3rd -0.3\r\n\r\n* If all players in a match are at Celestial Rank, then the Soul Point change will be doubled.\r\n\r\n\r\nSouth Round Match:\r\n\r\nEntry Limit: 14000 Coppers\r\n\r\nExchange Rate: 1000 Points = 280 Coppers\r\n\r\nEntry Fee: 2800 Coppers\r\n\r\n4-player Rank Bonus: 1st +120, 2nd +60, 3rd +0, 4th - penalty based on current rank\r\n3-player Rank Bonus: 1st +240, 2nd 0, 3rd - penalty based on current rank\r\n4-player Throne Chest Progress: 1st +360, 2nd +180, 3rd +130, 4th +80\r\n3-player Throne Chest Progress: 1st +240, 2nd +135, 3rd +50\r\n4-player Bond Point Bonus: 60\r\n3-player Bond Point Bonus: 40\r\n\r\n*In Celestial Rank, the Rank Points Bonus will be replaced by Soul Points Order Bonus:\r\n  4-Player: 1st +0.5, 2nd +0.2, 3rd -0.2, 4th -0.5\r\n  3-Player: 1st +0.5, 2nd +0, 3rd -0.5\r\n\r\n* If all players in a match are at Celestial Rank, then the Soul Point change will be doubled.\r\n\r\nYou will receive Coppers if you finish with positive match points, or lose Coppers if you finish in negativity.",
         "kr": "등급 제한: 작성 이상\r\n4인전 우마: 1위 +15, 2위 +5, 3위 -5, 4위 -15\r\n3인전 우마: 1위+ 15, 2위 +0, 3위 -15\r\n왕좌탁에서는 힌트 표시가 꺼집니다.\r\n\r\n동풍전: \r\n입장료: 10000코인\r\n교환 비율: 1000점= 200코인\r\n장대: 2000코인\r\n4인전 등급 점수: 1위 +60, 2위 +30, 3위 +0, 4위 등급에 따라 감점\r\n3인전 등급 점수: 1위 +120, 2위 +0, 3위 등급에 따라 감점\r\n4인전 왕좌의 보물상자 점수: 1위 +260, 2위 +130, 3위 +95, 4위 +60\r\n3인전 왕좌의 보물상자 점수: 1위 +170, 2위 +100, 3위 +40\r\n※혼천 1레벨 이상의 플레이어는 등급 점수가 변화하는 대신 혼주를 얻게 됩니다.\r\n 4인전: 1위 +0.3, 2위 +0.1, 3위 -0.1, 4위 -0.3\r\n 3인전: 1위 +0.3, 2위 +0, 3위 -0.3\r\n※같은 방에 있는 플레이어가 모두 혼천 1레벨 이상인 경우, 혼주 변화량이 2배가 됩니다.\r\n\r\n반장전:\r\n입장료: 14000코인\r\n교환 비율: 1000점= 280코인\r\n장대: 2800코인\r\n4인전 등급 점수: 1위 +120, 2위 +60, 3위 +0, 4위 등급에 따라 감점\r\n3인전 등급 점수: 1위 +240, 2위 +0, 3위 등급에 따라 감점\r\n4인전 왕좌의 보물상자 점수: 1위 +360, 2위 +180, 3위 +130, 4위 +80\r\n3인전 왕좌의 보물상자 점수: 1위 +240, 2위 +135, 3위 +50\r\n※혼천 1레벨 이상의 플레이어는 등급 점수가 변화하는 대신 혼주를 얻게 됩니다.\r\n 4인전: 1위 +0.5, 2위 +0.2, 3위 -0.2, 4위 -0.5\r\n 3인전: 1위 +0.5, 2위 +0, 3위 -0.5\r\n※같은 방에 있는 플레이어가 모두 혼천 1레벨 이상인 경우, 혼주 변화량이 2배가 됩니다."
+    },
+    {
+        "id": 65,
+        "type": "",
+        "chs": "当前线路繁忙，请尝试切换其他线路",
+        "chs_t": "當前線路繁忙，請嘗試切換其他線路",
+        "jp": "チャンネルが混みあっています。別のチャンネルに切り替えてください。",
+        "en": "This route is busy. Please try another.",
+        "kr": "현재 서버가 혼잡합니다. 다른 서버로 전환하여 시도해 주세요."
+    },
+    {
+        "id": 66,
+        "type": "",
+        "chs": "该线路暂时不可用，请尝试切换其他线路",
+        "chs_t": "該線路暫時不可用，請嘗試切換其他線路",
+        "jp": "チャンネルがご利用できません。別のチャンネルに切り替えてください。",
+        "en": "This route is unavailable. Please try another.",
+        "kr": "해당 서버와 연결할 수 없습니다. 다른 서버로 전환하여 시도해 주세요."
+    },
+    {
+        "id": 67,
+        "type": "",
+        "chs": "寻找到更好的线路，是否进行切换",
+        "chs_t": "尋找到更好的線路，是否進行切換",
+        "jp": "より空いているチャンネルがあります。今すぐ切り替えますか。",
+        "en": "A better route is available. Switch now?",
+        "kr": "더 안정적인 서버가 존재합니다. 전환할까요?"
+    },
+    {
+        "id": 68,
+        "type": "",
+        "chs": "维护中",
+        "chs_t": "維護中",
+        "jp": "チャンネルメンテナンス中",
+        "en": "Under maintenance",
+        "kr": "점검 중입니다"
+    },
+    {
+        "id": 69,
+        "type": "",
+        "chs": "繁忙",
+        "chs_t": "繁忙",
+        "jp": "混雑",
+        "en": "Busy",
+        "kr": "서버 오류"
+    },
+    {
+        "id": 70,
+        "type": "",
+        "chs": "连接失败",
+        "chs_t": "連接失敗",
+        "jp": "接続失敗",
+        "en": "Connection failed",
+        "kr": "연결에 실패했습니다"
     },
     {
         "id": 101,
@@ -8403,7 +8457,7 @@
         "chs_t": "起點：35000\r\n南入：東四局結束1位不足40000點南入\r\n場次：東風\r\n赤寶牌：3張\r\n食斷：有\r\n等待時間：5+20\r\n四槓散了：有",
         "jp": "配原：35000\r\n南入：東場終了後に、1位の持ち点が40000点未満の場合、南場に入る\r\n局数：東風\r\n赤ドラ：3枚\r\n喰い断：あり\r\n長考時間：5+20",
         "en": "Starting Points: 35,000\r\nExtension into South: At the end of 4th East game, if 1st place has less than 40,000 points\r\nLength: One-Wind Match\r\nRed Five: 3\r\nOpen Tanyao: On\r\nWaiting Time: 5+20",
-        "kr": "시작 점수: 35000점\\n남입: 동장 종료 시, 1위의 점수가 40000점 미만일 경우 남입\\n대국 수: 동풍전\\n적도라: 3개\\n쿠이탕: 있음\\n장고 시간: 5+20"
+        "kr": "시작 점수: 35000점\\n남입: 동장 종료 시, 1위의 점수가 40000점 미만일 경우 남입\\n대국 수: 동풍전\\n적도라: 3개\\n쿠이탕: 있음\\n장고 시간: 5+20초"
     },
     {
         "id": 2852,
@@ -8898,7 +8952,7 @@
         "chs_t": "起點：25000\r\n西入：南四局結束1位不足30000點西入\r\n場次：半莊\r\n赤寶牌：3張\r\n食斷：有\r\n等待時間：5+20",
         "jp": "配原：25000\r\n西入：南場終了後に、1位の持ち点が30000点未満の場合、西場に入る\r\n局数：半荘\r\n赤ドラ：3枚\r\n喰い断：あり\r\n長考時間：5+20",
         "en": "Starting Points: 25,000\r\nExtension into West: At the end of 4th South game, if 1st place has less than 30,000 points\r\nLength: Two-Wind Match\r\nRed Five: 3\r\nOpen Tanyao: On\r\nWaiting Time: 5+20",
-        "kr": "시작 점수: 25000\\n서입: 남장 종료 시, 1위의 점수가 30000점 미만일 경우 서입\\n대국 수: 반장전\\n적도라: 3개\\n쿠이탕: 있음\\n장고 시간: 5+20"
+        "kr": "시작 점수: 25000\\n서입: 남장 종료 시, 1위의 점수가 30000점 미만일 경우 서입\\n대국 수: 반장전\\n적도라: 3개\\n쿠이탕: 있음\\n장고 시간: 5+20초"
     },
     {
         "id": 3031,
@@ -9087,7 +9141,7 @@
         "chs_t": "起點：40000\r\n南入：東四局結束1位不足45000點南入\r\n場次：東風\r\n赤寶牌：3張\r\n食斷：有\r\n等待時間：5+20",
         "jp": "配給原点：40000\r\n一位必要点数：45000点\r\n局数：東風戦\r\n赤ドラ：3枚\r\n喰い断：あり\r\n長考時間：5+20秒",
         "en": "Starting Points: 40,000\r\nExtension into South: At the end of 4th East game, if 1st place has less than 45,000 points\r\nLength: East Round Match\r\nRed Five: 3\r\nOpen Tanyao: On\r\nWaiting Time: 5+20",
-        "kr": "시작 점수: 40000점\r\n남입: 동장 종료 시, 1위의 점수가 45000점 미만일 경우 남입\r\n대국 수: 동풍전\r\n적도라: 3개\r\n쿠이탕: 있음\r\n장고 시간: 5+20"
+        "kr": "시작 점수: 40000점\r\n남입: 동장 종료 시, 1위의 점수가 45000점 미만일 경우 남입\r\n대국 수: 동풍전\r\n적도라: 3개\r\n쿠이탕: 있음\r\n장고 시간: 5+20초"
     },
     {
         "id": 3052,
@@ -10329,7 +10383,7 @@
         "chs_t": "確定要退出遊戲嗎？",
         "jp": "ゲームを終了しますか？",
         "en": "End game now?",
-        "kr": "게임을 종료하겠습니까?"
+        "kr": "게임을 종료하시겠습니까?"
     },
     {
         "id": 3195,
@@ -14352,7 +14406,7 @@
         "chs_t": "起點：50000\r\n場次：4局\r\n等待時間：5+20",
         "jp": "配原：50000\r\n局数：4局\r\n長考時間：5+20",
         "en": "Starting Points: 50,000\r\nLength: 4 Round\r\nWaiting Time: 5+20",
-        "kr": "시작 점수: 50000점\\n국수: 4국\\n장고 시간: 5+20"
+        "kr": "시작 점수: 50000점\\n국수: 4국\\n장고 시간: 5+20초"
     },
     {
         "id": 3653,
@@ -14595,7 +14649,7 @@
         "chs_t": "沒有搜索結果，請檢查好友ID",
         "jp": "検索結果がありません。",
         "en": "No search result, please check Friend's ID",
-        "kr": "검색 결과가 없습니다. 친구 ID를 다시 확인해 주세요."
+        "kr": "검색 결과가 없습니다. 친구 UID를 다시 확인해 주세요."
     },
     {
         "id": 3680,
@@ -16188,7 +16242,7 @@
         "chs_t": "特殊規則：天命之戰說明\r\n\r\n-每局最先摸入手中的4張牌，稱為該玩家的命運牌\r\n-命運牌對所有其他玩家一直公開\r\n-打出的命運牌失去效果，牌河中的命運牌與普通牌效果相同\r\n-和牌時，玩家使用的命運牌數量（包括手牌與副露）可以使和牌點數加倍\r\n--使用1張命運牌：和牌點數x2\r\n--使用2張命運牌：和牌點數x3\r\n--使用3張命運牌：和牌點數x4\r\n--使用4張命運牌：和牌點數x5\r\n\r\n*其他玩家的命運牌會集中在手牌的一側公開\r\n*所有玩家的命運牌不同，每位玩家的命運牌只在自己和牌時生效\r\n*所有玩家的和牌倍率即時展示\r\n*流局罰符，本場數與立直供托不參與倍率計算\r\n*副露時，優先使用手中的命運牌\r\n\r\n活動積分獲得說明\r\n進行段位戰或天命之戰的活動對局\r\n四人麻將獲得第1名+200\r\n四人麻將獲得第2名+120\r\n四人麻將獲得第3名+60\r\n四人麻將獲得第4名+20\r\n三人麻將獲得第1名+120\r\n三人麻將獲得第2名+60\r\n三人麻將獲得第3名+20\r\n\r\n和牌（滿貫未滿）+30\r\n和牌（滿貫）+60\r\n和牌（跳滿）+90\r\n和牌（倍滿）+120\r\n和牌（三倍滿）+180\r\n和牌（役滿及以上）+240\r\n\r\n對局模式：天命之戰-四人東\r\n段位限制：無\r\n入場料：5000銅幣\r\n兌換比例：1000點=100銅幣\r\n場代：1000銅幣\r\n不計算段位分\r\n一姬的禮物盒獲取進度：1位+260，2位+130，3位+95，4位+60",
         "jp": "特殊ルール：天命の戦について\r\n\r\n-配牌のうち最初の4枚は「運命の牌」になる\r\n-「運命の牌」は常にすべてのプレイヤーに公開される\r\n-「運命の牌」を切ると普通の牌になる\r\n-「運命の牌」を保有している（副露も含む）プレイヤーが和了すると、和了時の点数が「運命の牌」の保有数によって下記のように変わる\r\n　「運命の牌」1枚保有時：和了点数×2\r\n　「運命の牌」2枚保有時：和了点数×3\r\n　「運命の牌」3枚保有時：和了点数×4\r\n　「運命の牌」4枚保有時：和了点数×5\r\n\r\n※相手の「運命の牌」は常に手牌の右側に公開される\r\n※相手が切った「運命の牌」を鳴くまたはロンしても、自分の「運命の牌」として計算されない\r\n※「運命の牌」によって和了点数が変わる場合、その倍率がリアルタイムで表示される\r\n※「運命の牌」は流局罰符・積み棒・供託に影響しない\r\n※副露する時は、「運命の牌」が優先的に使用される\r\n\r\nイベントPTの獲得数について\r\n-段位戦または天命の戦のイベントPT入手数は以下となります（一回ごとの入手数）\r\n四人麻雀\r\n1位　+200\r\n2位　+120\r\n3位　+60\r\n4位　+20\r\n三人麻雀\r\n1位　+120\r\n2位　+60\r\n3位　+20\r\n四人麻雀＆三人麻雀\r\n満貫未満　+30\r\n満貫　　　+60\r\n跳満　　　+90\r\n倍満　　　+120\r\n三倍満　　+180\r\n役満以上　+240\r\n\r\n対局モード：天命の戦-四人東\r\n段位制限：なし\r\n入場料：5000コイン\r\n交換レート：1000点=100コイン\r\n場代：1000コイン\r\n段位点数：影響なし\r\n一姫の宝箱解錠点数：1位+260，2位+130，3位+95，4位+60",
         "en": "Special Rules: Operation Fortune Instructions\r\n\r\n- At the start of each round, the first 4 tiles that enter your hand are your Fortune tiles.\r\n- The Fortune tiles are revealed to all players.\r\n- Once a Fortune tile has been discarded, it becomes an ordinary tile and has no special effect anymore.\r\n- When a player wins, the number of Fortune tiles in their hand (including calls) can give the winning points additional bonus rates:\r\n-- 1 Fortune tile: Winning points x2\r\n-- 2 Fortune tile: Winning points x3\r\n-- 3 Fortune tile: Winning points x4\r\n-- 4 Fortune tile: Winning points x5\r\n\r\n*Players will see other players' Fortune tiles placed at the right end of their hands.\r\n*Each player has their own set of Fortune tiles and they only come into effect at winning.\r\n*All players' winning point rates will be displayed in real-time.\r\n*Fortune tiles do not affect No-ten Penalty, Round Bet, or Riichi Bet.\r\n*When a player makes a call, the Fortune tiles will be prioritized.\r\n\r\nAbout Event Pts\r\nDuring the event, play Ranked Match or Operation Fortune and you will get Event Pts as follows:\r\n4-Player: \r\n1st Place +200\r\n2nd Place +120\r\n3rd Place +60\r\n4th Place +20\r\n3-Player:\r\n1st Place +120\r\n2nd Place +60\r\n3rd Place +20\r\n\r\nWinning (Score below Mangan) +30\r\nWinning (Mangan) +60\r\nWinning (Haneman) +90\r\nWinning (Baiman) +120\r\nWinning (Sanbaiman) +180\r\nWinning (Yakuman and above) +240\r\n\r\nGame Mode: Operation Fortune - 4-Player East\r\nRank Limit: None\r\nEntry Limit: 5000 Coppers\r\nExchange Rate: 1000 Points = 100 Coppers\r\nEntry Fee: 1000 Coppers\r\nGames played in this mode are not ranked.\r\nCasual Chest Progress: 1st +260, 2nd +130, 3rd +95, 4th +60",
-        "kr": "특수 규칙: 천명전\r\n\r\n- 대국 시 손에 들어오는 첫 4장 패를 운명패라고 한다.\r\n- 운명패는 다른 플레이어들에게 항상 공개된다.\r\n- 타패한 운명패는 효력을 잃으며, 일반 패와 동일하게 특수한 기능이 없게 된다.\r\n- 화료 시, 플레이어의 운명패 수 (손패, 후로 모두 포함)로 화료 점수를 추가로 획득한다.\r\n\r\n- 운명패 1장 사용: 화료 점수 x2\r\n- 운명패 2장 사용: 화료 점수 x3\r\n- 운명패 3장 사용: 화료 점수 x4\r\n- 운명패 4장 사용: 화료 점수 x5\r\n\r\n* 다른 플레이어의 운명패는 수패의 한쪽에 모여있다.\r\n* 각 플레이어의 운명패는 모두 다르며, 운명패는 자신이 화료 시 그 효력이 발생한다.\r\n* 모든 플레이어의 화료 포인트는 실시간으로 보인다.\r\n* 유국 벌점, 본장 수 및 리치 공탁금은 보너스 점수로 계산되지 않는다.\r\n*후로 시, 수패 중 운명패를 우선 사용 한다.\r\n\r\n이벤트 포인트 획득 방법\r\n이벤트 기간 동안 등급전 혹은 천명전 참가\r\n4인 마작 1위 +200\r\n4인 마작 2위 +120\r\n4인 마작 3위 +60\r\n4인 마작 4위 +20\r\n3인 마작 1위 +120\r\n3인 마작 2위 +60\r\n3인 마작 3위 +20\r\n\r\n화료(만관 미만) +30\r\n화료(만관) +60\r\n화료(하네만) +90\r\n화료(배만) +120\r\n화료(삼배만) +180\r\n화료(역만 이상) +240\r\n\r\n대국 모드: 천명전 - 4인 동풍전\r\n등급 제한: 없음\r\n입장료: 5000코인\r\n교환비율: 1000점=100코인\r\n장대: 1000코인\r\n등급 점수는 결산하지 않음 \r\n이치히메 보물 상자 포인트: 1위 +260, 2위 +130, 3위 +95, 4위 +60"
+        "kr": "특수 규칙: 천명전\r\n \r\n - 대국 시 손에 들어오는 첫 4장 패를 운명패라고 한다.\r\n - 운명패는 다른 플레이어들에게 항상 공개된다.\r\n - 타패한 운명패는 효력을 잃으며, 일반 패와 동일하게 특수한 기능이 없게 된다.\r\n - 화료 시, 플레이어의 운명패 수 (손패, 후로 모두 포함)로 화료 점수를 추가로 획득한다.\r\n \r\n - 운명패 1장 사용: 화료 점수 x2\r\n - 운명패 2장 사용: 화료 점수 x3\r\n - 운명패 3장 사용: 화료 점수 x4\r\n - 운명패 4장 사용: 화료 점수 x5\r\n \r\n * 다른 플레이어의 운명패는 수패의 한쪽에 모여있다.\r\n * 각 플레이어의 운명패는 모두 다르며, 운명패는 자신이 화료 시 그 효력이 발생한다.\r\n * 모든 플레이어의 화료 포인트는 실시간으로 보인다.\r\n * 유국 벌점, 본장 수 및 리치 공탁금은 보너스 점수로 계산되지 않는다.\r\n * 후로 시, 수패 중 운명패를 우선 사용 한다.\r\n \r\n 대국 모드: 천명전 - 4인 동풍전\r\n 등급 제한: 없음\r\n 입장료: 5000코인\r\n 교환비율: 1000점=100코인\r\n 장대: 1000코인\r\n 등급 점수는 결산하지 않음 \r\n 이치히메 보물 상자 포인트: 1위 +260, 2위 +130, 3위 +95, 4위 +60"
     },
     {
         "id": 3857,
@@ -16197,7 +16251,7 @@
         "chs_t": "特殊規則：天命之戰說明\r\n\r\n-每局最先摸入手中的4張牌，稱為該玩家的命運牌\r\n-命運牌對所有其他玩家一直公開\r\n-打出的命運牌失去效果，牌河中的命運牌與普通牌效果相同\r\n-和牌時，玩家使用的命運牌數量（包括手牌與副露）可以使和牌點數加倍\r\n--使用1張命運牌：和牌點數x2\r\n--使用2張命運牌：和牌點數x3\r\n--使用3張命運牌：和牌點數x4\r\n--使用4張命運牌：和牌點數x5\r\n\r\n*其他玩家的命運牌會集中在手牌的一側公開\r\n*所有玩家的命運牌不同，每位玩家的命運牌只在自己和牌時生效\r\n*所有玩家的和牌倍率即時展示\r\n*流局罰符，本場數與立直供托不參與倍率計算\r\n*副露時，優先使用手中的命運牌",
         "jp": "特殊ルール：天命の戦について\r\n\r\n-配牌のうち最初の4枚は「運命の牌」になる\r\n-「運命の牌」は常にすべてのプレイヤーに公開される\r\n-「運命の牌」を切ると普通の牌になる\r\n-「運命の牌」を保有しているプレイヤーが和了すると、和了時の点数が「運命の牌」の保有数によって下記のように変わる\r\n　「運命の牌」1枚保有時：和了点数×2\r\n　「運命の牌」2枚保有時：和了点数×3\r\n　「運命の牌」3枚保有時：和了点数×4\r\n　「運命の牌」4枚保有時：和了点数×5\r\n\r\n※相手の「運命の牌」は常に手牌の右側に公開される\r\n※相手が切った「運命の牌」を鳴くまたはロンしても、自分の「運命の牌」として計算されない\r\n※「運命の牌」によって和了点数が変わる場合、その倍率がリアルタイムで表示される\r\n※「運命の牌」は流局罰符・積み棒・供託に影響しない\r\n※副露する時は、「運命の牌」が優先的に使用される",
         "en": "Special Rules: Operation Fortune Instructions\r\n\r\n- At the start of each round, the first 4 tiles that enter your hand are your Fortune tiles.\r\n- The Fortune tiles are revealed to all players.\r\n- Once a Fortune tile has been discarded, it becomes an ordinary tile and has no special effect anymore.\r\n- When a player wins, the number of Fortune tiles in their hand (including calls) can give the winning points additional bonus rates:\r\n-- 1 Fortune tile: Winning points x2\r\n-- 2 Fortune tile: Winning points x3\r\n-- 3 Fortune tile: Winning points x4\r\n-- 4 Fortune tile: Winning points x5\r\n\r\n*Players will see other players' Fortune tiles placed at the right end of their hands.\r\n*Each player has their own set of Fortune tiles and they only come into effect at winning.\r\n*All players' winning point rates will be displayed in real-time.\r\n*Fortune tiles do not affect No-ten Penalty, Round Bet, or Riichi Bet.\r\n*When a player makes a call, the Fortune tiles will be prioritized.",
-        "kr": "특수 규칙: 천명전\r\n\r\n- 대국 시 손에 들어오는 첫 4장 패를 운명패라고 한다.\r\n- 운명패는 다른 플레이어들에게 항상 공개된다.\r\n- 타패한 운명패는 효력을 잃으며, 일반 패와 동일하게 특수한 기능이 없게 된다.\r\n- 화료 시, 플레이어의 운명패 수 (손패, 후로 모두 포함)로 화료 점수를 추가로 획득한다.\r\n\r\n- 운명패 1장 사용: 화료 점수 x2\r\n- 운명패 2장 사용: 화료 점수 x3\r\n- 운명패 3장 사용: 화료 점수 x4\r\n- 운명패 4장 사용: 화료 점수 x5\r\n\r\n* 다른 플레이어의 운명패는 수패의 한쪽에 모여있다.\r\n* 각 플레이어의 운명패는 모두 다르며, 운명패는 자신이 화료 시 그 효력이 발생한다.\r\n* 모든 플레이어의 화료 포인트는 실시간으로 보인다.\r\n* 유국 벌점, 본장 수 및 리치 공탁금은 보너스 점수로 계산되지 않는다.\r\n*후로 시, 수패 중 운명패를 우선 사용 한다."
+        "kr": "특수 규칙: 천명전\r\n \r\n - 대국 시 손에 들어오는 첫 4장 패를 운명패라고 한다.\r\n - 운명패는 다른 플레이어들에게 항상 공개된다.\r\n - 타패한 운명패는 효력을 잃으며, 일반 패와 동일하게 특수한 기능이 없게 된다.\r\n - 화료 시, 플레이어의 운명패 수 (손패, 후로 모두 포함)로 화료 점수를 추가로 획득한다.\r\n \r\n - 운명패 1장 사용: 화료 점수 x2\r\n - 운명패 2장 사용: 화료 점수 x3\r\n - 운명패 3장 사용: 화료 점수 x4\r\n - 운명패 4장 사용: 화료 점수 x5\r\n \r\n * 다른 플레이어의 운명패는 수패의 한쪽에 모여있다.\r\n * 각 플레이어의 운명패는 모두 다르며, 운명패는 자신이 화료 시 그 효력이 발생한다.\r\n * 모든 플레이어의 화료 포인트는 실시간으로 보인다.\r\n * 유국 벌점, 본장 수 및 리치 공탁금은 보너스 점수로 계산되지 않는다.\r\n * 후로 시, 수패 중 운명패를 우선 사용 한다."
     },
     {
         "id": 3858,
@@ -18942,7 +18996,7 @@
         "chs_t": "起點：50000\r\n南入：東四局結束1位不足55000點南入\r\n場次：東風\r\n赤寶牌：3張\r\n食斷：有\r\n等待時間：5+20",
         "jp": "配給原点：50000\r\n一位必要点数：55000点\r\n局数：東風戦\r\n赤ドラ：3枚\r\n喰い断：あり\r\n長考時間：5+20秒",
         "en": "Starting Points: 50,000\r\nExtension into South: At the end of 4th East game, if 1st place has less than 55,000 points\r\nLength: East Round Match\r\nRed Five: 3\r\nOpen Tanyao: On\r\nWaiting Time: 5+20",
-        "kr": "시작 점수: 50000점\r\n남입: 동장 종료 시, 1위의 점수가 55000점 미만일 경우 남입\r\n대국 수: 동풍전\r\n적도라: 3개\r\n쿠이탕: 있음\r\n장고 시간: 5+20"
+        "kr": "시작 점수: 50000점\r\n남입: 동장 종료 시, 1위의 점수가 55000점 미만일 경우 남입\r\n대국 수: 동풍전\r\n적도라: 3개\r\n쿠이탕: 있음\r\n장고 시간: 5+20초"
     },
     {
         "id": 4184,
@@ -18951,7 +19005,7 @@
         "chs_t": "起點：25000\r\n南入：東四局結束1位不足30000點南入\r\n場次：東風\r\n赤寶牌：3張\r\n食斷：有\r\n等待時間：5+20",
         "jp": "配給原点：25000\r\n一位必要点数：30000点\r\n局数：東風戦\r\n赤ドラ：3枚\r\n喰い断：あり\r\n長考時間：5+20秒",
         "en": "Starting Points: 25,000\r\nExtension into South: At the end of 4th East game, if 1st place has less than 30,000 points\r\nLength: East Round Match\r\nRed Five: 3\r\nOpen Tanyao: On\r\nWaiting Time: 5+20",
-        "kr": "시작 점수: 25000점\r\n남입: 동장 종료 시, 1위의 점수가 30000점 미만일 경우 남입\r\n대국 수: 동풍전\r\n적도라: 3개\r\n쿠이탕: 있음\r\n장고 시간: 5+20"
+        "kr": "시작 점수: 25000점\r\n남입: 동장 종료 시, 1위의 점수가 30000점 미만일 경우 남입\r\n대국 수: 동풍전\r\n적도라: 3개\r\n쿠이탕: 있음\r\n장고 시간: 5+20초"
     },
     {
         "id": 4185,
@@ -27860,7 +27914,7 @@
         "chs": "在雀魂赛事管理后台（网页）可设置更多赛事选项，是否前往？",
         "chs_t": "在雀魂賽事管理後臺（網頁）可設置更多賽事選項，是否前往？",
         "jp": "詳細な大会設定は大会管理ツール（ウェブサイト）にて変更できます。今すぐ管理ツールを開きますか？",
-        "en": "On Mahjong Soul's Tournament Management website, you can manage more aspects of your tournament. Go now?",
+        "en": "On Mahjong Soul Tournament Management website, you can manage more aspects of your tournament. Go now?",
         "kr": "작혼 대회 관리 홈페이지에서 더 많은 대회 항목을 설정하실 수 있습니다. 홈페이지로 이동하시겠습니까?"
     },
     {
@@ -31758,7 +31812,7 @@
         "chs_t": "么九牌：所有1和9的萬/筒/索，風牌，三元牌",
         "jp": "幺九牌：萬子・索子・筒子の1と9、及びすべての字牌",
         "en": "Terminal Tiles: All the 1 and 9 tiles of Man/Pin/Sou, Wind Tiles, and Dragon Tiles",
-        "kr": "요구패: 1부터 9까지의 모든 만수/통수/삭수, 풍패, 삼원패"
+        "kr": "요구패: 만수/통수/삭수패 중 모든 1과 9, 풍패와 삼원패"
     },
     {
         "id": 20120,
@@ -34481,7 +34535,7 @@
     {
         "id": 20422,
         "type": "",
-        "chs": "特殊规则：龙之目玉说明\r\r\n1. 开始时会翻开3张宝牌指示牌，最多翻开5张宝牌指示牌，之后开杠不再增加\r\r\n2. 开始时随机一位玩家获得目玉标记，当该玩家累计打出5张牌后（鸣牌除外），目玉标记会随机重新选择一位玩家（包括自己）\r\r\n3. 目玉标记的玩家本局和牌后可获得双倍点数（立直棒、本场费除外），但放铳或他家自摸时需要支付双倍的点数（立直棒、本场费除外）",
+        "chs": "特殊规则：龙之目玉说明\r\n1. 开始时会翻开3张宝牌指示牌，最多翻开5张宝牌指示牌，之后开杠不再增加\r\n2. 开始时随机一位玩家获得目玉标记，当该玩家累计打出5张牌后（鸣牌除外），目玉标记会随机重新选择一位玩家（包括自己）\r\n3. 目玉标记的玩家本局和牌后可获得双倍点数（立直棒、本场费除外），但放铳或他家自摸时需要支付双倍的点数（立直棒、本场费除外）",
         "chs_t": "特殊規則：龍之目玉説明\r\r\n\r\r\n1. 開始時會翻開3張寶牌指示牌，最多翻開5張寶牌指示牌，之後開槓不再增加\r\r\n2. 開始時隨機一位玩家獲得目玉標記，當該玩家累計打出5張牌後（鳴牌除外），目玉標記會隨機重新選擇一位玩家（包括自己）\r\r\n3. 目玉標記的玩家本局和牌後可獲得雙倍點數（立直棒、本場費除外），但放銃或他家自摸時需要支付雙倍的點數（立直棒、本場費除外）",
         "jp": "特殊ルール：龍の割目について\r\r\n\r\r\nドラ表示牌が最初から三枚めくられた状態での対戦モード。ドラ表示牌は五枚までめくられますが、それ以降はカンしてもめくられません。\r\r\n\r\r\n対局開始時は対局者全員からランダムに一人を指定し、割れ目マークを付与します。割れ目マークが付与された対局者が5回打牌する度に、割れ目マークはランダムに移動します（移動しない場合もあります）。\r\r\n\r\r\n割れ目マークが付与された対局者が和了する場合、得点が2倍になります。放銃または他家がツモ和了した場合、支払う点数も2倍になります。",
         "en": "Special Rules: Chaotic Wall Break Instructions\r\r\n\r\r\n3 Dora indicators will be revealed at the beginning of the match. 5 Dora indicators can be revealed at most.\r\r\n\r\r\nOne player will receive the Wareme mark at the beginning of the match, and once this player has discarded 5 tiles in total, the Wareme mark will move to a random player (including the original holder).\r\r\n\r\r\nThe score of the marked player will be doubled after winning or losing (not including Riichi Bets and Round Bets).",
@@ -36160,5 +36214,230 @@
         "jp": "未完成",
         "en": "Incomplete",
         "kr": "미완료"
+    },
+    {
+        "id": 25070001,
+        "type": "",
+        "chs": "点击特效",
+        "chs_t": "點擊特效",
+        "jp": "タップエフェクト",
+        "en": "Click Effects",
+        "kr": "터치 이펙트"
+    },
+    {
+        "id": 25070002,
+        "type": "",
+        "chs": "与大厅绑定",
+        "chs_t": "與大廳綁定",
+        "jp": "背景と連動",
+        "en": "Linked to Lobby",
+        "kr": "로비와 연동"
+    },
+    {
+        "id": 25070003,
+        "type": "",
+        "chs": "默认点击特效",
+        "chs_t": "默認點擊特效",
+        "jp": "初期エフェクト",
+        "en": "Default",
+        "kr": "기본 이펙트"
+    },
+    {
+        "id": 25070101,
+        "type": "",
+        "chs": "后台静音",
+        "chs_t": "後台靜音",
+        "jp": "バックグラウンドミュート",
+        "en": "Mute when in background",
+        "kr": "백그라운드\r\n음소거"
+    },
+    {
+        "id": 25070102,
+        "type": "",
+        "chs": "开启",
+        "chs_t": "開啟",
+        "jp": "有効",
+        "en": "Enable",
+        "kr": "ON"
+    },
+    {
+        "id": 25070103,
+        "type": "",
+        "chs": "关闭",
+        "chs_t": "關閉",
+        "jp": "無効",
+        "en": "Disable",
+        "kr": "OFF"
+    },
+    {
+        "id": 25070201,
+        "type": "",
+        "chs": "排名方式",
+        "chs_t": "排名方式",
+        "jp": "順位タイプ",
+        "en": "Rank By",
+        "kr": "순위 방식"
+    },
+    {
+        "id": 25070202,
+        "type": "",
+        "chs": "无",
+        "chs_t": "無",
+        "jp": "無し",
+        "en": "None",
+        "kr": "없음"
+    },
+    {
+        "id": 25070203,
+        "type": "",
+        "chs": "最近N场合计精算分",
+        "chs_t": "最近N場合計精算分",
+        "jp": "最近N戦合計清算点",
+        "en": "Total end score of last N matches",
+        "kr": "최근 N국의 합계 정산 점수"
+    },
+    {
+        "id": 25070204,
+        "type": "",
+        "chs": "最佳连续N场合计精算分",
+        "chs_t": "最佳連續N場合計精算分",
+        "jp": "連続N戦最高合計精算点",
+        "en": "Highest total end score of N consecutive matches",
+        "kr": "연속 N국의 합계 정산 점수"
+    },
+    {
+        "id": 25070205,
+        "type": "",
+        "chs": "统计场数",
+        "chs_t": "統計場數",
+        "jp": "統計試合数",
+        "en": "Matches for Ranking",
+        "kr": "통계 대국 수"
+    },
+    {
+        "id": 25070206,
+        "type": "",
+        "chs": "支持统计2-10场",
+        "chs_t": "支持統計2-10場",
+        "jp": "統計試合数は2～10に設定してください。",
+        "en": "Can be set from 2 to 10.",
+        "kr": "2~10국으로 설정할 수 있습니다."
+    },
+    {
+        "id": 25070207,
+        "type": "",
+        "chs": "该活动已结束",
+        "chs_t": "該活動已結束",
+        "jp": "イベントが終了しました。",
+        "en": "Event ended.",
+        "kr": "이벤트가 종료되었습니다."
+    },
+    {
+        "id": 25070208,
+        "type": "",
+        "chs": "最近{0}场合计精算分：",
+        "chs_t": "最近{0}場合計精算分：",
+        "jp": "最近{0}戦合計清算点：",
+        "en": "Total end score of last {0} matches:",
+        "kr": "최근 {0}국의 합계 정산 점수:"
+    },
+    {
+        "id": 25070209,
+        "type": "",
+        "chs": "最佳连续{0}场合计精算分：",
+        "chs_t": "最佳連續{0}場合計精算分：",
+        "jp": "連続{0}戦最高合計精算点：",
+        "en": "Highest total end score of {0} consecutive matches:",
+        "kr": "연속 {0}국의 합계 정산 점수:"
+    },
+    {
+        "id": 25070210,
+        "type": "",
+        "chs": "最近{0}战位次：",
+        "chs_t": "最近{0}戰位次：",
+        "jp": "最近{0}戦の結果：",
+        "en": "Last {0} matches Ranks:",
+        "kr": "최근 {0}판의 결과:"
+    },
+    {
+        "id": 25070211,
+        "type": "",
+        "chs": "最佳连续{0}战精算点：",
+        "chs_t": "最佳連續{0}戰精算點：",
+        "jp": "連続{0}戦最高精算点：",
+        "en": "Best continuous {0} games points:",
+        "kr": "연속 {0}국의 합계 정산 점수:"
+    },
+    {
+        "id": 25070212,
+        "type": "",
+        "chs": "最佳连续{0}战位次：",
+        "chs_t": "最佳連續{0}戰位次：",
+        "jp": "連続{0}戦最高順位：",
+        "en": "Best continuous {0} games ranks:",
+        "kr": "연속 {0}전 최고 순위:"
+    },
+    {
+        "id": 25070213,
+        "type": "",
+        "chs": "最近{0}场合计精算分",
+        "chs_t": "最近{0}場合計精算分",
+        "jp": "最近{0}戦合計清算点",
+        "en": "Total end score of last {0} matches",
+        "kr": "최근 {0}국의 합계 정산 점수"
+    },
+    {
+        "id": 25070214,
+        "type": "",
+        "chs": "最佳连续{0}场合计精算分",
+        "chs_t": "最佳連續{0}場合計精算分",
+        "jp": "連続{0}戦最高合計精算点",
+        "en": "Highest total end score of {0} consecutive matches",
+        "kr": "연속 {0}국의 합계 정산 점수"
+    },
+    {
+        "id": 25070215,
+        "type": "",
+        "chs": "最近{0}战位次",
+        "chs_t": "最近{0}戰位次",
+        "jp": "最近{0}戦の結果",
+        "en": "Last {0} matches Ranks",
+        "kr": "최근 {0}판의 결과"
+    },
+    {
+        "id": 25070216,
+        "type": "",
+        "chs": "最佳连续{0}战精算点",
+        "chs_t": "最佳連續{0}戰精算點",
+        "jp": "連続{0}戦最高精算点",
+        "en": "Best continuous {0} games points",
+        "kr": "연속 {0}국의 합계 정산 점수"
+    },
+    {
+        "id": 25070217,
+        "type": "",
+        "chs": "最佳连续{0}战位次",
+        "chs_t": "最佳連續{0}戰位次",
+        "jp": "連続{0}戦最高順位",
+        "en": "Best continuous {0} games ranks",
+        "kr": "연속 {0}전 최고 순위"
+    },
+    {
+        "id": 25070301,
+        "type": "",
+        "chs": "如需帮助，请发送邮件至游戏客服：cs@maj-soul.com",
+        "chs_t": "如需協助，請發送郵件至遊戲客服：cs@maj-soul.com",
+        "jp": "",
+        "en": "",
+        "kr": ""
+    },
+    {
+        "id": 25070302,
+        "type": "",
+        "chs": "如需进一步管理赛事，请前往游戏官网https://www.maj-soul.com，赛事管理页面",
+        "chs_t": "如需進一步管理賽事，請前往遊戲官網https://www.maj-soul.com，賽事管理頁面",
+        "jp": "",
+        "en": "",
+        "kr": ""
     }
 ]

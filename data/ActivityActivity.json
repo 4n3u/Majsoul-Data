@@ -9968,5 +9968,135 @@
         "name_kr": "",
         "type": "chest_replace_up",
         "need_popout": 0
+    },
+    {
+        "id": 250701,
+        "name_chs": "课间密语",
+        "name_chs_t": "課間密語",
+        "name_jp": "授業中のナイショ話",
+        "name_en": "Between Bells",
+        "name_kr": "수업 중 속삭임",
+        "type": "random_task",
+        "need_popout": 1
+    },
+    {
+        "id": 250702,
+        "name_chs": "购物车清空计划",
+        "name_chs_t": "購物車清空計劃",
+        "name_jp": "一姫のお願い",
+        "name_en": "Shopping Spree",
+        "name_kr": "장바구니 비우기 작전",
+        "type": "mine",
+        "need_popout": 0
+    },
+    {
+        "id": 250710,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "shop",
+        "need_popout": 0
+    },
+    {
+        "id": 250711,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "event_cross_time",
+        "need_popout": 0
+    },
+    {
+        "id": 250712,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "item",
+        "need_popout": 0
+    },
+    {
+        "id": 250720,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250721,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250722,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250723,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250730,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_replace_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250731,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_replace_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250732,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_replace_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250733,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_replace_up",
+        "need_popout": 0
     }
 ]
