@@ -10098,5 +10098,15 @@
         "name_kr": "",
         "type": "chest_replace_up",
         "need_popout": 0
+    },
+    {
+        "id": 250790,
+        "name_chs": "巳宫觐礼",
+        "name_chs_t": "巳宮覲禮",
+        "name_jp": "巳宮参拝",
+        "name_en": "Moonlit Greeting",
+        "name_kr": "뱀신님 알현",
+        "type": "flip_task",
+        "need_popout": 1
     }
 ]

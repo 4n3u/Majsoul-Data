@@ -317,5 +317,16 @@
         "banner_left_selected": "",
         "banner_left_icon": "",
         "time_remind": 0
+    },
+    {
+        "id": 250790,
+        "sort": 121,
+        "banner_type": 2,
+        "enter_icon": "",
+        "banner_big": "myres2/activity_banner/25fanpai_b.jpg",
+        "banner_left": "myres2/activity_banner/25fanpai.png",
+        "banner_left_selected": "",
+        "banner_left_icon": "",
+        "time_remind": 0
     }
 ]
