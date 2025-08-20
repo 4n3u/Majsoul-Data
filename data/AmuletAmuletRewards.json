@@ -48,5 +48,30 @@
         "activity_id": 250111,
         "target_point": 500,
         "reward_coin": 12
+    },
+    {
+        "activity_id": 250811,
+        "target_point": 150,
+        "reward_coin": 1
+    },
+    {
+        "activity_id": 250811,
+        "target_point": 200,
+        "reward_coin": 2
+    },
+    {
+        "activity_id": 250811,
+        "target_point": 300,
+        "reward_coin": 4
+    },
+    {
+        "activity_id": 250811,
+        "target_point": 400,
+        "reward_coin": 8
+    },
+    {
+        "activity_id": 250811,
+        "target_point": 500,
+        "reward_coin": 12
     }
 ]

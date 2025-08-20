@@ -543,5 +543,855 @@
         "level_amulet_pool_id": 25011103,
         "amulet_id": 1690,
         "amulet_weight": 25
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 10,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 20,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 30,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 90,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 100,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 110,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 120,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 150,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 160,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 210,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 220,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 240,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 250,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 270,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 280,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 290,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 310,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 320,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 330,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 340,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 380,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 550,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 570,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 620,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 650,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 660,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 670,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 680,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 700,
+        "amulet_weight": 0
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 730,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1010,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1020,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1030,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1040,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1050,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1070,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1110,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1170,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1200,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1220,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1240,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1270,
+        "amulet_weight": 200
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1310,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1320,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1330,
+        "amulet_weight": 0
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1360,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1390,
+        "amulet_weight": 0
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1400,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1410,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1440,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1480,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1500,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1510,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1530,
+        "amulet_weight": 200
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1540,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1550,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1560,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1570,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1580,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1590,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1600,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1630,
+        "amulet_weight": 200
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1640,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1650,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1660,
+        "amulet_weight": 0
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1690,
+        "amulet_weight": 25
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 1700,
+        "amulet_weight": 25
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 2010,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 2040,
+        "amulet_weight": 300
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 2050,
+        "amulet_weight": 200
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 2080,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 2110,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 2120,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 2130,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 2150,
+        "amulet_weight": 300
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 2160,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 2170,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 2180,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 2190,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 2200,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 2210,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 2230,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 2250,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 2260,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 2270,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 2310,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 2320,
+        "amulet_weight": 0
+    },
+    {
+        "level_amulet_pool_id": 25081101,
+        "amulet_id": 2330,
+        "amulet_weight": 0
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 90,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 110,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 310,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 320,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 330,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 340,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 650,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 660,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 670,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 680,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 700,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 1070,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 1270,
+        "amulet_weight": 200
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 1320,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 1330,
+        "amulet_weight": 0
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 1340,
+        "amulet_weight": 200
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 1460,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 1470,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 1530,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 1540,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 1550,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 1560,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 1570,
+        "amulet_weight": 75
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 1590,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 1630,
+        "amulet_weight": 200
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 1640,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 1660,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 1690,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 1700,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 2040,
+        "amulet_weight": 300
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 2050,
+        "amulet_weight": 200
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 2130,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 2150,
+        "amulet_weight": 300
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 2160,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 2180,
+        "amulet_weight": 75
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 2210,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 2230,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 2260,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 2280,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 2320,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081102,
+        "amulet_id": 2330,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 30,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 50,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 140,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 220,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 240,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 250,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 260,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 310,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 320,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 330,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 340,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 360,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 490,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 550,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 580,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 650,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 660,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 670,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 680,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 1020,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 1120,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 1140,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 1230,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 1270,
+        "amulet_weight": 200
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 1310,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 1330,
+        "amulet_weight": 0
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 1390,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 1480,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 1510,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 1530,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 1540,
+        "amulet_weight": 150
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 1630,
+        "amulet_weight": 200
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 1660,
+        "amulet_weight": 200
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 1690,
+        "amulet_weight": 75
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 2030,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 2040,
+        "amulet_weight": 300
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 2050,
+        "amulet_weight": 200
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 2060,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 2100,
+        "amulet_weight": 50
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 2150,
+        "amulet_weight": 300
+    },
+    {
+        "level_amulet_pool_id": 25081103,
+        "amulet_id": 2260,
+        "amulet_weight": 50
     }
 ]

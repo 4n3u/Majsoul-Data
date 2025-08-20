@@ -126,6 +126,24 @@
         "unlock_item": 30600001
     },
     {
+        "id": 30600002,
+        "auto_hide": 1,
+        "name_chs": "闲暇炒面",
+        "name_chs_t": "閒暇炒麵",
+        "name_jp": "リーヒマ -Piano Version-",
+        "name_en": "Mayo Yakisoba",
+        "name_kr": "마요 야키소바",
+        "path": "music/lobby_yiji.mp3",
+        "time_length": 0.0,
+        "type": "lobby",
+        "unlock_desc_chs": "成就解锁",
+        "unlock_desc_chs_t": "成就解鎖",
+        "unlock_desc_jp": "実績達成で解放",
+        "unlock_desc_en": "Achievement unlocked",
+        "unlock_desc_kr": "업적 달성 보상",
+        "unlock_item": 30600002
+    },
+    {
         "id": 306101,
         "auto_hide": 0,
         "name_chs": "竹取之语",

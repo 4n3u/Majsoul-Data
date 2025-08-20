@@ -1198,5 +1198,75 @@
         "content_en": "Unlock the Ending - Top Priority",
         "content_kr": "End6. 식사가 우선",
         "reward": "304006-1"
+    },
+    {
+        "id": 700011,
+        "type": 1,
+        "content_chs": "解锁结局【肥皂泡为何是圆的】",
+        "content_chs_t": "解鎖結局【肥皂泡為何是圓的】",
+        "content_jp": "End1.シャボン玉が丸い理由",
+        "content_en": "Unlock the Ending - The Shape of a Bubble",
+        "content_kr": "End1. 비눗방울이 둥근 이유",
+        "reward": "302006-1"
+    },
+    {
+        "id": 700012,
+        "type": 2,
+        "content_chs": "解锁结局【难以预料的咖喱】",
+        "content_chs_t": "解鎖結局【難以預料的咖喱】",
+        "content_jp": "End2.未知数なカレー",
+        "content_en": "Unlock the Ending - Unpredictable Curry",
+        "content_kr": "End2. 예측불가 카레",
+        "reward": "100002-8000"
+    },
+    {
+        "id": 700021,
+        "type": 1,
+        "content_chs": "解锁结局【新世界】",
+        "content_chs_t": "解鎖結局【新世界】",
+        "content_jp": "End3.新世界",
+        "content_en": "Unlock the Ending - My New World",
+        "content_kr": "End3. 새로운 세계",
+        "reward": "304005-1"
+    },
+    {
+        "id": 700022,
+        "type": 2,
+        "content_chs": "解锁结局【方寸世界】",
+        "content_chs_t": "解鎖結局【方寸世界】",
+        "content_jp": "End4.方寸世界",
+        "content_en": "Unlock the Ending - A Tiny World",
+        "content_kr": "End4. 작은 세계",
+        "reward": "302009-1"
+    },
+    {
+        "id": 700031,
+        "type": 1,
+        "content_chs": "解锁结局【基本粒子与夕阳】",
+        "content_chs_t": "解鎖結局【基本粒子與夕陽】",
+        "content_jp": "End5.素粒子たちの夕景",
+        "content_en": "Unlock the Ending - Wind in the Sunset",
+        "content_kr": "End5. 기본 입자와 석양",
+        "reward": "302001-1"
+    },
+    {
+        "id": 700032,
+        "type": 2,
+        "content_chs": "解锁结局【两人的挑战】",
+        "content_chs_t": "解鎖結局【兩人的挑戰】",
+        "content_jp": "End6.ふたりの挑戦",
+        "content_en": "Unlock the Ending - A Challenge for Two",
+        "content_kr": "End6. 두 사람의 도전",
+        "reward": "304006-1"
+    },
+    {
+        "id": 700033,
+        "type": 3,
+        "content_chs": "解锁结局【究极的咖啡】",
+        "content_chs_t": "解鎖結局【究極的咖啡】",
+        "content_jp": "End7.究極のコーヒー",
+        "content_en": "Unlock the Ending - The Ultimate Coffee",
+        "content_kr": "End7. 궁극의 커피",
+        "reward": "100002-12000"
     }
 ]

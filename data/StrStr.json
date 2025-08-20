@@ -2558,11 +2558,11 @@
     {
         "id": 2196,
         "type": "",
-        "chs": "获得了新的形象\r\n获得了新的表情",
-        "chs_t": "獲得了新的形象\r\n獲得了新的表情",
-        "jp": "新たな衣装を獲得しました\r\n新たなスタンプを獲得しました",
-        "en": "New look received\r\nNew emote received",
-        "kr": "새로운 의상을 획득하셨습니다.\\n새로운 스탬프를 획득하셨습니다."
+        "chs": "获得了新的形象\r\n获得了新的表情\r\n解锁了新的特殊语音",
+        "chs_t": "獲得了新的形象\r\n獲得了新的表情\r\n解鎖了新的特殊語音",
+        "jp": "新たな着せ替えを獲得しました\r\n新たなスタンプを獲得しました\r\n新たな音声を獲得しました",
+        "en": "New outfit received\r\nNew emote received\r\nNew SP voice unlocked",
+        "kr": "새로운 의상을 획득하셨습니다.\r\n새로운 스탬프를 획득하셨습니다.\r\n새로운 특수 음성을 획득하셨습니다."
     },
     {
         "id": 2197,
@@ -14330,11 +14330,11 @@
     {
         "id": 3644,
         "type": "",
-        "chs": "",
-        "chs_t": "",
-        "jp": "",
-        "en": "",
-        "kr": ""
+        "chs": "使用投票券x10，投票给{0}",
+        "chs_t": "使用投票券x10，投票給{0}",
+        "jp": "投票券×10を消費し、{0}に投票しますか？",
+        "en": "Use Voting Ticket x10 on {0}",
+        "kr": "투표권x10을 사용하여 {0}에게 투표하기."
     },
     {
         "id": 3645,
@@ -17111,8 +17111,8 @@
     {
         "id": 3953,
         "type": "",
-        "chs": "大会室昵称",
-        "chs_t": "大會室昵稱",
+        "chs": "赛事昵称",
+        "chs_t": "賽事昵稱",
         "jp": "大会対局プレイヤー名",
         "en": "Player names in Tournament Match",
         "kr": "대회 닉네임"
@@ -23112,6 +23112,33 @@
         "kr": ""
     },
     {
+        "id": 5040,
+        "type": "",
+        "chs": "银霓蛇祀",
+        "chs_t": "銀霓蛇祀",
+        "jp": "銀蛇迎儀",
+        "en": "Silver Blessing",
+        "kr": "은빛 뱀의 기원"
+    },
+    {
+        "id": 5041,
+        "type": "",
+        "chs": "",
+        "chs_t": "",
+        "jp": "",
+        "en": "",
+        "kr": ""
+    },
+    {
+        "id": 5042,
+        "type": "",
+        "chs": "",
+        "chs_t": "",
+        "jp": "",
+        "en": "",
+        "kr": ""
+    },
+    {
         "id": 5101,
         "type": "",
         "chs": "使用辉玉10连寻觅，至少会获得[tag]1个紫色礼物[/tag]",
@@ -23200,6 +23227,15 @@
         "jp": "·輝石で10回祈願すると[tag]紫色の贈り物[/tag]を必ず1個以上獲得できます。\r\n·[tag]選択した雀士[/tag]・[tag]新装飾品[/tag]が期間限定ピックアップ！\r\n·[tag]「運命の絆」で「選択した雀士」を入手後、「運命の絆」は祈願リストからなくなります。[/tag]",
         "en": "You will get at least [tag]1 purple gift[/tag] when you perform a 10-summon using Jade.\r\nDuring Fated Summon, [tag]your chosen character[/tag] gets limited-time rate UP!\r\nDuring Fated Summon, [tag]new decoration(s)[/tag] get limited-time rate UP!\r\n[tag]Once you obtain your chosen character, this event will close.[/tag]",
         "kr": "·휘석을 사용하여 10회 기원 시, 최소 [tag]1개의 보라색 선물[/tag]을 획득합니다.\r\n·[tag]선택 작사[/tag]와 [tag]신규 장식품[/tag] 획득 확률 한정 기간 UP!\r\n·[tag]선택 작사를 획득하면 해당 한정 기원은 종료됩니다.[/tag]"
+    },
+    {
+        "id": 5111,
+        "type": "",
+        "chs": "使用辉玉10连寻觅，至少会获得[tag]1个紫色礼物[/tag]\r\n璃央为期间限定雀士，[tag]活动结束后不会加入常驻寻觅[/tag]\r\n璃央提升羁绊值可解锁[tag]专属装扮与头像框[/tag]\r\n活动期间，[tag]特别限定雀士，新装扮[/tag]限时UP！",
+        "chs_t": "使用輝玉10連尋覓，至少會獲得[tag]1個紫色禮物[/tag]\r\n璃央為期間限定雀士，[tag]活動結束後不會加入常駐尋覓[/tag]\r\n璃央提升羈絆值可解鎖[tag]專屬裝扮與頭像框[/tag]\r\n活動期間，[tag]特別限定雀士，新裝扮[/tag]限時UP！",
+        "jp": "輝石で10回祈願すると[tag]紫色の贈り物[/tag]を必ず1個以上獲得できます。\r\n[tag]特別限定雀士・新装飾品[/tag]が期間限定ピックアップ！\r\n璃央は期間終了後、[tag]通常祈願から入手できません。[/tag]\r\n璃央の絆レベルが上がると[tag]特別な装飾品[/tag]が入手可能。",
+        "en": "You will get at least [tag]1 purple gift[/tag] when you perform a 10-summon using Jade.\r\nLi Yang is a limited-time character and [tag]WON'T be added to regular summon after the event ends[/tag].\r\nIncrease Bond with Li Yang for [tag]exclusive decorations and portrait frame[/tag].\r\nDuring the event, [tag]new character and new decorations[/tag] get limited-time rate up!",
+        "kr": "휘석을 사용하여 10회 기원 시, 최소 [tag]1개의 보라색 선물[/tag]을 획득합니다.\r\n한정 작사 캐릭터 리오는 [tag]이벤트 종료 후 상시 기원에 포함되지 않습니다[/tag].\r\n리오의 인연 포인트를 올리면 [tag]전용 장식품과 프로필 테두리[/tag]가 해제됩니다.\r\n이벤트 기간 동안, [tag]특정 작사 캐릭터, 신규 장식품[/tag]의 획득 확률이 상승합니다."
     },
     {
         "id": 5201,
@@ -31216,8 +31252,8 @@
         "type": "",
         "chs": "个人成绩",
         "chs_t": "個人成績",
-        "jp": "挑戦履歴",
-        "en": "Personal Achievement",
+        "jp": "ベスト",
+        "en": "Best Record",
         "kr": "개인 성적"
     },
     {
@@ -31244,7 +31280,7 @@
         "chs": "最高过关记录：",
         "chs_t": "最高過關記錄：",
         "jp": "最終ステージ：",
-        "en": "Highest Cleared Level",
+        "en": "Highest Cleared Level:",
         "kr": "최고 클리어 기록:"
     },
     {
@@ -33923,11 +33959,11 @@
     {
         "id": 20354,
         "type": "",
-        "chs": "使用MAKA可分析玩家参与的段位战-四人麻将、与段位战规则相同的友人战&赛事牌谱，给出牌谱评分和打牌建议\r\n \r\n每日可用分析次数：10次（月势御守生效中每日可用30次），每日5:00重置\r\n单次分析结果保留7天，请您及时查看分析结果\r\n \r\n分析后，MAKA会在牌谱中，按照当时的场面条件提供分析思路以供参考\r\n牌面或按钮上的数字越高，代表选择此行为的倾向性越强\r\n \r\n在「局列表」中，可以查看每小局的评分\r\n在「巡目列表」中，可以查看具体哪一巡与MAKA的建议有差异\r\n此外，也可以通过「上/下个差异」按钮，快速定位到差异处\r\n \r\n希望MAKA能为您的对局复盘提供帮助",
-        "chs_t": "使用MAKA可分析玩家參與的段位戰-四人麻將、與段位戰規則相同的友人戰&賽事牌譜，給出牌譜評分和打牌建議\r\n\r\n每日可用分析次數：10次（月勢御守生效中每日可用30次），每日5:00重置\r\n單次分析結果保留7天，請您及時查看分析結果\r\n\r\n分析後，MAKA會在牌譜中，按照當時的場面條件提供分析思路以供參考\r\n牌面或按鈕上的數位越高，代表選擇此行為的傾向性越強\r\n\r\n在「局列表」中，可以查看每小局的評分\r\n在「巡目列表」中，可以查看具體哪一巡與MAKA的建議有差異\r\n此外，也可以透過「上/下個差異」按鈕，快速定位到差異處\r\n\r\n希望MAKA能為您的對局覆盤提供幫助",
-        "jp": "オリジナル牌譜分析システム「MAKA」を使うと、「段位戦・四人麻雀」、および段位戦と同じ設定の「友人戦」・「大会ロビー」の牌譜を分析し、評価することができる。\r\n\r\n分析完了後、各種評価が点数で表示され、打牌へのアドバイスも表示される。\r\n手牌または操作ボタンの上に表示された数字が高ければ高いほど、MAKAによる行動のおすすめ度が高い。\r\n\r\n「局リスト」で、各局の評価を確認できる。\r\n「巡目リスト」で、MAKAが推奨する行動と異なる行動をとった巡目を一覧できる。\r\nまた、牌譜確認中でも「前/次の分岐へ」ボタンで、MAKAが推奨する行動と異なる行動をとった巡目まで移動できる。\r\n\r\n※分析結果は、7日経過するまではいつでも確認できる。\r\n※一日に分析出来る牌譜は10件まで（分析可能回数は毎日朝6:00にリセットされる）。\r\n※開運御守の有効期間中は、一日に分析出来る牌譜は30件まで。",
-        "en": "Use MAKA to analyze your logs from 4-Player Ranked matches, as well as Friendly and Tournament matches that use the same rules as Ranked matches. It will provide scores and playing suggestions.\r\n\r\nDaily analysis limit: 10 attempts (30 attempts daily with Fortune Charm in effect). Resets every day at 2:00 P.M. (UTC-7).\r\n\r\nSingle analysis results are retained for 7 days, so please check them promptly.\r\n\r\nAfter analysis, MAKA offers suggestions based on the game situation for your reference.\r\nA higher number on a tile or button indicates a stronger recommendation for that choice.\r\n\r\nIn the Round List, you can view scores for each round.\r\nIn the Turn List, you can see where your decisions differ from MAKA's suggestions.\r\nAdditionally, use the \"Prev/Next Diff\" buttons to quickly locate these differences.\r\n\r\nWe hope MAKA helps you review and enhance your mahjong skills.",
-        "kr": "패보 분석 시스템 'MAKA'는 참여한 등급전-4인전 및 등급전 규칙과 동일한 친선전/대회전의 패보를 분석할 수 있습니다. 분석 완료 후, 평점과 조언이 표시됩니다.\r\n\r\n매일 10회의 분석 횟수가 주어지며(운수 대통 부적 보유 시 매일 30회), 분석 횟수는 매일 오전 6시에 갱신됩니다.\r\n\r\n분석 결과는 7일 동안만 보관되니, 잊지 말고 확인해 주세요.\r\n\r\n분석 후, 'MAKA'는 패보의 당시 상황에 따른 분석 및 플레이 방향을 제안하여 참고할 수 있도록 합니다.\r\n패 혹은 버튼의 숫자가 높을수록 해당 행동을 선택할 경향이 높다는 의미입니다.\r\n\r\n'국 목록'에서는 각 국별 평가 점수를 확인할 수 있습니다.\r\n'순 목록'에서는 특정 순에서 'MAKA'의 제안과 실제 플레이 간의 차이점을 확인할 수 있습니다.\r\n또한 '이전/다음 분기점으로' 버튼으로 차이 발생 지점에 빠르게 이동할 수 있습니다.\r\n\r\n'MAKA'가 여러분의 대국 복기에 도움이 되길 바랍니다."
+        "chs": "使用MAKA可分析玩家参与的段位战、与段位战规则相同的友人战&赛事牌谱，给出牌谱评分和打牌建议\r\n \r\n每日可用分析次数：10次（月势御守生效中每日可用30次），每日5:00重置\r\n单次分析结果保留7天，请您及时查看分析结果\r\n \r\n分析后，MAKA会在牌谱中，按照当时的场面条件提供分析思路以供参考\r\n牌面或按钮上的数字越高，代表选择此行为的倾向性越强\r\n \r\n在「局列表」中，可以查看每小局的评分\r\n在「巡目列表」中，可以查看具体哪一巡与MAKA的建议有差异\r\n此外，也可以通过「上/下个差异」按钮，快速定位到差异处\r\n \r\n希望MAKA能为您的对局复盘提供帮助",
+        "chs_t": "使用MAKA可分析玩家參與的段位戰、與段位戰規則相同的友人戰&賽事牌譜，給出牌譜評分和打牌建議\r\n\r\n每日可用分析次數：10次（月勢御守生效中每日可用30次），每日5:00重置\r\n單次分析結果保留7天，請您及時查看分析結果\r\n\r\n分析後，MAKA會在牌譜中，按照當時的場面條件提供分析思路以供參考\r\n牌面或按鈕上的數位越高，代表選擇此行為的傾向性越強\r\n\r\n在「局列表」中，可以查看每小局的評分\r\n在「巡目列表」中，可以查看具體哪一巡與MAKA的建議有差異\r\n此外，也可以透過「上/下個差異」按鈕，快速定位到差異處\r\n\r\n希望MAKA能為您的對局覆盤提供幫助",
+        "jp": "オリジナル牌譜分析システム「MAKA」を使うと、「段位戦」、および段位戦と同じ設定の「友人戦」・「大会ロビー」の牌譜を分析し、評価することができる。\r\n\r\n分析完了後、各種評価が点数で表示され、打牌へのアドバイスも表示される。\r\n手牌または操作ボタンの上に表示された数字が高ければ高いほど、MAKAによる行動のおすすめ度が高い。\r\n\r\n「局リスト」で、各局の評価を確認できる。\r\n「巡目リスト」で、MAKAが推奨する行動と異なる行動をとった巡目を一覧できる。\r\nまた、牌譜確認中でも「前/次の分岐へ」ボタンで、MAKAが推奨する行動と異なる行動をとった巡目まで移動できる。\r\n\r\n※分析結果は、7日経過するまではいつでも確認できる。\r\n※一日に分析出来る牌譜は10件まで（分析可能回数は毎日朝6:00にリセットされる）。\r\n※開運御守の有効期間中は、一日に分析出来る牌譜は30件まで。",
+        "en": "Use MAKA to analyze your logs from Ranked matches, as well as Friendly and Tournament matches that use the same rules as Ranked matches. It will provide scores and playing suggestions.\r\n\r\nDaily analysis limit: 10 attempts (30 attempts daily with Fortune Charm in effect). Resets every day at 2:00 P.M. (UTC-7).\r\n\r\nSingle analysis results are retained for 7 days, so please check them promptly.\r\n\r\nAfter analysis, MAKA offers suggestions based on the game situation for your reference.\r\nA higher number on a tile or button indicates a stronger recommendation for that choice.\r\n\r\nIn the Round List, you can view scores for each round.\r\nIn the Turn List, you can see where your decisions differ from MAKA's suggestions.\r\nAdditionally, use the \"Prev/Next Diff\" buttons to quickly locate these differences.\r\n\r\nWe hope MAKA helps you review and enhance your mahjong skills.",
+        "kr": "패보 분석 시스템 'MAKA'는 참여한 등급전 및 등급전 규칙과 동일한 친선전/대회전의 패보를 분석할 수 있습니다. 분석 완료 후, 평점과 조언이 표시됩니다.\r\n\r\n매일 10회의 분석 횟수가 주어지며(운수 대통 부적 보유 시 매일 30회), 분석 횟수는 매일 오전 6시에 갱신됩니다.\r\n\r\n분석 결과는 7일 동안만 보관되니, 잊지 말고 확인해 주세요.\r\n\r\n분석 후, 'MAKA'는 패보의 당시 상황에 따른 분석 및 플레이 방향을 제안하여 참고할 수 있도록 합니다.\r\n패 혹은 버튼의 숫자가 높을수록 해당 행동을 선택할 경향이 높다는 의미입니다.\r\n\r\n'국 목록'에서는 각 국별 평가 점수를 확인할 수 있습니다.\r\n'순 목록'에서는 특정 순에서 'MAKA'의 제안과 실제 플레이 간의 차이점을 확인할 수 있습니다.\r\n또한 '이전/다음 분기점으로' 버튼으로 차이 발생 지점에 빠르게 이동할 수 있습니다.\r\n\r\n'MAKA'가 여러분의 대국 복기에 도움이 되길 바랍니다."
     },
     {
         "id": 20355,
@@ -36326,10 +36362,10 @@
     {
         "id": 25070207,
         "type": "",
-        "chs": "该活动已结束",
-        "chs_t": "該活動已結束",
-        "jp": "イベントが終了しました。",
-        "en": "Event ended.",
+        "chs": "这个活动已经结束了哦",
+        "chs_t": "這個活動已經結束了哦",
+        "jp": "イベントは終了しました",
+        "en": "This event has already ended.",
         "kr": "이벤트가 종료되었습니다."
     },
     {
@@ -36436,6 +36472,1482 @@
         "type": "",
         "chs": "如需进一步管理赛事，请前往游戏官网https://www.maj-soul.com，赛事管理页面",
         "chs_t": "如需進一步管理賽事，請前往遊戲官網https://www.maj-soul.com，賽事管理頁面",
+        "jp": "",
+        "en": "",
+        "kr": ""
+    },
+    {
+        "id": 25081101,
+        "type": "",
+        "chs": "印章",
+        "chs_t": "印章",
+        "jp": "スタンプ",
+        "en": "Seal",
+        "kr": "도장"
+    },
+    {
+        "id": 25081102,
+        "type": "",
+        "chs": "最近通关",
+        "chs_t": "最近通關",
+        "jp": "履歴",
+        "en": "Recent Log",
+        "kr": "기록"
+    },
+    {
+        "id": 25081103,
+        "type": "",
+        "chs": "设为初始",
+        "chs_t": "設為初始",
+        "jp": "持込お守り設定",
+        "en": "Set as Default",
+        "kr": "기본으로 설정"
+    },
+    {
+        "id": 25081104,
+        "type": "",
+        "chs": "取消设置",
+        "chs_t": "取消設置",
+        "jp": "設定解除",
+        "en": "Cancel",
+        "kr": "취소"
+    },
+    {
+        "id": 25081105,
+        "type": "",
+        "chs": "记录{0}",
+        "chs_t": "記錄{0}",
+        "jp": "履歴{0}",
+        "en": "Log {0}",
+        "kr": "기록{0}"
+    },
+    {
+        "id": 25081106,
+        "type": "",
+        "chs": "完成时间 {0}",
+        "chs_t": "完成時間 {0}",
+        "jp": "完了時間：{0}",
+        "en": "Completion Time: {0}",
+        "kr": "완료 시간: {0}"
+    },
+    {
+        "id": 25081107,
+        "type": "",
+        "chs": "最高关卡得分：",
+        "chs_t": "最高關卡得分：",
+        "jp": "最高ステージ得点：",
+        "en": "Highest Level Score:",
+        "kr": "최고 점수:"
+    },
+    {
+        "id": 25081108,
+        "type": "",
+        "chs": "最高番数：",
+        "chs_t": "最高番數：",
+        "jp": "最高飜数：",
+        "en": "Highest Han:",
+        "kr": "최고 판수:"
+    },
+    {
+        "id": 25081109,
+        "type": "",
+        "chs": "最高分数：",
+        "chs_t": "最高分數：",
+        "jp": "最大和了：",
+        "en": "Highest Winning PT:",
+        "kr": "최대 화료:"
+    },
+    {
+        "id": 25081110,
+        "type": "",
+        "chs": "通关次数：",
+        "chs_t": "通關次數：",
+        "jp": "クリア回数：",
+        "en": "Full Clears:",
+        "kr": "클리어 횟수:"
+    },
+    {
+        "id": 25081111,
+        "type": "",
+        "chs": "完成关卡数：",
+        "chs_t": "完成關卡數：",
+        "jp": "クリアステージ数：",
+        "en": "Levels Cleared:",
+        "kr": "클리어한 스테이지 수:"
+    },
+    {
+        "id": 25081112,
+        "type": "",
+        "chs": "护身符收集：",
+        "chs_t": "護身符蒐集：",
+        "jp": "お守り収集数：",
+        "en": "Talismans Collected:",
+        "kr": "수집한 부적 수:"
+    },
+    {
+        "id": 25081113,
+        "type": "",
+        "chs": "印章收集：",
+        "chs_t": "印章蒐集：",
+        "jp": "スタンプ収集数：",
+        "en": "Seals Collected:",
+        "kr": "수집한 도장 수:"
+    },
+    {
+        "id": 25081114,
+        "type": "",
+        "chs": "最多开包数：",
+        "chs_t": "最多開包數：",
+        "jp": "最多お守りパック開封数：",
+        "en": "Most Packs Opened:",
+        "kr": "최대 부적팩 개봉 수:"
+    },
+    {
+        "id": 25081115,
+        "type": "",
+        "chs": "最多花费星币：",
+        "chs_t": "最多花費星幣：",
+        "jp": "最大勝ち星消費数：",
+        "en": "Most Star Coins Spent:",
+        "kr": "최대 소비한 스타코인 수:"
+    },
+    {
+        "id": 25081116,
+        "type": "",
+        "chs": "花费星币：",
+        "chs_t": "花費星幣：",
+        "jp": "勝ち星消費数：",
+        "en": "Star Coins Spent:",
+        "kr": "소비한 스타코인 수:"
+    },
+    {
+        "id": 25081117,
+        "type": "",
+        "chs": "打开护身符包：",
+        "chs_t": "打開護身符包：",
+        "jp": "お守りパック開封数：",
+        "en": "Packs Opened:",
+        "kr": "부적팩 개봉 수:"
+    },
+    {
+        "id": 25081118,
+        "type": "",
+        "chs": "完成一次{0}后解锁初始偏好护身符",
+        "chs_t": "完成一次 {0} 後解鎖初始偏好護身符",
+        "jp": "{0}をクリア後、開始時に持ち込むお守りを設定できる機能が解放されます",
+        "en": "Clear {0} to unlock the ability to set a default talisman",
+        "kr": "{0} 클리어 후, 기본 부적 설정 기능 오픈"
+    },
+    {
+        "id": 25081119,
+        "type": "",
+        "chs": "替换已有印章",
+        "chs_t": "替換已有印章",
+        "jp": "所しているスタンプと交換",
+        "en": "Replace existing Seal",
+        "kr": "보유한 도장 교환"
+    },
+    {
+        "id": 25081120,
+        "type": "",
+        "chs": "普通",
+        "chs_t": "普通",
+        "jp": "ノーマル",
+        "en": "Normal",
+        "kr": "일반"
+    },
+    {
+        "id": 25081121,
+        "type": "",
+        "chs": "稀有",
+        "chs_t": "稀有",
+        "jp": "レア",
+        "en": "Rare",
+        "kr": "희귀"
+    },
+    {
+        "id": 25081122,
+        "type": "",
+        "chs": "传说",
+        "chs_t": "傳說",
+        "jp": "スーパーレア",
+        "en": "Legendary",
+        "kr": "전설"
+    },
+    {
+        "id": 25081123,
+        "type": "",
+        "chs": "神话",
+        "chs_t": "神話",
+        "jp": "ウルトラレア",
+        "en": "Mythical",
+        "kr": "신화"
+    },
+    {
+        "id": 25081124,
+        "type": "",
+        "chs": "获取额外护身符",
+        "chs_t": "獲取額外護身符",
+        "jp": "お守りをさらに獲得",
+        "en": "Obtain extra talisman",
+        "kr": "부적 추가 획득"
+    },
+    {
+        "id": 25081125,
+        "type": "",
+        "chs": "关卡开始前，获得效果！",
+        "chs_t": "關卡開始前，獲得效果！",
+        "jp": "ステージ開始時に効果発動！",
+        "en": "When the level starts, it shapeshifts!",
+        "kr": "스테이지 시작 시 효과 발동!"
+    },
+    {
+        "id": 25081126,
+        "type": "",
+        "chs": "青云之志：勇喵小队活动开启！使用去除2-8万的108张牌进行游戏，和牌累计分数，到达目标分数即可过关。以踏破更高的关卡为目标而努力吧！",
+        "chs_t": "青雲之志：勇喵小隊活動開啟！使用去除2-8萬的108張牌進行遊戲，和牌累計分數，到達目標分數即可過關。以踏破更高的關卡為目標而努力吧！",
+        "jp": "「青雲の志・勇にゃん伝説」が開催中にゃ！ 2～8の萬子を除く、108枚の牌でステージクリアを目指して和了していくにゃ。さらなる高みを目指して、頑張るにゃ！",
+        "en": "The brand-new Sky-High Ambition: The Nyavengers event has begun! This game mode uses a 108-tile set, with the 2-8 Man tiles removed. Accumulate PT from winning hands to reach the target score and clear each level. Strive to conquer them all!",
+        "kr": "청운의 꿈: 용사냥냥 파티 이벤트 오픈! 2~8만을 제외한 108장의 패를 사용하여 게임을 진행합니다. 누적 화료 목표 점수를 달성하면 스테이지가 오픈됩니다. 모든 스테이지 클리어를 목표로 도전해보세요!"
+    },
+    {
+        "id": 25081127,
+        "type": "",
+        "chs": "挑战之路上，商店内的升级与护身符可以提供重大帮助！获得同样的护身符时还可以进化为强化版，还有可能会发现带有印章的特别版本哦！",
+        "chs_t": "挑戰之路上，商店內的升級與護身符可以提供重大幫助！獲得同樣的護身符時還可以進化為強化版，還有可能會發現帶有印章的特別版本哦！",
+        "jp": "攻略の助けになるものは、道具屋にある「強化」と「お守り」にゃ！ 同じお守りを入手すると、効力が強まっていくにゃ！ 今回は強力な「スタンプ」付きのお守りも出現するにゃ！",
+        "en": "Upgrades and talismans from the shop offer a major advantage. Getting a duplicate talisman will upgrade it to a Plus version, and you may occasionally find special sealed talismans as well.",
+        "kr": "상점 안의 업그레이드와 부적이 도전에 큰 도움을 줍니다! 동일한 부적을 얻으면 강화 버전으로 업그레이드 할 수 있으며, 도장을 가진 스페셜 버전도 있습니다."
+    },
+    {
+        "id": 25081128,
+        "type": "",
+        "chs": "完成活动任务，可以领取贤人福袋，强化点数等奖励！",
+        "chs_t": "完成活动任務，可以領取賢人福袋，強化點數等獎勵！",
+        "jp": "イベントクエストを達成すると、強化PTや賢者の福袋などの豪華な報酬が貰えるにゃ！",
+        "en": "Complete missions to earn Sage's Bags, enhancement points, and more!",
+        "kr": "이벤트 기간 동안 임무를 완료하면 현자의 복주머니, 강화 포인트 등 보상을 획득할 수 있습니다!"
+    },
+    {
+        "id": 25081129,
+        "type": "",
+        "chs": "获得的强化点数可以让你进一步变强，直上云霄！（强化后的效果在开始新一轮游戏时生效）",
+        "chs_t": "獲得的強化點數可以讓你進一步變強，直上雲霄！（強化後的效果在開始新一輪遊戲時生效）",
+        "jp": "「道具屋」だけでなく、「能力強化」ページでも「強化PT」を消費して様々な強化ができるにゃ！ ここでの強化は、次の挑戦開始後から効果を発揮するにゃ。",
+        "en": "With the enhancement points you've obtained, you can ascend to a new level of power! (All enhancements will activate at the start of your next game.)",
+        "kr": "강화 포인트를 획득하면 하늘 높이 쭉쭉 강해질 수 있답니다! (강화 효과는 새로운 게임이 시작 시 발휘됩니다.)"
+    },
+    {
+        "id": 25081130,
+        "type": "",
+        "chs": "特别活动 -青云之志：勇喵小队-\r\n活动时间：长期开放\r\n\r\n目标是更高，更快，更强！贯彻麻将的信念直上云霄！\r\n青云之志再度回归，和勇喵小队一起探寻密林结识伙伴，击败恶龙勇攀高峰吧！\r\n\r\n主要流程\r\n-每轮游戏以过关为目标，分为关卡阶段和商店阶段\r\n-在关卡阶段中，玩家将面对15个关卡，其中每3个关卡为boss关卡，有额外的限制条件\r\n-玩家需要在关卡阶段组建手牌并和牌以获得分数，达到目标分数后才可过关 \r\n-过关后将进入商店阶段，可用在关卡阶段中获得的星币购买商品或增强能力\r\n-突破15个关卡后，本轮游戏即胜利\r\n-胜利后可以选择挑战更多关卡\r\n\r\n关卡阶段\r\n-使用去除2-8万的108张牌进行游戏\r\n-每关开始时，玩家将获得13张手牌、36张待摸牌和1张宝牌指示牌，并从待摸牌中公开6张\r\n\r\n-摸牌前可以进行“换牌”\r\n--可以选择任意张手牌与牌库交换，但不会与待摸牌交换\r\n--每次换牌会消耗1次次数，初始换牌次数为3次\r\n\r\n-换牌完毕后，正式开始摸牌\r\n--按顺序依次从待摸牌中摸牌，其余摸牌、和牌与普通麻将规则无异\r\n--手牌满足和牌条件时可以和牌，将计算分数\r\n--不同于普通麻将规则，和牌后可以继续调整手牌来使牌达到更为理想的状态\r\n--本模式无立直规则\r\n\r\n-分数计算\r\n--和牌分数=手牌中所有牌的总分x番数\r\n--手牌分数按照每张牌的基础分值结算，可通过牌库查询基础分值\r\n--番数将依照普通麻将规则结算手牌役种\r\n--持有护身符时，可对分数和番数有额外影响\r\n--护身符会按照从左至右的顺序以此结算\r\n\r\n-过关结算\r\n--满足每关的过关分数条件即可过关，进入连续摸牌状态\r\n--在连续摸牌状态中，将直接公布剩余的待摸牌\r\n--待摸牌满足和牌条件时将直接结算分数，摸完为止\r\n--过关后将根据当前关卡难度发放星币奖励和护身符包奖励\r\n--若超过过关分数条件的2倍、3倍或5倍时，仍有额外星币奖励\r\n--具有关卡结束时效果的护身符，也会在过关结算时生效\r\n\r\n-失败条件\r\n--当玩家摸完最后一张待摸牌时无法获得足够的分数，则本轮游戏结束\r\n\r\n商店阶段\r\n-商店阶段中，玩家可出售自己的护身符，或是消耗星币来选择增强能力和购买护身符包\r\n-增强能力：提升本轮游戏的公开牌数、宝牌指示牌数和新增魂牌\r\n-购买护身符包：选择不同稀有度的护身符包，开启后可从3张中选择自己心仪的1张护身符，或是选择跳过\r\n-获得相同的护身符时，可将原有护身符升级为强化版，效果更为强力\r\n-获取护身符时，都有概率带有不同等级的印章\r\n--获取已有护身符时如果带有印章，则会覆盖之前的印章\r\n-护身符存在获取上限\r\n\r\n初始强化\r\n-完成本模式的活动任务后，可以获得强化点数\r\n-在主界面-能力强化中可以消耗强化点数进行初始强化 \r\n-初始强化包含：初始持有星币、商店卡包出售数量、商店卡包质量、商店刷新价格、护身符持有上限、初始换牌次数\r\n-初始强化可以随时重置，重置后将返还所有强化点数\r\n-每次强化后将在新一轮游戏时生效\r\n\r\n自选初始护身符\r\n-通过5-3关卡后，可解锁自选初始护身符功能\r\n-可在图鉴中选择品质为普通或稀有的护身符作为初始护身符\r\n-初始护身符仅可设置一张\r\n-自选初始护身符将在新一轮游戏时生效",
+        "chs_t": "特別活動 - 青雲之志：勇喵小隊 -\r\n活動時間：長期開放\r\n\r\n目標是更高、更快、更強！貫徹麻將的信念直上雲霄！\r\n青雲之志再度回歸，和勇喵小隊一起探尋密林、結識伙伴，擊敗惡龍、勇攀高峰吧！\r\n\r\n主要流程\r\n-每輪遊戲以過關為目標，分為關卡階段和商店階段\r\n-在關卡階段中，玩家將面對15個關卡，其中每3個關卡為boss關卡，有額外的限制條件\r\n-玩家需要在關卡階段組建手牌並和牌以獲得分數，達到目標分數後才可過關 \r\n-過關後將進入商店階段，可用在關卡階段中獲得的星幣購買商品或增強能力\r\n-突破15個關卡後，本輪遊戲即勝利\r\n-勝利後可以選擇挑戰更多關卡\r\n\r\n關卡階段\r\n-使用去除2-8萬的108張牌進行遊戲\r\n-每關開始時，玩家將獲得13張手牌、36張待摸牌和1張寶牌指示牌，並從待摸牌中公開6張\r\n\r\n-摸牌前可以進行「換牌」\r\n--可以選擇任意張手牌與牌庫交換，但不會與待摸牌交換\r\n--每次換牌會消耗1次次數，初始換牌次數為3次\r\n\r\n-換牌完畢後，正式開始摸牌\r\n--按順序依次從待摸牌中摸牌，其餘摸牌、和牌與普通麻將規則無異\r\n--手牌滿足和牌條件時可以和牌，將計算分數\r\n--不同于普通麻將規則，和牌後可以繼續調整手牌來使牌達到更為理想的狀態\r\n--本模式無立直規則\r\n\r\n-分數計算\r\n--和牌分數=手牌中所有牌的總分x番數\r\n--手牌分數按照每張數位牌5分，字牌10分計算\r\n--番數將依照普通麻將規則結算手牌役種\r\n--持有護身符時，可對分數和番數有額外影響\r\n-- 護身符會按照從左至右的順序依次結算\r\n\r\n-過關結算\r\n--滿足每關的過關分數條件即可過關，進入連續摸牌狀態\r\n--在連續摸牌狀態中，將直接公佈剩餘的待摸牌\r\n--待摸牌滿足和牌條件時將直接結算分數，摸完為止\r\n--過關後將根據當前關卡難度發放星幣獎勵和護身符包獎勵\r\n--若超過過關分數條件的2倍、3倍或5倍時，仍有額外星幣獎勵\r\n--具有關卡結束時效果的護身符，也會在過關結算時生效\r\n\r\n-失敗條件\r\n--當玩家摸完最後一張待摸牌時無法獲得足夠的分數，則本輪遊戲結束\r\n\r\n商店階段\r\n-商店階段中，玩家可出售自己的護身符，或是消耗星幣來選擇增強能力和購買卡包\r\n-增強能力：提升本輪遊戲的公開牌數和寶牌指示牌數和新增魂牌\r\n-購買護身符包：選擇不同稀有度的護身符包，開啟後可從3張中選擇自己心儀的1張護身符，或是選擇跳過\r\n-獲得相同的護身符時，可將原有護身符升級為強化版，效果更為強力\r\n-獲取護身符時，都有概率帶有不同等級的印章。\r\n--獲取已有護身符時如果帶有印章，則會覆蓋之前的印章。\r\n-護身符存在獲取上限\r\n\r\n初始強化\r\n-完成本模式的活動任務後，可以獲得強化點數\r\n-在主介面-能力強化中可以消耗強化點數進行初始強化 \r\n-初始強化包含：初始持有星幣、商店卡包出售數量、商店卡包品質、商店刷新價格、護身符持有上限、初始換牌次數\r\n-初始強化可以隨時重置，重置後將返還所有強化點數\r\n-每次強化後將在新一輪遊戲時生效\r\n\r\n自選初始護身符\r\n-通過 5-3 關卡後，可解鎖自選初始護身符功能\r\n-可在圖鑑中選擇品質為普通或稀有的護身符作為初始護身符\r\n-初始護身符僅可設置一張\r\n-自選初始護身符將在新一輪遊戲時生效",
+        "jp": "青雲の志・勇にゃん伝説\r\nイベント期間：長期開催\r\n\r\nより高く、より早く、より強く！ 麻雀への思いは天をも貫く！\r\n「青雲の志」がさらにパワーアップして帰ってきた！\r\n勇にゃんの仲間と一緒にドラゴンに挑もう！\r\n\r\n\r\n「青雲の志」の流れ\r\n\r\n-1回の挑戦につき15ステージある。ステージとステージの間に道具屋にて強化やお守りの購入・売却ができる。\r\n--ステージごとに目標点数が設定されている。ボスステージではステージ効果も発生する。\r\n--ステージ15をクリアすると、さらなる挑戦が……？\r\n\r\n-ステージ開始前、手牌13枚、牌山36枚、ドラ表示牌1枚が配置される。\r\n--牌山の36枚中、初期状態では6枚が表にされた状態で置かれる。\r\n\r\n-ステージ開始時、手牌から、不要な牌を任意の枚数牌山の牌と入れ替えられる。\r\n--次にツモする牌とは入れ替えできない。\r\n--初期状態では、ステージ中に3回まで入れ替えを行える。\r\n\r\n-ステージ挑戦中は下記のルールに沿って、ステージクリアを目指して和了する。\r\n--立直はできない。\r\n--萬子の2～8は使用しない。\r\n--和了後は引き続きツモ・打牌を行い、手牌を違う形にできる。\r\n\r\n-点数計算について\r\n--和了点数＝手牌の総スコア×飜数\r\n--手牌のスコアは、和了時に手牌にある牌で計算される。各牌のスコアは「枚数確認」から確認できる。\r\n--お守りの効果によって、最終点数と飜数が変化する場合がある。\r\n--お守りの効果が同じタイミングで発動する場合、左から右への順番で発動する。\r\n--お守りの効果によって、「魂牌」を獲得することがある。和了時、手牌中の「魂牌」1枚ごとに1飜増える。\r\n\r\n-合計和了点数が目標点数に達成すると、ステージクリアとなる。\r\n--ステージクリア後、牌山が尽きるまでツモ切りが繰り返される。ツモ切り中も引き続き和了できる。\r\n--ステージクリア後、クリア報酬として「勝ち星」や「お守りパック」も入手できる。「勝ち星「お守りパック」の数およびレア度は、ステージの難易度によって変化する。\r\n--ステージクリア後、合計和了点数が目標点数の2、3、5倍を達成すると、それぞれボーナスの「勝ち星」を入手できる。\r\n--ステージクリア後に発動するタイプのお守りは、このタイミングで効果が発動する。\r\n\r\n-挑戦終了について\r\n--牌山から最後の牌をツモした時点で、合計和了点数が目標点数を達成できなかった場合、挑戦終了となる。\r\n\r\n-道具屋について\r\n--道具屋では「表牌の枚数」「入替回数」の強化や、お守りの購入・売却ができる。\r\n--所持中のお守りを売却すると、勝ち星を獲得できる。\r\n--勝ち星を消費し、魂牌を増やせる他、表牌枚数・ドラ表示牌枚数を強化できる。この強化は、挑戦終了後にリセットされる。\r\n--勝ち星を消費し、お守りパックを購入できる。\r\n--お守りパックからは、3枚のお守りが出現する。3枚から1枚を選んで入手できる。\r\n--既に所持しているお守りを入手すると、お守りの効果が強化される。\r\n--お守りを入手する際に、一定確率で特殊効果を持つ「スタンプ」が付くことがある。\r\n--既に所持しているスタンプ付きのお守りと同じお守りを、新たにスタンプ付きの状態で入手した場合、新しいスタンプのみが残る。\r\n--入手したことがあるお守りは、アルバムから詳細を確認できる。\r\n\r\n能力強化について\r\n-イベントクエストを達成すると、強化PTを入手できる。\r\n-能力強化ページでは、強化PTを消費し、6種類の強化を行うことができる。\r\n-能力強化をリセットすると、消費された強化PTが返還される。\r\n-能力強化後、次の挑戦から効果が反映される。\r\n\r\nお守り持ち込みについて\r\n-5-3ステージ初回クリアを達成すると、開始時に持ち込むお守りを設定できる機能が解放される。\r\n-持ち込むお守りに設定できるのは、アルバムに登録されたノーマルまたはレアのお守り1枚のみ。\r\n-持ち込むお守りを設定後、次の挑戦から効果が反映される。",
+        "en": "Special Event - Sky-High Ambition: The Nyavengers\r\nEvent Period: Available for a long time\r\n\r\nThe goal is higher, faster, stronger! Embrace the spirit of mahjong and soar to new heights!\r\nSky-High Ambition is back again! Join the Nyavengers on a thrilling adventure – gather new companions, slay the fearsome dragon, and conquer the summit.\r\n\r\nGame Process\r\n- The goal of the game is to clear the levels. There are two phases, the Level Phase and the Shop Phase.\r\n- In the Level Phase, you will face 15 levels, with every 3rd level being a boss level that has additional restrictions.\r\n- You need to assemble winning hands in the Level Phase to score PT; only by reaching the target PT can you clear the level.\r\n- After clearing a level, you enter the Shop Phase, where you can use Star Coins earned during the Level Phase to purchase items or upgrade abilities.\r\n- Achieving a full clear of all 15 levels is considered a victory.\r\n- Upon completing a full clear, you can choose to challenge Ex levels.\r\n\r\nLevel Phase\r\n- The game uses a 108-tile set, with the 2-8 Man tiles removed.\r\n- At the start of each level, you receive 13 hand tiles. There are 36 tiles in the Tile Wall and 1 Dora indicator, with 6 tiles opened in the Tile Wall.\r\n\r\n- Before drawing, you can exchange hand tiles:\r\n-- Hand tiles can be exchanged with the Tile Pool but not with the Tile Wall.\r\n-- Each exchange consumes 1 tile exchange count. You start with 3 at the beginning of the game round.\r\n\r\n- After you finish with tile exchanges, the drawing starts:\r\n-- You draw tiles in order from the Tile Wall. Drawing tiles and winning follow the standard mahjong rules.\r\n-- When your hand meets winning conditions, you can declare a win and calculate the winning PT.\r\n-- Unlike standard mahjong, after winning, you can continue adjusting your hand for an optimal state.\r\n-- There is no Riichi rule in this mode.\r\n\r\n- PT Calculation\r\n-- Winning PT = Total PT of all hand tiles x Han count\r\n-- The total PT of your hand tiles is calculated based on the basic PT of each tile (see the Tile Pool for details).\r\n-- Han is calculated based on standard mahjong's Yaku.\r\n-- Talismans can influence PT and Han.\r\n-- Talismans are resolved in order from left to right.\r\n\r\n- Level Completion\r\n-- Meeting the target PT for each level means you have cleared the level, and you enter the Continuous Draw Mode.\r\n-- In the Continuous Draw Mode, the remaining tiles in the Tile Wall are opened directly.\r\n-- If tiles in the Tile Wall meet winning conditions, the winning PT will be calculated immediately. The level ends when all tiles in the Tile Wall are drawn.\r\n-- Level clear rewards (Star Coins & talisman packs) are given based on the current level's difficulty.\r\n-- Extra Star Coins are awarded for reaching 2x, 3x, or 5x of the target PT.\r\n-- Talismans that trigger at the end of the level will take effect upon level completion.\r\n\r\n- About Failure\r\n-- The game ends if you haven't reached the target PT when the last tile is drawn.\r\n\r\nShop Phase\r\n- In the Shop Phase, you can sell your talismans or spend Star Coins to upgrade abilities and purchase talisman packs.\r\n- Ability Upgrade: Increase the number of opened tiles, Dora indicators, and added Soul tiles for the current game round.\r\n- Talisman Pack Purchase: There are talisman packs of different rarities. Open a pack to choose one of the three talismans presented, or skip.\r\n- Duplicate talismans can upgrade existing ones to Plus versions with stronger effects.\r\n- When acquiring a talisman, it has a chance to come with a random-tier Seal.\r\n-- If you obtain a duplicate talisman that has a Seal, its Seal will replace your old one.\r\n- Talismans have a possession limit.\r\n\r\nInitial Enhancements\r\n- Completing event missions grants enhancement points.\r\n- Use these points in the main event page - Enhancement for initial enhancements.\r\n- Initial enhancements include: initial Star Coins, the number of talisman packs in the shop, the rarity of talisman packs in the shop, shop refresh price, talisman possession limit, and initial tile exchanges.\r\n- Initial enhancements can be reset anytime, returning all the points.\r\n- Applied enhancements will take effect at the start of your next game.\r\n\r\nDefault Talisman\r\n- Unlock condition: Clear Level 5-3.\r\n- You may select one Normal or Rare talisman from your Collection to set as your default. The default talisman is guaranteed to appear in the initial talisman selection of the game.\r\n- You can only set one default talisman.\r\n-After setting, this takes effect at the start of your next game.",
+        "kr": "특별 이벤트 - 청운의 꿈: 용사냥냥 파티\r\n이벤트 기간: 장기 오픈\r\n\r\n목표는 더 높게! 더 빠르게! 더 강하게! 마작의 신념을 관통한 자, 하늘로 쭉쭉 오르리!\r\n청운의 꿈이 다시 돌아왔습니다. 용사냥냥 파티와 함께 모험을 떠나 새로운 동료를 사귀고, 사악한 악룡을 무찔러 봅시다.\r\n\r\n[기본 프로세스]\r\n- 게임의 각 라운드마다 스테이지 클리어 목표가 있으며, 스테이지와 상점으로 나뉩니다.\r\n- 스테이지에서 플레이어는 15개의 스테이지를 도전하게 되며, 그중 3개는 보스 스테이지로 별도 조건이 추가됩니다.\r\n- 플레이어는 스테이지에서 손패를 구성하고 화료하여 점수를 얻습니다. 목표 점수에 도달하면 스테이지를 통과합니다.\r\n- 스테이지 클리어 후 상점에 진입합니다. 스테이지에서 획득한 스타코인으로 상품을 구매하거나 능력을 강화할 수 있습니다.\r\n- 15개의 스테이지를 모두 클리어하면 해당 라운드에서 승리합니다.\r\n- 승리 후 더 많은 스테이지에 도전할 수 있습니다.\r\n\r\n[스테이지 규칙]\r\n- 2만~8만을 제외한 108개의 패로 진행합니다.\r\n- 스테이지 시작 시, 플레이어는 13장의 손패를 갖고, 36장의 쯔모 대기패와 1장의 도라 표시패가 있습니다. 쯔모 대기패 중 6장은 공개됩니다.\r\n- 쯔모 전 '패 교환'을 할 수 있습니다.\r\n- 손패 중 임의의 패를 선택하여 패 모음에서 교환할 수 있으며, 쯔모 대기패와는 교환되지 않습니다.\r\n- 패 교환 시 패 교환 횟수 1회를 사용하며, 처음 시작 시 교환 횟수는 3회입니다.\r\n- 패 교환이 끝난 뒤 정식으로 패를 쯔모합니다.\r\n- 순서대로 쯔모 대기패에서 패를 가져옵니다. 기타 쯔모 및 화료는 일반적인 마작 규칙과 같습니다.\r\n- 손패가 화료 조건을 만족하면 화료를 하고, 점수를 계산합니다.\r\n- 그러나 일반적인 마작과는 달리, 화료의 형태를 완성 한 후에도 손패를 조정하여 다른 형태의 역으로 만들 수 있습니다.\r\n- 해당 모드에는 리치 규칙이 없습니다.\r\n\r\n[점수 계산]\r\n- 화료 점수=손패의 모든 패의 총 점수 x 판수\r\n- 손패 점수는 각 패의 기본 점수로 계산됩니다. 패 창고에서 기본 점수를 확인할 수 있습니다.\r\n- 판수는 일반 마작 규칙의 역 계산법을 따릅니다.\r\n- 부적을 가지고 있으면, 해당 점수 및 판수에 추가 점수를 얻습니다.\r\n- 부적은 왼쪽부터 오른쪽 순서대로 계산됩니다.\r\n\r\n[스테이지 결산]\r\n- 각 스테이지 점수에 도달하면 즉시 클리어하고, 남은 패를 연속으로 쯔모합니다.\r\n- 연속 쯔모 상태에서 남은 쯔모 대기패를 곧바로 공개합니다.\r\n- 쯔모 대기패가 화료 조건에 만족하면 곧바로 점수를 결산하고 쯔모를 멈춥니다.\r\n- 스테이지 클리어 후 해당 스테이지의 난이도에 따라 스타코인과 부적팩 보상을 획득합니다.\r\n- 스테이지 점수가 조건 점수보다 2배, 3배 또는 5배가 많으면 추가 스타코인 보상을 획득합니다.\r\n- '스테이지 종료 시' 조건이 붙은 부적은 스테이지 결산 시 효과가 발생합니다.\r\n\r\n[실패 조건]\r\n- 플레이어가 마지막 쯔모패를 가져온 뒤에도 충분한 점수에 도달하지 못할 경우 그 라운드는 즉시 종료됩니다.\r\n\r\n[상점 단계]\r\n- 상점 단계에서 플레이어는 자신의 부적을 판매하거나 스타코인을 소모하여 능력을 증가시키거나 부적팩을 구매할 수 있습니다.\r\n- 능력 증가: 해당 라운드의 공개패 및 도라 표시패의 개수와 혼패 증가\r\n- 부적팩 구매: 서로 다른 등급의 부적팩을 선택하고, 오픈한 뒤 3장 중 마음에 드는 1장의 부적을 선택하거나 스킵합니다.\r\n- 동일한 부적을 획득하면 기존 부적을 강화 버전으로 업그레이드할 수 있고, 효과가 더욱 강해집니다.\r\n- 부적 획득 시 일정 확률로 랜덤 등급의 도장을 획득할 수 있습니다.\r\n- 이미 보유한 부적 획득 시 도장이 부여되어있다면, 이전의 도장을 덮어씁니다.\r\n- 부적 획득 개수는 한정되어 있습니다.\r\n\r\n[초기 강화]\r\n- 해당 이벤트 임무를 완성하면 강화 포인트를 획득할 수 있습니다.\r\n- [메인 화면] - [강화]에서 강화 포인트를 사용하여 초기 강화를 진행할 수 있습니다.\r\n- 초기 강화: 초기 스타코인 보유, 상점 패키지 판매 수량, 상점 패키지 퀄리티, 상점 새로고침 가격, 부적 보유 상한 수량, 초기 패 교환 횟수\r\n- 초기 강화는 초기화할 수 있으며, 초기화 시 강화 포인트는 반환됩니다.\r\n- 강화 후 새로운 라운드에서 그 효력이 발휘됩니다. \r\n\r\n[기본 부적 설정]\r\n- 스테이지 5-3 클리어 후, 기본 부적 설정 기능이 오픈됩니다.\r\n- 도감 중 보통 또는 희귀 등급의 부적을 선택하여 기본 부적으로 설정할 수 있습니다.\r\n- 기본 부적은 1장만 설정할 수 있습니다.\r\n- 기본 부적 설정 후, 새 게임을 시작해야 효과가 발생합니다."
+    },
+    {
+        "id": 25081131,
+        "type": "",
+        "chs": "长期开放",
+        "chs_t": "長期開放",
+        "jp": "長期開催",
+        "en": "Available for a long time",
+        "kr": "장기 오픈"
+    },
+    {
+        "id": 25081132,
+        "type": "",
+        "chs": "当前版本为测试版本，不代表最终品质，EID:{0}",
+        "chs_t": "當前版本為測試版本，不代表最終品質，EID:{0}",
+        "jp": "(tbd-jp)当前版本为测试版本，不代表最终品质，EID:{0}",
+        "en": "(tbd-en)当前版本为测试版本，不代表最终品质，EID:{0}",
+        "kr": "(tbd-kr)当前版本为测试版本，不代表最终品质，EID:{0}"
+    },
+    {
+        "id": 25081133,
+        "type": "",
+        "chs": "此功能暂不可用",
+        "chs_t": "此功能暫不可用",
+        "jp": "此功能暂不可用",
+        "en": "此功能暂不可用",
+        "kr": "此功能暂不可用"
+    },
+    {
+        "id": 25081134,
+        "type": "",
+        "chs": "万",
+        "chs_t": "萬",
+        "jp": "万",
+        "en": "萬",
+        "kr": "만"
+    },
+    {
+        "id": 25081135,
+        "type": "",
+        "chs": "亿",
+        "chs_t": "億",
+        "jp": "億",
+        "en": "億",
+        "kr": "억"
+    },
+    {
+        "id": 25081136,
+        "type": "",
+        "chs": "兆",
+        "chs_t": "兆",
+        "jp": "兆",
+        "en": "兆",
+        "kr": "조"
+    },
+    {
+        "id": 25081137,
+        "type": "",
+        "chs": "京",
+        "chs_t": "京",
+        "jp": "京",
+        "en": "京",
+        "kr": "경"
+    },
+    {
+        "id": 25081138,
+        "type": "",
+        "chs": "垓",
+        "chs_t": "垓",
+        "jp": "垓",
+        "en": "垓",
+        "kr": "해"
+    },
+    {
+        "id": 25081139,
+        "type": "",
+        "chs": "秭",
+        "chs_t": "秭",
+        "jp": "秭",
+        "en": "秭",
+        "kr": "자"
+    },
+    {
+        "id": 25081140,
+        "type": "",
+        "chs": "穰",
+        "chs_t": "穰",
+        "jp": "穣",
+        "en": "穰",
+        "kr": "양"
+    },
+    {
+        "id": 25081141,
+        "type": "",
+        "chs": "沟",
+        "chs_t": "溝",
+        "jp": "溝",
+        "en": "溝",
+        "kr": "구"
+    },
+    {
+        "id": 25081142,
+        "type": "",
+        "chs": "涧",
+        "chs_t": "澗",
+        "jp": "澗",
+        "en": "澗",
+        "kr": "간"
+    },
+    {
+        "id": 25081143,
+        "type": "",
+        "chs": "正",
+        "chs_t": "正",
+        "jp": "正",
+        "en": "正",
+        "kr": "정"
+    },
+    {
+        "id": 25081144,
+        "type": "",
+        "chs": "载",
+        "chs_t": "載",
+        "jp": "載",
+        "en": "載",
+        "kr": "재"
+    },
+    {
+        "id": 25081145,
+        "type": "",
+        "chs": "极",
+        "chs_t": "極",
+        "jp": "極",
+        "en": "極",
+        "kr": "극"
+    },
+    {
+        "id": 25081146,
+        "type": "",
+        "chs": "M",
+        "chs_t": "M",
+        "jp": "M",
+        "en": "M",
+        "kr": "M"
+    },
+    {
+        "id": 25081147,
+        "type": "",
+        "chs": "B",
+        "chs_t": "B",
+        "jp": "B",
+        "en": "B",
+        "kr": "B"
+    },
+    {
+        "id": 25081148,
+        "type": "",
+        "chs": "T",
+        "chs_t": "T",
+        "jp": "T",
+        "en": "T",
+        "kr": "T"
+    },
+    {
+        "id": 25081149,
+        "type": "",
+        "chs": "Qa",
+        "chs_t": "Qa",
+        "jp": "Qa",
+        "en": "Qa",
+        "kr": "Qa"
+    },
+    {
+        "id": 25081150,
+        "type": "",
+        "chs": "Qi",
+        "chs_t": "Qi",
+        "jp": "Qi",
+        "en": "Qi",
+        "kr": "Qi"
+    },
+    {
+        "id": 25081151,
+        "type": "",
+        "chs": "Sx",
+        "chs_t": "Sx",
+        "jp": "Sx",
+        "en": "Sx",
+        "kr": "Sx"
+    },
+    {
+        "id": 25081152,
+        "type": "",
+        "chs": "Sp",
+        "chs_t": "Sp",
+        "jp": "Sp",
+        "en": "Sp",
+        "kr": "Sp"
+    },
+    {
+        "id": 25081153,
+        "type": "",
+        "chs": "Oc",
+        "chs_t": "Oc",
+        "jp": "Oc",
+        "en": "Oc",
+        "kr": "Oc"
+    },
+    {
+        "id": 25081154,
+        "type": "",
+        "chs": "No",
+        "chs_t": "No",
+        "jp": "No",
+        "en": "No",
+        "kr": "No"
+    },
+    {
+        "id": 25081155,
+        "type": "",
+        "chs": "Dc",
+        "chs_t": "Dc",
+        "jp": "Dc",
+        "en": "Dc",
+        "kr": "Dc"
+    },
+    {
+        "id": 25081156,
+        "type": "",
+        "chs": "Ud",
+        "chs_t": "Ud",
+        "jp": "Ud",
+        "en": "Ud",
+        "kr": "Ud"
+    },
+    {
+        "id": 25081157,
+        "type": "",
+        "chs": "Dd",
+        "chs_t": "Dd",
+        "jp": "Dd",
+        "en": "Dd",
+        "kr": "Dd"
+    },
+    {
+        "id": 25081158,
+        "type": "",
+        "chs": "Td",
+        "chs_t": "Td",
+        "jp": "Td",
+        "en": "Td",
+        "kr": "Td"
+    },
+    {
+        "id": 25081159,
+        "type": "",
+        "chs": "Qad",
+        "chs_t": "Qad",
+        "jp": "Qad",
+        "en": "Qad",
+        "kr": "Qad"
+    },
+    {
+        "id": 25081160,
+        "type": "",
+        "chs": "Qid",
+        "chs_t": "Qid",
+        "jp": "Qid",
+        "en": "Qid",
+        "kr": "Qid"
+    },
+    {
+        "id": 25081161,
+        "type": "",
+        "chs": "Sxd",
+        "chs_t": "Sxd",
+        "jp": "Sxd",
+        "en": "Sxd",
+        "kr": "Sxd"
+    },
+    {
+        "id": 25081162,
+        "type": "",
+        "chs": "Spd",
+        "chs_t": "Spd",
+        "jp": "Spd",
+        "en": "Spd",
+        "kr": "Spd"
+    },
+    {
+        "id": 25081163,
+        "type": "",
+        "chs": "Ocd",
+        "chs_t": "Ocd",
+        "jp": "Ocd",
+        "en": "Ocd",
+        "kr": "Ocd"
+    },
+    {
+        "id": 25081164,
+        "type": "",
+        "chs": "Nod",
+        "chs_t": "Nod",
+        "jp": "Nod",
+        "en": "Nod",
+        "kr": "Nod"
+    },
+    {
+        "id": 25081165,
+        "type": "",
+        "chs": "Vg",
+        "chs_t": "Vg",
+        "jp": "Vg",
+        "en": "Vg",
+        "kr": "Vg"
+    },
+    {
+        "id": 25081166,
+        "type": "",
+        "chs": "Uvg",
+        "chs_t": "Uvg",
+        "jp": "Uvg",
+        "en": "Uvg",
+        "kr": "Uvg"
+    },
+    {
+        "id": 25081167,
+        "type": "",
+        "chs": "Dvg",
+        "chs_t": "Dvg",
+        "jp": "Dvg",
+        "en": "Dvg",
+        "kr": "Dvg"
+    },
+    {
+        "id": 25081168,
+        "type": "",
+        "chs": "Tvg",
+        "chs_t": "Tvg",
+        "jp": "Tvg",
+        "en": "Tvg",
+        "kr": "Tvg"
+    },
+    {
+        "id": 25081169,
+        "type": "",
+        "chs": "Qavg",
+        "chs_t": "Qavg",
+        "jp": "Qavg",
+        "en": "Qavg",
+        "kr": "Qavg"
+    },
+    {
+        "id": 25081170,
+        "type": "",
+        "chs": "Qivg",
+        "chs_t": "Qivg",
+        "jp": "Qivg",
+        "en": "Qivg",
+        "kr": "Qivg"
+    },
+    {
+        "id": 25081171,
+        "type": "",
+        "chs": "Sxvg",
+        "chs_t": "Sxvg",
+        "jp": "Sxvg",
+        "en": "Sxvg",
+        "kr": "Sxvg"
+    },
+    {
+        "id": 25081172,
+        "type": "",
+        "chs": "Spvg",
+        "chs_t": "Spvg",
+        "jp": "Spvg",
+        "en": "Spvg",
+        "kr": "Spvg"
+    },
+    {
+        "id": 25081173,
+        "type": "",
+        "chs": "Ocvg",
+        "chs_t": "Ocvg",
+        "jp": "Ocvg",
+        "en": "Ocvg",
+        "kr": "Ocvg"
+    },
+    {
+        "id": 25081174,
+        "type": "",
+        "chs": "Novg",
+        "chs_t": "Novg",
+        "jp": "Novg",
+        "en": "Novg",
+        "kr": "Novg"
+    },
+    {
+        "id": 25081175,
+        "type": "",
+        "chs": "Tg",
+        "chs_t": "Tg",
+        "jp": "Tg",
+        "en": "Tg",
+        "kr": "Tg"
+    },
+    {
+        "id": 25081176,
+        "type": "",
+        "chs": "Utg",
+        "chs_t": "Utg",
+        "jp": "Utg",
+        "en": "Utg",
+        "kr": "Utg"
+    },
+    {
+        "id": 25081177,
+        "type": "",
+        "chs": "Dtg",
+        "chs_t": "Dtg",
+        "jp": "Dtg",
+        "en": "Dtg",
+        "kr": "Dtg"
+    },
+    {
+        "id": 25081178,
+        "type": "",
+        "chs": "Ttg",
+        "chs_t": "Ttg",
+        "jp": "Ttg",
+        "en": "Ttg",
+        "kr": "Ttg"
+    },
+    {
+        "id": 25081179,
+        "type": "",
+        "chs": "Qatg",
+        "chs_t": "Qatg",
+        "jp": "Qatg",
+        "en": "Qatg",
+        "kr": "Qatg"
+    },
+    {
+        "id": 25081180,
+        "type": "",
+        "chs": "Qitg",
+        "chs_t": "Qitg",
+        "jp": "Qitg",
+        "en": "Qitg",
+        "kr": "Qitg"
+    },
+    {
+        "id": 25081181,
+        "type": "",
+        "chs": "Sxtg",
+        "chs_t": "Sxtg",
+        "jp": "Sxtg",
+        "en": "Sxtg",
+        "kr": "Sxtg"
+    },
+    {
+        "id": 25081182,
+        "type": "",
+        "chs": "Sptg",
+        "chs_t": "Sptg",
+        "jp": "Sptg",
+        "en": "Sptg",
+        "kr": "Sptg"
+    },
+    {
+        "id": 25081183,
+        "type": "",
+        "chs": "Octg",
+        "chs_t": "Octg",
+        "jp": "Octg",
+        "en": "Octg",
+        "kr": "Octg"
+    },
+    {
+        "id": 25081184,
+        "type": "",
+        "chs": "Notg",
+        "chs_t": "Notg",
+        "jp": "Notg",
+        "en": "Notg",
+        "kr": "Notg"
+    },
+    {
+        "id": 25081185,
+        "type": "",
+        "chs": "Qag",
+        "chs_t": "Qag",
+        "jp": "Qag",
+        "en": "Qag",
+        "kr": "Qag"
+    },
+    {
+        "id": 25081186,
+        "type": "",
+        "chs": "Uqag",
+        "chs_t": "Uqag",
+        "jp": "Uqag",
+        "en": "Uqag",
+        "kr": "Uqag"
+    },
+    {
+        "id": 25081187,
+        "type": "",
+        "chs": "Dqag",
+        "chs_t": "Dqag",
+        "jp": "Dqag",
+        "en": "Dqag",
+        "kr": "Dqag"
+    },
+    {
+        "id": 25081188,
+        "type": "",
+        "chs": "Tqag",
+        "chs_t": "Tqag",
+        "jp": "Tqag",
+        "en": "Tqag",
+        "kr": "Tqag"
+    },
+    {
+        "id": 25081189,
+        "type": "",
+        "chs": "Qaqag",
+        "chs_t": "Qaqag",
+        "jp": "Qaqag",
+        "en": "Qaqag",
+        "kr": "Qaqag"
+    },
+    {
+        "id": 25081190,
+        "type": "",
+        "chs": "Qiqag",
+        "chs_t": "Qiqag",
+        "jp": "Qiqag",
+        "en": "Qiqag",
+        "kr": "Qiqag"
+    },
+    {
+        "id": 25081191,
+        "type": "",
+        "chs": "Sxqag",
+        "chs_t": "Sxqag",
+        "jp": "Sxqag",
+        "en": "Sxqag",
+        "kr": "Sxqag"
+    },
+    {
+        "id": 25081192,
+        "type": "",
+        "chs": "Spqag",
+        "chs_t": "Spqag",
+        "jp": "Spqag",
+        "en": "Spqag",
+        "kr": "Spqag"
+    },
+    {
+        "id": 25081193,
+        "type": "",
+        "chs": "Ocqag",
+        "chs_t": "Ocqag",
+        "jp": "Ocqag",
+        "en": "Ocqag",
+        "kr": "Ocqag"
+    },
+    {
+        "id": 25081194,
+        "type": "",
+        "chs": "Noqag",
+        "chs_t": "Noqag",
+        "jp": "Noqag",
+        "en": "Noqag",
+        "kr": "Noqag"
+    },
+    {
+        "id": 25081195,
+        "type": "",
+        "chs": "Qig",
+        "chs_t": "Qig",
+        "jp": "Qig",
+        "en": "Qig",
+        "kr": "Qig"
+    },
+    {
+        "id": 25081196,
+        "type": "",
+        "chs": "UQig",
+        "chs_t": "UQig",
+        "jp": "UQig",
+        "en": "UQig",
+        "kr": "UQig"
+    },
+    {
+        "id": 25081197,
+        "type": "",
+        "chs": "DQig",
+        "chs_t": "DQig",
+        "jp": "DQig",
+        "en": "DQig",
+        "kr": "DQig"
+    },
+    {
+        "id": 25081198,
+        "type": "",
+        "chs": "TQig",
+        "chs_t": "TQig",
+        "jp": "TQig",
+        "en": "TQig",
+        "kr": "TQig"
+    },
+    {
+        "id": 25081199,
+        "type": "",
+        "chs": "QaQig",
+        "chs_t": "QaQig",
+        "jp": "QaQig",
+        "en": "QaQig",
+        "kr": "QaQig"
+    },
+    {
+        "id": 25081200,
+        "type": "",
+        "chs": "QiQig",
+        "chs_t": "QiQig",
+        "jp": "QiQig",
+        "en": "QiQig",
+        "kr": "QiQig"
+    },
+    {
+        "id": 25081201,
+        "type": "",
+        "chs": "SxQig",
+        "chs_t": "SxQig",
+        "jp": "SxQig",
+        "en": "SxQig",
+        "kr": "SxQig"
+    },
+    {
+        "id": 25081202,
+        "type": "",
+        "chs": "SpQig",
+        "chs_t": "SpQig",
+        "jp": "SpQig",
+        "en": "SpQig",
+        "kr": "SpQig"
+    },
+    {
+        "id": 25081203,
+        "type": "",
+        "chs": "OcQig",
+        "chs_t": "OcQig",
+        "jp": "OcQig",
+        "en": "OcQig",
+        "kr": "OcQig"
+    },
+    {
+        "id": 25081204,
+        "type": "",
+        "chs": "NoQig",
+        "chs_t": "NoQig",
+        "jp": "NoQig",
+        "en": "NoQig",
+        "kr": "NoQig"
+    },
+    {
+        "id": 25081205,
+        "type": "",
+        "chs": "Sxg",
+        "chs_t": "Sxg",
+        "jp": "Sxg",
+        "en": "Sxg",
+        "kr": "Sxg"
+    },
+    {
+        "id": 25081206,
+        "type": "",
+        "chs": "USxg",
+        "chs_t": "USxg",
+        "jp": "USxg",
+        "en": "USxg",
+        "kr": "USxg"
+    },
+    {
+        "id": 25081207,
+        "type": "",
+        "chs": "DSxg",
+        "chs_t": "DSxg",
+        "jp": "DSxg",
+        "en": "DSxg",
+        "kr": "DSxg"
+    },
+    {
+        "id": 25081208,
+        "type": "",
+        "chs": "TSxg",
+        "chs_t": "TSxg",
+        "jp": "TSxg",
+        "en": "TSxg",
+        "kr": "TSxg"
+    },
+    {
+        "id": 25081209,
+        "type": "",
+        "chs": "QaSxg",
+        "chs_t": "QaSxg",
+        "jp": "QaSxg",
+        "en": "QaSxg",
+        "kr": "QaSxg"
+    },
+    {
+        "id": 25081210,
+        "type": "",
+        "chs": "QiSxg",
+        "chs_t": "QiSxg",
+        "jp": "QiSxg",
+        "en": "QiSxg",
+        "kr": "QiSxg"
+    },
+    {
+        "id": 25081211,
+        "type": "",
+        "chs": "SxSxg",
+        "chs_t": "SxSxg",
+        "jp": "SxSxg",
+        "en": "SxSxg",
+        "kr": "SxSxg"
+    },
+    {
+        "id": 25081212,
+        "type": "",
+        "chs": "SpSxg",
+        "chs_t": "SpSxg",
+        "jp": "SpSxg",
+        "en": "SpSxg",
+        "kr": "SpSxg"
+    },
+    {
+        "id": 25081213,
+        "type": "",
+        "chs": "OcSxg",
+        "chs_t": "OcSxg",
+        "jp": "OcSxg",
+        "en": "OcSxg",
+        "kr": "OcSxg"
+    },
+    {
+        "id": 25081214,
+        "type": "",
+        "chs": "NoSxg",
+        "chs_t": "NoSxg",
+        "jp": "NoSxg",
+        "en": "NoSxg",
+        "kr": "NoSxg"
+    },
+    {
+        "id": 25081215,
+        "type": "",
+        "chs": "Spg",
+        "chs_t": "Spg",
+        "jp": "Spg",
+        "en": "Spg",
+        "kr": "Spg"
+    },
+    {
+        "id": 25081216,
+        "type": "",
+        "chs": "USpg",
+        "chs_t": "USpg",
+        "jp": "USpg",
+        "en": "USpg",
+        "kr": "USpg"
+    },
+    {
+        "id": 25081217,
+        "type": "",
+        "chs": "DSpg",
+        "chs_t": "DSpg",
+        "jp": "DSpg",
+        "en": "DSpg",
+        "kr": "DSpg"
+    },
+    {
+        "id": 25081218,
+        "type": "",
+        "chs": "TSpg",
+        "chs_t": "TSpg",
+        "jp": "TSpg",
+        "en": "TSpg",
+        "kr": "TSpg"
+    },
+    {
+        "id": 25081219,
+        "type": "",
+        "chs": "QaSpg",
+        "chs_t": "QaSpg",
+        "jp": "QaSpg",
+        "en": "QaSpg",
+        "kr": "QaSpg"
+    },
+    {
+        "id": 25081220,
+        "type": "",
+        "chs": "QiSpg",
+        "chs_t": "QiSpg",
+        "jp": "QiSpg",
+        "en": "QiSpg",
+        "kr": "QiSpg"
+    },
+    {
+        "id": 25081221,
+        "type": "",
+        "chs": "SxSpg",
+        "chs_t": "SxSpg",
+        "jp": "SxSpg",
+        "en": "SxSpg",
+        "kr": "SxSpg"
+    },
+    {
+        "id": 25081222,
+        "type": "",
+        "chs": "SpSpg",
+        "chs_t": "SpSpg",
+        "jp": "SpSpg",
+        "en": "SpSpg",
+        "kr": "SpSpg"
+    },
+    {
+        "id": 25081223,
+        "type": "",
+        "chs": "OcSpg",
+        "chs_t": "OcSpg",
+        "jp": "OcSpg",
+        "en": "OcSpg",
+        "kr": "OcSpg"
+    },
+    {
+        "id": 25081224,
+        "type": "",
+        "chs": "NoSpg",
+        "chs_t": "NoSpg",
+        "jp": "NoSpg",
+        "en": "NoSpg",
+        "kr": "NoSpg"
+    },
+    {
+        "id": 25081225,
+        "type": "",
+        "chs": "Ocg",
+        "chs_t": "Ocg",
+        "jp": "Ocg",
+        "en": "Ocg",
+        "kr": "Ocg"
+    },
+    {
+        "id": 25081226,
+        "type": "",
+        "chs": "UOcg",
+        "chs_t": "UOcg",
+        "jp": "UOcg",
+        "en": "UOcg",
+        "kr": "UOcg"
+    },
+    {
+        "id": 25081227,
+        "type": "",
+        "chs": "DOcg",
+        "chs_t": "DOcg",
+        "jp": "DOcg",
+        "en": "DOcg",
+        "kr": "DOcg"
+    },
+    {
+        "id": 25081228,
+        "type": "",
+        "chs": "TOcg",
+        "chs_t": "TOcg",
+        "jp": "TOcg",
+        "en": "TOcg",
+        "kr": "TOcg"
+    },
+    {
+        "id": 25081229,
+        "type": "",
+        "chs": "QaOcg",
+        "chs_t": "QaOcg",
+        "jp": "QaOcg",
+        "en": "QaOcg",
+        "kr": "QaOcg"
+    },
+    {
+        "id": 25081230,
+        "type": "",
+        "chs": "QiOcg",
+        "chs_t": "QiOcg",
+        "jp": "QiOcg",
+        "en": "QiOcg",
+        "kr": "QiOcg"
+    },
+    {
+        "id": 25081231,
+        "type": "",
+        "chs": "SxOcg",
+        "chs_t": "SxOcg",
+        "jp": "SxOcg",
+        "en": "SxOcg",
+        "kr": "SxOcg"
+    },
+    {
+        "id": 25081232,
+        "type": "",
+        "chs": "SpOcg",
+        "chs_t": "SpOcg",
+        "jp": "SpOcg",
+        "en": "SpOcg",
+        "kr": "SpOcg"
+    },
+    {
+        "id": 25081233,
+        "type": "",
+        "chs": "OcOcg",
+        "chs_t": "OcOcg",
+        "jp": "OcOcg",
+        "en": "OcOcg",
+        "kr": "OcOcg"
+    },
+    {
+        "id": 25081234,
+        "type": "",
+        "chs": "NoOcg",
+        "chs_t": "NoOcg",
+        "jp": "NoOcg",
+        "en": "NoOcg",
+        "kr": "NoOcg"
+    },
+    {
+        "id": 25081235,
+        "type": "",
+        "chs": "Nog",
+        "chs_t": "Nog",
+        "jp": "Nog",
+        "en": "Nog",
+        "kr": "Nog"
+    },
+    {
+        "id": 25081236,
+        "type": "",
+        "chs": "UNog",
+        "chs_t": "UNog",
+        "jp": "UNog",
+        "en": "UNog",
+        "kr": "UNog"
+    },
+    {
+        "id": 25081237,
+        "type": "",
+        "chs": "DNog",
+        "chs_t": "DNog",
+        "jp": "DNog",
+        "en": "DNog",
+        "kr": "DNog"
+    },
+    {
+        "id": 25081238,
+        "type": "",
+        "chs": "TNog",
+        "chs_t": "TNog",
+        "jp": "TNog",
+        "en": "TNog",
+        "kr": "TNog"
+    },
+    {
+        "id": 25081239,
+        "type": "",
+        "chs": "QaNog",
+        "chs_t": "QaNog",
+        "jp": "QaNog",
+        "en": "QaNog",
+        "kr": "QaNog"
+    },
+    {
+        "id": 25081240,
+        "type": "",
+        "chs": "QiNog",
+        "chs_t": "QiNog",
+        "jp": "QiNog",
+        "en": "QiNog",
+        "kr": "QiNog"
+    },
+    {
+        "id": 25081241,
+        "type": "",
+        "chs": "SxNog",
+        "chs_t": "SxNog",
+        "jp": "SxNog",
+        "en": "SxNog",
+        "kr": "SxNog"
+    },
+    {
+        "id": 25081242,
+        "type": "",
+        "chs": "SpNog",
+        "chs_t": "SpNog",
+        "jp": "SpNog",
+        "en": "SpNog",
+        "kr": "SpNog"
+    },
+    {
+        "id": 25081243,
+        "type": "",
+        "chs": "OcNog",
+        "chs_t": "OcNog",
+        "jp": "OcNog",
+        "en": "OcNog",
+        "kr": "OcNog"
+    },
+    {
+        "id": 25081244,
+        "type": "",
+        "chs": "NoNog",
+        "chs_t": "NoNog",
+        "jp": "NoNog",
+        "en": "NoNog",
+        "kr": "NoNog"
+    },
+    {
+        "id": 25082001,
+        "type": "",
+        "chs": "是否离开当前模式，查看本局牌谱",
+        "chs_t": "是否離開當前模式，查看本局牌譜",
+        "jp": "牌譜確認画面に移動しますか？",
+        "en": "Exit current mode and view this match's log?",
+        "kr": "패보 확인 화면으로 이동할까요?"
+    },
+    {
+        "id": 25083001,
+        "type": "",
+        "chs": "夏日限定活动-航海寻宝\r\n活动时间：8月20日-9月10日4:59\r\n\r\n藏宝图惊现一番市海域，失落秘宝的传说重燃\r\n回应神明的感召，暂别尘世纷扰\r\n加入她的船队，深入探索这片谜团翻涌的海域吧！\r\n\r\n活动期间完成任务收集指南针，可以获得限定称号、限定牌面、活动插画、寻觅卷轴等丰厚奖励！",
+        "chs_t": "夏日限定活動-航海尋寶\r\n活動時間：8月20日-9月10日4:59\r\n \r\n藏寶圖驚現一番市海域，失落秘寶的傳說重燃\r\n回應神明的感召，暫別塵世紛擾\r\n加入她的船隊，深入探索這片謎團翻湧的海域吧！\r\n \r\n活動期間完成任務蒐集指南針，可以獲得限定稱號、限定牌面、活動插畫、尋覓卷軸等豐厚獎勵！",
+        "jp": "雀魂夏祭り・海の秘宝を求めて\r\nイベント期間：8月20日(水) ～ 9月10日(水) 5:59\r\n\r\n秘宝の在り処が示された地図が一飜市に現れた！ 地図が示した目的地は、まさかの一飜市近海！\r\n蛇神さまの誘いに応じ、船に乗って宝物を探しに行こう！\r\n\r\n期間中にイベントクエストを達成し、イベントアイテム「羅針盤」を集めると、限定称号や限定麻雀牌の図柄、祈願の巻物、ローディングイラストなどの豪華報酬を獲得できます！",
+        "en": "Summer Limited Event - High Seas Hunt\r\nEvent Period: 8/19 - 9/9 1:59 P.M. (UTC-7)\r\n\r\nThe legend of a lost treasure is reborn! A map has been found in the seas near One Han City.\r\nHeed the divine call and escape the noise of the world.\r\nJoin her crew, exploring the heart of these mysterious waters!\r\n\r\nDuring the event, complete missions to collect Compasses and earn exciting rewards, including limited Title, limited Tile Face, Event Illustration, Summon Scrolls, and more!",
+        "kr": "여름 한정 이벤트 - 보물찾기 항해\r\n이벤트 기간: 8월 20일 ~ 9월 10일 5:59 AM (GMT+9)\r\n\r\n이한시 해역에서 보물지도가 발견되며, 잊혀진 보물의 전설이 다시 전해지기 시작했다.\r\n속세의 고민은 잠깐 잊어버리고, 신의 부름에 응하라.\r\n그 일행에 합류하여 수수께끼가 가득한 해역을 탐험해보자!\r\n\r\n이벤트 기간 동안 임무를 완성하고 나침반을 수집하면, 한정 칭호, 한정 마작패 앞면, 이벤트 일러스트, 기원의 두루마리 등 풍부한 보상을 획득할 수 있습니다!"
+    },
+    {
+        "id": 25083002,
+        "type": "",
+        "chs": "点击空白处关闭",
+        "chs_t": "點擊空白處關閉",
+        "jp": "タップして閉じる",
+        "en": "Tap to close",
+        "kr": "눌러서 닫기"
+    },
+    {
+        "id": 25089001,
+        "type": "",
+        "chs": "",
+        "chs_t": "",
+        "jp": "",
+        "en": "",
+        "kr": ""
+    },
+    {
+        "id": 25089002,
+        "type": "",
+        "chs": "服饰排名",
+        "chs_t": "服飾排名",
+        "jp": "順位状況",
+        "en": "Rankings",
+        "kr": "스킨 순위"
+    },
+    {
+        "id": 25089003,
+        "type": "",
+        "chs": "前往投票",
+        "chs_t": "前往投票",
+        "jp": "投票へ",
+        "en": "Go Vote",
+        "kr": "투표하기"
+    },
+    {
+        "id": 25089004,
+        "type": "",
+        "chs": "已投{0}票",
+        "chs_t": "已投{0}票",
+        "jp": "投票数 : {0}",
+        "en": "Votes: {0}",
+        "kr": "득표: {0}표"
+    },
+    {
+        "id": 25089005,
+        "type": "",
+        "chs": "全部领取",
+        "chs_t": "全部領取",
+        "jp": "一括受取",
+        "en": "Claim All",
+        "kr": "전부 받기"
+    },
+    {
+        "id": 25089006,
+        "type": "",
+        "chs": "获取投票券",
+        "chs_t": "獲取投票券",
+        "jp": "投票券入手",
+        "en": "Get Voting Tickets",
+        "kr": "투표권 획득"
+    },
+    {
+        "id": 25089007,
+        "type": "",
+        "chs": "持有",
+        "chs_t": "持有",
+        "jp": "所持 :",
+        "en": "Owned",
+        "kr": "보유"
+    },
+    {
+        "id": 25089008,
+        "type": "",
+        "chs": "活动已结束",
+        "chs_t": "活動已結束",
+        "jp": "イベントは終了しました。",
+        "en": "The event has ended.",
+        "kr": "이벤트가 종료되었습니다."
+    },
+    {
+        "id": 25089009,
+        "type": "",
+        "chs": "虚位以待",
+        "chs_t": "虛位以待",
+        "jp": "まだありません。",
+        "en": "Who will it be?",
+        "kr": "비어있음"
+    },
+    {
+        "id": 25089010,
+        "type": "",
+        "chs": "排名每日5:00更新",
+        "chs_t": "排名每日5:00更新",
+        "jp": "順位状況は毎日6時に更新されます。",
+        "en": "Rankings update daily at 2:00 P.M. (UTC-7).",
+        "kr": "매일 6:00 AM에 순위가 업데이트됩니다."
+    },
+    {
+        "id": 25089011,
+        "type": "",
+        "chs": "请耐心等待排名更新~",
+        "chs_t": "請耐心等待排名更新~",
+        "jp": "順位状況の更新をお待ちください。",
+        "en": "Please wait for the next ranking update.",
+        "kr": "순위 업데이트를 기다려주세요."
+    },
+    {
+        "id": 25089012,
+        "type": "",
+        "chs": "展示女性雀士服饰的前10名、男性雀士服饰的前5名",
+        "chs_t": "展示女性雀士服飾的前10名、男性雀士服飾的前5名",
+        "jp": "票数上位15着（女性キャラ用上位10着＆男性キャラ用上位5着）が表示されます。",
+        "en": "Displaying the Top 10 female outfits & Top 5 male outfits",
+        "kr": "득표수 상위 여성 작사 캐릭터 스킨 10개와 남성 작사 캐릭터 스킨 5개가 표시됩니다."
+    },
+    {
+        "id": 25089013,
+        "type": "",
+        "chs": "领取",
+        "chs_t": "領取",
+        "jp": "受取",
+        "en": "Claim",
+        "kr": "수령"
+    },
+    {
+        "id": 25089014,
+        "type": "",
+        "chs": "任务每日5:00更新",
+        "chs_t": "任務每日5:00更新",
+        "jp": "クエストは毎日6時に更新されます",
+        "en": "Missions refresh daily at 2:00 P.M. (UTC-7).",
+        "kr": "매일 6:00 AM에 임무가 초기화됩니다."
+    },
+    {
+        "id": 25089015,
+        "type": "",
+        "chs": "投票成功！",
+        "chs_t": "投票成功！",
+        "jp": "投票成功",
+        "en": "Voted!",
+        "kr": "투표 성공!"
+    },
+    {
+        "id": 25089016,
+        "type": "",
+        "chs": "使用投票券x1，投票给{0}",
+        "chs_t": "使用投票券x1，投票給{0}",
+        "jp": "投票券×1を消費し、{0}に投票しますか？",
+        "en": "Use Voting Ticket x1 on {0}",
+        "kr": "투표권x1을 사용하여 {0}에게 투표하기."
+    },
+    {
+        "id": 25089017,
+        "type": "",
+        "chs": "",
+        "chs_t": "",
         "jp": "",
         "en": "",
         "kr": ""

@@ -3934,5 +3934,53 @@
         "jp": "強化操作を完了できませんでした。",
         "en": "Upgrade action invalid.",
         "kr": "유효하지 않은 조작입니다."
+    },
+    {
+        "id": 26145,
+        "chs": "该奖励尚未解锁",
+        "chs_t": "該獎勵尚未解鎖",
+        "jp": "報酬解禁前",
+        "en": "This reward is not yet unlocked.",
+        "kr": "보상이 아직 해제되지 않았습니다."
+    },
+    {
+        "id": 26146,
+        "chs": "该奖励已经领取过了",
+        "chs_t": "該獎勵已經領取過了",
+        "jp": "この報酬は受取済です",
+        "en": "You have already claimed this reward.",
+        "kr": "해당 보상은 이미 수령하였습니다."
+    },
+    {
+        "id": 26147,
+        "chs": "该护身符无法重复获得",
+        "chs_t": "該護身符無法重複獲得",
+        "jp": "このお守りは1枚以上獲得できません。",
+        "en": "This talisman cannot be obtained more than once.",
+        "kr": "해당 부적은 중복으로 획득할 수 없습니다."
+    },
+    {
+        "id": 26148,
+        "chs": "未解锁自定义初始护身符功能",
+        "chs_t": "未解鎖自定義初始護身符功能",
+        "jp": "持込お守り設定の機能解禁前",
+        "en": "Default talisman setting not yet unlocked.",
+        "kr": "기본 부적 설정 기능이 오픈되지 않았습니다."
+    },
+    {
+        "id": 26149,
+        "chs": "该护身符尚未发现",
+        "chs_t": "該護身符尚未發現",
+        "jp": "このお守りにはまだ出会っていません。",
+        "en": "Talisman not yet discovered.",
+        "kr": "아직 획득하지 못한 부적입니다."
+    },
+    {
+        "id": 26150,
+        "chs": "该护身符无法设置为初始护身符",
+        "chs_t": "該護身符無法設置為初始護身符",
+        "jp": "このお守りは設定できません。",
+        "en": "This talisman cannot be set as the default.",
+        "kr": "해당 부적은 기본으로 설정할 수 없습니다."
     }
 ]

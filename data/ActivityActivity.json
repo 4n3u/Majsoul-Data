@@ -10108,5 +10108,245 @@
         "name_kr": "뱀신님 알현",
         "type": "flip_task",
         "need_popout": 1
+    },
+    {
+        "id": 250811,
+        "name_chs": "青云之志",
+        "name_chs_t": "青雲之志",
+        "name_jp": "青雲の志：勇にゃん伝説",
+        "name_en": "Sky-High Ambition: The Nyavengers",
+        "name_kr": "청운의 꿈: 용사냥냥 파티",
+        "type": "amulet",
+        "need_popout": 0
+    },
+    {
+        "id": 250812,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "period_task",
+        "need_popout": 0
+    },
+    {
+        "id": 250820,
+        "name_chs": "航海寻宝",
+        "name_chs_t": "航海尋寶",
+        "name_jp": "海の秘宝を求めて",
+        "name_en": "High Seas Hunt",
+        "name_kr": "보물찾기 항해",
+        "type": "period_task",
+        "need_popout": 1
+    },
+    {
+        "id": 250821,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "period_task",
+        "need_popout": 1
+    },
+    {
+        "id": 250830,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "shop",
+        "need_popout": 0
+    },
+    {
+        "id": 250831,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "event_cross_time",
+        "need_popout": 0
+    },
+    {
+        "id": 250832,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "item",
+        "need_popout": 0
+    },
+    {
+        "id": 250840,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250841,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250842,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250843,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250844,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250850,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_replace_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250851,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_replace_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250852,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_replace_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250853,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_replace_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250854,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "chest_replace_up",
+        "need_popout": 0
+    },
+    {
+        "id": 250860,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "sns_activity",
+        "need_popout": 0
+    },
+    {
+        "id": 250890,
+        "name_chs": "服饰返场投票",
+        "name_chs_t": "服飾返場投票",
+        "name_jp": "着せ替え復刻投票",
+        "name_en": "Outfit Return Vote",
+        "name_kr": "스킨 앙코르 투표",
+        "type": "vote",
+        "need_popout": 1
+    },
+    {
+        "id": 250891,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "vote",
+        "need_popout": 0
+    },
+    {
+        "id": 250892,
+        "name_chs": "投票券活动任务",
+        "name_chs_t": "投票券活動任務",
+        "name_jp": "投票券クエスト",
+        "name_en": "Voting Ticket Missions",
+        "name_kr": "투표권 이벤트 임무",
+        "type": "period_task",
+        "need_popout": 0
+    },
+    {
+        "id": 250893,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "period_task",
+        "need_popout": 0
+    },
+    {
+        "id": 250894,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "period_task",
+        "need_popout": 0
+    },
+    {
+        "id": 250895,
+        "name_chs": "",
+        "name_chs_t": "",
+        "name_jp": "",
+        "name_en": "",
+        "name_kr": "",
+        "type": "progress_reward",
+        "need_popout": 0
     }
 ]

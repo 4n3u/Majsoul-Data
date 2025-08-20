@@ -312,6 +312,12 @@
         "type": "lobby"
     },
     {
+        "id": 155,
+        "path": "audio/audio_lobby/gacha_banner_liyang",
+        "time_length": 0.0,
+        "type": "lobby"
+    },
+    {
         "id": 201,
         "path": "audio/audio_mj/beiman",
         "time_length": 2098.0,
@@ -1506,6 +1512,108 @@
         "type": "event"
     },
     {
+        "id": 10331,
+        "path": "audio/audio_event/2508qyzz_lobby_normal_loop",
+        "time_length": 60000.0,
+        "type": "event"
+    },
+    {
+        "id": 10332,
+        "path": "audio/audio_event/2508qyzz_lobby_boss_loop",
+        "time_length": 60000.0,
+        "type": "event"
+    },
+    {
+        "id": 10333,
+        "path": "audio/audio_event/2508qyzz_lobby_in",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10334,
+        "path": "audio/audio_event/2508qyzz_lobby_breathing",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10335,
+        "path": "audio/audio_event/2508qyzz_lobby_lighting",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10336,
+        "path": "audio/audio_event/2508qyzz_lobby_shooting",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10337,
+        "path": "audio/audio_event/2508qyzz_stage_show",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10338,
+        "path": "audio/audio_event/2508qyzz_shop_pop",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10339,
+        "path": "audio/audio_event/2508qyzz_stage_fevertime",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10340,
+        "path": "audio/audio_event/2508qyzz_stage_clear",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10341,
+        "path": "audio/audio_event/2508qyzz_stage_game_over",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10342,
+        "path": "audio/audio_event/2508qyzz_stage_amulet_transform",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10350,
+        "path": "audio/audio_event/2508hanghai_sea_bird",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10351,
+        "path": "audio/audio_event/2508hanghai_sea_wave",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10352,
+        "path": "audio/audio_event/2508hanghai_rain",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10353,
+        "path": "audio/audio_event/2508hanghai_boom",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
+        "id": 10354,
+        "path": "audio/audio_event/2504quedou_ui_open",
+        "time_length": 0.0,
+        "type": "event"
+    },
+    {
         "id": 305032,
         "path": "audio/audio_mj/effect_liqi_canying",
         "time_length": 1314.0,
@@ -1752,6 +1860,18 @@
         "type": "effect"
     },
     {
+        "id": 30520009,
+        "path": "audio/audio_mj/ron_liyang",
+        "time_length": 0.0,
+        "type": "effect"
+    },
+    {
+        "id": 30520010,
+        "path": "audio/audio_mj/ron_25summer",
+        "time_length": 0.0,
+        "type": "effect"
+    },
+    {
         "id": 305224,
         "path": "audio/audio_mj/ron_23ex_heidong",
         "time_length": 0.0,
@@ -1976,6 +2096,18 @@
     {
         "id": 30530008,
         "path": "audio/audio_mj/effect_liqi_24winter",
+        "time_length": 0.0,
+        "type": "effect"
+    },
+    {
+        "id": 30530009,
+        "path": "audio/audio_mj/effect_liqi_liyang",
+        "time_length": 0.0,
+        "type": "effect"
+    },
+    {
+        "id": 30530010,
+        "path": "audio/audio_mj/effect_liqi_25summer",
         "time_length": 0.0,
         "type": "effect"
     },

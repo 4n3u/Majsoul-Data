@@ -328,5 +328,38 @@
         "banner_left_selected": "",
         "banner_left_icon": "",
         "time_remind": 0
+    },
+    {
+        "id": 250811,
+        "sort": 122,
+        "banner_type": 2,
+        "enter_icon": "myres2/activity_banner/25summer2_0.png",
+        "banner_big": "myres2/activity_banner/25summer2_b.jpg",
+        "banner_left": "myres2/activity_banner/25summer2.png",
+        "banner_left_selected": "",
+        "banner_left_icon": "",
+        "time_remind": 0
+    },
+    {
+        "id": 250820,
+        "sort": 123,
+        "banner_type": 2,
+        "enter_icon": "myres2/activity_banner/25summer1_0.png",
+        "banner_big": "myres2/activity_banner/25summer1_b.jpg",
+        "banner_left": "myres2/activity_banner/25summer1.png",
+        "banner_left_selected": "",
+        "banner_left_icon": "",
+        "time_remind": 0
+    },
+    {
+        "id": 250890,
+        "sort": 124,
+        "banner_type": 2,
+        "enter_icon": "myres2/activity_banner/25toupiao_0.png",
+        "banner_big": "myres2/activity_banner/25toupiao_b.jpg",
+        "banner_left": "myres2/activity_banner/25toupiao.png",
+        "banner_left_selected": "",
+        "banner_left_icon": "",
+        "time_remind": 0
     }
 ]

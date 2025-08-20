@@ -2053,7 +2053,7 @@
         "desc_kr": "청운의 꿈 이벤트 기념 칭호",
         "icon": "extendRes/title/24qyzz.png",
         "icon_item": "extendRes/title/24qyzz_item.jpg",
-        "priority": 40004,
+        "priority": 30004,
         "unlock_type": 0,
         "unlock_param": [
             0,
@@ -2832,6 +2832,30 @@
         "cross_view": 0
     },
     {
+        "id": 600127,
+        "name_chs": "勇喵小队",
+        "name_chs_t": "勇喵小隊",
+        "name_jp": "伝説の勇にゃん",
+        "name_en": "The Nyavengers",
+        "name_kr": "용사냥냥 파티",
+        "desc_chs": "航海寻宝活动纪念限定称号",
+        "desc_chs_t": "航海尋寶活動紀念限定稱號",
+        "desc_jp": "イベント「海の秘宝を求めて」を記念した限定称号",
+        "desc_en": "Limited commemorative title for the High Seas Hunt event.",
+        "desc_kr": "보물찾기 항해 이벤트 기념 칭호",
+        "icon": "extendRes/title/25qyzz.png",
+        "icon_item": "extendRes/title/25qyzz_item.jpg",
+        "priority": 30005,
+        "unlock_type": 0,
+        "unlock_param": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "cross_view": 0
+    },
+    {
         "id": 600128,
         "name_chs": "双圣战冠军",
         "name_chs_t": "雙聖戰冠軍",
@@ -2845,10 +2869,82 @@
         "desc_kr": "赠予双圣战冠军",
         "icon": "extendRes/title/ssz_l.png",
         "icon_item": "extendRes/title/ssz_l_item.jpg",
-        "priority": 40073,
+        "priority": 40072,
         "unlock_type": 1,
         "unlock_param": [
             30557036,
+            0,
+            0,
+            0
+        ],
+        "cross_view": 0
+    },
+    {
+        "id": 600129,
+        "name_chs": "双聖戦優勝",
+        "name_chs_t": "双聖戦優勝",
+        "name_jp": "双聖戦優勝",
+        "name_en": "双聖戦優勝",
+        "name_kr": "双聖戦優勝",
+        "desc_chs": "双聖戦優勝記念称号",
+        "desc_chs_t": "双聖戦優勝記念称号",
+        "desc_jp": "双聖戦優勝記念称号",
+        "desc_en": "双聖戦優勝記念称号",
+        "desc_kr": "双聖戦優勝記念称号",
+        "icon": "extendRes/title/24sszy.png",
+        "icon_item": "extendRes/title/24sszy_item.jpg",
+        "priority": 40073,
+        "unlock_type": 1,
+        "unlock_param": [
+            30557037,
+            0,
+            0,
+            0
+        ],
+        "cross_view": 0
+    },
+    {
+        "id": 600130,
+        "name_chs": "豪運渋川ユリ組",
+        "name_chs_t": "豪運渋川ユリ組",
+        "name_jp": "豪運渋川ユリ組",
+        "name_en": "豪運渋川ユリ組",
+        "name_kr": "豪運渋川ユリ組",
+        "desc_chs": "ななし雀魂杯夏の陣優勝記念称号",
+        "desc_chs_t": "ななし雀魂杯夏の陣優勝記念称号",
+        "desc_jp": "ななし雀魂杯夏の陣優勝記念称号",
+        "desc_en": "ななし雀魂杯夏の陣優勝記念称号",
+        "desc_kr": "ななし雀魂杯夏の陣優勝記念称号",
+        "icon": "extendRes/title/25haoyun.png",
+        "icon_item": "extendRes/title/25haoyun_item.jpg",
+        "priority": 40074,
+        "unlock_type": 1,
+        "unlock_param": [
+            30557038,
+            0,
+            0,
+            0
+        ],
+        "cross_view": 0
+    },
+    {
+        "id": 600131,
+        "name_chs": "Limited Title",
+        "name_chs_t": "Limited Title",
+        "name_jp": "Limited Title",
+        "name_en": "Limited Title",
+        "name_kr": "Limited Title",
+        "desc_chs": "A reward for Mahjong Soul official tournament Catfood Bowl - Major #Battle of Kirin S3 winner",
+        "desc_chs_t": "A reward for Mahjong Soul official tournament Catfood Bowl - Major #Battle of Kirin S3 winner",
+        "desc_jp": "A reward for Mahjong Soul official tournament Catfood Bowl - Major #Battle of Kirin S3 winner",
+        "desc_en": "A reward for Mahjong Soul official tournament Catfood Bowl - Major #Battle of Kirin S3 winner",
+        "desc_kr": "A reward for Mahjong Soul official tournament Catfood Bowl - Major #Battle of Kirin S3 winner",
+        "icon": "extendRes/title/2509qilinzhan.png",
+        "icon_item": "extendRes/title/2509qilinzhan_item.jpg",
+        "priority": 40075,
+        "unlock_type": 1,
+        "unlock_param": [
+            30557039,
             0,
             0,
             0

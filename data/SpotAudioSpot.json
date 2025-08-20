@@ -698,5 +698,82 @@
         "time_length": 0.0,
         "str": "气泡-混乱",
         "type": 0
+    },
+    {
+        "id": 10014,
+        "path": "spot/spot_se/bubble14",
+        "time_length": 0.0,
+        "str": "气泡-黑线",
+        "type": 0
+    },
+    {
+        "id": 10015,
+        "path": "spot/spot_se/bubble15",
+        "time_length": 0.0,
+        "str": "气泡-焦急",
+        "type": 0
+    },
+    {
+        "id": 10016,
+        "path": "spot/spot_se/bubble16",
+        "time_length": 0.0,
+        "str": "气泡-叹气",
+        "type": 0
+    },
+    {
+        "id": 10017,
+        "path": "spot/spot_se/bubble17",
+        "time_length": 0.0,
+        "str": "气泡-闲聊",
+        "type": 0
+    },
+    {
+        "id": 10018,
+        "path": "spot/spot_se/bubble18",
+        "time_length": 0.0,
+        "str": "气泡-星星",
+        "type": 0
+    },
+    {
+        "id": 10019,
+        "path": "spot/spot_se/bubble19",
+        "time_length": 0.0,
+        "str": "气泡-音符",
+        "type": 0
+    },
+    {
+        "id": 20001,
+        "path": "spot/spot_ambient_sound/rain_big",
+        "time_length": 0.0,
+        "str": "环境音-大雨声",
+        "type": 2
+    },
+    {
+        "id": 20002,
+        "path": "spot/spot_ambient_sound/rain_thunder",
+        "time_length": 0.0,
+        "str": "环境音-雷雨声",
+        "type": 2
+    },
+    {
+        "id": 20003,
+        "path": "spot/spot_ambient_sound/rain_thunder_2",
+        "time_length": 0.0,
+        "str": "环境音-雷雨声2",
+        "type": 2
+    },
+    {
+        "id": 20004,
+        "path": "spot/spot_ambient_sound/sea_bird",
+        "time_length": 0.0,
+        "str": "环境音-海鸥叫",
+        "type": 2
+    },
+    {
+        "id": 20005,
+        "path": "spot/spot_ambient_sound/sea_wave",
+        "time_length": 0.0,
+        "str": "环境音-海浪声",
+        "type": 2
     }
 ]

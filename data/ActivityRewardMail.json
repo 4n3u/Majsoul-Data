@@ -58,5 +58,13 @@
     {
         "activity_id": 250604,
         "mail_template_id": 128
+    },
+    {
+        "activity_id": 250821,
+        "mail_template_id": 129
+    },
+    {
+        "activity_id": 250894,
+        "mail_template_id": 130
     }
 ]

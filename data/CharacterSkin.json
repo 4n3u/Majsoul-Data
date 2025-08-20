@@ -423,5 +423,90 @@
         "audio_click": "ZNY_SE_400907/click",
         "audio_click2": "",
         "celebrate_delay": 0
+    },
+    {
+        "skinid": 40011202,
+        "spine_layers": 2,
+        "effects": [
+            "",
+            "liyang_0_eff2",
+            "liyang_0_eff3",
+            ""
+        ],
+        "audio_celebrate": "LY_SE_40011202/celebrate",
+        "audio_celebrate_idle": "",
+        "audio_idle": "",
+        "audio_greeting": "LY_SE_40011202/greeting",
+        "audio_click": "LY_SE_40011202/click",
+        "audio_click2": "LY_SE_40011202/click2",
+        "celebrate_delay": 0
+    },
+    {
+        "skinid": 40011203,
+        "spine_layers": 3,
+        "effects": [
+            "",
+            "liyang_1_eff2",
+            "liyang_1_eff3",
+            ""
+        ],
+        "audio_celebrate": "LY_SE_40011203/celebrate",
+        "audio_celebrate_idle": "",
+        "audio_idle": "",
+        "audio_greeting": "LY_SE_40011203/greeting",
+        "audio_click": "LY_SE_40011203/click",
+        "audio_click2": "LY_SE_40011203/click2",
+        "celebrate_delay": 0
+    },
+    {
+        "skinid": 406704,
+        "spine_layers": 1,
+        "effects": [
+            "",
+            "qingluan_25summer_eff2",
+            "",
+            ""
+        ],
+        "audio_celebrate": "QL_SE_406704/celebrate",
+        "audio_celebrate_idle": "",
+        "audio_idle": "",
+        "audio_greeting": "QL_SE_406704/greeting",
+        "audio_click": "QL_SE_406704/click",
+        "audio_click2": "",
+        "celebrate_delay": 0
+    },
+    {
+        "skinid": 402606,
+        "spine_layers": 1,
+        "effects": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "audio_celebrate": "CT_SE_402606/celebrate",
+        "audio_celebrate_idle": "",
+        "audio_idle": "",
+        "audio_greeting": "CT_SE_402606/greeting",
+        "audio_click": "CT_SE_402606/click",
+        "audio_click2": "",
+        "celebrate_delay": 0
+    },
+    {
+        "skinid": 409003,
+        "spine_layers": 2,
+        "effects": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "audio_celebrate": "JS_SE_409003/celebrate",
+        "audio_celebrate_idle": "",
+        "audio_idle": "",
+        "audio_greeting": "JS_SE_409003/greeting",
+        "audio_click": "JS_SE_409003/click",
+        "audio_click2": "",
+        "celebrate_delay": 0
     }
 ]
