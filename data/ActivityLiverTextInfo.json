@@ -1,0 +1,218 @@
+[
+    {
+        "activityId": 240301,
+        "type": 1,
+        "charaId": 200001,
+        "mobStrId": 0,
+        "normalText": "2245-2246",
+        "giftText": "2260-2261"
+    },
+    {
+        "activityId": 240301,
+        "type": 1,
+        "charaId": 200012,
+        "mobStrId": 0,
+        "normalText": "2247-2248",
+        "giftText": "2262-2263"
+    },
+    {
+        "activityId": 240301,
+        "type": 1,
+        "charaId": 200029,
+        "mobStrId": 0,
+        "normalText": "2249-2250",
+        "giftText": "2264-2265"
+    },
+    {
+        "activityId": 240301,
+        "type": 1,
+        "charaId": 200077,
+        "mobStrId": 0,
+        "normalText": "2251-2252",
+        "giftText": "2266-2267"
+    },
+    {
+        "activityId": 240301,
+        "type": 1,
+        "charaId": 200028,
+        "mobStrId": 0,
+        "normalText": "2253-2254",
+        "giftText": "2268-2269"
+    },
+    {
+        "activityId": 240301,
+        "type": 1,
+        "charaId": 200011,
+        "mobStrId": 0,
+        "normalText": "2255-2256",
+        "giftText": "2270-2271"
+    },
+    {
+        "activityId": 240301,
+        "type": 1,
+        "charaId": 200022,
+        "mobStrId": 0,
+        "normalText": "2257-2258",
+        "giftText": "2272-2273"
+    },
+    {
+        "activityId": 240301,
+        "type": 2,
+        "charaId": 0,
+        "mobStrId": 2277,
+        "normalText": "2299-2338",
+        "giftText": ""
+    },
+    {
+        "activityId": 240301,
+        "type": 2,
+        "charaId": 0,
+        "mobStrId": 2278,
+        "normalText": "2299-2338",
+        "giftText": ""
+    },
+    {
+        "activityId": 240301,
+        "type": 2,
+        "charaId": 0,
+        "mobStrId": 2279,
+        "normalText": "2299-2338",
+        "giftText": ""
+    },
+    {
+        "activityId": 240301,
+        "type": 2,
+        "charaId": 0,
+        "mobStrId": 2280,
+        "normalText": "2299-2338",
+        "giftText": ""
+    },
+    {
+        "activityId": 240301,
+        "type": 2,
+        "charaId": 0,
+        "mobStrId": 2281,
+        "normalText": "2299-2338",
+        "giftText": ""
+    },
+    {
+        "activityId": 240301,
+        "type": 2,
+        "charaId": 0,
+        "mobStrId": 2282,
+        "normalText": "2299-2338",
+        "giftText": ""
+    },
+    {
+        "activityId": 240301,
+        "type": 2,
+        "charaId": 0,
+        "mobStrId": 2283,
+        "normalText": "2299-2338",
+        "giftText": ""
+    },
+    {
+        "activityId": 240301,
+        "type": 2,
+        "charaId": 0,
+        "mobStrId": 2284,
+        "normalText": "2299-2338",
+        "giftText": ""
+    },
+    {
+        "activityId": 240301,
+        "type": 2,
+        "charaId": 0,
+        "mobStrId": 2285,
+        "normalText": "2299-2338",
+        "giftText": ""
+    },
+    {
+        "activityId": 240301,
+        "type": 2,
+        "charaId": 0,
+        "mobStrId": 2286,
+        "normalText": "2299-2338",
+        "giftText": ""
+    },
+    {
+        "activityId": 240301,
+        "type": 2,
+        "charaId": 0,
+        "mobStrId": 2287,
+        "normalText": "2299-2338",
+        "giftText": ""
+    },
+    {
+        "activityId": 240301,
+        "type": 2,
+        "charaId": 0,
+        "mobStrId": 2288,
+        "normalText": "2299-2338",
+        "giftText": ""
+    },
+    {
+        "activityId": 240301,
+        "type": 2,
+        "charaId": 0,
+        "mobStrId": 2289,
+        "normalText": "2299-2338",
+        "giftText": ""
+    },
+    {
+        "activityId": 240301,
+        "type": 2,
+        "charaId": 0,
+        "mobStrId": 2290,
+        "normalText": "2299-2338",
+        "giftText": ""
+    },
+    {
+        "activityId": 240301,
+        "type": 2,
+        "charaId": 0,
+        "mobStrId": 2291,
+        "normalText": "2299-2338",
+        "giftText": ""
+    },
+    {
+        "activityId": 240301,
+        "type": 2,
+        "charaId": 0,
+        "mobStrId": 2292,
+        "normalText": "2299-2338",
+        "giftText": ""
+    },
+    {
+        "activityId": 240301,
+        "type": 2,
+        "charaId": 0,
+        "mobStrId": 2293,
+        "normalText": "2299-2338",
+        "giftText": ""
+    },
+    {
+        "activityId": 240301,
+        "type": 2,
+        "charaId": 0,
+        "mobStrId": 2294,
+        "normalText": "2299-2338",
+        "giftText": ""
+    },
+    {
+        "activityId": 240301,
+        "type": 2,
+        "charaId": 0,
+        "mobStrId": 2295,
+        "normalText": "2299-2338",
+        "giftText": ""
+    },
+    {
+        "activityId": 240301,
+        "type": 2,
+        "charaId": 0,
+        "mobStrId": 2296,
+        "normalText": "2299-2338",
+        "giftText": ""
+    }
+]
