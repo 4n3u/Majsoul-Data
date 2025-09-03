@@ -66433,7 +66433,7 @@
         "type": "",
         "chs": "和牌时，使[tag]最右侧2张[/tag]护身符获得[tag]随机印章[/tag]。关卡结束时，本护身符[tag]消失[/tag]",
         "chsT": "和牌時，使[tag]最右側2張[/tag]護身符獲得[tag]隨機印章[/tag]。關卡結束時，本護身符[tag]消失[/tag]",
-        "jp": "和了時、右側から数えて[tag]1枚目と2枚目[/tag]のお守りにランダムな[tag]スタンプ[/tag]を付与する。ステージクリア時、このお守りは[tag]消滅[/tag]しする。",
+        "jp": "和了時、右側から数えて[tag]1枚目と2枚目[/tag]のお守りにランダムな[tag]スタンプ[/tag]を付与する。ステージクリア時、このお守りは[tag]消滅[/tag]する。",
         "en": "When winning, each of the [tag]2 rightmost[/tag] talismans gets one [tag]random Seal[/tag]. At the end of the level, this talisman [tag]disappears[/tag].",
         "kr": "화료 시, [tag]가장 오른쪽 2장[/tag] 부적에 [tag]랜덤 도장[/tag]을 부여한다. 스테이지 종료 시 본 부적 [tag]소멸[/tag]."
     },
