@@ -57154,7 +57154,7 @@
         "type": "",
         "chs": "每当1张牌的基础分值变动且超过[tag]100[/tag]时，使其成为魂牌",
         "chsT": "每當1張牌的基礎分值變動且超過[tag]100[/tag]分時，使其成為魂牌",
-        "jp": "牌のPTが変動後、[tag]100[/tag]PT以上になった場合、その牌が魂牌になる。",
+        "jp": "牌のPTが変動後、[tag]100[/tag]PTを超えた場合、その牌が魂牌になる。",
         "en": "When a tile type's basic PT is increased beyond [tag]100[/tag], it becomes Soul tiles.",
         "kr": "패의 기본 점수가 증가할 때, 해당 패가 [tag]100[/tag]점 이상이라면 혼패로 변환."
     },
@@ -57163,7 +57163,7 @@
         "type": "",
         "chs": "每当1张牌的基础分值变动且超过[tag]75[/tag]时，使其成为魂牌",
         "chsT": "每當1張牌的基礎分值變動且超過[tag]75[/tag]分時，使其成為魂牌",
-        "jp": "牌のPTが変動後、[tag]75[/tag]PT以上になった場合、その牌が魂牌になる。",
+        "jp": "牌のPTが変動後、[tag]75[/tag]PTを超えた場合、その牌が魂牌になる。",
         "en": "When a tile type's basic PT is increased beyond [tag]75[/tag], it becomes Soul tiles.",
         "kr": "패의 기본 점수가 증가할 때, 해당 패가 [tag]75[/tag]점 이상이라면 혼패로 변환."
     },
