@@ -2970,6 +2970,36 @@
         "seatRelated": 0
     },
     {
+        "id": 30550032,
+        "resName": "sxz",
+        "audioId": 0,
+        "characterId": 0,
+        "sargs": [
+            "0",
+            "",
+            "",
+            ""
+        ],
+        "oldEffectMark": 0,
+        "newHand": 0,
+        "seatRelated": 0
+    },
+    {
+        "id": 30550033,
+        "resName": "sxz",
+        "audioId": 0,
+        "characterId": 0,
+        "sargs": [
+            "0",
+            "",
+            "",
+            ""
+        ],
+        "oldEffectMark": 0,
+        "newHand": 0,
+        "seatRelated": 0
+    },
+    {
         "id": 305555,
         "resName": "douya",
         "audioId": 0,

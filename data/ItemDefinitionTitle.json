@@ -2950,5 +2950,125 @@
             0
         ],
         "crossView": 0
+    },
+    {
+        "id": 600132,
+        "nameChs": "Asaki大人",
+        "nameChsT": "Asaki大人",
+        "nameJp": "Asaki大人",
+        "nameEn": "Asaki大人",
+        "nameKr": "Asaki大人",
+        "descChs": "赠与猪猪公主Asaki大人",
+        "descChsT": "贈與豬豬公主Asaki大人",
+        "descJp": "赠与猪猪公主Asaki大人",
+        "descEn": "赠与猪猪公主Asaki大人",
+        "descKr": "赠与猪猪公主Asaki大人",
+        "icon": "extendRes/title/asaki.png",
+        "iconItem": "extendRes/title/asaki_item.jpg",
+        "priority": 17,
+        "unlockType": 0,
+        "unlockParam": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "crossView": 0
+    },
+    {
+        "id": 600133,
+        "nameChs": "Limited Title",
+        "nameChsT": "Limited Title",
+        "nameJp": "Limited Title",
+        "nameEn": "Limited Title",
+        "nameKr": "Limited Title",
+        "descChs": "A reward for Mahjong Soul official tournament Catfood Bowl - Major #Battle of Kirin S3 winner",
+        "descChsT": "A reward for Mahjong Soul official tournament Catfood Bowl - Major #Battle of Kirin S3 winner",
+        "descJp": "A reward for Mahjong Soul official tournament Catfood Bowl - Major #Battle of Kirin S3 winner",
+        "descEn": "A reward for Mahjong Soul official tournament Catfood Bowl - Major #Battle of Kirin S3 winner",
+        "descKr": "A reward for Mahjong Soul official tournament Catfood Bowl - Major #Battle of Kirin S3 winner",
+        "icon": "extendRes/title/2509qilinzhan.png",
+        "iconItem": "extendRes/title/2509qilinzhan_item.jpg",
+        "priority": 40076,
+        "unlockType": 0,
+        "unlockParam": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "crossView": 0
+    },
+    {
+        "id": 600134,
+        "nameChs": "四象战冠军",
+        "nameChsT": "四象戰冠軍",
+        "nameJp": "四象戦優勝",
+        "nameEn": "四象戰冠軍",
+        "nameKr": "四象戰冠軍",
+        "descChs": "赠予四象战冠军",
+        "descChsT": "贈予四象戰冠軍",
+        "descJp": "贈予四象戰冠軍",
+        "descEn": "贈予四象戰冠軍",
+        "descKr": "贈予四象戰冠軍",
+        "icon": "extendRes/title/24sxz3.png",
+        "iconItem": "extendRes/title/24sxz3_item.jpg",
+        "priority": 40077,
+        "unlockType": 1,
+        "unlockParam": [
+            30557042,
+            0,
+            0,
+            0
+        ],
+        "crossView": 0
+    },
+    {
+        "id": 600135,
+        "nameChs": "四象战冠军",
+        "nameChsT": "四象戰冠軍",
+        "nameJp": "四象・白虎",
+        "nameEn": "四象戰冠軍",
+        "nameKr": "四象戰冠軍",
+        "descChs": "赠予四象战冠军",
+        "descChsT": "贈予四象戰冠軍",
+        "descJp": "四象戦秋の陣優勝称号",
+        "descEn": "贈予四象戰冠軍",
+        "descKr": "贈予四象戰冠軍",
+        "icon": "extendRes/title/24sxz3.png",
+        "iconItem": "extendRes/title/24sxz3_item.jpg",
+        "priority": 40078,
+        "unlockType": 1,
+        "unlockParam": [
+            30557040,
+            0,
+            0,
+            0
+        ],
+        "crossView": 0
+    },
+    {
+        "id": 600136,
+        "nameChs": "チームシリウス",
+        "nameChsT": "チームシリウス",
+        "nameJp": "豪運渋川ユリ組",
+        "nameEn": "チームシリウス",
+        "nameKr": "チームシリウス",
+        "descChs": "2025年魂天リーグ優勝記念",
+        "descChsT": "2025年魂天リーグ優勝記念",
+        "descJp": "2025年魂天リーグ優勝記念",
+        "descEn": "2025年魂天リーグ優勝記念",
+        "descKr": "2025年魂天リーグ優勝記念",
+        "icon": "extendRes/title/25sirius.png",
+        "iconItem": "extendRes/title/25sirius_item.jpg",
+        "priority": 40079,
+        "unlockType": 1,
+        "unlockParam": [
+            30557041,
+            0,
+            0,
+            0
+        ],
+        "crossView": 0
     }
 ]

@@ -2457,11 +2457,11 @@
     },
     {
         "id": 2549,
-        "chs": "赛季持续时间过长",
-        "chsT": "賽季持續時間過長",
-        "jp": "大会期間が長すぎます",
-        "en": "Season duration is too long",
-        "kr": "시즌 기간이 너무 깁니다."
+        "chs": "赛季持续时间不能超过一年，请重新设置时间",
+        "chsT": "賽季持續時間不能超過一年，請重新設置時間",
+        "jp": "大会期間が1年間を超えないよう設定してください。",
+        "en": "The season duration cannot exceed one year. Please adjust the time.",
+        "kr": "시즌 기간은 1년을 초과할 수 없습니다. 다시 설정해 주세요."
     },
     {
         "id": 2550,
@@ -2662,6 +2662,22 @@
         "jp": "対局人数エラー。再度各卓にプレイヤーを割り当ててください。",
         "en": "Invalid player count. Please reassign the players.",
         "kr": "해당 대회의 대국 인원수에 오류가 있습니다. 다시 배치해 주세요."
+    },
+    {
+        "id": 2576,
+        "chs": "赛事队伍数量已达到上限",
+        "chsT": "賽事隊伍數量已達到上限",
+        "jp": "チーム数は上限を達しました",
+        "en": "Maximum number of teams reached.",
+        "kr": "대회 팀 수가 이미 최대입니다."
+    },
+    {
+        "id": 2577,
+        "chs": "该队伍不存在，请刷新界面重新查看队伍列表",
+        "chsT": "該隊伍不存在，請刷新介面重新查看隊伍列表",
+        "jp": "チームは存在しません。ページを更新して再度お試しください。",
+        "en": "The team could not be found. Try refreshing the page to update the team list.",
+        "kr": "해당 팀이 존재하지 않습니다. 새로고침 후 팀 리스트를 다시 확인해 주세요."
     },
     {
         "id": 2601,

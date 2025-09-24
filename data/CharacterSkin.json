@@ -508,5 +508,39 @@
         "audioClick": "JS_SE_409003/click",
         "audioClick2": "",
         "celebrateDelay": 0
+    },
+    {
+        "skinid": 400709,
+        "spineLayers": 2,
+        "effects": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "audioCelebrate": "BMW_SE_400709/celebrate",
+        "audioCelebrateIdle": "",
+        "audioIdle": "",
+        "audioGreeting": "BMW_SE_400709/greeting",
+        "audioClick": "BMW_SE_400709/click",
+        "audioClick2": "",
+        "celebrateDelay": 0
+    },
+    {
+        "skinid": 40010703,
+        "spineLayers": 1,
+        "effects": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "audioCelebrate": "YX_SE_40010703/celebrate",
+        "audioCelebrateIdle": "",
+        "audioIdle": "",
+        "audioGreeting": "YX_SE_40010703/greeting",
+        "audioClick": "YX_SE_40010703/click",
+        "audioClick2": "",
+        "celebrateDelay": 0
     }
 ]

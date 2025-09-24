@@ -14126,7 +14126,7 @@
         "chs": "投票次数",
         "chsT": "投票次數",
         "jp": "投票回数",
-        "en": "Votes Casted",
+        "en": "Votes Cast",
         "kr": "투표 횟수"
     },
     {
@@ -27902,8 +27902,8 @@
     {
         "id": 10012,
         "type": "",
-        "chs": "开始时间必须大于创建时间",
-        "chsT": "開始時間必須大於創建時間",
+        "chs": "开始时间必须大于创建时间，且在当前时间365天以内",
+        "chsT": "開始時間必須大於創建時間，且在當前時間365天以內",
         "jp": "開始時間は作成時間から365日以内に設定してください。",
         "en": "The start time must be within 365 days of the creation time.",
         "kr": "시작 시간은 생성 시간으로부터 365일 이내여야 합니다."
@@ -27911,11 +27911,11 @@
     {
         "id": 10013,
         "type": "",
-        "chs": "结束时间必须大于开始时间，且在创建时间365天以内",
-        "chsT": "結束時間必須大於開始時間，且在創建時間365天以內",
-        "jp": "終了時間は開始時間以降、なおかつ作成時間から365日以内に設定してください。",
-        "en": "The end time must be later than the start time and within 365 days of the creation time.",
-        "kr": "종료 시간은 시작 시간보다 이후여야 하며, 생성 시간으로부터 365일 이내여야 합니다."
+        "chs": "结束时间必须大于开始时间，且在当前时间365天以内",
+        "chsT": "結束時間必須大於開始時間，且在當前時間365天以內",
+        "jp": "終了時間は開始時間以降、なおかつ現在から365日以内に設定してください。",
+        "en": "The end time must be later than the start time and within 365 days of the current time.",
+        "kr": "종료 시간은 시작 시간보다 이후여야 하며, 현재 시간으로부터 365일 이내여야 합니다."
     },
     {
         "id": 10014,
@@ -37969,5 +37969,212 @@
         "jp": "全世界の投票参加度によって、様々な報酬が入手できます。100％を達成すると、次回イベントにて、通常雀士キャラの着せ替えから好きな1着を期間中に購入できる「購入チャンス」が追加されます。\r\n-期間限定の特別雀士・コラボ雀士などの着せ替えは選択できません。\r\n-特典付き着せ替えを選んだ場合は、特典なしの状態での購入になります。\r\n-投票に参加しなかったプレイヤーも、参加度が100％を達成した場合には次回イベントにて「購入チャンス」を獲得できます。",
         "en": "If server-wide voting progress reaches 100%, you will unlock a one-time opportunity to purchase any single outfit of your choice in the upcoming event.\r\n- You can choose from all the outfits of regular characters.\r\n- This excludes collab outfits and does not contain special bonus decorations.\r\n- Players who did not participate in the vote will also unlock this opportunity.",
         "kr": "서버 투표 진도 100%를 달성하면, 다음 이벤트 진행 시 '선택 스킨 구매 찬스'가 추가됩니다!\r\n- 상시 작사 스킨만 선택할 수 있습니다. (콜라보 스킨, 스킨 구매 증정 장식품은 포함되지 않습니다.)\r\n- 투표에 참여하지 않은 작사님도 스킨을 구매할 수 있습니다."
+    },
+    {
+        "id": 25090001,
+        "type": "",
+        "chs": "*活动期间仅限购买一次",
+        "chsT": "*活動期間僅限購買一次",
+        "jp": "※期間中に1回のみ購入可能",
+        "en": "*One-time purchase only.",
+        "kr": "*기간 내 1회만 구입 가능"
+    },
+    {
+        "id": 25090002,
+        "type": "",
+        "chs": "暂无排名",
+        "chsT": "暫無排名",
+        "jp": "現在情報なし",
+        "en": "No Rank",
+        "kr": "순위 없음"
+    },
+    {
+        "id": 25090003,
+        "type": "",
+        "chs": "--",
+        "chsT": "--",
+        "jp": "--",
+        "en": "--",
+        "kr": "--"
+    },
+    {
+        "id": 25090004,
+        "type": "",
+        "chs": "选择服饰",
+        "chsT": "選擇服飾",
+        "jp": "着せ替え選択",
+        "en": "Choose",
+        "kr": "스킨 선택"
+    },
+    {
+        "id": 25090005,
+        "type": "",
+        "chs": "尚未选择",
+        "chsT": "尚未選擇",
+        "jp": "着せ替え選択前",
+        "en": "Not yet selected",
+        "kr": "미선택"
+    },
+    {
+        "id": 25090006,
+        "type": "",
+        "chs": "暂无可购买服饰",
+        "chsT": "暫無可購買服飾",
+        "jp": "選択可能な着せ替えはありません",
+        "en": "No outfits available for purchase",
+        "kr": "선택 가능한 스킨이 없습니다."
+    },
+    {
+        "id": 25090007,
+        "type": "",
+        "chs": "该雀士已被隐藏，是否取消隐藏并前往寮舍更换服饰",
+        "chsT": "該雀士已被隱藏，是否取消隱藏並前往宿舍更換服飾",
+        "jp": "この雀士は非表示にしています。非表示設定を取消して、寮舎に移動して着せ替えを変更しますか？",
+        "en": "This character is hidden. Show them and go to the Dorm to change their outfit?",
+        "kr": "숨김 처리된 작사 캐릭터입니다. 숨김 해제 후 숙소에서 스킨 변경을 하시겠습니까?"
+    },
+    {
+        "id": 25090101,
+        "type": "",
+        "chs": "赛季模式",
+        "chsT": "賽季模式",
+        "jp": "シーズンモード",
+        "en": "Season Mode",
+        "kr": "시즌 모드"
+    },
+    {
+        "id": 25090102,
+        "type": "",
+        "chs": "个人赛",
+        "chsT": "個人賽",
+        "jp": "個人戦",
+        "en": "Individual",
+        "kr": "개인전"
+    },
+    {
+        "id": 25090103,
+        "type": "",
+        "chs": "团队赛",
+        "chsT": "團隊賽",
+        "jp": "チーム戦",
+        "en": "Team",
+        "kr": "팀전"
+    },
+    {
+        "id": 25090104,
+        "type": "",
+        "chs": "队伍排名",
+        "chsT": "隊伍排名",
+        "jp": "チーム順位",
+        "en": "Team Rankings",
+        "kr": "팀 순위"
+    },
+    {
+        "id": 25090105,
+        "type": "",
+        "chs": "个人排名",
+        "chsT": "個人排名",
+        "jp": "個人順位",
+        "en": "Individual Rankings",
+        "kr": "개인 순위"
+    },
+    {
+        "id": 25090106,
+        "type": "",
+        "chs": "队伍名",
+        "chsT": "隊伍名",
+        "jp": "チーム名",
+        "en": "Team Name",
+        "kr": "팀 이름"
+    },
+    {
+        "id": 25090107,
+        "type": "",
+        "chs": "队员数",
+        "chsT": "隊員數",
+        "jp": "チーム人数",
+        "en": "Members",
+        "kr": "팀원 수"
+    },
+    {
+        "id": 25090108,
+        "type": "",
+        "chs": "全队累计对局次数",
+        "chsT": "全隊累計對局次數",
+        "jp": "チーム合計対局数",
+        "en": "Team Matches Played",
+        "kr": "팀 누적 대국 수"
+    },
+    {
+        "id": 25090109,
+        "type": "",
+        "chs": "全队累计分数",
+        "chsT": "全隊累計分數",
+        "jp": "チーム合計得点",
+        "en": "Total Team Score",
+        "kr": "팀 누적 점수"
+    },
+    {
+        "id": 25090110,
+        "type": "",
+        "chs": "查看",
+        "chsT": "查看",
+        "jp": "確認",
+        "en": "View",
+        "kr": "상세"
+    },
+    {
+        "id": 25090111,
+        "type": "",
+        "chs": "对局总数",
+        "chsT": "對局總數",
+        "jp": "合計対局数",
+        "en": "Matches Played",
+        "kr": "누적 대국 수"
+    },
+    {
+        "id": 25090112,
+        "type": "",
+        "chs": "累计总分",
+        "chsT": "累計總分",
+        "jp": "合計得点",
+        "en": "Total Score",
+        "kr": "누적 점수"
+    },
+    {
+        "id": 25090113,
+        "type": "",
+        "chs": "昵称/所属队伍",
+        "chsT": "昵稱/所屬隊伍",
+        "jp": "プレイヤー名/所属チーム",
+        "en": "Player/Team",
+        "kr": "닉네임/팀"
+    },
+    {
+        "id": 25090114,
+        "type": "",
+        "chs": "放浪雀士队",
+        "chsT": "放浪雀士隊",
+        "jp": "放浪雀士チーム",
+        "en": "Freed Jyanshis",
+        "kr": "방랑작사 팀"
+    },
+    {
+        "id": 25090115,
+        "type": "",
+        "chs": "总计精算点：",
+        "chsT": "總計精算點：",
+        "jp": "合計精算点：",
+        "en": "Total score:",
+        "kr": "합계 정산 점수"
+    },
+    {
+        "id": 25090116,
+        "type": "",
+        "chs": "暂无队员",
+        "chsT": "暫無隊員",
+        "jp": "チームメンバーがいません。",
+        "en": "No team members yet.",
+        "kr": "팀원이 없습니다."
     }
 ]

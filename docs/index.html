@@ -699,6 +699,30 @@
                 </li>
               
                 <li>
+                  <a href="#lq.ActivityShootData"><span class="badge">M</span>ActivityShootData</a>
+                </li>
+              
+                <li>
+                  <a href="#lq.ActivityShootEnemyInfo"><span class="badge">M</span>ActivityShootEnemyInfo</a>
+                </li>
+              
+                <li>
+                  <a href="#lq.ActivityShootEnemyInfoDirty"><span class="badge">M</span>ActivityShootEnemyInfoDirty</a>
+                </li>
+              
+                <li>
+                  <a href="#lq.ActivityShootValueChange"><span class="badge">M</span>ActivityShootValueChange</a>
+                </li>
+              
+                <li>
+                  <a href="#lq.ActivityShootValueChange.RewardArrayDirty"><span class="badge">M</span>ActivityShootValueChange.RewardArrayDirty</a>
+                </li>
+              
+                <li>
+                  <a href="#lq.ActivityShootValueChange.Uint32ValueDirty"><span class="badge">M</span>ActivityShootValueChange.Uint32ValueDirty</a>
+                </li>
+              
+                <li>
                   <a href="#lq.ActivitySimulationDailyContest"><span class="badge">M</span>ActivitySimulationDailyContest</a>
                 </li>
               
@@ -1060,6 +1084,14 @@
               
                 <li>
                   <a href="#lq.ContestDetailRuleV2.ExtraRule"><span class="badge">M</span>ContestDetailRuleV2.ExtraRule</a>
+                </li>
+              
+                <li>
+                  <a href="#lq.ContestGameMetaData"><span class="badge">M</span>ContestGameMetaData</a>
+                </li>
+              
+                <li>
+                  <a href="#lq.ContestGameMetaData.ContestTypeZoneData"><span class="badge">M</span>ContestGameMetaData.ContestTypeZoneData</a>
                 </li>
               
                 <li>
@@ -2519,6 +2551,18 @@
                 </li>
               
                 <li>
+                  <a href="#lq.ReqFetchContestTeamMember"><span class="badge">M</span>ReqFetchContestTeamMember</a>
+                </li>
+              
+                <li>
+                  <a href="#lq.ReqFetchContestTeamPlayerRank"><span class="badge">M</span>ReqFetchContestTeamPlayerRank</a>
+                </li>
+              
+                <li>
+                  <a href="#lq.ReqFetchContestTeamRank"><span class="badge">M</span>ReqFetchContestTeamRank</a>
+                </li>
+              
+                <li>
                   <a href="#lq.ReqFetchCustomizedContestAuthInfo"><span class="badge">M</span>ReqFetchCustomizedContestAuthInfo</a>
                 </li>
               
@@ -3104,6 +3148,10 @@
               
                 <li>
                   <a href="#lq.ReqSetVillageWorker"><span class="badge">M</span>ReqSetVillageWorker</a>
+                </li>
+              
+                <li>
+                  <a href="#lq.ReqShootActivityAttackEnemies"><span class="badge">M</span>ReqShootActivityAttackEnemies</a>
                 </li>
               
                 <li>
@@ -3851,6 +3899,26 @@
                 </li>
               
                 <li>
+                  <a href="#lq.ResFetchContestTeamMember"><span class="badge">M</span>ResFetchContestTeamMember</a>
+                </li>
+              
+                <li>
+                  <a href="#lq.ResFetchContestTeamMember.ContestTeamMemberRank"><span class="badge">M</span>ResFetchContestTeamMember.ContestTeamMemberRank</a>
+                </li>
+              
+                <li>
+                  <a href="#lq.ResFetchContestTeamRank"><span class="badge">M</span>ResFetchContestTeamRank</a>
+                </li>
+              
+                <li>
+                  <a href="#lq.ResFetchContestTeamRank.ContestTeamData"><span class="badge">M</span>ResFetchContestTeamRank.ContestTeamData</a>
+                </li>
+              
+                <li>
+                  <a href="#lq.ResFetchContestTeamRank.SeasonTeamRank"><span class="badge">M</span>ResFetchContestTeamRank.SeasonTeamRank</a>
+                </li>
+              
+                <li>
                   <a href="#lq.ResFetchCustomizedContestAuthInfo"><span class="badge">M</span>ResFetchCustomizedContestAuthInfo</a>
                 </li>
               
@@ -4447,6 +4515,14 @@
                 </li>
               
                 <li>
+                  <a href="#lq.ResShootActivityAttackEnemies"><span class="badge">M</span>ResShootActivityAttackEnemies</a>
+                </li>
+              
+                <li>
+                  <a href="#lq.ResShootActivityAttackEnemies.ActivityShootAttackRecord"><span class="badge">M</span>ResShootActivityAttackEnemies.ActivityShootAttackRecord</a>
+                </li>
+              
+                <li>
                   <a href="#lq.ResShopInfo"><span class="badge">M</span>ResShopInfo</a>
                 </li>
               
@@ -4620,6 +4696,10 @@
               
                 <li>
                   <a href="#lq.ShopInfo"><span class="badge">M</span>ShopInfo</a>
+                </li>
+              
+                <li>
+                  <a href="#lq.ShopInfo.SelectedPackageBuyRecord"><span class="badge">M</span>ShopInfo.SelectedPackageBuyRecord</a>
                 </li>
               
                 <li>
@@ -5598,6 +5678,13 @@
                 <tr>
                   <td>simulation_v2_data</td>
                   <td><a href="#lq.SimulationV2Data">SimulationV2Data</a></td>
+                  <td>repeated</td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>shoot_data</td>
+                  <td><a href="#lq.ActivityShootData">ActivityShootData</a></td>
                   <td>repeated</td>
                   <td><p> </p></td>
                 </tr>
@@ -11291,6 +11378,220 @@
 
         
       
+        <h3 id="lq.ActivityShootData">ActivityShootData</h3>
+        <p></p>
+
+        
+          <table class="field-table">
+            <thead>
+              <tr><td>Field</td><td>Type</td><td>Label</td><td>Description</td></tr>
+            </thead>
+            <tbody>
+              
+                <tr>
+                  <td>activity_id</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>level</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>enemies</td>
+                  <td><a href="#lq.ActivityShootEnemyInfo">ActivityShootEnemyInfo</a></td>
+                  <td>repeated</td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>rewarded_ids</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td>repeated</td>
+                  <td><p> </p></td>
+                </tr>
+              
+            </tbody>
+          </table>
+
+          
+
+        
+      
+        <h3 id="lq.ActivityShootEnemyInfo">ActivityShootEnemyInfo</h3>
+        <p></p>
+
+        
+          <table class="field-table">
+            <thead>
+              <tr><td>Field</td><td>Type</td><td>Label</td><td>Description</td></tr>
+            </thead>
+            <tbody>
+              
+                <tr>
+                  <td>group_id</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>enemy_id</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>hp</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+            </tbody>
+          </table>
+
+          
+
+        
+      
+        <h3 id="lq.ActivityShootEnemyInfoDirty">ActivityShootEnemyInfoDirty</h3>
+        <p></p>
+
+        
+          <table class="field-table">
+            <thead>
+              <tr><td>Field</td><td>Type</td><td>Label</td><td>Description</td></tr>
+            </thead>
+            <tbody>
+              
+                <tr>
+                  <td>dirty</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>enemies</td>
+                  <td><a href="#lq.ActivityShootEnemyInfo">ActivityShootEnemyInfo</a></td>
+                  <td>repeated</td>
+                  <td><p> </p></td>
+                </tr>
+              
+            </tbody>
+          </table>
+
+          
+
+        
+      
+        <h3 id="lq.ActivityShootValueChange">ActivityShootValueChange</h3>
+        <p></p>
+
+        
+          <table class="field-table">
+            <thead>
+              <tr><td>Field</td><td>Type</td><td>Label</td><td>Description</td></tr>
+            </thead>
+            <tbody>
+              
+                <tr>
+                  <td>level</td>
+                  <td><a href="#lq.ActivityShootValueChange.Uint32ValueDirty">ActivityShootValueChange.Uint32ValueDirty</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>enemies</td>
+                  <td><a href="#lq.ActivityShootEnemyInfoDirty">ActivityShootEnemyInfoDirty</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>rewarded_ids</td>
+                  <td><a href="#lq.ActivityShootValueChange.RewardArrayDirty">ActivityShootValueChange.RewardArrayDirty</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+            </tbody>
+          </table>
+
+          
+
+        
+      
+        <h3 id="lq.ActivityShootValueChange.RewardArrayDirty">ActivityShootValueChange.RewardArrayDirty</h3>
+        <p></p>
+
+        
+          <table class="field-table">
+            <thead>
+              <tr><td>Field</td><td>Type</td><td>Label</td><td>Description</td></tr>
+            </thead>
+            <tbody>
+              
+                <tr>
+                  <td>reward_ids</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td>repeated</td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>dirty</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+            </tbody>
+          </table>
+
+          
+
+        
+      
+        <h3 id="lq.ActivityShootValueChange.Uint32ValueDirty">ActivityShootValueChange.Uint32ValueDirty</h3>
+        <p></p>
+
+        
+          <table class="field-table">
+            <thead>
+              <tr><td>Field</td><td>Type</td><td>Label</td><td>Description</td></tr>
+            </thead>
+            <tbody>
+              
+                <tr>
+                  <td>value</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>dirty</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+            </tbody>
+          </table>
+
+          
+
+        
+      
         <h3 id="lq.ActivitySimulationDailyContest">ActivitySimulationDailyContest</h3>
         <p></p>
 
@@ -16100,6 +16401,68 @@
 
         
       
+        <h3 id="lq.ContestGameMetaData">ContestGameMetaData</h3>
+        <p></p>
+
+        
+          <table class="field-table">
+            <thead>
+              <tr><td>Field</td><td>Type</td><td>Label</td><td>Description</td></tr>
+            </thead>
+            <tbody>
+              
+                <tr>
+                  <td>type_list</td>
+                  <td><a href="#lq.ContestGameMetaData.ContestTypeZoneData">ContestGameMetaData.ContestTypeZoneData</a></td>
+                  <td>repeated</td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>rank_type</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+            </tbody>
+          </table>
+
+          
+
+        
+      
+        <h3 id="lq.ContestGameMetaData.ContestTypeZoneData">ContestGameMetaData.ContestTypeZoneData</h3>
+        <p></p>
+
+        
+          <table class="field-table">
+            <thead>
+              <tr><td>Field</td><td>Type</td><td>Label</td><td>Description</td></tr>
+            </thead>
+            <tbody>
+              
+                <tr>
+                  <td>zone</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>contest_type</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+            </tbody>
+          </table>
+
+          
+
+        
+      
         <h3 id="lq.ContestSetting">ContestSetting</h3>
         <p></p>
 
@@ -16364,6 +16727,20 @@
                   <td><p> </p></td>
                 </tr>
               
+                <tr>
+                  <td>rank_type</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>show_team_rank</td>
+                  <td><a href="#bool">bool</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
             </tbody>
           </table>
 
@@ -16517,6 +16894,20 @@
                 <tr>
                   <td>auto_match</td>
                   <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>rank_type</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>show_team_rank</td>
+                  <td><a href="#bool">bool</a></td>
                   <td></td>
                   <td><p> </p></td>
                 </tr>
@@ -18618,6 +19009,13 @@
                 <tr>
                   <td>contest_uid</td>
                   <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>contest_info</td>
+                  <td><a href="#lq.ContestGameMetaData">ContestGameMetaData</a></td>
                   <td></td>
                   <td><p> </p></td>
                 </tr>
@@ -24178,6 +24576,20 @@
                   <td><p> </p></td>
                 </tr>
               
+                <tr>
+                  <td>team_id</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>team_name</td>
+                  <td><a href="#string">string</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
             </tbody>
           </table>
 
@@ -28571,6 +28983,13 @@
                   <td><p> </p></td>
                 </tr>
               
+                <tr>
+                  <td>package_goods</td>
+                  <td><a href="#lq.ReqBuyFromShop.Item">ReqBuyFromShop.Item</a></td>
+                  <td>repeated</td>
+                  <td><p> </p></td>
+                </tr>
+              
             </tbody>
           </table>
 
@@ -29584,6 +30003,13 @@
                 <tr>
                   <td>contest_setting</td>
                   <td><a href="#lq.ContestSetting">ContestSetting</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>rank_type</td>
+                  <td><a href="#uint32">uint32</a></td>
                   <td></td>
                   <td><p> </p></td>
                 </tr>
@@ -32088,6 +32514,127 @@
         
       
         <h3 id="lq.ReqFetchContestPlayerRank">ReqFetchContestPlayerRank</h3>
+        <p></p>
+
+        
+          <table class="field-table">
+            <thead>
+              <tr><td>Field</td><td>Type</td><td>Label</td><td>Description</td></tr>
+            </thead>
+            <tbody>
+              
+                <tr>
+                  <td>unique_id</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>limit</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>offset</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+            </tbody>
+          </table>
+
+          
+
+        
+      
+        <h3 id="lq.ReqFetchContestTeamMember">ReqFetchContestTeamMember</h3>
+        <p></p>
+
+        
+          <table class="field-table">
+            <thead>
+              <tr><td>Field</td><td>Type</td><td>Label</td><td>Description</td></tr>
+            </thead>
+            <tbody>
+              
+                <tr>
+                  <td>unique_id</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>team_id</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>offset</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>limit</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+            </tbody>
+          </table>
+
+          
+
+        
+      
+        <h3 id="lq.ReqFetchContestTeamPlayerRank">ReqFetchContestTeamPlayerRank</h3>
+        <p></p>
+
+        
+          <table class="field-table">
+            <thead>
+              <tr><td>Field</td><td>Type</td><td>Label</td><td>Description</td></tr>
+            </thead>
+            <tbody>
+              
+                <tr>
+                  <td>unique_id</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>offset</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>limit</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+            </tbody>
+          </table>
+
+          
+
+        
+      
+        <h3 id="lq.ReqFetchContestTeamRank">ReqFetchContestTeamRank</h3>
         <p></p>
 
         
@@ -36711,6 +37258,44 @@
 
         
       
+        <h3 id="lq.ReqShootActivityAttackEnemies">ReqShootActivityAttackEnemies</h3>
+        <p></p>
+
+        
+          <table class="field-table">
+            <thead>
+              <tr><td>Field</td><td>Type</td><td>Label</td><td>Description</td></tr>
+            </thead>
+            <tbody>
+              
+                <tr>
+                  <td>activity_id</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>bullets_count</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>position</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+            </tbody>
+          </table>
+
+          
+
+        
+      
         <h3 id="lq.ReqShopPurchase">ReqShopPurchase</h3>
         <p></p>
 
@@ -38816,6 +39401,13 @@
                 <tr>
                   <td>progress_reward_data</td>
                   <td><a href="#lq.ActivityProgressRewardData">ActivityProgressRewardData</a></td>
+                  <td>repeated</td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>shoot_data</td>
+                  <td><a href="#lq.ActivityShootData">ActivityShootData</a></td>
                   <td>repeated</td>
                   <td><p> </p></td>
                 </tr>
@@ -43424,6 +44016,13 @@
                   <td><p> </p></td>
                 </tr>
               
+                <tr>
+                  <td>accumulate_point</td>
+                  <td><a href="#int32">int32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
             </tbody>
           </table>
 
@@ -43517,6 +44116,13 @@
                   <td><p> </p></td>
                 </tr>
               
+                <tr>
+                  <td>team_name</td>
+                  <td><a href="#string">string</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
             </tbody>
           </table>
 
@@ -43551,6 +44157,224 @@
                 <tr>
                   <td>data</td>
                   <td><a href="#lq.ResFetchContestPlayerRank.ContestPlayerAccountData">ResFetchContestPlayerRank.ContestPlayerAccountData</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>team_name</td>
+                  <td><a href="#string">string</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+            </tbody>
+          </table>
+
+          
+
+        
+      
+        <h3 id="lq.ResFetchContestTeamMember">ResFetchContestTeamMember</h3>
+        <p></p>
+
+        
+          <table class="field-table">
+            <thead>
+              <tr><td>Field</td><td>Type</td><td>Label</td><td>Description</td></tr>
+            </thead>
+            <tbody>
+              
+                <tr>
+                  <td>error</td>
+                  <td><a href="#lq.Error">Error</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>total</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>rank</td>
+                  <td><a href="#lq.ResFetchContestTeamMember.ContestTeamMemberRank">ResFetchContestTeamMember.ContestTeamMemberRank</a></td>
+                  <td>repeated</td>
+                  <td><p> </p></td>
+                </tr>
+              
+            </tbody>
+          </table>
+
+          
+
+        
+      
+        <h3 id="lq.ResFetchContestTeamMember.ContestTeamMemberRank">ResFetchContestTeamMember.ContestTeamMemberRank</h3>
+        <p></p>
+
+        
+          <table class="field-table">
+            <thead>
+              <tr><td>Field</td><td>Type</td><td>Label</td><td>Description</td></tr>
+            </thead>
+            <tbody>
+              
+                <tr>
+                  <td>account_id</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>total_game_count</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>total_score</td>
+                  <td><a href="#int32">int32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>nickname</td>
+                  <td><a href="#string">string</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+            </tbody>
+          </table>
+
+          
+
+        
+      
+        <h3 id="lq.ResFetchContestTeamRank">ResFetchContestTeamRank</h3>
+        <p></p>
+
+        
+          <table class="field-table">
+            <thead>
+              <tr><td>Field</td><td>Type</td><td>Label</td><td>Description</td></tr>
+            </thead>
+            <tbody>
+              
+                <tr>
+                  <td>error</td>
+                  <td><a href="#lq.Error">Error</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>total</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>rank</td>
+                  <td><a href="#lq.ResFetchContestTeamRank.SeasonTeamRank">ResFetchContestTeamRank.SeasonTeamRank</a></td>
+                  <td>repeated</td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>self_team_rank</td>
+                  <td><a href="#lq.ResFetchContestTeamRank.SeasonTeamRank">ResFetchContestTeamRank.SeasonTeamRank</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+            </tbody>
+          </table>
+
+          
+
+        
+      
+        <h3 id="lq.ResFetchContestTeamRank.ContestTeamData">ResFetchContestTeamRank.ContestTeamData</h3>
+        <p></p>
+
+        
+          <table class="field-table">
+            <thead>
+              <tr><td>Field</td><td>Type</td><td>Label</td><td>Description</td></tr>
+            </thead>
+            <tbody>
+              
+                <tr>
+                  <td>total_point</td>
+                  <td><a href="#int32">int32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>total_game_count</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>member_count</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+            </tbody>
+          </table>
+
+          
+
+        
+      
+        <h3 id="lq.ResFetchContestTeamRank.SeasonTeamRank">ResFetchContestTeamRank.SeasonTeamRank</h3>
+        <p></p>
+
+        
+          <table class="field-table">
+            <thead>
+              <tr><td>Field</td><td>Type</td><td>Label</td><td>Description</td></tr>
+            </thead>
+            <tbody>
+              
+                <tr>
+                  <td>team_id</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>name</td>
+                  <td><a href="#string">string</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>data</td>
+                  <td><a href="#lq.ResFetchContestTeamRank.ContestTeamData">ResFetchContestTeamRank.ContestTeamData</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>rank</td>
+                  <td><a href="#uint32">uint32</a></td>
                   <td></td>
                   <td><p> </p></td>
                 </tr>
@@ -44345,6 +45169,13 @@
                   <td><p> </p></td>
                 </tr>
               
+                <tr>
+                  <td>rank_type</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
             </tbody>
           </table>
 
@@ -45074,6 +45905,13 @@
               
                 <tr>
                   <td>nickname</td>
+                  <td><a href="#string">string</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>team_name</td>
                   <td><a href="#string">string</a></td>
                   <td></td>
                   <td><p> </p></td>
@@ -49287,6 +50125,96 @@
 
         
       
+        <h3 id="lq.ResShootActivityAttackEnemies">ResShootActivityAttackEnemies</h3>
+        <p></p>
+
+        
+          <table class="field-table">
+            <thead>
+              <tr><td>Field</td><td>Type</td><td>Label</td><td>Description</td></tr>
+            </thead>
+            <tbody>
+              
+                <tr>
+                  <td>error</td>
+                  <td><a href="#lq.Error">Error</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>records</td>
+                  <td><a href="#lq.ResShootActivityAttackEnemies.ActivityShootAttackRecord">ResShootActivityAttackEnemies.ActivityShootAttackRecord</a></td>
+                  <td>repeated</td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>value_change</td>
+                  <td><a href="#lq.ActivityShootValueChange">ActivityShootValueChange</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+            </tbody>
+          </table>
+
+          
+
+        
+      
+        <h3 id="lq.ResShootActivityAttackEnemies.ActivityShootAttackRecord">ResShootActivityAttackEnemies.ActivityShootAttackRecord</h3>
+        <p></p>
+
+        
+          <table class="field-table">
+            <thead>
+              <tr><td>Field</td><td>Type</td><td>Label</td><td>Description</td></tr>
+            </thead>
+            <tbody>
+              
+                <tr>
+                  <td>position</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>enemy</td>
+                  <td><a href="#lq.ActivityShootEnemyInfo">ActivityShootEnemyInfo</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>level</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>reward_ids</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td>repeated</td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>rewards</td>
+                  <td><a href="#lq.ExecuteReward">ExecuteReward</a></td>
+                  <td>repeated</td>
+                  <td><p> </p></td>
+                </tr>
+              
+            </tbody>
+          </table>
+
+          
+
+        
+      
         <h3 id="lq.ResShopInfo">ResShopInfo</h3>
         <p></p>
 
@@ -51082,6 +52010,44 @@
                   <td>last_refresh_time</td>
                   <td><a href="#uint32">uint32</a></td>
                   <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>selected_package_records</td>
+                  <td><a href="#lq.ShopInfo.SelectedPackageBuyRecord">ShopInfo.SelectedPackageBuyRecord</a></td>
+                  <td>repeated</td>
+                  <td><p> </p></td>
+                </tr>
+              
+            </tbody>
+          </table>
+
+          
+
+        
+      
+        <h3 id="lq.ShopInfo.SelectedPackageBuyRecord">ShopInfo.SelectedPackageBuyRecord</h3>
+        <p></p>
+
+        
+          <table class="field-table">
+            <thead>
+              <tr><td>Field</td><td>Type</td><td>Label</td><td>Description</td></tr>
+            </thead>
+            <tbody>
+              
+                <tr>
+                  <td>package_id</td>
+                  <td><a href="#uint32">uint32</a></td>
+                  <td></td>
+                  <td><p> </p></td>
+                </tr>
+              
+                <tr>
+                  <td>buy_records</td>
+                  <td><a href="#lq.BuyRecord">BuyRecord</a></td>
+                  <td>repeated</td>
                   <td><p> </p></td>
                 </tr>
               

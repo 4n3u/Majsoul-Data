@@ -361,5 +361,27 @@
         "bannerLeftSelected": "",
         "bannerLeftIcon": "",
         "timeRemind": 0
+    },
+    {
+        "id": 250901,
+        "sort": 126,
+        "bannerType": 2,
+        "enterIcon": "",
+        "bannerBig": "myres2/activity_banner/25wuxia1_b.jpg",
+        "bannerLeft": "myres2/activity_banner/25wuxia1.png",
+        "bannerLeftSelected": "",
+        "bannerLeftIcon": "",
+        "timeRemind": 0
+    },
+    {
+        "id": 250902,
+        "sort": 125,
+        "bannerType": 2,
+        "enterIcon": "",
+        "bannerBig": "myres2/activity_banner/25wuxia2_b.jpg",
+        "bannerLeft": "myres2/activity_banner/25wuxia2.png",
+        "bannerLeftSelected": "",
+        "bannerLeftIcon": "",
+        "timeRemind": 0
     }
 ]

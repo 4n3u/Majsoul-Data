@@ -2983,39 +2983,27 @@
     },
     {
         "chestId": 1004,
-        "itemId": 20000112,
-        "type": "chara",
-        "checkActivity": 250831
+        "itemId": 30505004,
+        "type": "skin",
+        "checkActivity": 250911
     },
     {
         "chestId": 1004,
-        "itemId": 30530010,
+        "itemId": 30550017,
         "type": "skin",
-        "checkActivity": 250831
+        "checkActivity": 250911
     },
     {
         "chestId": 1004,
-        "itemId": 30520010,
+        "itemId": 30570006,
         "type": "skin",
-        "checkActivity": 250831
+        "checkActivity": 250911
     },
     {
         "chestId": 1004,
-        "itemId": 30580020,
+        "itemId": 30580009,
         "type": "skin",
-        "checkActivity": 250831
-    },
-    {
-        "chestId": 1004,
-        "itemId": 30570012,
-        "type": "skin",
-        "checkActivity": 250831
-    },
-    {
-        "chestId": 1004,
-        "itemId": 30560009,
-        "type": "skin",
-        "checkActivity": 250831
+        "checkActivity": 250911
     },
     {
         "chestId": 1004,
@@ -3763,39 +3751,27 @@
     },
     {
         "chestId": 1005,
-        "itemId": 20000112,
-        "type": "chara",
-        "checkActivity": 250831
+        "itemId": 30505004,
+        "type": "skin",
+        "checkActivity": 250911
     },
     {
         "chestId": 1005,
-        "itemId": 30530010,
+        "itemId": 30550017,
         "type": "skin",
-        "checkActivity": 250831
+        "checkActivity": 250911
     },
     {
         "chestId": 1005,
-        "itemId": 30520010,
+        "itemId": 30570006,
         "type": "skin",
-        "checkActivity": 250831
+        "checkActivity": 250911
     },
     {
         "chestId": 1005,
-        "itemId": 30580020,
+        "itemId": 30580009,
         "type": "skin",
-        "checkActivity": 250831
-    },
-    {
-        "chestId": 1005,
-        "itemId": 30570012,
-        "type": "skin",
-        "checkActivity": 250831
-    },
-    {
-        "chestId": 1005,
-        "itemId": 30560009,
-        "type": "skin",
-        "checkActivity": 250831
+        "checkActivity": 250911
     },
     {
         "chestId": 1005,
@@ -4435,33 +4411,27 @@
     },
     {
         "chestId": 1006,
-        "itemId": 30530010,
+        "itemId": 30505004,
         "type": "skin",
-        "checkActivity": 250831
+        "checkActivity": 250911
     },
     {
         "chestId": 1006,
-        "itemId": 30520010,
+        "itemId": 30550017,
         "type": "skin",
-        "checkActivity": 250831
+        "checkActivity": 250911
     },
     {
         "chestId": 1006,
-        "itemId": 30580020,
+        "itemId": 30570006,
         "type": "skin",
-        "checkActivity": 250831
+        "checkActivity": 250911
     },
     {
         "chestId": 1006,
-        "itemId": 30570012,
+        "itemId": 30580009,
         "type": "skin",
-        "checkActivity": 250831
-    },
-    {
-        "chestId": 1006,
-        "itemId": 30560009,
-        "type": "skin",
-        "checkActivity": 250831
+        "checkActivity": 250911
     },
     {
         "chestId": 1006,
@@ -5101,33 +5071,27 @@
     },
     {
         "chestId": 1007,
-        "itemId": 30530010,
+        "itemId": 30505004,
         "type": "skin",
-        "checkActivity": 250831
+        "checkActivity": 250911
     },
     {
         "chestId": 1007,
-        "itemId": 30520010,
+        "itemId": 30550017,
         "type": "skin",
-        "checkActivity": 250831
+        "checkActivity": 250911
     },
     {
         "chestId": 1007,
-        "itemId": 30580020,
+        "itemId": 30570006,
         "type": "skin",
-        "checkActivity": 250831
+        "checkActivity": 250911
     },
     {
         "chestId": 1007,
-        "itemId": 30570012,
+        "itemId": 30580009,
         "type": "skin",
-        "checkActivity": 250831
-    },
-    {
-        "chestId": 1007,
-        "itemId": 30560009,
-        "type": "skin",
-        "checkActivity": 250831
+        "checkActivity": 250911
     },
     {
         "chestId": 1007,

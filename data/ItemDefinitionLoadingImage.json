@@ -1314,5 +1314,19 @@
         "args": [
             0
         ]
+    },
+    {
+        "id": 250901,
+        "imgPath": "extendRes/loading_cg/250901.jpg",
+        "thumbPath": "extendRes/loading_cg/250901_thumb.jpg",
+        "sort": 1077,
+        "unlockItems": [
+            307477,
+            307277,
+            0
+        ],
+        "args": [
+            0
+        ]
     }
 ]

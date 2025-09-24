@@ -10348,5 +10348,135 @@
         "nameKr": "",
         "type": "progress_reward",
         "needPopout": 0
+    },
+    {
+        "id": 250901,
+        "nameChs": "惊风破竹",
+        "nameChsT": "驚風破竹",
+        "nameJp": "驚風破竹",
+        "nameEn": "When the Wind Gusts",
+        "nameKr": "대나무를 가른 바람",
+        "type": "task",
+        "needPopout": 1
+    },
+    {
+        "id": 250902,
+        "nameChs": "千灯照夜",
+        "nameChsT": "千燈照夜",
+        "nameJp": "千灯照夜",
+        "nameEn": "Lantern's Wish",
+        "nameKr": "밤을 비추는 등불",
+        "type": "period_task",
+        "needPopout": 0
+    },
+    {
+        "id": 250910,
+        "nameChs": "",
+        "nameChsT": "",
+        "nameJp": "",
+        "nameEn": "",
+        "nameKr": "",
+        "type": "shop",
+        "needPopout": 0
+    },
+    {
+        "id": 250911,
+        "nameChs": "",
+        "nameChsT": "",
+        "nameJp": "",
+        "nameEn": "",
+        "nameKr": "",
+        "type": "event_cross_time",
+        "needPopout": 0
+    },
+    {
+        "id": 250912,
+        "nameChs": "",
+        "nameChsT": "",
+        "nameJp": "",
+        "nameEn": "",
+        "nameKr": "",
+        "type": "item",
+        "needPopout": 0
+    },
+    {
+        "id": 250920,
+        "nameChs": "",
+        "nameChsT": "",
+        "nameJp": "",
+        "nameEn": "",
+        "nameKr": "",
+        "type": "chest_up",
+        "needPopout": 0
+    },
+    {
+        "id": 250921,
+        "nameChs": "",
+        "nameChsT": "",
+        "nameJp": "",
+        "nameEn": "",
+        "nameKr": "",
+        "type": "chest_up",
+        "needPopout": 0
+    },
+    {
+        "id": 250922,
+        "nameChs": "",
+        "nameChsT": "",
+        "nameJp": "",
+        "nameEn": "",
+        "nameKr": "",
+        "type": "chest_up",
+        "needPopout": 0
+    },
+    {
+        "id": 250923,
+        "nameChs": "",
+        "nameChsT": "",
+        "nameJp": "",
+        "nameEn": "",
+        "nameKr": "",
+        "type": "chest_up",
+        "needPopout": 0
+    },
+    {
+        "id": 250925,
+        "nameChs": "",
+        "nameChsT": "",
+        "nameJp": "",
+        "nameEn": "",
+        "nameKr": "",
+        "type": "chest_replace_up",
+        "needPopout": 0
+    },
+    {
+        "id": 250926,
+        "nameChs": "",
+        "nameChsT": "",
+        "nameJp": "",
+        "nameEn": "",
+        "nameKr": "",
+        "type": "chest_replace_up",
+        "needPopout": 0
+    },
+    {
+        "id": 250927,
+        "nameChs": "",
+        "nameChsT": "",
+        "nameJp": "",
+        "nameEn": "",
+        "nameKr": "",
+        "type": "chest_replace_up",
+        "needPopout": 0
+    },
+    {
+        "id": 250928,
+        "nameChs": "",
+        "nameChsT": "",
+        "nameJp": "",
+        "nameEn": "",
+        "nameKr": "",
+        "type": "chest_replace_up",
+        "needPopout": 0
     }
 ]
