@@ -3070,5 +3070,53 @@
             0
         ],
         "crossView": 0
+    },
+    {
+        "id": 600137,
+        "nameChs": "麻将全能王S1",
+        "nameChsT": "麻將全能王S1",
+        "nameJp": "麻將全能王S1",
+        "nameEn": "麻將全能王S1",
+        "nameKr": "麻將全能王S1",
+        "descChs": "赠与哔哩哔哩【麻将全能王】活动赛冠军",
+        "descChsT": "贈與嗶哩嗶哩【麻將全能王】活動賽冠軍",
+        "descJp": "贈與嗶哩嗶哩【麻將全能王】活動賽冠軍",
+        "descEn": "贈與嗶哩嗶哩【麻將全能王】活動賽冠軍",
+        "descKr": "贈與嗶哩嗶哩【麻將全能王】活動賽冠軍",
+        "icon": "extendRes/title/25mjqnw1.png",
+        "iconItem": "extendRes/title/25mjqnw1_item.jpg",
+        "priority": 40080,
+        "unlockType": 1,
+        "unlockParam": [
+            30557043,
+            0,
+            0,
+            0
+        ],
+        "crossView": 0
+    },
+    {
+        "id": 600138,
+        "nameChs": "にじLリーグ優勝",
+        "nameChsT": "にじLリーグ優勝",
+        "nameJp": "にじLリーグ優勝",
+        "nameEn": "にじLリーグ優勝",
+        "nameKr": "にじLリーグ優勝",
+        "descChs": "にじさんじ麻雀杯 Lリーグ2025優勝チーム称号",
+        "descChsT": "にじさんじ麻雀杯 Lリーグ2025優勝チーム称号",
+        "descJp": "にじさんじ麻雀杯 Lリーグ2025優勝チーム称号",
+        "descEn": "にじさんじ麻雀杯 Lリーグ2025優勝チーム称号",
+        "descKr": "にじさんじ麻雀杯 Lリーグ2025優勝チーム称号",
+        "icon": "extendRes/title/25caihong1.png",
+        "iconItem": "extendRes/title/25caihong1_item.jpg",
+        "priority": 40081,
+        "unlockType": 1,
+        "unlockParam": [
+            30557044,
+            0,
+            0,
+            0
+        ],
+        "crossView": 0
     }
 ]

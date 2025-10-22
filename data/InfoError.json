@@ -3998,5 +3998,69 @@
         "jp": "このお守りは設定できません。",
         "en": "This talisman cannot be set as the default.",
         "kr": "해당 부적은 기본으로 설정할 수 없습니다."
+    },
+    {
+        "id": 26200,
+        "chs": "该委托未解锁",
+        "chsT": "該委託未解鎖",
+        "jp": "依頼開放前",
+        "en": "Request not yet unlocked.",
+        "kr": "의뢰 오픈 전"
+    },
+    {
+        "id": 26201,
+        "chs": "未找到该员工",
+        "chsT": "未找到該員工",
+        "jp": "スタッフが見つかりません",
+        "en": "Employee not found.",
+        "kr": "직원을 찾지 못했습니다."
+    },
+    {
+        "id": 26202,
+        "chs": "该委托已完成，请重新进入活动查看",
+        "chsT": "該委託已完成，請重新進入活動查看",
+        "jp": "依頼は既に完了されています。更新して再度お試しください。",
+        "en": "This request is already complete. Please re-enter the event page.",
+        "kr": "이미 완료한 의뢰입니다. 이벤트에 다시 접속해 주세요."
+    },
+    {
+        "id": 26203,
+        "chs": "该员工体力不足，使用鲷鱼烧可以补充体力",
+        "chsT": "該員工體力不足，使用鯛魚燒可以補充體力",
+        "jp": "体力が足りません。「求人センター」→「名簿」から、「たい焼き」を消費して体力を回復することができます。",
+        "en": "This employee is out of Stamina. Use Taiyaki to restore it.",
+        "kr": "체력이 부족합니다. 붕어빵을 사용해 체력을 회복할 수 있습니다."
+    },
+    {
+        "id": 26204,
+        "chs": "人才中心内未找到该员工",
+        "chsT": "人才中心內未找到該員工",
+        "jp": "求人センターにそのスタッフがいません。",
+        "en": "Employee not found in the Hiring Center.",
+        "kr": "인재 채용에서 해당 직원을 찾지 못했습니다."
+    },
+    {
+        "id": 26205,
+        "chs": "人才中心没有更多员工了",
+        "chsT": "人才中心沒有更多員工了",
+        "jp": "求人センターにこれ以上のスタッフがいません。",
+        "en": "No more candidates available in the Hiring Center.",
+        "kr": "이제 채용 가능한 직원이 없습니다."
+    },
+    {
+        "id": 26206,
+        "chs": "该员工体力已满",
+        "chsT": "該員工體力已滿",
+        "jp": "体力が最大です。",
+        "en": "This employee's Stamina is full.",
+        "kr": "체력이 최대입니다."
+    },
+    {
+        "id": 26207,
+        "chs": "该委托的属性需求未满足，请增加或更换员工",
+        "chsT": "該委託的屬性需求未滿足，請增加或更換員工",
+        "jp": "要求ステータスに満たしていません。派遣スタッフを変更し、再度お試しください。",
+        "en": "Attribute requirements not met. Please add or change employees.",
+        "kr": "의뢰 능력치 조건을 만족하지 못했습니다. 참여 직원을 늘리거나, 다른 직원으로 바꿔 주세요."
     }
 ]

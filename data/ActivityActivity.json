@@ -10488,5 +10488,145 @@
         "nameKr": "",
         "type": "daily_sign",
         "needPopout": 1
+    },
+    {
+        "id": 251001,
+        "nameChs": "万事屋一姬",
+        "nameChsT": "萬事屋一姬",
+        "nameJp": "よろず屋 一姫",
+        "nameEn": "Ichihime's Odd Jobs",
+        "nameKr": "해결사 이치히메",
+        "type": "quest_crew",
+        "needPopout": 1
+    },
+    {
+        "id": 251002,
+        "nameChs": "",
+        "nameChsT": "",
+        "nameJp": "",
+        "nameEn": "",
+        "nameKr": "",
+        "type": "period_task",
+        "needPopout": 0
+    },
+    {
+        "id": 251003,
+        "nameChs": "",
+        "nameChsT": "",
+        "nameJp": "",
+        "nameEn": "",
+        "nameKr": "",
+        "type": "period_task",
+        "needPopout": 0
+    },
+    {
+        "id": 251004,
+        "nameChs": "",
+        "nameChsT": "",
+        "nameJp": "",
+        "nameEn": "",
+        "nameKr": "",
+        "type": "story",
+        "needPopout": 0
+    },
+    {
+        "id": 251005,
+        "nameChs": "",
+        "nameChsT": "",
+        "nameJp": "",
+        "nameEn": "",
+        "nameKr": "",
+        "type": "activity_match",
+        "needPopout": 0
+    },
+    {
+        "id": 251006,
+        "nameChs": "",
+        "nameChsT": "",
+        "nameJp": "",
+        "nameEn": "",
+        "nameKr": "",
+        "type": "game_task",
+        "needPopout": 0
+    },
+    {
+        "id": 251020,
+        "nameChs": "",
+        "nameChsT": "",
+        "nameJp": "",
+        "nameEn": "",
+        "nameKr": "",
+        "type": "shop",
+        "needPopout": 0
+    },
+    {
+        "id": 251021,
+        "nameChs": "",
+        "nameChsT": "",
+        "nameJp": "",
+        "nameEn": "",
+        "nameKr": "",
+        "type": "event_cross_time",
+        "needPopout": 0
+    },
+    {
+        "id": 251022,
+        "nameChs": "",
+        "nameChsT": "",
+        "nameJp": "",
+        "nameEn": "",
+        "nameKr": "",
+        "type": "item",
+        "needPopout": 0
+    },
+    {
+        "id": 251030,
+        "nameChs": "",
+        "nameChsT": "",
+        "nameJp": "",
+        "nameEn": "",
+        "nameKr": "",
+        "type": "chest_up",
+        "needPopout": 0
+    },
+    {
+        "id": 251031,
+        "nameChs": "",
+        "nameChsT": "",
+        "nameJp": "",
+        "nameEn": "",
+        "nameKr": "",
+        "type": "chest_up",
+        "needPopout": 0
+    },
+    {
+        "id": 251040,
+        "nameChs": "",
+        "nameChsT": "",
+        "nameJp": "",
+        "nameEn": "",
+        "nameKr": "",
+        "type": "chest_replace_up",
+        "needPopout": 0
+    },
+    {
+        "id": 251041,
+        "nameChs": "",
+        "nameChsT": "",
+        "nameJp": "",
+        "nameEn": "",
+        "nameKr": "",
+        "type": "chest_replace_up",
+        "needPopout": 0
+    },
+    {
+        "id": 251050,
+        "nameChs": "",
+        "nameChsT": "",
+        "nameJp": "",
+        "nameEn": "",
+        "nameKr": "",
+        "type": "activity_room",
+        "needPopout": 0
     }
 ]

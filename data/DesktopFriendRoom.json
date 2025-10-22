@@ -193,5 +193,18 @@
             "",
             ""
         ]
+    },
+    {
+        "id": 16,
+        "preRule": "xiakeshang",
+        "sort": 16,
+        "strName": "25101012",
+        "strRule": "25101014",
+        "setJushu": 1,
+        "ruleImages": [
+            "myres2/room_rule/xiakeshang.png",
+            "",
+            ""
+        ]
     }
 ]

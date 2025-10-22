@@ -70351,5 +70351,1877 @@
         "jp": "キンウ",
         "en": "Jin Wu",
         "kr": "킨우"
+    },
+    {
+        "id": 25100101,
+        "type": "",
+        "chs": "三三",
+        "chsT": "三三",
+        "jp": "ミミ",
+        "en": "Mimi",
+        "kr": "미미"
+    },
+    {
+        "id": 25100102,
+        "type": "",
+        "chs": "扫地机器人A",
+        "chsT": "掃地機器人A",
+        "jp": "掃除ロボットA",
+        "en": "Cleanbot A",
+        "kr": "로봇청소기A"
+    },
+    {
+        "id": 25100103,
+        "type": "",
+        "chs": "扫地机器人B",
+        "chsT": "掃地機器人B",
+        "jp": "掃除ロボットB",
+        "en": "Cleanbot B",
+        "kr": "로봇청소기B"
+    },
+    {
+        "id": 25100104,
+        "type": "",
+        "chs": "呆呆",
+        "chsT": "呆呆",
+        "jp": "ぼややん",
+        "en": "Shaun",
+        "kr": "뽀요용"
+    },
+    {
+        "id": 25100105,
+        "type": "",
+        "chs": "眼镜",
+        "chsT": "眼鏡",
+        "jp": "眼鏡",
+        "en": "Glasses",
+        "kr": "안경"
+    },
+    {
+        "id": 25100106,
+        "type": "",
+        "chs": "折扇",
+        "chsT": "摺扇",
+        "jp": "扇子",
+        "en": "Folding Fan",
+        "kr": "접부채"
+    },
+    {
+        "id": 25100107,
+        "type": "",
+        "chs": "娇小一姬粘土人",
+        "chsT": "嬌小一姬粘土人",
+        "jp": "ちび一姫ぬいぐるみ",
+        "en": "Chibi Ichihime",
+        "kr": "미니 이치히메"
+    },
+    {
+        "id": 25100108,
+        "type": "",
+        "chs": "烧鸟串",
+        "chsT": "燒鳥串",
+        "jp": "焼き鳥",
+        "en": "Yakitori",
+        "kr": "닭꼬치"
+    },
+    {
+        "id": 25100109,
+        "type": "",
+        "chs": "咸鱼",
+        "chsT": "鹹魚",
+        "jp": "魚の干物",
+        "en": "Salted Fish",
+        "kr": "멸치"
+    },
+    {
+        "id": 25100110,
+        "type": "",
+        "chs": "乔治",
+        "chsT": "喬治",
+        "jp": "ジョージ",
+        "en": "George",
+        "kr": "조지"
+    },
+    {
+        "id": 25100111,
+        "type": "",
+        "chs": "田径部的健太",
+        "chsT": "田徑部的健太",
+        "jp": "陸上部のケンタ",
+        "en": "Jeff of the Track Club",
+        "kr": "육상부 켄타"
+    },
+    {
+        "id": 25100112,
+        "type": "",
+        "chs": "吹奏乐部的高桥",
+        "chsT": "吹奏樂部的高橋",
+        "jp": "吹奏楽部のタカハシ",
+        "en": "Taylor of the Brass Band",
+        "kr": "취주악부 타카하시"
+    },
+    {
+        "id": 25100113,
+        "type": "",
+        "chs": "文学少女诗织",
+        "chsT": "文學少女詩織",
+        "jp": "文学少女のシオリ",
+        "en": "Bookworm Cassie",
+        "kr": "문학소녀 시오리"
+    },
+    {
+        "id": 25100114,
+        "type": "",
+        "chs": "不善交流的小玉",
+        "chsT": "不善交流的小玉",
+        "jp": "コミュ障のタマ",
+        "en": "Timid Harper",
+        "kr": "수줍은 코다마"
+    },
+    {
+        "id": 25100115,
+        "type": "",
+        "chs": "居酒屋店长隼人",
+        "chsT": "居酒屋店長隼人",
+        "jp": "居酒屋店長のハヤト",
+        "en": "Tavernkeeper Leonard",
+        "kr": "술집사장 하야토"
+    },
+    {
+        "id": 25100116,
+        "type": "",
+        "chs": "暴走族阿光",
+        "chsT": "暴走族阿光",
+        "jp": "暴走族のヒカル",
+        "en": "Hot-Rodder Harry",
+        "kr": "폭주족 히카루"
+    },
+    {
+        "id": 25100117,
+        "type": "",
+        "chs": "美妆博主莉奈",
+        "chsT": "美妝博主莉奈",
+        "jp": "美容ブロガーのリナ",
+        "en": "Beauty Guru Rachel",
+        "kr": "뷰티스트리머 리나"
+    },
+    {
+        "id": 25100118,
+        "type": "",
+        "chs": "观光客斋藤",
+        "chsT": "觀光客齋藤",
+        "jp": "観光客のサイトウ",
+        "en": "Tourist Mika",
+        "kr": "관광객 사이토"
+    },
+    {
+        "id": 25100119,
+        "type": "",
+        "chs": "渔业协会的田中",
+        "chsT": "漁業協會的田中",
+        "jp": "漁協組合のタナカ",
+        "en": "Fisherman Charlie",
+        "kr": "어업협회 다나카"
+    },
+    {
+        "id": 25100120,
+        "type": "",
+        "chs": "麻将高手伊藤",
+        "chsT": "麻將高手伊藤",
+        "jp": "凄腕雀士のイトウ",
+        "en": "Mahjong Pro Robin",
+        "kr": "마작고수 이토"
+    },
+    {
+        "id": 25100121,
+        "type": "",
+        "chs": "和果子匠人文代",
+        "chsT": "和果子匠人文代",
+        "jp": "和菓子職人のフミヨ",
+        "en": "Pastry Chef Emma",
+        "kr": "과자장인 분타"
+    },
+    {
+        "id": 25100122,
+        "type": "",
+        "chs": "三味线爱好者吉田",
+        "chsT": "三味線愛好者吉田",
+        "jp": "三味線愛好家のヨシダ",
+        "en": "Musician Riley",
+        "kr": "샤미센마니아 요시다"
+    },
+    {
+        "id": 25100201,
+        "type": "",
+        "chs": "完成委托时，+10%概率变为大成功",
+        "chsT": "完成委託時，+10%概率變為大成功",
+        "jp": "依頼達成時に、大成功になる確率が10％UP",
+        "en": "+10% chance of receiving Great Success upon request completion.",
+        "kr": "의뢰 완료 시, +10% 확률로 대성공이 된다."
+    },
+    {
+        "id": 25100202,
+        "type": "",
+        "chs": "委托中包含三名员工时，全体员工的各项数值+10%",
+        "chsT": "委託中包含三名員工時，全體員工的各項數值+10%",
+        "jp": "スタッフを3名派遣時、全員の各ステータスが10％UP",
+        "en": "When 3 employees are assigned together, their attributes +10%.",
+        "kr": "직원 3명이 의뢰 참여 시, 모든 멤버의 능력치 +10%."
+    },
+    {
+        "id": 25100203,
+        "type": "",
+        "chs": "完成委托时，+20%的概率获得鲷鱼烧x2",
+        "chsT": "完成委託時，+20%的概率獲得鯛魚燒x2",
+        "jp": "依頼達成時に、20％の確率でたい焼きを2個獲得",
+        "en": "+20% chance of getting 2 Taiyaki upon successful request completion.",
+        "kr": "의뢰 해결 성공 후, +20% 확률로 붕어빵x2 획득."
+    },
+    {
+        "id": 25100204,
+        "type": "",
+        "chs": "委托中仅包含一名员工时，各项数值+50%",
+        "chsT": "委託中僅包含一名員工時，各項數值+50%",
+        "jp": "スタッフを1名のみ派遣時、各ステータスが50％UP",
+        "en": "Attributes +50% when assigned alone.",
+        "kr": "혼자 의뢰 참여 시, 능력치 +50%."
+    },
+    {
+        "id": 25100205,
+        "type": "",
+        "chs": "委托中仅包含两名员工时，+30%概率变为大成功",
+        "chsT": "委託中僅包含兩名員工時，+30%概率變為大成功",
+        "jp": "スタッフを2名派遣時、大成功になる確率が30％UP",
+        "en": "+30% chance of receiving Great Success when only two employees are assigned.",
+        "kr": "직원 2명만 의뢰 참여 시, +30% 확률로 대성공이 된다."
+    },
+    {
+        "id": 25100206,
+        "type": "",
+        "chs": "完成委托时，+20%概率变为大成功",
+        "chsT": "完成委託時，+20%概率變為大成功",
+        "jp": "依頼達成時に、大成功になる確率が20％UP",
+        "en": "+20% chance of receiving Great Success upon request completion.",
+        "kr": "의뢰 완료 시, +20% 확률로 대성공이 된다."
+    },
+    {
+        "id": 25100207,
+        "type": "",
+        "chs": "完成委托时，+20%概率变为大成功",
+        "chsT": "完成委託時，+20%概率變為大成功",
+        "jp": "依頼達成時に、大成功になる確率が20％UP",
+        "en": "+20% chance of receiving Great Success upon request completion.",
+        "kr": "의뢰 완료 시, +20% 확률로 대성공이 된다."
+    },
+    {
+        "id": 25100208,
+        "type": "",
+        "chs": "完成委托时，+20%概率变为大成功",
+        "chsT": "完成委託時，+20%概率變為大成功",
+        "jp": "依頼達成時に、大成功になる確率が20％UP",
+        "en": "+20% chance of receiving Great Success upon request completion.",
+        "kr": "의뢰 완료 시, +20% 확률로 대성공이 된다."
+    },
+    {
+        "id": 25100209,
+        "type": "",
+        "chs": "委托中包含无技能的员工时，所有成员的速度+20%",
+        "chsT": "委託中包含無技能的員工時，所有成員的速度+20%",
+        "jp": "特性なしのスタッフを派遣時、全員の速が20％UP",
+        "en": "All employees +20% SPD when an employee with no ability is assigned.",
+        "kr": "의뢰 중 특성이 없는 직원이 있을 시, 모든 멤버의 속도 +20%."
+    },
+    {
+        "id": 25100210,
+        "type": "",
+        "chs": "委托中包含无技能的员工时，所有成员的力量+20%",
+        "chsT": "委託中包含無技能的員工時，所有成員的力量+20%",
+        "jp": "特性なしのスタッフを派遣時、全員の力が20％UP",
+        "en": "All employees +20% STR when an employee with no ability is assigned.",
+        "kr": "의뢰 중 특성이 없는 직원이 있을 시, 모든 멤버의 힘 +20%."
+    },
+    {
+        "id": 25100211,
+        "type": "",
+        "chs": "委托中包含无技能的员工时，所有成员的运气+20%",
+        "chsT": "委託中包含無技能的員工時，所有成員的運氣+20%",
+        "jp": "特性なしのスタッフを派遣時、全員の運が20％UP",
+        "en": "All employees +20% LUK when an employee with no ability is assigned.",
+        "kr": "의뢰 중 특성이 없는 직원이 있을 시, 모든 멤버의 운 +20%."
+    },
+    {
+        "id": 25100212,
+        "type": "",
+        "chs": "满足委托的大成功要求时，自己不消耗体力",
+        "chsT": "滿足委託的大成功要求時，自己不消耗體力",
+        "jp": "大成功の場合、自分の体力を消費しなくなる",
+        "en": "Does not consume Stamina if the requirements for Great Success are met.",
+        "kr": "의뢰 대성공 조건을 만족할 시, 체력을 소모하지 않는다."
+    },
+    {
+        "id": 25100213,
+        "type": "",
+        "chs": "满足委托的大成功要求时，+30%的概率获得鲷鱼烧x2",
+        "chsT": "滿足委託的大成功要求時，+30%的概率獲得鯛魚燒x2",
+        "jp": "大成功の場合、30％の確率でたい焼きを2個獲得",
+        "en": "+30% chance of getting 2 Taiyaki if the requirements for Great Success are met.",
+        "kr": "의뢰 대성공 조건을 만족할 시, +30% 확률로 붕어빵x2 획득."
+    },
+    {
+        "id": 25100214,
+        "type": "",
+        "chs": "跟如月莲一起参加委托时，各项数值+30%",
+        "chsT": "跟如月蓮一起參加委託時，各項數值+30%",
+        "jp": "如月蓮と一緒に派遣時、各ステータスが30％UP",
+        "en": "Attributes +30% when assigned with Ren Kisaragi.",
+        "kr": "키사라기 렌과 함께 의뢰 참여 시, 능력치 +30%."
+    },
+    {
+        "id": 25100215,
+        "type": "",
+        "chs": "跟三三一起完成委托时，自己不消耗体力，三三消耗体力+1",
+        "chsT": "跟三三一起完成委託時，自己不消耗體力，三三消耗體力+1",
+        "jp": "ミミと一緒に派遣時、自分の体力を消費せず、ミミの体力が1多く消費される",
+        "en": "Does not consume Stamina when completing a request with Mimi. Mimi's Stamina cost +1.",
+        "kr": "미미와 함께 의뢰 완료 시, 체력 소모 없음, 미미 체력 소모 +1."
+    },
+    {
+        "id": 25100216,
+        "type": "",
+        "chs": "跟花语白一起参加委托时，各项数值+30%",
+        "chsT": "跟花語白一起參加委託時，各項數值+30%",
+        "jp": "花 語白と一緒に派遣時、各ステータスが30％UP",
+        "en": "Attributes +30% when assigned with Hua Yubai.",
+        "kr": "화 위바이와 함께 의뢰 참여 시, 능력치 +30%."
+    },
+    {
+        "id": 25100217,
+        "type": "",
+        "chs": "跟花语青一起参加委托时，各项数值+30%",
+        "chsT": "跟花語青一起參加委託時，各項數值+30%",
+        "jp": "花 語青と一緒に派遣時、各ステータスが30％UP",
+        "en": "Attributes +30% when assigned with Hua Yuqing.",
+        "kr": "화 위칭과 함께 의뢰 참여 시, 능력치 +30%."
+    },
+    {
+        "id": 25100218,
+        "type": "",
+        "chs": "跟九条璃雨一起参加委托时，各项数值+30%",
+        "chsT": "跟九條璃雨一起參加委託時，各項數值+30%",
+        "jp": "九条璃雨と一緒に派遣時、各ステータスが30％UP",
+        "en": "Attributes +30% when assigned with Riu Kujou.",
+        "kr": "쿠죠 리우와 함께 의뢰 참여 시, 능력치 +30%."
+    },
+    {
+        "id": 25100219,
+        "type": "",
+        "chs": "跟三上千织一起参加委托时，各项数值+30%",
+        "chsT": "跟三上千織一起參加委託時，各項數值+30%",
+        "jp": "三上千織と一緒に派遣時、各ステータスが30％UP",
+        "en": "Attributes +30% when assigned with Chiori Mikami.",
+        "kr": "미카미 치오리와 함께 의뢰 참여 시, 능력치 +30%."
+    },
+    {
+        "id": 25100220,
+        "type": "",
+        "chs": "跟扫地机器人一起完成委托时，不消耗体力，扫地机器人消耗体力+1",
+        "chsT": "跟掃地機器人一起完成委託時，不消耗體力，掃地機器人消耗體力+1",
+        "jp": "掃除ロボットと一緒に派遣時、自分の体力を消費せず、掃除ロボットの体力が1多く消費される",
+        "en": "Does not consume Stamina when completing a request with a Cleanbot. The Cleanbot's Stamina cost +1.",
+        "kr": "로봇청소기와 함께 의뢰 완료 시, 체력 소모 없음, 로봇청소기 체력 소모 +1."
+    },
+    {
+        "id": 25100221,
+        "type": "",
+        "chs": "跟呆呆一起完成委托时，自己不消耗体力，呆呆消耗体力+1",
+        "chsT": "跟呆呆一起完成委託時，自己不消耗體力，呆呆消耗體力+1",
+        "jp": "ぽややんと一緒に派遣時、自分の体力を消費せず、ぽややんの体力が1多く消費される",
+        "en": "Does not consume Stamina when completing a request with Shaun. Shaun's Stamina cost +1.",
+        "kr": "뽀요용과 함께 의뢰 완료 시, 체력 소모 없음, 뽀요용 체력 소모 +1."
+    },
+    {
+        "id": 25100222,
+        "type": "",
+        "chs": "委托的大成功数值要求-20%",
+        "chsT": "委託的大成功數值要求-20%",
+        "jp": "大成功の要求ステータスが20％DOWN",
+        "en": "Attributes required for Great Success -20%.",
+        "kr": "의뢰 대성공에 필요한 능력치 -20%."
+    },
+    {
+        "id": 25100223,
+        "type": "",
+        "chs": "参加委托的其他员工各项数值+20%",
+        "chsT": "參加委託的其他員工各項數值+20%",
+        "jp": "一緒に派遣されるスタッフ全員の各ステータスが20％UP",
+        "en": "Other assigned employees' attributes +20%.",
+        "kr": "의뢰에 참여한 다른 직원의 능력치 +20%."
+    },
+    {
+        "id": 25100224,
+        "type": "",
+        "chs": "委托中仅包含两名员工时，另一名员工各项数值+50%",
+        "chsT": "委託中僅包含兩名員工時，另一名員工各項數值+50%",
+        "jp": "スタッフを2名派遣時、もう一名の各ステータスが50％UP",
+        "en": "When only two employees are assigned, the other employee's attributes +50%.",
+        "kr": "2명만 의뢰 참여 시, 다른 직원의 능력치 +50%."
+    },
+    {
+        "id": 25100225,
+        "type": "",
+        "chs": "参加委托的其他员工，力量数值+50%",
+        "chsT": "參加委託的其他員工，力量數值+50%",
+        "jp": "一緒に派遣される他のスタッフの力が50％UP",
+        "en": "Other assigned employees +50% STR.",
+        "kr": "의뢰에 참여한 다른 직원의 힘 +50%."
+    },
+    {
+        "id": 25100226,
+        "type": "",
+        "chs": "参加委托的其他员工，力量数值+50%",
+        "chsT": "參加委託的其他員工，力量數值+50%",
+        "jp": "一緒に派遣される他のスタッフの力が50％UP",
+        "en": "Other assigned employees +50% STR.",
+        "kr": "의뢰에 참여한 다른 직원의 힘 +50%."
+    },
+    {
+        "id": 25100227,
+        "type": "",
+        "chs": "参加委托的其他员工，速度数值+50%",
+        "chsT": "參加委託的其他員工，速度數值+50%",
+        "jp": "一緒に派遣される他のスタッフの速が50％UP",
+        "en": "Other assigned employees +50% SPD.",
+        "kr": "의뢰에 참여한 다른 직원의 속도 +50%."
+    },
+    {
+        "id": 25100228,
+        "type": "",
+        "chs": "参加委托的其他员工，速度数值+50%",
+        "chsT": "參加委託的其他員工，速度數值+50%",
+        "jp": "一緒に派遣される他のスタッフの速が50％UP",
+        "en": "Other assigned employees +50% SPD.",
+        "kr": "의뢰에 참여한 다른 직원의 속도 +50%."
+    },
+    {
+        "id": 25100229,
+        "type": "",
+        "chs": "参加委托的其他员工，运气数值+50%",
+        "chsT": "參加委託的其他員工，運氣數值+50%",
+        "jp": "一緒に派遣される他のスタッフの運が50％UP",
+        "en": "Other assigned employees +50% LUK.",
+        "kr": "의뢰에 참여한 다른 직원의 운 +50%."
+    },
+    {
+        "id": 25100230,
+        "type": "",
+        "chs": "参加委托的其他员工，运气数值+50%",
+        "chsT": "參加委託的其他員工，運氣數值+50%",
+        "jp": "一緒に派遣される他のスタッフの運が50％UP",
+        "en": "Other assigned employees +50% LUK.",
+        "kr": "의뢰에 참여한 다른 직원의 운 +50%."
+    },
+    {
+        "id": 25100231,
+        "type": "",
+        "chs": "参加委托的所有员工，各项数值+30%",
+        "chsT": "參加委託的所有員工，各項數值+30%",
+        "jp": "一緒に派遣される他のスタッフの各ステータスが30％UP",
+        "en": "All assigned employees' attributes +30%.",
+        "kr": "의뢰에 참여한 모든 직원의 능력치 +30%."
+    },
+    {
+        "id": 25100232,
+        "type": "",
+        "chs": "参加委托的所有员工，+20%概率不消耗体力",
+        "chsT": "參加委託的所有員工，+20%概率不消耗體力",
+        "jp": "一緒に派遣される他のスタッフは、20％の確率で体力を消費しなくなる",
+        "en": "All assigned employees +20% chance of not consuming Stamina.",
+        "kr": "의뢰에 참여한 모든 직원이 +20% 확률로 체력을 소모하지 않는다."
+    },
+    {
+        "id": 25100233,
+        "type": "",
+        "chs": "参加委托的所有员工，体力为1时也可以完成委托",
+        "chsT": "參加委託的所有員工，體力為1時也可以完成委託",
+        "jp": "一緒に派遣される他のスタッフは、体力が1でも依頼を達成できる",
+        "en": "All assigned employees can complete requests even at 1 Stamina.",
+        "kr": "의뢰에 참여한 모든 직원의 체력이 1일 때에도 의뢰 완료 가능."
+    },
+    {
+        "id": 25100234,
+        "type": "",
+        "chs": "委托的成功/大成功数值要求-20%",
+        "chsT": "委託的成功/大成功數值要求-20%",
+        "jp": "成功・大成功の要求ステータスが20％DOWN",
+        "en": "Attributes required for Success/Great Success -20%.",
+        "kr": "의뢰 성공/대성공에 필요한 능력치 -20%."
+    },
+    {
+        "id": 25101001,
+        "type": "",
+        "chs": "明里",
+        "chsT": "明裡",
+        "jp": "アカリ",
+        "en": "Clara",
+        "kr": "아카리"
+    },
+    {
+        "id": 25101002,
+        "type": "",
+        "chs": "美羽",
+        "chsT": "美羽",
+        "jp": "ミウ",
+        "en": "Grace",
+        "kr": "미우"
+    },
+    {
+        "id": 25101003,
+        "type": "",
+        "chs": "太郎",
+        "chsT": "太郎",
+        "jp": "タロウ",
+        "en": "Thomas",
+        "kr": "타로"
+    },
+    {
+        "id": 25101004,
+        "type": "",
+        "chs": "樱井",
+        "chsT": "櫻井",
+        "jp": "サクライ",
+        "en": "Julian",
+        "kr": "사쿠라이"
+    },
+    {
+        "id": 25101005,
+        "type": "",
+        "chs": "友太",
+        "chsT": "友太",
+        "jp": "ユウタ",
+        "en": "Theo",
+        "kr": "유타"
+    },
+    {
+        "id": 25101006,
+        "type": "",
+        "chs": "龙一",
+        "chsT": "龍一",
+        "jp": "リュウイチ",
+        "en": "Toby",
+        "kr": "류이치"
+    },
+    {
+        "id": 25101007,
+        "type": "",
+        "chs": "小弥",
+        "chsT": "小彌",
+        "jp": "サヤ",
+        "en": "Lily",
+        "kr": "사야"
+    },
+    {
+        "id": 25101008,
+        "type": "",
+        "chs": "井上",
+        "chsT": "井上",
+        "jp": "イノウエ",
+        "en": "Owen",
+        "kr": "이노우에"
+    },
+    {
+        "id": 25101009,
+        "type": "",
+        "chs": "三郎",
+        "chsT": "三郎",
+        "jp": "サブロウ",
+        "en": "Arthur",
+        "kr": "사부로"
+    },
+    {
+        "id": 25101010,
+        "type": "",
+        "chs": "美纪",
+        "chsT": "美紀",
+        "jp": "ミキコ",
+        "en": "Monica",
+        "kr": "미노리"
+    },
+    {
+        "id": 25101011,
+        "type": "",
+        "chs": "真由子",
+        "chsT": "真由子",
+        "jp": "マユコ",
+        "en": "Alice",
+        "kr": "마유코"
+    },
+    {
+        "id": 25101012,
+        "type": "",
+        "chs": "正夫",
+        "chsT": "正夫",
+        "jp": "マサオ",
+        "en": "Marcus",
+        "kr": "마사오"
+    },
+    {
+        "id": 25101013,
+        "type": "",
+        "chs": "虚子",
+        "chsT": "虛子",
+        "jp": "キョウコ",
+        "en": "Kyra",
+        "kr": "쿄코"
+    },
+    {
+        "id": 25101014,
+        "type": "",
+        "chs": "拓海",
+        "chsT": "拓海",
+        "jp": "タクミ",
+        "en": "Mason",
+        "kr": "타쿠미"
+    },
+    {
+        "id": 25101015,
+        "type": "",
+        "chs": "岩内",
+        "chsT": "岩內",
+        "jp": "イワウチ",
+        "en": "Winston",
+        "kr": "이와우치"
+    },
+    {
+        "id": 25101016,
+        "type": "",
+        "chs": "石田",
+        "chsT": "石田",
+        "jp": "イシダ",
+        "en": "Ian",
+        "kr": "이시다"
+    },
+    {
+        "id": 25101017,
+        "type": "",
+        "chs": "重藏",
+        "chsT": "重藏",
+        "jp": "ジュウゾウ",
+        "en": "Gregory",
+        "kr": "쥬조"
+    },
+    {
+        "id": 25101018,
+        "type": "",
+        "chs": "青木",
+        "chsT": "青木",
+        "jp": "アオキ",
+        "en": "Alan",
+        "kr": "아오키"
+    },
+    {
+        "id": 25101019,
+        "type": "",
+        "chs": "中野",
+        "chsT": "中野",
+        "jp": "ナカノ",
+        "en": "Nina",
+        "kr": "나카노"
+    },
+    {
+        "id": 25101020,
+        "type": "",
+        "chs": "田村",
+        "chsT": "田村",
+        "jp": "タムラ",
+        "en": "Tom",
+        "kr": "타무라"
+    },
+    {
+        "id": 25101021,
+        "type": "",
+        "chs": "美香",
+        "chsT": "美香",
+        "jp": "ミカ",
+        "en": "Laura",
+        "kr": "미카"
+    },
+    {
+        "id": 25101022,
+        "type": "",
+        "chs": "悠",
+        "chsT": "悠",
+        "jp": "ユウ",
+        "en": "Hugh",
+        "kr": "유우"
+    },
+    {
+        "id": 25101023,
+        "type": "",
+        "chs": "退",
+        "chsT": "退",
+        "jp": "タイスケ",
+        "en": "Seth",
+        "kr": "타이"
+    },
+    {
+        "id": 25101024,
+        "type": "",
+        "chs": "节乃",
+        "chsT": "節乃",
+        "jp": "セツコ",
+        "en": "Agnes",
+        "kr": "세츠노"
+    },
+    {
+        "id": 25101025,
+        "type": "",
+        "chs": "玲奈",
+        "chsT": "玲奈",
+        "jp": "レイナ",
+        "en": "Lena",
+        "kr": "레이나"
+    },
+    {
+        "id": 25101026,
+        "type": "",
+        "chs": "美代子",
+        "chsT": "美代子",
+        "jp": "ミヨコ",
+        "en": "Evelyn",
+        "kr": "미요코"
+    },
+    {
+        "id": 25101027,
+        "type": "",
+        "chs": "幸太郎",
+        "chsT": "幸太郎",
+        "jp": "コウタロウ",
+        "en": "Felix",
+        "kr": "코타로"
+    },
+    {
+        "id": 25101028,
+        "type": "",
+        "chs": "西岛",
+        "chsT": "西島",
+        "jp": "ニシジマ",
+        "en": "Isla",
+        "kr": "니시야마"
+    },
+    {
+        "id": 25101029,
+        "type": "",
+        "chs": "三浦",
+        "chsT": "三浦",
+        "jp": "ミウラ",
+        "en": "Adrian",
+        "kr": "미우라"
+    },
+    {
+        "id": 25101030,
+        "type": "",
+        "chs": "正人",
+        "chsT": "正人",
+        "jp": "マサト",
+        "en": "Justin",
+        "kr": "마사토"
+    },
+    {
+        "id": 25101031,
+        "type": "",
+        "chs": "直树",
+        "chsT": "直樹",
+        "jp": "ナオキ",
+        "en": "Patrick",
+        "kr": "나오키"
+    },
+    {
+        "id": 25101032,
+        "type": "",
+        "chs": "海老名",
+        "chsT": "海老名",
+        "jp": "エビナ",
+        "en": "Edgar",
+        "kr": "에비나"
+    },
+    {
+        "id": 25101033,
+        "type": "",
+        "chs": "美夜子",
+        "chsT": "美夜子",
+        "jp": "ミヤコ",
+        "en": "Bella",
+        "kr": "미야코"
+    },
+    {
+        "id": 25101059,
+        "type": "",
+        "chs": "万事屋开张的准备工作喵～",
+        "chsT": "萬事屋開張的準備工作喵～",
+        "jp": "よろず屋 一姫、営業の準備をするにゃ～！",
+        "en": "Preparations for the Odd Jobs grand opening, nyaa.",
+        "kr": "해결사 사무소 오픈 준비다냥~"
+    },
+    {
+        "id": 25101501,
+        "type": "",
+        "chs": "我家的橘猫不见了，有人能帮我找找它吗？",
+        "chsT": "我家的橘貓不見了，有人能幫我找找牠嗎？",
+        "jp": "うちの茶トラがいなくなったんだけど、誰か探すの手伝ってくれない？",
+        "en": "Help! My orange tabby has gone missing! Has anyone seen him?",
+        "kr": "저희 집 치즈 고양이가 없어졌어요. 누가 좀 찾아주시겠어요?"
+    },
+    {
+        "id": 25101502,
+        "type": "",
+        "chs": "朋友出差，把布偶猫寄养在我这，最近突然不见了！帮我找找吧！",
+        "chsT": "朋友出差，把布偶貓寄養在我這，最近突然不見了！幫我找找吧！",
+        "jp": "友達が出張でラグドールちゃんを預かってるんだけど、急にいなくなっちゃった！ 探すの手伝って！",
+        "en": "My friend's Ragdoll went missing while I was pet-sitting! I'm in huge trouble. Please, help me find it!",
+        "kr": "친구가 출장을 가면서 저한테 랙돌을 맡겼는데, 최근에 갑자기 사라졌어요! 좀 찾아주세요!"
+    },
+    {
+        "id": 25101503,
+        "type": "",
+        "chs": "我家的奶牛猫不见了！应该是离家出走了，有人能帮忙找一下吗？",
+        "chsT": "我家的奶牛貓不見了！應該是離家出走了，有人能幫忙找一下嗎？",
+        "jp": "うちのハチワレがいなくなっちゃった！ 家出しちゃったみたい。誰か探すの手伝ってくれない？",
+        "en": "My tuxedo cat is gone! I'm pretty sure she ran away. Can anyone help me track her down?",
+        "kr": "저희 집 턱시도 고양이가 없어졌어요! 가출한 것 같은데, 누가 좀 찾아주시겠어요?"
+    },
+    {
+        "id": 25101504,
+        "type": "",
+        "chs": "猫太聪明了总是离家出走，求人教导如何防止家里的猫开门开窗？",
+        "chsT": "貓太聰明了總是離家出走，求人教導如何防止家裡的貓開門開窗？",
+        "jp": "うちの猫、賢すぎてすぐ家出しちゃうんだよね。ドアとか窓を開けられないようにする方法、誰か教えて！",
+        "en": "My cat is an escape artist who can open doors and windows. I need someone to teach me how to cat-proof my house!",
+        "kr": "고양이가 너무 똑똑해서 맨날 가출하는데, 고양이가 문이랑 창문 여는 걸 어떻게 막아야 할지 알려주실 분?"
+    },
+    {
+        "id": 25101505,
+        "type": "",
+        "chs": "想吃的一家店没有外送服务，有人能送过来吗？",
+        "chsT": "想吃的一家店沒有外送服務，有人能送過來嗎？",
+        "jp": "食べたいお店が出前非対応なんだよね。誰か届けてくれない？",
+        "en": "This place I want to eat at doesn't have delivery. Can anyone do a pickup run for me?",
+        "kr": "먹고 싶은 가게가 배달을 안 하는데, 누가 좀 갖다주시겠어요?"
+    },
+    {
+        "id": 25101506,
+        "type": "",
+        "chs": "……水羊羹瘾犯了，辛苦跑一趟买一下。",
+        "chsT": "……水羊羹癮犯了，辛苦跑一趟買一下。",
+        "jp": "……水ようかんがどうしても食べたくなった。悪いんだけど、買いに行ってきてほしい。",
+        "en": "I NEED cinnamon rolls, like, right now. Could someone be a lifesaver and grab me some?",
+        "kr": "……물양갱이 너무 먹고 싶어졌어요. 가서 사다 주세요."
+    },
+    {
+        "id": 25101507,
+        "type": "",
+        "chs": "我想吃那个，那个啦，那个新出的套餐，帮我买一下吧……",
+        "chsT": "我想吃那個，那個啦，那個新出的套餐，幫我買一下吧……",
+        "jp": "あれ食べたいな、あれ！ ほら、あの新作の！ 買ってきて……！",
+        "en": "You know that new meal combo they just dropped? I want it. Badly. Can someone please pick one up for me?",
+        "kr": "그거, 그거 있잖아요. 새로 나온 세트 메뉴가 먹고 싶은데, 좀 사다 주세요……"
+    },
+    {
+        "id": 25101508,
+        "type": "",
+        "chs": "酒喝完了，能帮我去再买一瓶吗，要冰的。",
+        "chsT": "酒喝完了，能幫我去再買一瓶嗎，要冰的。",
+        "jp": "ビールがなくなっちゃった。もう一本買ってきてくれない？ 冷たいやつね。",
+        "en": "All out of drinks. Could someone go get another bottle for me? Ice cold would be nice.",
+        "kr": "술을 다 마셨는데, 한 병 더 사다 주시겠어요? 시원한 걸로요."
+    },
+    {
+        "id": 25101509,
+        "type": "",
+        "chs": "想吃点下酒菜，但懒得自己做，能帮我带点炸鸡回来吗？",
+        "chsT": "想吃點下酒菜，但懶得自己做，能幫我帶點炸雞回來嗎？",
+        "jp": "何かおつまみが食べたいけど、作るのめんどいな。唐揚げとか、買ってきてくれない？",
+        "en": "Man, I'm craving some snacks to go with this drink, but I'm way too lazy to cook. Anyone up for a fried chicken run?",
+        "kr": "술안주가 먹고 싶은데, 직접 만들기는 귀찮아요. 치킨 좀 사다 주시겠어요?"
+    },
+    {
+        "id": 25101510,
+        "type": "",
+        "chs": "喝完冷的吃热的闹肚子了，帮我买点药来……！",
+        "chsT": "喝完冷的吃熱的鬧肚子了，幫我買點藥來……！",
+        "jp": "冷たいものの後に、熱いもの食べたら、お腹が……。薬、買ってきて……！",
+        "en": "My stomach is killing me after mixing cold drinks and hot food. Someone, please get me some medicine!",
+        "kr": "찬 거 마시고 뜨거운 거 먹었더니 배탈이 났어요. 약 좀 사다 주세요……!"
+    },
+    {
+        "id": 25101511,
+        "type": "",
+        "chs": "家里养的猫和狗学坏了开始学狗叫……有人能帮它改正吗？",
+        "chsT": "家裡養的貓和狗學壞了開始學狗叫……有人能幫牠改正嗎？",
+        "jp": "うちの猫、犬の真似をして、ワンワンって鳴くようになっちゃった……誰か直してくれない？",
+        "en": "My cat started barking after spending too much time with my dog! Can anyone help fix this?",
+        "kr": "고양이랑 개를 함께 키우는데, 갑자기 고양이가 개처럼 짖기 시작했어요…… 누가 좀 고쳐주실 수 있나요?"
+    },
+    {
+        "id": 25101512,
+        "type": "",
+        "chs": "我家的猫偷偷摸摸地教狗说话，结果狗开始学猫叫了……！",
+        "chsT": "我家的貓偷偷摸摸地教狗說話，結果狗開始學貓叫了……！",
+        "jp": "うちの猫がこっそり犬に言葉を教えてて、犬がニャーニャー鳴くようになっちゃった……！",
+        "en": "My cat has been secretly teaching my dog to talk, and now the dog ends all of his barks with a \"nyaa\"!",
+        "kr": "저희 집 고양이가 몰래 강아지한테 말을 가르쳤나 봐요. 강아지가 야옹거리기 시작했어요……!"
+    },
+    {
+        "id": 25101513,
+        "type": "",
+        "chs": "请帮忙买一只会说狗语和猫语的鹦鹉。",
+        "chsT": "請幫忙買一隻會說狗語和貓語的鸚鵡。",
+        "jp": "犬語と猫語を話せるインコが欲しいな。",
+        "en": "I need to find a parrot that's fluent in both Canine and Feline. Now.",
+        "kr": "개와 고양이의 말을 할 줄 아는 앵무새를 한 마리 사다 주세요."
+    },
+    {
+        "id": 25101514,
+        "type": "",
+        "chs": "手办被妈妈发现了。急需一个人上门承认手办是自己的。",
+        "chsT": "手辦被媽媽發現了。急需一個人上門承認手辦是自己的。",
+        "jp": "フィギュアが母さんに見つかった。大至急、家に来て、自分のだって言ってくれる人募集！",
+        "en": "My mom found my anime figures. I need a brave soul to come over and pretend they're yours. Please!",
+        "kr": "피규어를 엄마한테 들켰어요. 집에 와서 자기 거라고 해줄 사람이 급하게 필요해요."
+    },
+    {
+        "id": 25101515,
+        "type": "",
+        "chs": "痛衣被妈妈发现了。急需一个人上门承认痛衣是自己的。",
+        "chsT": "痛衣被媽媽發現了。急需一個人上門承認痛衣是自己的。",
+        "jp": "痛Tが母さんに見つかった。大至急、家に来て自分のだって言ってくれる人募集！",
+        "en": "My mom found my anime shirts. I need a brave soul to come over and pretend they're yours. Please!",
+        "kr": "오타쿠 티셔츠를 엄마한테 들켰어요. 집에 와서 자기 거라고 해줄 사람이 급하게 필요해요."
+    },
+    {
+        "id": 25101516,
+        "type": "",
+        "chs": "等身抱枕被妈妈发现了。急需一个人上门承认抱枕是自己的。",
+        "chsT": "等身抱枕被媽媽發現了。急需一個人上門承認抱枕是自己的。",
+        "jp": "等身大抱き枕が母さんに見つかった。大至急、家に来て自分のだって言ってくれる人募集！",
+        "en": "My mom found my body pillows. I need a brave soul to come over and pretend they're yours. Please!",
+        "kr": "다키마쿠라를 엄마한테 들켰어요. 집에 와서 자기 거라고 해줄 사람이 급하게 필요해요."
+    },
+    {
+        "id": 25101517,
+        "type": "",
+        "chs": "妈妈为了和我相处融洽开始看动画了……来人阻止她一下！",
+        "chsT": "媽媽為了和我相處融洽開始看動畫了……來人阻止她一下！",
+        "jp": "俺と仲良く交流するためにと、母さんがアニメを見始めた……誰か止めてくれ！",
+        "en": "My mom started watching anime to \"bond\" with me. Someone needs to stop her!",
+        "kr": "엄마가 저랑 친해지려고 애니메이션을 보기 시작했어요…… 누가 와서 좀 말려주세요!"
+    },
+    {
+        "id": 25101518,
+        "type": "",
+        "chs": "帮帮我，语文作业做不完了！",
+        "chsT": "幫幫我，國語作業做不完了！",
+        "jp": "助けて、国語の宿題が終わらない！",
+        "en": "Help me, I have a mountain of English homework to get through!",
+        "kr": "도와주세요, 국어 숙제가 안 끝나요!"
+    },
+    {
+        "id": 25101519,
+        "type": "",
+        "chs": "帮帮我，数学作业做不完了！",
+        "chsT": "幫幫我，數學作業做不完了！",
+        "jp": "助けて、数学の宿題が終わらない！",
+        "en": "Help me, I have a mountain of math homework to get through!",
+        "kr": "도와주세요, 수학 숙제가 안 끝나요!"
+    },
+    {
+        "id": 25101520,
+        "type": "",
+        "chs": "帮帮我，外语作业做不完了！",
+        "chsT": "幫幫我，外語作業做不完了！",
+        "jp": "助けて、外国語の宿題が終わらない！",
+        "en": "Help me, I have a mountain of French homework to get through!",
+        "kr": "도와주세요, 외국어 숙제가 안 끝나요!"
+    },
+    {
+        "id": 25101521,
+        "type": "",
+        "chs": "招财猫的手臂断了，不招财了，麻烦帮忙买下胶水。",
+        "chsT": "招財貓的手臂斷了，不招財了，麻煩幫忙買下膠水。",
+        "jp": "招き猫の腕が折れて、お金を招いてくれなくなった。悪いけど、接着剤を買ってきて。",
+        "en": "The arm snapped off my beckoning cat! It can't beckon good fortune anymore. Someone, please, I need glue, fast!",
+        "kr": "마네키네코 팔이 부러져서 돈을 못 부르고 있어요. 죄송하지만 접착제 좀 사다 주세요."
+    },
+    {
+        "id": 25101522,
+        "type": "",
+        "chs": "胶水把我黏在招财猫上了，救救我。",
+        "chsT": "膠水把我黏在招財貓上了，救救我。",
+        "jp": "接着剤で招き猫とくっついちゃった、助けて！",
+        "en": "Help! I'm... stuck... to the beckoning cat. By glue.",
+        "kr": "접착제 때문에 마네키네코에 붙어버렸어요. 도와주세요."
+    },
+    {
+        "id": 25101523,
+        "type": "",
+        "chs": "玩具模型掉漆了，能帮我补一下吗？",
+        "chsT": "玩具模型掉漆了，能幫我補一下嗎？",
+        "jp": "プラモの塗装が剥げちゃった。誰か補修してくれない？",
+        "en": "The paint on my model kit is chipping. Can someone help me touch it up?",
+        "kr": "프라모델 도색이 벗겨졌는데, 좀 덧칠해 주실 수 있나요?"
+    },
+    {
+        "id": 25101524,
+        "type": "",
+        "chs": "机娘的水贴太小了我没什么把握，急需有人帮忙贴水贴。",
+        "chsT": "機娘的水貼太小了我沒什麼把握，急需有人幫忙貼水貼。",
+        "jp": "美プラのデカール、小さすぎて上手く貼れる自信が……。誰か代わりに貼ってくれる人、急募！",
+        "en": "I need help with these tiny waterslide decals for my mecha musume kit. I don't trust my hands.",
+        "kr": "걸프라 습식데칼이 너무 작아서 자신이 없어요. 데칼 붙이는 것 좀 도와주실 분 급구해요."
+    },
+    {
+        "id": 25101525,
+        "type": "",
+        "chs": "能教我怎么用喷枪吗？",
+        "chsT": "能教我怎麼用噴槍嗎？",
+        "jp": "エアブラシの使い方、教えてくれない？",
+        "en": "Could someone show me how to use an airbrush?",
+        "kr": "에어브러시 쓰는 법 좀 가르쳐주시겠어요?"
+    },
+    {
+        "id": 25101526,
+        "type": "",
+        "chs": "需要深夜洗碗工，要求不害怕酒鬼和脏东西。",
+        "chsT": "需要深夜洗碗工，要求不害怕酒鬼和髒東西。",
+        "jp": "夜勤の皿洗い募集。酔っ払いと汚れたものが平気な人求む。",
+        "en": "Seeking a late-night dishwasher. Must be okay with drunks and grime.",
+        "kr": "심야 설거지 알바 구합니다. 주정뱅이나 더러운 걸 무서워하지 않는 분."
+    },
+    {
+        "id": 25101527,
+        "type": "",
+        "chs": "请帮忙搜集一下本地清酒品牌。",
+        "chsT": "請幫忙搜集一下本地清酒品牌。",
+        "jp": "地元の酒の銘柄、何があるかまとめてくれない？",
+        "en": "Looking for someone to compile a list of local sake brands.",
+        "kr": "이 지역의 사케 브랜드 좀 알아봐 주세요."
+    },
+    {
+        "id": 25101528,
+        "type": "",
+        "chs": "酒保腰肌劳损疼得要命，找个人帮忙摇雪克杯。",
+        "chsT": "酒保腰肌勞損疼得要命，找個人幫忙搖雪克杯。",
+        "jp": "バーテンダーなんだけど、ぎっくり腰で死にそう。誰かシェイカー振るの手伝って。",
+        "en": "Our bartender's back is shot. We need someone to take over the shaking duty.",
+        "kr": "바텐더가 허리를 삐끗했어요. 셰이커 흔드는 것 좀 도와줄 사람 구해요."
+    },
+    {
+        "id": 25101529,
+        "type": "",
+        "chs": "我最爱的书被小猫当成猫抓板了，快帮我把它救回来！",
+        "chsT": "我最愛的書被小貓當成貓抓板了，快幫我把它救回來！",
+        "jp": "一番大事な本が子猫に爪とぎにされてる！ 早く救出して！",
+        "en": "The kitten is using my favorite book as a scratching board! Help me get it back before it's destroyed!",
+        "kr": "제가 제일 아끼는 책을 아기 고양이가 스크래쳐로 쓰고 있어요. 어서 책을 구해 주세요!"
+    },
+    {
+        "id": 25101530,
+        "type": "",
+        "chs": "小猫对买了的猫抓板不感兴趣，谁来教教它吧！",
+        "chsT": "小貓對買了的貓抓板不感興趣，誰來教教牠吧！",
+        "jp": "買ってきた爪とぎに、子猫が全然興味を示さないんだ。誰か使い方を教えてやって！",
+        "en": "My kitten won't use the scratching post I bought. Can someone come teach her how to \"cat\"?",
+        "kr": "스크래쳐를 샀는데, 아기 고양이가 관심을 안 가져요. 누가 와서 쓰는 법 좀 가르쳐주세요!"
+    },
+    {
+        "id": 25101531,
+        "type": "",
+        "chs": "旧书被小猫挠烂了，求购一本《猫是我》的新书。",
+        "chsT": "舊書被小貓撓爛了，求購一本《貓是我》的新書。",
+        "jp": "古本が子猫にボロボロにされた。新品の《猫は吾輩である》、1冊買ってきてくれ。",
+        "en": "The kitten scratched my old book to pieces. Looking for a new copy of \"I Am a Cat.\"",
+        "kr": "헌책을 아기 고양이가 다 긁어놔서 망가졌어요. '고양이는 나로소이다' 새 책 구합니다."
+    },
+    {
+        "id": 25101532,
+        "type": "",
+        "chs": "有人知道猫对什么类型的猫抓板比较感兴趣吗？有偿求教！",
+        "chsT": "有人知道貓對什麼類型的貓抓板比較感興趣嗎？有償求教！",
+        "jp": "猫が興味を示す爪とぎについて、何か知ってる人いる？お礼はするから教えて！",
+        "en": "Does anyone know what kind of scratching posts cats actually like? Cash for tips!",
+        "kr": "고양이가 어떤 종류의 스크래쳐에 흥미를 느끼는지 아시는 분 있나요? 배우고 싶어요! 보수 제공."
+    },
+    {
+        "id": 25101533,
+        "type": "",
+        "chs": "有会锻铁的人吗？我想打造一个铁书封……",
+        "chsT": "有會鍛鐵的人嗎？我想打造一個鐵書封……",
+        "jp": "鍛冶ができる人いる？ 鉄のブックカバーを作りたいんだけど……",
+        "en": "Any blacksmiths out there? I'd like to commission a cat-proof iron book cover.",
+        "kr": "단철 기술이 있는 분 계신가요? 철제 북커버를 만들고 싶어서요……"
+    },
+    {
+        "id": 25101534,
+        "type": "",
+        "chs": "第一次参加同学聚会……有人能教我怎么和大家社交吗？",
+        "chsT": "第一次參加同學聚會……有人能教我怎麼和大家社交嗎？",
+        "jp": "初めて同窓会に参加するんだけど……みんなとどうやって話せばいいか、誰か教えてくれない？",
+        "en": "It's my first time at a class reunion... I need a crash course in small talk.",
+        "kr": "처음으로 동창회에 가는데…… 모두와 어떻게 어울려야 하는지 가르쳐주실 분 있나요?"
+    },
+    {
+        "id": 25101535,
+        "type": "",
+        "chs": "第一次和喜欢的人约会……有人能在旁边打语音支招吗？",
+        "chsT": "第一次和喜歡的人約會……有人能在旁邊透過語音支招嗎？",
+        "jp": "初めて好きな人とデートするんだ……誰か、近くでボイチャで指示してくれない？",
+        "en": "It's my first date with my crush... I need a remote wingman on voice chat to tell me what to say.",
+        "kr": "처음으로 좋아하는 사람이랑 데이트하는데…… 옆에서 음성으로 코치해 주실 분 있나요?"
+    },
+    {
+        "id": 25101536,
+        "type": "",
+        "chs": "实在不敢一个人逛超市……有人能帮忙和收银员说话吗?",
+        "chsT": "實在不敢一個人逛超商……有人能幫忙和收銀員說話嗎?",
+        "jp": "どうしても一人でスーパーに行けない……誰かレジの人と話すの手伝ってくれない？",
+        "en": "It's scary to go grocery shopping alone... I need a grocery buddy to handle all human interactions.",
+        "kr": "도저히 혼자 마트에 못 가겠어요…… 마트 캐셔와 말하는 것 좀 도와주실 분 있나요?"
+    },
+    {
+        "id": 25101537,
+        "type": "",
+        "chs": "我很感谢邻居送的礼物，但是不敢和她搭话……有人能帮帮忙吗？",
+        "chsT": "我很感謝鄰居送的禮物，但是不敢和她搭話……有人能幫幫忙嗎？",
+        "jp": "お隣さんからお裾分けをいただいたのは嬉しいんだけど、話しかける勇気がない……誰か手伝ってくれない？",
+        "en": "I want to thank my neighbor for her gift, but my brain freezes up when I try to talk... Can someone please break the ice for me?",
+        "kr": "이웃이 준 선물은 정말 고마운데, 말을 못 걸겠어요…… 누가 좀 도와주시겠어요?"
+    },
+    {
+        "id": 25101538,
+        "type": "",
+        "chs": "我想做饭，但是酱油用完了，能帮我买一瓶吗？",
+        "chsT": "我想做飯，但是醬油用完了，能幫我買一瓶嗎？",
+        "jp": "ご飯を作ろうと思ったのに、醤油が切れてた。一本買ってきてくれない？",
+        "en": "I'm trying to cook, but I just ran out of olive oil. Could someone do me a favor and pick up a bottle?",
+        "kr": "요리를 하려고 하는데, 간장이 떨어졌어요. 한 병 사다 주시겠어요?"
+    },
+    {
+        "id": 25101539,
+        "type": "",
+        "chs": "我想做饭，但是酱油摔碎了，能帮我买一瓶吗？",
+        "chsT": "我想做飯，但是醬油摔碎了，能幫我買一瓶嗎？",
+        "jp": "ご飯を作ろうと思ったのに、醤油を盛大にこぼしちゃった。一本買ってきてくれない？",
+        "en": "I'm trying to cook, but I dropped the olive oil and it broke. Can someone pick up a bottle for me?",
+        "kr": "요리를 하려고 하는데, 간장이 쏟아졌어요. 한 병 사다 주시겠어요?"
+    },
+    {
+        "id": 25101540,
+        "type": "",
+        "chs": "我想做饭，但是酱油被路过的猫咪拍在地上摔碎了，能帮我买一瓶吗？",
+        "chsT": "我想做飯，但是醬油被路過的貓咪拍在地上摔碎了，能幫我買一瓶嗎？",
+        "jp": "ご飯を作ろうと思ったのに、通りすがりの猫に醤油を持っていかれちゃった。一本買ってきてくれない？",
+        "en": "I'm trying to cook, but a random cat jumped on the countertop and smashed my olive oil. Can someone do a store run?",
+        "kr": "요리를 하려고 하는데, 지나가던 고양이가 간장을 땅에 떨어뜨렸어요. 한 병 사다 주시겠어요?"
+    },
+    {
+        "id": 25101541,
+        "type": "",
+        "chs": "我想做饭，但是酱油被突然出现的UFO吸走了，能帮我买一瓶吗？",
+        "chsT": "我想做飯，但是醬油被突然出現的UFO吸走了，能幫我買一瓶嗎？",
+        "jp": "ご飯を作ろうと思ったのに、いきなり現れたUFOに醤油を吸い上げられちゃった。一本買ってきてくれない？",
+        "en": "I'm trying to cook, but a UFO just flew by and abducted my olive oil... So, could someone grab me another bottle?",
+        "kr": "요리를 하려고 하는데, 갑자기 나타난 UFO가 간장을 빨아들여 갔어요. 한 병 사다 주시겠어요?"
+    },
+    {
+        "id": 25101542,
+        "type": "",
+        "chs": "我想做饭……我想做饭……我想做饭……",
+        "chsT": "我想做飯……我想做飯……我想做飯……",
+        "jp": "ごはん……しょうゆ……ごはん……しょうゆ……",
+        "en": "I want to cook... I need to cook... I must cook...",
+        "kr": "요리를 하고 싶어요…… 요리하고 싶어…… 요리……"
+    },
+    {
+        "id": 25101543,
+        "type": "",
+        "chs": "我想唱卡拉OK但是没有人陪我……来个人让我看起来不那么孤独吧……",
+        "chsT": "我想唱卡拉OK但是沒有人陪我……來個人讓我看起來不那麼孤獨吧……",
+        "jp": "カラオケに行きたいけど、一緒に行く人がいない……誰か付き合って……",
+        "en": "I want to do some karaoke, but I have no one to go with... Can someone come along so I don't look so sad?",
+        "kr": "노래방에 가고 싶은데, 같이 갈 사람이 없어요…… 제가 외톨이처럼 보이지 않게 해주세요……"
+    },
+    {
+        "id": 25101544,
+        "type": "",
+        "chs": "我想去做按摩但是没有人陪我……来个人让我看起来不那么孤独吧……",
+        "chsT": "我想去做按摩但是沒有人陪我……來個人讓我看起來不那麼孤獨吧……",
+        "jp": "マッサージに行きたいけど、一緒に行く人がいない……誰か付き合って……",
+        "en": "I want to get a massage, but I have no one to go with... Can someone come along so I don't look so sad?",
+        "kr": "마사지를 받으러 가고 싶은데, 같이 갈 사람이 없어요…… 제가 외톨이처럼 보이지 않게 해주세요……"
+    },
+    {
+        "id": 25101545,
+        "type": "",
+        "chs": "我想去吃烤肉但是没有人陪我……来个人让我看起来不那么孤独吧……",
+        "chsT": "我想去吃烤肉但是沒有人陪我……來個人讓我看起來不那麼孤獨吧……",
+        "jp": "焼肉に行きたいけど、一緒に行く人がいない……誰か付き合って……",
+        "en": "I want to get some barbecue, but I have no one to go with... Can someone come along so I don't look so sad?",
+        "kr": "고기를 구워 먹으러 가고 싶은데, 같이 갈 사람이 없어요…… 제가 외톨이처럼 보이지 않게 해주세요……"
+    },
+    {
+        "id": 25101546,
+        "type": "",
+        "chs": "哇吔！好闷呀！我要找人陪我打麻将！",
+        "chsT": "哇吔！好悶呀！我要找人陪我打麻將！",
+        "jp": "うおお！ 暇すぎる！ 誰か一緒に麻雀やろうぜ！",
+        "en": "Gah! I'm bored out of my mind! Need people for mahjong, now!",
+        "kr": "와! 너무 심심해요! 나랑 마작 칠 사람 구합니다!"
+    },
+    {
+        "id": 25101547,
+        "type": "",
+        "chs": "呱！好无聊呀！我要找人陪我打麻将！",
+        "chsT": "呱！好無聊呀！我要找人陪我打麻將！",
+        "jp": "ケロケロ！ 退屈だケロ！ 誰か一緒に麻雀打たないかケロ？",
+        "en": "Ughhh, I'm dying of boredom! Someone play mahjong with me, now!",
+        "kr": "악! 너무 지루해요! 나랑 마작 칠 사람 구합니다!"
+    },
+    {
+        "id": 25101548,
+        "type": "",
+        "chs": "打麻将，我要找人陪我打麻将呀，打麻将，打麻将，GO！",
+        "chsT": "打麻將，我要找人陪我打麻將呀，打麻將，打麻將，GO！",
+        "jp": "麻雀、誰か一緒に麻雀を打とうぜ！ マージャン！ マージャン！ マージャン、GO！",
+        "en": "Mahjong! I need a game now! LET'S GO!",
+        "kr": "마작, 나랑 마작 칠 사람 구합니다. 마작, 마작, GO!"
+    },
+    {
+        "id": 25101549,
+        "type": "",
+        "chs": "需要有人协助进行石灯笼的清洁养护。",
+        "chsT": "需要有人協助進行石燈籠的清潔養護。",
+        "jp": "石灯籠の清掃とメンテナンス、手伝ってくれる人募集。",
+        "en": "Looking for someone to help clean and maintain a stone lantern.",
+        "kr": "석등 청소 및 관리를 도와주실 분이 필요합니다."
+    },
+    {
+        "id": 25101550,
+        "type": "",
+        "chs": "需要有人协助进行油漆剥落鸟居的紧急修复。",
+        "chsT": "需要有人協助進行油漆剝落鳥居的緊急修復。",
+        "jp": "塗装が剥がれた鳥居の緊急補修、手伝ってくれる人募集。",
+        "en": "Looking for someone to help repair a torii gate with peeling paint.",
+        "kr": "페인트가 벗겨진 문 긴급 보수를 도와주실 분이 필요합니다."
+    },
+    {
+        "id": 25101551,
+        "type": "",
+        "chs": "需要有人搬运枯山水石料。",
+        "chsT": "需要有人搬運枯山水石料。",
+        "jp": "枯山水の石を運ぶのを手伝ってくれる人、募集。",
+        "en": "Looking for someone to help move rocks for a zen garden.",
+        "kr": "바위 정원의 석재 운반을 도와주실 분이 필요합니다."
+    },
+    {
+        "id": 25101552,
+        "type": "",
+        "chs": "喂养的流浪猫叼来了金戒指……有人能帮忙贴一下招领启事吗？",
+        "chsT": "餵養的流浪貓叼來了金戒指……有人能幫忙貼一下招領啟事嗎？",
+        "jp": "餌付けしてる野良猫が、金の指輪を咥えてきた……落とし主を探す貼り紙、貼るのを手伝ってくれない？",
+        "en": "So, a stray cat just paid me for food... with a gold ring. Can someone help me put up \"found\" posters?",
+        "kr": "돌보던 길고양이가 금반지를 물고 왔어요…… 주인 찾아주는 전단지 좀 붙여주시겠어요?"
+    },
+    {
+        "id": 25101553,
+        "type": "",
+        "chs": "发布失物启事以后有一大堆人来找我……有人能分辨谁是真的失主吗？",
+        "chsT": "發布失物啟事以後有一大堆人來找我……有人能分辨誰是真的失主嗎？",
+        "jp": "落とし物の貼り紙を出したら、人がいっぱい来ちゃって……本当の持ち主は誰なのか、見分けられる人いない？",
+        "en": "Okay, way too many people are claiming the ring is theirs. Can someone help me figure out who the real owner is?",
+        "kr": "분실물 전단지를 올렸더니 엄청 많은 사람이 찾아왔어요…… 누가 진짜 주인인지 가려내 주실 수 있나요?"
+    },
+    {
+        "id": 25101554,
+        "type": "",
+        "chs": "家里的戒指太多快要放不下了……有人能教教我怎么进行储物和分类吗？",
+        "chsT": "家裡的戒指太多快要放不下了……有人能教教我怎麼進行儲物和分類嗎？",
+        "jp": "指輪が増えすぎて、もう置き場所がない……収納とか分類の仕方、誰か教えて！",
+        "en": "I'm running out of space for all these rings... Can someone teach me how to store and organize them?",
+        "kr": "집에 반지가 너무 많아서 둘 곳이 없어요…… 보관이랑 분류하는 법 좀 알려주실 분 있나요?"
+    },
+    {
+        "id": 25101555,
+        "type": "",
+        "chs": "墙上挂的画总是莫名其妙掉在地上，有人来看看是怎么回事吗？",
+        "chsT": "牆上掛的畫總是莫名其妙掉在地上，有人來看看是怎麼回事嗎？",
+        "jp": "壁の絵が、いつもなぜか床に落ちてるんだ。誰か見に来てくれない？",
+        "en": "The picture on my living room wall keeps falling by itself. Can someone come see if it's a ghost or just a bad nail?",
+        "kr": "벽에 걸어둔 그림이 자꾸 이유 없이 바닥에 떨어져요. 무슨 일인지 좀 봐주시겠어요?"
+    },
+    {
+        "id": 25101556,
+        "type": "",
+        "chs": "家里的水龙头偶尔会突然打开，有人帮忙调查一下吗？",
+        "chsT": "家裡的水龍頭偶爾會突然打開，有人幫忙調查一下嗎？",
+        "jp": "家の蛇口が、たまに勝手に開くんだ。誰か調査してくれない？",
+        "en": "The faucet in my kitchen randomly turns itself on. Can someone come see if it's a ghost or just bad plumbing?",
+        "kr": "집 수도꼭지가 가끔 갑자기 열려요. 조사해 주실 분 있나요?"
+    },
+    {
+        "id": 25101557,
+        "type": "",
+        "chs": "深更半夜我家客厅的电动总是一闪一闪的，有人能检修一下吗？",
+        "chsT": "深更半夜我家客廳的電動總是一閃一閃的，有人能檢修一下嗎？",
+        "jp": "深夜にリビングの電気がチカチカするんだけど、誰か点検してくれない？",
+        "en": "The lights in my living room flicker on and off late at night. Can someone come see if it's a ghost or just bad wiring?",
+        "kr": "한밤중에 저희 집 거실 전등이 자꾸 깜빡거려요. 점검 좀 해주시겠어요?"
+    },
+    {
+        "id": 25101558,
+        "type": "",
+        "chs": "旧屋出售，寻找销售。",
+        "chsT": "舊屋出售，尋找銷售。",
+        "jp": "ワケあり物件、売ります。営業マン募集。",
+        "en": "Old house for sale. Seeking a realtor.",
+        "kr": "낡은 집 판매, 중개인 구함."
+    },
+    {
+        "id": 25101559,
+        "type": "",
+        "chs": "之前的事情全是我家猫干的，有人能帮忙澄清一下我家不是凶宅吗？",
+        "chsT": "之前的事情全是我家貓幹的，有人能幫忙澄清一下我家不是凶宅嗎？",
+        "jp": "今までのやつ、全部うちの猫の仕業なんだ！ ここが事故物件じゃないって、誰か証明して！",
+        "en": "It was the cat. All those spooky things? It was my cat! Now I need to sell the house, and everyone thinks it's haunted. Someone has to help me clear this up!",
+        "kr": "이전에 일어난 일들은 전부 저희 집 고양이가 한 짓이에요. 저희 집이 흉가가 아니라고 해명해 주실 분 있나요?"
+    },
+    {
+        "id": 25101560,
+        "type": "",
+        "chs": "我的自行车链子掉了，有人能帮我装一下吗？",
+        "chsT": "我的自行車鏈子掉了，有人能幫我裝一下嗎？",
+        "jp": "自転車のチェーンが外れちゃった。誰か直してくれない？",
+        "en": "The chain on my bike fell off. Can someone help me get it back on?",
+        "kr": "자전거 체인이 빠졌는데, 누가 좀 끼워주시겠어요?"
+    },
+    {
+        "id": 25101561,
+        "type": "",
+        "chs": "我的自行车脚撑坏了，有人能帮我修一下吗？",
+        "chsT": "我的自行車腳撐壞了，有人能幫我修一下嗎？",
+        "jp": "自転車のスタンドが壊れたんだけど、誰か修理してくれない？",
+        "en": "The kickstand on my bike is broken. Can someone help me fix it?",
+        "kr": "자전거 스탠드가 고장 났는데, 누가 좀 고쳐주시겠어요?"
+    },
+    {
+        "id": 25101562,
+        "type": "",
+        "chs": "我的自行车车座坏了，有人能帮我修一下吗？",
+        "chsT": "我的自行車車座壞了，有人能幫我修一下嗎？",
+        "jp": "自転車のサドルが壊れたんだけど、誰か修理してくれない？",
+        "en": "The seat on my bike broke. Can anyone help me fix it?",
+        "kr": "자전거 안장이 망가졌는데, 누가 좀 고쳐주시겠어요?"
+    },
+    {
+        "id": 25101563,
+        "type": "",
+        "chs": "我在山地骑车时因为把手坏了进了医院，请帮忙卖一下车。",
+        "chsT": "我在山地騎車時因為把手壞了進了醫院，請幫忙賣一下車。",
+        "jp": "山で自転車を漕いでいたら、ハンドルが壊れて入院した。誰か代わりにこの自転車売ってきて。",
+        "en": "The handlebars on my bike broke, landing me in the hospital. Need someone to help me sell the bike.",
+        "kr": "산에서 자전거를 타다가 핸들이 고장 나서 병원에 입원했어요. 자전거 좀 팔아주세요."
+    },
+    {
+        "id": 25101564,
+        "type": "",
+        "chs": "家附近野猫太多，我担心我的猫学坏……有人能赶赶它们吗？",
+        "chsT": "家附近野貓太多，我擔心我的貓學壞……有人能趕趕牠們嗎？",
+        "jp": "家の近所に野良猫が多すぎて、うちの猫が悪い影響を受けないか心配……誰か追い払ってくれない？",
+        "en": "There are too many stray cats in the area, and I'm worried they're a bad influence on my cat. Can someone shoo them away?",
+        "kr": "집 근처에 길고양이가 너무 많아서 우리 집 고양이가 못된 걸 배울까 봐 걱정이에요…… 누가 좀 쫓아내 주시겠어요?"
+    },
+    {
+        "id": 25101565,
+        "type": "",
+        "chs": "家里的猫带了野猫朋友回家，需要有人来拆散一下它们。",
+        "chsT": "家裡的貓帶了野貓朋友回家，需要有人來拆散一下牠們。",
+        "jp": "うちの猫が、野良猫の友達を連れて帰ってきた。誰かあいつらを引き離して！",
+        "en": "My cat made a friend. A stray friend. I need someone to come break up this relationship.",
+        "kr": "집고양이가 길고양이 친구를 데려왔어요. 둘 사이를 갈라놓을 사람이 필요해요."
+    },
+    {
+        "id": 25101566,
+        "type": "",
+        "chs": "家里的猫离家出走了，能帮我找一下吗？",
+        "chsT": "家裡的貓離家出走了，能幫我找一下嗎？",
+        "jp": "うちの猫が家出しちゃった。探すの手伝ってくれない？",
+        "en": "I tried to break up my cat's friendship with a stray, and now she's run away. Can anyone help me find her?",
+        "kr": "집고양이가 가출했어요. 좀 찾아주시겠어요?"
+    },
+    {
+        "id": 25101567,
+        "type": "",
+        "chs": "家里的猫讨厌我了，有人能帮忙支支招吗？",
+        "chsT": "家裡的貓討厭我了，有人能幫忙支支招嗎？",
+        "jp": "うちの猫に嫌われたみたい……誰か仲直りする方法、教えて！",
+        "en": "My cat hates me now. Can someone please give me some advice on how to win her back?",
+        "kr": "집고양이가 저를 싫어하게 됐어요. 누가 조언 좀 해주시겠어요?"
+    },
+    {
+        "id": 25101568,
+        "type": "",
+        "chs": "借了图书馆的轻小说没还，有人能帮忙还一下吗？",
+        "chsT": "借了圖書館的輕小說沒還，有人能幫忙還一下嗎？",
+        "jp": "図書館で借りたラノベ、まだ返してなかった。代わりに返却してきてくれない？",
+        "en": "I borrowed a light novel from the library and forgot to return it. Can someone take it back for me?",
+        "kr": "도서관에서 빌린 라이트 노벨을 아직 반납 못 했는데, 누가 대신 좀 반납해 주시겠어요?"
+    },
+    {
+        "id": 25101569,
+        "type": "",
+        "chs": "借阅的轻小说没有下文了，有人能在其他书店找找书的下卷吗？",
+        "chsT": "借閱的輕小說沒有下文了，有人能在其他書店找找書的下卷嗎？",
+        "jp": "借りたラノベの続き、まだ図書館に入ってないみたい。本屋で下巻を探してくれない？",
+        "en": "The light novel I borrowed ends on a huge cliffhanger. Can someone find the next volume for me?",
+        "kr": "빌린 라이트 노벨 다음 권이 없어요. 다른 서점에서 다음 권 좀 찾아주실 분 있나요?"
+    },
+    {
+        "id": 25101570,
+        "type": "",
+        "chs": "有人能找一下这本轻小说作者老师的联系方式吗？",
+        "chsT": "有人能找一下這本輕小說作者老師的聯繫方式嗎？",
+        "jp": "このラノベの作者の連絡先、誰か知らない？",
+        "en": "Does anyone know how to get in touch with the author of this light novel?",
+        "kr": "이 라이트 노벨 작가님의 연락처를 아시는 분 있나요?"
+    },
+    {
+        "id": 25101571,
+        "type": "",
+        "chs": "想要自己写轻小说，有人能联系出版社编辑吗？",
+        "chsT": "想要自己寫輕小說，有人能聯繫出版社編輯嗎？",
+        "jp": "自分でラノベを書きたいんだけど、出版社の編集者に繋いでくれない？",
+        "en": "I want to write my own light novel. Can someone put me in touch with a publisher?",
+        "kr": "직접 라이트 노벨을 쓰고 싶은데, 출판사 편집자에게 연락해 주실 분 있나요?"
+    },
+    {
+        "id": 25101572,
+        "type": "",
+        "chs": "我是一个正在冲击新人奖的轻小说作家，招收一下写作助手。",
+        "chsT": "我是一個正在衝擊新人獎的輕小說作家，招收一下寫作助手。",
+        "jp": "新人賞を目指してるラノベ作家です。執筆アシスタントを募集します。",
+        "en": "I'm a light novel author competing for a newcomer award. In need of a writing assistant to help with research and brainstorming.",
+        "kr": "신인상을 노리고 있는 라이트 노벨 작가입니다. 조수를 구합니다."
+    },
+    {
+        "id": 25101573,
+        "type": "",
+        "chs": "我不在家，今天有快递来了，帮我收一下吧。",
+        "chsT": "我不在家，今天有快遞來了，幫我收一下吧。",
+        "jp": "今日留守なんだけど、宅配便が届くから、代わりに受け取ってほしいな。",
+        "en": "I've got a delivery coming today but I won't be home. Can someone help sign it for me?",
+        "kr": "제가 집에 없는데 오늘 택배가 와요. 대신 좀 받아주세요."
+    },
+    {
+        "id": 25101574,
+        "type": "",
+        "chs": "有很多快递到了，麻烦帮忙收一下。",
+        "chsT": "有很多快遞到了，麻煩幫忙收一下。",
+        "jp": "荷物がたくさん届いてるから、受け取るの手伝って。",
+        "en": "A whole bunch of my online orders have arrived. Can someone help sign them for me?",
+        "kr": "택배가 많이 왔는데, 대신 좀 받아주세요."
+    },
+    {
+        "id": 25101575,
+        "type": "",
+        "chs": "出差回家发现家里的快递堆成山了……谁能帮忙来拆快递？",
+        "chsT": "出差回家發現家裡的快遞堆成山了……誰能幫忙來拆快遞？",
+        "jp": "出張から帰ったら、荷物が山積みになってた……開封するの手伝って！",
+        "en": "I just got back from a trip and my front door is blocked by a mountain of packages... Can someone help me unbox everything?",
+        "kr": "출장에서 돌아오니 집에 택배가 산더미처럼 쌓여있어요…… 누가 와서 택배 뜯는 것 좀 도와주실래요?"
+    },
+    {
+        "id": 25101576,
+        "type": "",
+        "chs": "想要参加漫才大赛但是没有搭档……有人帮忙担任一下我的搭档吗？",
+        "chsT": "想要參加漫才大賽但是沒有搭檔……有人幫忙擔任一下我的搭檔嗎？",
+        "jp": "漫才の大会に出たいんだけど、相方がいないんだ……誰か俺の相方になってくれない？",
+        "en": "Looking for a practice partner for the local stand-up competition. Must have a good sense of humor.",
+        "kr": "만담 대회에 나가고 싶은데 파트너가 없어요…… 제 파트너가 되어주실 분 있나요?"
+    },
+    {
+        "id": 25101577,
+        "type": "",
+        "chs": "有人能帮忙带我家的狗散步吗？",
+        "chsT": "有人能幫忙帶我家的狗散步嗎？",
+        "jp": "誰か、うちの犬の散歩、代わりに行ってくれない？",
+        "en": "Can someone please take my dog for a walk?",
+        "kr": "저희 집 강아지 산책 좀 시켜주실 분 있나요?"
+    },
+    {
+        "id": 25101578,
+        "type": "",
+        "chs": "回转寿司店的传送带坏了，需要有人来店内帮忙递菜。",
+        "chsT": "迴轉壽司店的傳送帶壞了，需要有人來店內幫忙遞菜。",
+        "jp": "回転寿司のレーンが壊れちゃった。ホールスタッフとして手伝ってくれる人、急募！",
+        "en": "Our sushi-go-round isn't going 'round anymore. The belt is broken. We need a food runner to help out!",
+        "kr": "회전초밥 가게의 컨베이어 벨트가 고장 났어요. 음식을 서빙해 주실 분이 필요해요."
+    },
+    {
+        "id": 25101579,
+        "type": "",
+        "chs": "回转寿司店的师傅请假了，需要有人来做寿司。",
+        "chsT": "迴轉壽司店的師傅請假了，需要有人來做壽司。",
+        "jp": "回転寿司の板前さんがお休みになっちゃった。代わりに寿司握れる人いない？",
+        "en": "Our sushi chef took the day off. We need someone to fill in and make sushi!",
+        "kr": "회전초밥 가게의 셰프님이 휴가를 내셔서, 초밥을 만들어 주실 분이 필요해요."
+    },
+    {
+        "id": 25101580,
+        "type": "",
+        "chs": "回转寿司店的食材供应商没来，需要有人来运送食材。",
+        "chsT": "迴轉壽司店的食材供應商沒來，需要有人來運送食材。",
+        "jp": "回転寿司の材料を卸してくれる業者が来なくて。誰か食材を運んでくれる人いないかな？",
+        "en": "Our supplier never showed up. We need someone to make an ingredient run.",
+        "kr": "회전초밥 가게에 식자재 공급 업체가 오지 않았어요. 식자재를 운송해 주실 분이 필요해요."
+    },
+    {
+        "id": 25101581,
+        "type": "",
+        "chs": "回转寿司店的服务员生病了，需要有人来当一下服务员。",
+        "chsT": "迴轉壽司店的服務員生病了，需要有人來當一下服務員。",
+        "jp": "回転寿司のホールスタッフが病欠なんだ。ホールやってくれる人いない？",
+        "en": "One of our servers called in sick. We need someone to cover their shift.",
+        "kr": "회전초밥 가게의 직원이 아파서, 대신 서빙해 주실 분이 필요해요."
+    },
+    {
+        "id": 25101582,
+        "type": "",
+        "chs": "因为最近出的差错太多客人都跑了，有人能帮忙招揽客人吗？",
+        "chsT": "因為最近出的差錯太多客人都跑了，有人能幫忙招攬客人嗎？",
+        "jp": "最近、ミスが多すぎてお客さんが来なくなっちゃった。客引きを手伝って！",
+        "en": "After a series of... unfortunate events, our restaurant is empty. Can someone help us with flyers or social media to get customers back?",
+        "kr": "최근에 실수가 너무 잦아서 손님이 다 떠나버렸어요. 손님 좀 모아주시겠어요?"
+    },
+    {
+        "id": 25101583,
+        "type": "",
+        "chs": "想在街上拍张自拍，但风总是吹乱我的头发！需要一个人形防风墙！",
+        "chsT": "想在街上拍張自拍，但風總是吹亂我的頭髮！需要一個人形防風牆！",
+        "jp": "街で自撮りしたいのに、風で髪がぐちゃぐちゃ！ 風よけになってくれる人、求む！",
+        "en": "I'm trying to take a selfie, but it's too windy! I need someone to act as a human windbreak!",
+        "kr": "길에서 셀카를 찍고 싶은데, 바람이 자꾸 머리를 헝클어뜨려요! 인간 바람막이가 필요해요!"
+    },
+    {
+        "id": 25101584,
+        "type": "",
+        "chs": "在自拍的时候背景里总有路人乱入！需要有人帮忙清下场！",
+        "chsT": "在自拍的時候背景裡總有路人亂入！需要有人幫忙清下場！",
+        "jp": "自撮りしてると、いつも背景に人が映り込むの！ 誰か人払いして！",
+        "en": "People keep photobombing me! I need someone to help with crowd control!",
+        "kr": "셀카 찍을 때 배경에 자꾸 행인이 찍혀요! 주변 정리 좀 도와주실 분이 필요해요!"
+    },
+    {
+        "id": 25101585,
+        "type": "",
+        "chs": "拍到满意的自拍了！有会修图的人吗，我想再修修我的自拍！",
+        "chsT": "拍到滿意的自拍了！有會修圖的人嗎，我想再修修我的自拍！",
+        "jp": "奇跡の一枚が撮れた！ 誰か加工できる人いない？ もっと盛りたいんだけど！",
+        "en": "I got the perfect selfie! Now, is anyone a photo editing expert? I want to make it even better!",
+        "kr": "마음에 드는 셀카를 찍었어요! 사진 보정할 줄 아는 분 계신가요? 제 셀카 좀 더 보정하고 싶어요!"
+    },
+    {
+        "id": 25101586,
+        "type": "",
+        "chs": "有人说一番市温泉煮的蛋能够转运……能帮我买一个吗？",
+        "chsT": "有人說一番市溫泉煮的蛋能夠轉運……能幫我買一個嗎？",
+        "jp": "一番市の温泉で茹でた卵を食べると、運気が上がるって聞いたんだけど……一つ買ってきてくれない？",
+        "en": "I heard that hot spring eggs from One Han City can turn your luck around... Could you please get one for me?",
+        "kr": "이한시 온천에서 삶은 달걀을 먹으면 운이 좋아진다고 하던데…… 하나만 사다 주실 수 있나요?"
+    },
+    {
+        "id": 25101587,
+        "type": "",
+        "chs": "听说一番市温泉煮的蛋能转运……帮我问问温泉水能不能批发吧。",
+        "chsT": "聽說一番市溫泉煮的蛋能轉運……幫我問問溫泉水能不能批發吧。",
+        "jp": "一番市の温泉卵で運気が上がるってマジ？ 温泉のお湯を卸してもらえないか聞いてきて！",
+        "en": "If the hot spring eggs bring good luck, the water must be liquid luck! Could you help find out if I can buy it by the gallon?",
+        "kr": "이한시 온천에서 삶은 달걀이 운을 좋게 만든다고 들었어요…… 온천수를 도매로 살 수 있는지 좀 알아봐 주세요."
+    },
+    {
+        "id": 25101588,
+        "type": "",
+        "chs": "我贴好了痛车车膜，但不敢去洗车店怕被洗坏，有人能帮忙手洗吗？",
+        "chsT": "我貼好了痛車車膜，但不敢去洗車店怕被洗壞，有人能幫忙手洗嗎？",
+        "jp": "痛車のステッカー貼ったんだけど、洗車機で洗うと剥がれそうで怖い。手洗いで洗ってくれない？",
+        "en": "I've got a new anime wrap on my car, but I'm worried an auto wash will ruin it. Can someone help me hand-wash my car?",
+        "kr": "이타샤 랩핑을 했는데, 세차장에 가면 망가질까 봐 못 가겠어요. 손세차 좀 해주실 분 있나요?"
+    },
+    {
+        "id": 25101589,
+        "type": "",
+        "chs": "我家的AI音箱在自言自语……能帮忙看看出什么问题了吗？",
+        "chsT": "我家的AI音箱在自言自語……能幫忙看看出什麼問題了嗎？",
+        "jp": "うちのホームアシスタントがひとりでブツブツ言ってる……何が起きてるのか、見てくれない？",
+        "en": "My Home Assistant started talking to itself... Can someone come and check what's wrong with it?",
+        "kr": "저희 집 AI 스피커가 혼잣말을 해요…… 무슨 문제인지 좀 봐주시겠어요?"
+    },
+    {
+        "id": 25101590,
+        "type": "",
+        "chs": "我家的音箱不停地给我发短信，来人帮我拒收一下！",
+        "chsT": "我家的音箱不停地給我發短信，來人幫我拒收一下！",
+        "jp": "うちのホームアシスタントが、ひっきりなしにメッセージを送ってくるんだけど！ 受信拒否の設定をしてくれない？",
+        "en": "My Home Assistant is spamming me with texts. Somebody make it stop!",
+        "kr": "저희 집 스피커가 계속 저한테 문자를 보내요. 누가 와서 수신 거부 좀 도와주세요!"
+    },
+    {
+        "id": 25101591,
+        "type": "",
+        "chs": "我家音箱怕寂寞不停骚扰我，有会给机器做心理疏导的人吗？",
+        "chsT": "我家音箱怕寂寞不停騷擾我，有會給機器做心理疏導的人嗎？",
+        "jp": "うちのホームアシスタント、寂しがり屋で、かまって攻撃がすごいんだよね。誰か、機械のカウンセリングできる人いない？",
+        "en": "My Home Assistant is so lonely that it won't leave me alone. Does anyone know a therapist for AI?",
+        "kr": "저희 집 스피커가 외롭다며 자꾸 저를 괴롭혀요. 기계 심리 상담해 주실 분 있나요?"
+    },
+    {
+        "id": 25101592,
+        "type": "",
+        "chs": "我家马桶冲水的时候会发出奇怪的呜咽声……有人能来看看吗？",
+        "chsT": "我家馬桶沖水的時候會發出奇怪的嗚咽聲……有人能來看看嗎？",
+        "jp": "うちのトイレ、水を流すと、変な呻き声みたいな音がするんだけど……見に来てくれない？",
+        "en": "My toilet makes a strange whimpering sound when it flushes. I... need a plumber to check it out.",
+        "kr": "저희 집 변기 물을 내리면 이상한 흐느낌 소리가 나요…… 누가 와서 좀 봐주시겠어요?"
+    },
+    {
+        "id": 25101593,
+        "type": "",
+        "chs": "马桶坏了，要按住阀门才能修……我不敢，招募胆大的人帮帮忙。",
+        "chsT": "馬桶壞了，要按住閥門才能修……我不敢，招募膽大的人幫幫忙。",
+        "jp": "トイレが壊れた。バルブを押さえたままじゃないと修理できないんだけど……怖くて無理。度胸のある人、手伝って！",
+        "en": "My toilet is making noises, and the only way to fix it is to stick my hand in the tank. I... need a brave volunteer.",
+        "kr": "변기가 고장 나서 밸브를 누른 채로 고쳐야 하는데…… 저는 무서워서 못 하겠어요. 용감한 분을 모집합니다."
+    },
+    {
+        "id": 25101594,
+        "type": "",
+        "chs": "家里的马桶突然变得异常温暖……能帮忙检查一下吗？",
+        "chsT": "家裡的馬桶突然變得異常溫暖……能幫忙檢查一下嗎？",
+        "jp": "家のトイレが、急に異常なほど便座が温かくなったんだけど……誰か点検してくれない？",
+        "en": "My toilet seat is warm, and it's not supposed to be. I... need someone to check it out.",
+        "kr": "집 변기가 갑자기 이상할 정도로 따뜻해졌어요…… 점검 좀 도와주시겠어요?"
+    },
+    {
+        "id": 25101595,
+        "type": "",
+        "chs": "家里的马桶开始自动翻盖了！快来个灵媒救救我吧！",
+        "chsT": "家裡的馬桶開始自動翻蓋了！快來個靈媒救救我吧！",
+        "jp": "家のトイレの蓋が勝手に開閉し始めた！ 早く霊媒師さんを呼んできて、助けて！",
+        "en": "My toilet lid is opening and closing on its own! I need a psychic, a priest, an exorcist... somebody!",
+        "kr": "집 변기 뚜껑이 저절로 열리기 시작했어요! 어서 퇴마사를 불러서 저를 구해주세요!"
+    },
+    {
+        "id": 25101596,
+        "type": "",
+        "chs": "听说便利店要下架我最爱的泡面……请帮忙扫货，有多少买多少！",
+        "chsT": "聽說便利店要下架我最愛的泡麵……請幫忙掃貨，有多少買多少！",
+        "jp": "コンビニから大好きなカップ麺がなくなるって聞いた。買い占めるの手伝って！ あるだけ全部！",
+        "en": "They're getting rid of my favorite instant noodles. I need someone to buy every last one of them at the convenience store!",
+        "kr": "편의점에서 제가 제일 좋아하는 컵라면을 단종시킨대요…… 싹쓸이 좀 해주세요, 있는 대로 다 사주세요!"
+    },
+    {
+        "id": 25101597,
+        "type": "",
+        "chs": "听说便利店要下架我最喜欢的泡面！请帮忙购置一下二手泡面……",
+        "chsT": "聽說便利店要下架我最喜歡的泡麵！請幫忙購置一下二手泡面……",
+        "jp": "コンビニから一番好きなカップ麺がなくなった！ 賞味期限切れでもいいから、あのカップ麺、買ってきて……",
+        "en": "They're getting rid of my favorite instant noodles! I need someone to help me find people with a stash to sell.",
+        "kr": "편의점에서 제가 제일 좋아하는 컵라면을 단종시킨대요! 중고 컵라면이라도 구해주세요……"
+    },
+    {
+        "id": 25101598,
+        "type": "",
+        "chs": "我的发明：“自动喂猫撸猫一体机”卡住了猫的头！快帮忙救猫！",
+        "chsT": "我的發明：「自動喂貓擼貓一體機」卡住了貓的頭！快幫忙救貓！",
+        "jp": "自作の発明品、「全自動給餌＆撫でマシン」に猫の頭が挟まった！ 早く猫ちゃんを助けて！",
+        "en": "My \"Auto-Feed-n-Pet 3000\" has malfunctioned and trapped my cat! Please help me get him out!",
+        "kr": "제 발명품 '자동 급식 및 쓰다듬기 일체형 기계'에 고양이 머리가 끼었어요! 어서 고양이를 구해주세요!"
+    },
+    {
+        "id": 25101599,
+        "type": "",
+        "chs": "我的发明深得猫心……是时候上市了！有人能介绍天使投资人吗？",
+        "chsT": "我的發明深得貓心……是時候上市了！有人能介紹天使投資人嗎？",
+        "jp": "この発明品、どうやら猫ちゃんの心をがっちり掴んだみたいだ……そろそろ商品化だな！ 誰か、エンジェル投資家を紹介してくれないか？",
+        "en": "My \"Auto-Feed-n-Pet 3000\" is a hit with cats! It's time to take it to market. Can someone introduce me to an angel investor?",
+        "kr": "제 발명품이 고양이들의 마음을 사로잡았어요…… 이제 출시할 때가 됐군요! 투자자 좀 소개해 주실 분 있나요?"
+    },
+    {
+        "id": 25101600,
+        "type": "",
+        "chs": "发明陷入僵局，急需有人夸夸我，让我重拾信心！",
+        "chsT": "發明陷入僵局，急需有人誇誇我，讓我重拾信心！",
+        "jp": "発明が行き詰まってるんだ。俺を褒めて、自信を取り戻させてくれ！",
+        "en": "I've got inventor's block. Need someone to tell me I'm a genius so I can get back to work!",
+        "kr": "발명이 교착 상태에 빠졌어요. 누가 저를 칭찬해서 자신감을 되찾게 해주세요!"
+    },
+    {
+        "id": 25101601,
+        "type": "",
+        "chs": "和大海相处最浪漫的方式就是捕鱼！招募水性好的船员一起出航！",
+        "chsT": "和大海相處最浪漫的方式就是捕魚！招募水性好的船員一起出航！",
+        "jp": "海との触れ合いの中での一番のロマンと言えば、やっぱり漁！ 泳ぎが得意な船員募集！ 一緒に航海に出ようぜ！",
+        "en": "There's nothing more romantic than fishing on the great wide open! Looking for a crew of strong swimmers for a deep-sea adventure!",
+        "kr": "바다와 함께하는 가장 로맨틱한 방법은 바로 고기잡이죠! 수영 잘하는 선원을 모집해 함께 출항합시다!"
+    },
+    {
+        "id": 25101602,
+        "type": "",
+        "chs": "准备出门捕蟹了！有人想来当船员和海中的大螯比试一下吗？",
+        "chsT": "準備出門捕蟹了！有人想來當船員和海中的大螯比試一下嗎？",
+        "jp": "これからカニ漁に出るぞ！ 船員になって、海の大バサミ野郎と勝負したいやつはいないか？",
+        "en": "Gearing up for some crab fishing! Looking for crewmates who want to go head-to-head with some big ol' sea pincers!",
+        "kr": "곧 게를 잡으러 나갈 겁니다! 선원이 되어 바닷속 거대한 집게발과 겨뤄볼 사람 없나요?"
+    },
+    {
+        "id": 25101603,
+        "type": "",
+        "chs": "退潮了，沙滩上肯定有好货！招募人一起赶海捕贝，报酬面谈！",
+        "chsT": "退潮了，沙灘上肯定有好貨！招募人一起趕海捕貝，報酬面談！",
+        "jp": "潮が引いたぞ。浜辺には絶対お宝が眠ってる！ 一緒に潮干狩りする仲間を募集、報酬は応相談だ！",
+        "en": "Low tide! The beach is calling! Looking for a few people to go clam digging with me, pay negotiable!",
+        "kr": "썰물 때가 됐으니 해변에 분명 좋은 게 있을 겁니다! 같이 해루질해서 조개를 잡을 사람을 구합니다. 보수는 협의!"
+    },
+    {
+        "id": 25101604,
+        "type": "",
+        "chs": "快要到休渔期了，住在岛上的伙计要回市里生活了，招募搬家师傅。",
+        "chsT": "快要到休漁期了，住在島上的夥計要回市里生活了，招募搬家師傅。",
+        "jp": "もうすぐ禁漁期間だ。島に住んでる仲間が街に戻るから、引っ越しを手伝ってくれる人募集！",
+        "en": "The fishing season's ending, and some of my island pals are moving back to the city for a bit. I need a few strong hands to help them move.",
+        "kr": "곧 금어기가 되어서 섬에 사는 친구가 시내로 돌아가야 해요. 이사 도와주실 분을 구합니다."
+    },
+    {
+        "id": 25101605,
+        "type": "",
+        "chs": "我发现了一个超级厉害的光魔法，需要有人帮忙买手电筒才能发动！",
+        "chsT": "我發現了一個超級厲害的光魔法，需要有人幫忙買手電筒才能發動！",
+        "jp": "すっげー光魔法を編み出したんだ。発動に懐中電灯が必要だから、誰か買ってきて！",
+        "en": "I've discovered an incredibly powerful light spell. All I need is for someone to buy me a flashlight so I can cast it!",
+        "kr": "엄청 대단한 빛 마법을 발견했는데, 손전등을 사다 줄 사람이 필요해요!"
+    },
+    {
+        "id": 25101606,
+        "type": "",
+        "chs": "我掌握了召唤火焰精灵的禁咒，需要有人帮忙买防风打火机！",
+        "chsT": "我掌握了召喚火焰精靈的禁咒，需要有人幫忙買防風打火機！",
+        "jp": "炎の精霊を召喚する禁呪をマスターした。ターボライターが必要だから、誰か買ってきて！",
+        "en": "I've mastered the forbidden spell to summon a fire elemental. All I need is for someone to buy me a windproof lighter!",
+        "kr": "불의 정령을 소환하는 금지된 주문을 익혔는데, 방풍 라이터를 사다 줄 사람이 필요해요!"
+    },
+    {
+        "id": 25101607,
+        "type": "",
+        "chs": "正在训练水球魔法的精准度，需要有人帮忙给气球灌水补充弹药！",
+        "chsT": "正在訓練水球魔法的精准度，需要有人幫忙給氣球灌水補充彈藥！",
+        "jp": "水球魔法の精度を上げる訓練中だ。弾薬補充のために、水風船に水を入れてくれる人、募集！",
+        "en": "I'm practicing my aim with water-sphere magic. All I need is some help filling up water balloons to use as ammo!",
+        "kr": "아쿠아볼의 정확도를 훈련하는 중인데, 풍선에 물을 채워서 탄약을 보충해 줄 사람이 필요해요!"
+    },
+    {
+        "id": 25101608,
+        "type": "",
+        "chs": "我能用风扇驱赶太阳的温度，需要找人试验风魔法对别人的效果！",
+        "chsT": "我能用風扇驅趕太陽的溫度，需要找人試驗風魔法對別人的效果！",
+        "jp": "扇風機で太陽の熱を追い払えるようになったぞ。この風魔法が他人にどう効くか、実験台になってくれるやつを探してる！",
+        "en": "I've created a wind spell to drive away the sun's heat. All I need is a volunteer to test this fan magic!",
+        "kr": "선풍기로 더위를 쫓아낼 수 있는데, 바람 마법의 효과를 실험해 볼 사람이 필요해요!"
+    },
+    {
+        "id": 25101700,
+        "type": "",
+        "chs": "好像有新朋友打算加入万事屋喵！",
+        "chsT": "好像有新朋友打算加入萬事屋喵！",
+        "jp": "新たな仲間がよろず屋に入ろうとしているにゃ！",
+        "en": "Looks like a new friend wants to join the Odd Jobs, nyaa!",
+        "kr": "새 동료가 해결사 사무소에 들어오고 싶은 것 같다냥!"
+    },
+    {
+        "id": 25102001,
+        "type": "",
+        "chs": "委托结果变为大成功！",
+        "chsT": "委託結果變為大成功！",
+        "jp": "依頼結果が「大成功」になりました！",
+        "en": "The request was a Great Success!",
+        "kr": "의뢰 결과가 '대성공'이 되었습니다!"
+    },
+    {
+        "id": 25102002,
+        "type": "",
+        "chs": "获得鲷鱼烧x{0}！",
+        "chsT": "獲得鯛魚燒x{0}！",
+        "jp": "たい焼き×{0}を獲得しました！",
+        "en": "You got Taiyaki x{0}!",
+        "kr": "붕어빵 x{0}개를 획득했습니다!"
+    },
+    {
+        "id": 25102003,
+        "type": "",
+        "chs": "未消耗体力！",
+        "chsT": "未消耗體力！",
+        "jp": "体力を消費しませんでした！",
+        "en": "No Stamina consumed!",
+        "kr": "체력을 소모하지 않았습니다!"
+    },
+    {
+        "id": 25102004,
+        "type": "",
+        "chs": "消耗体力+1",
+        "chsT": "消耗體力+1",
+        "jp": "体力を1多く消費しました！",
+        "en": "Stamina Cost +1",
+        "kr": "체력 소모 +1"
+    },
+    {
+        "id": 25103001,
+        "type": "",
+        "chs": "第一话：\r\n麻烦这东西总是不请自来",
+        "chsT": "第一話：\r\n麻煩這東西總是不請自來",
+        "jp": "第一話\r\nトラブルはいつもアポなしでやってくる",
+        "en": "Episode 1: Trouble Always Shows Up Uninvited",
+        "kr": "1화: 트러블은 언제나 예고 없이 찾아온다."
+    },
+    {
+        "id": 25103002,
+        "type": "",
+        "chs": "第二话：\r\n大嗓门的推销员不可轻信",
+        "chsT": "第二話：\r\n大嗓門的推銷員不可輕信",
+        "jp": "第二話\r\n声のデカいセールスマンには気をつけろ",
+        "en": "Episode 2: The Louder the Salesman, the Bigger the Lie",
+        "kr": "2화: 목소리 큰 세일즈맨은 조심해라."
+    },
+    {
+        "id": 25103003,
+        "type": "",
+        "chs": "第三话：\r\n失去信用往往只在一瞬间",
+        "chsT": "第三話：\r\n失去信用往往只在一瞬間",
+        "jp": "第三話\r\n信用を失うのは一瞬",
+        "en": "Episode 3: Trust Is Lost in an Instant",
+        "kr": "3화: 신용을 잃는 건 한순간이다."
+    },
+    {
+        "id": 25103004,
+        "type": "",
+        "chs": "第四话：\r\n争强好胜这种病只有死了才能治好",
+        "chsT": "第四話：\r\n爭強好勝這種病只有死了才能治好",
+        "jp": "第四話\r\n負けず嫌いは死ななきゃ治らない",
+        "en": "Episode 4: Some People Will Compete All the Way to the Grave",
+        "kr": "4화: 지기 싫어하는 성격은 죽어야 낫는다."
+    },
+    {
+        "id": 25103005,
+        "type": "",
+        "chs": "第五话：\r\n麻将就是这种让人停不下来的东西",
+        "chsT": "第五話：\r\n麻將就是這種讓人停不下來的東西",
+        "jp": "第五話\r\n何度でも打ちたくなるのが麻雀",
+        "en": "Episode 5: Mahjong, The Game You Just Can't Put Down",
+        "kr": "5화: 몇 번이고 치고 싶어지는 게 마작이다."
     }
 ]

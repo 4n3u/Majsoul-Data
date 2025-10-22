@@ -5699,11 +5699,11 @@
     {
         "id": 2545,
         "type": "",
-        "chs": "支付疑问请加 QQ：951307369",
-        "chsT": "支付疑問請加 QQ：951307369",
+        "chs": "",
+        "chsT": "",
         "jp": "",
-        "en": "Should you have any payment-related questions, please contact QQ: 951307369",
-        "kr": "지불 관련 질문은 QQ에서 '951307369' 번호를 입력하신 뒤 친구로 추가하여 문의해 주세요."
+        "en": "",
+        "kr": ""
     },
     {
         "id": 2546,
@@ -34880,7 +34880,7 @@
         "chs": "匹配中",
         "chsT": "配對中",
         "jp": "マッチング中",
-        "en": "Matchmaking...",
+        "en": "Matchmaking",
         "kr": "매칭 중"
     },
     {
@@ -36463,18 +36463,18 @@
         "type": "",
         "chs": "如需帮助，请发送邮件至游戏客服：cs@maj-soul.com",
         "chsT": "如需協助，請發送郵件至遊戲客服：cs@maj-soul.com",
-        "jp": "",
-        "en": "",
-        "kr": ""
+        "jp": "さらにサポートが必要な場合は、公式サイトからカスタマーサポートにご連絡ください。",
+        "en": "For assistance, please email our Customer Support team at: mjs.cs@yo-star.com",
+        "kr": "문제가 발생할 경우, 고객센터로 문의해 주시기 바랍니다: mskr-cs@yo-star.com"
     },
     {
         "id": 25070302,
         "type": "",
         "chs": "如需进一步管理赛事，请前往游戏官网https://www.maj-soul.com，赛事管理页面",
         "chsT": "如需進一步管理賽事，請前往遊戲官網https://www.maj-soul.com，賽事管理頁面",
-        "jp": "",
-        "en": "",
-        "kr": ""
+        "jp": "公式サイトの大会管理ページから、より詳細に大会を設定、管理できます。",
+        "en": "For further management, please visit the Tournament Management page on our official website: https://mahjongsoul.yo-star.com",
+        "kr": "공식 사이트의 대회 관리 페이지에서, 더 자세한 대회 관리 기능을 확인하실 수 있습니다."
     },
     {
         "id": 25080001,
@@ -36778,9 +36778,9 @@
         "type": "",
         "chs": "当前版本为测试版本，不代表最终品质，EID:{0}",
         "chsT": "當前版本為測試版本，不代表最終品質，EID:{0}",
-        "jp": "(tbd-jp)当前版本为测试版本，不代表最终品质，EID:{0}",
-        "en": "(tbd-en)当前版本为测试版本，不代表最终品质，EID:{0}",
-        "kr": "(tbd-kr)当前版本为测试版本，不代表最终品质，EID:{0}"
+        "jp": "当前版本为测试版本，不代表最终品质，EID:{0}",
+        "en": "当前版本为测试版本，不代表最终品质，EID:{0}",
+        "kr": "当前版本为测试版本，不代表最终品质，EID:{0}"
     },
     {
         "id": 25081133,
@@ -38176,5 +38176,527 @@
         "jp": "チームメンバーがいません。",
         "en": "No team members yet.",
         "kr": "팀원이 없습니다."
+    },
+    {
+        "id": 25101001,
+        "type": "",
+        "chs": "",
+        "chsT": "",
+        "jp": "",
+        "en": "",
+        "kr": ""
+    },
+    {
+        "id": 25101002,
+        "type": "",
+        "chs": "联动限定活动-万事屋一姬\r\n活动时间：10月22日维护后-11月12日4:59\r\n\r\n一番市新装万事屋开业，店主竟是魂天神社的当家巫女一姬！\r\n雇佣可靠的员工，一起解决一番市的千奇百怪的委托吧！\r\n\r\n活动任务\r\n-完成活动任务，可以获得鲷鱼烧，使用鲷鱼烧可以在人才中心雇佣新员工！\r\n-在段位场或下克上活动页面对局也可以获得鲷鱼烧\r\n--四人麻将中获得1/2/3/4位：可获得8/6/4/2个鲷鱼烧\r\n--三人麻将中获得1/2/3位：可获得6/4/2个鲷鱼烧\r\n--和牌倍满及以上/满贯或跳满/满贯未满：可获得4/3/2个鲷鱼烧\r\n\r\n活动奖励\r\n-根据解决的委托数量，可以领取限定牌背，限定插画，寻觅卷轴等丰厚奖励！\r\n\r\n活动对局\r\n-活动期间，可以体验全新对局下克上\r\n-持有的点数越少，和牌的倍率越高，体验逆势翻盘，绝处逢生的华丽大逆转！\r\n-详情请参考活动对局页的规则说明\r\n\r\n人才中心\r\n-招募中可以招募员工，协力完成委托\r\n--每名员工拥有力，速，运三项属性和体力\r\n--部分员工拥有特性，组合特性在委托时也许会事半功倍！\r\n--消耗鲷鱼烧可以雇佣员工、刷新招募名册\r\n-名册中可以查看万事屋旗下的所有员工的信息\r\n--消耗1个鲷鱼烧可以将一名员工的体力回复至最大值\r\n--每日5:00，所有员工的体力恢复至最大值\r\n\r\n委托一览\r\n-接到委托时，可派遣1-3名员工，解决一番市的千奇百怪的难题\r\n-活动期间逐步解锁新的委托\r\n-委托会检查员工的力，速，运三项属性。当派遣员工的数值总和满足全部需求时，可出发完成委托\r\n-当派遣员工的数值总和满足更高需求时，可以大成功状态完成委托\r\n-派遣的员工每次体力消耗2点。大成功时会减少为消耗1点\r\n-完成部分委托可以获得新员工\r\n\r\n剧情回顾\r\n-可以查看活动剧情，活动期间逐步解锁",
+        "chsT": "聯動限定活動-萬事屋一姬\r\n活動時間：10月22日維護後-11月12日4:59(UTC+8)\r\n \r\n一番市新裝萬事屋開業，店主竟是魂天神社的當家巫女一姬！\r\n僱傭可靠的員工，一起解決一番市的千奇百怪的委託吧！\r\n \r\n活動任務\r\n-完成活動任務，可以獲得鯛魚燒，使用鯛魚燒可以在人才中心僱傭新員工！\r\n-在段位場或下剋上活動頁面對局也可以獲得鯛魚燒\r\n--四人麻將中獲得1/2/3/4位：可獲得8/6/4/2個鯛魚燒\r\n--三人麻將中獲得1/2/3位：可獲得6/4/2個鯛魚燒\r\n--和牌倍滿及以上/滿貫或跳滿/滿貫未滿：可獲得4/3/2個鯛魚燒\r\n\r\n活動獎勵\r\n-根據解決的委託數量，可以領取限定牌背，限定插畫，尋覓卷軸等豐厚獎勵！\r\n\r\n活動對局\r\n-活動期間，可以體驗全新對局下剋上\r\n-持有的點數越少，和牌的倍率越高，體驗逆勢翻盤，絕處逢生的華麗大逆轉！\r\n-詳情請參考活動對局頁的規則說明\r\n\r\n人才中心\r\n-招募中可以招募員工，協力完成委託\r\n--每名員工擁有力，速，運三項屬性和體力\r\n--部分員工擁有特性，組合特性在委託時也許會事半功倍！\r\n--消耗鯛魚燒可以僱傭員工、刷新招募名冊\r\n-名冊中可以查看萬事屋旗下的所有員工的資訊\r\n--消耗1個鯛魚燒可以將一名員工的體力回復至最大值\r\n--每日5:00，所有員工的體力恢復至最大值\r\n\r\n委託一覽\r\n-接到委託時，可派遣1-3名員工，解決一番市的千奇百怪的難題\r\n-活動期間逐步解鎖新的委託\r\n-委託會檢查員工的力，速，運三項屬性。當派遣員工的數值總和滿足全部需求時，可出發完成委託\r\n-當派遣員工的數值總和滿足更高需求時，可以大成功狀態完成委託\r\n-派遣的員工每次體力消耗2點。大成功時會減少為消耗1點\r\n-完成部分委託可以獲得新員工\r\n \r\n劇情回顧\r\n-可以查看活動劇情，活動期間逐步解鎖",
+        "jp": "よろず屋 一姫について\r\nイベント期間：10月22日（水）～11月12日（水）5:59\r\n\r\n一飜市に新しくできたよろず屋、その店主はまさかの一姫！\r\n一姫の助けになってくれるスタッフを募集して、市民の依頼をこなしていこう！\r\n\r\n期間中にイベント対局・段位戦に参加する、または「クエスト」を達成することで「たい焼き」を入手できます。\r\n-上記対局において一回ごとのたい焼き入手数は以下の通りです。\r\n  四人麻雀\r\n   1位+8\r\n   2位+6\r\n   3位+4\r\n   4位+2\r\n  三人麻雀\r\n   1位+6\r\n   2位+4\r\n   3位+2\r\n  四人麻雀＆三人麻雀\r\n   満貫未満 +2\r\n   満貫＆跳満 +3\r\n   倍満以上 +4\r\n\r\n「求人センター」について\r\n-所属スタッフは「名簿」から確認できます。\r\n-各スタッフは、異なる「力・速・運」の3つのステータスと「体力」を持っています。\r\n-一部のスタッフは「特性」を持っています。うまく「特性」を発動させれば、依頼をこなす効率が上がる場合があります。\r\n-「募集」からスタッフを募集する時、募集リストの更新をする時、および「名簿」からスタッフの体力を回復する時に、「たい焼き」を消費します。\r\n-体力を回復する際に、「たい焼き」を1個消費して体力を全快にできます。\r\n-毎日6時に、全スタッフの体力は最大まで回復します。\r\n\r\n「依頼帳」について\r\n-イベント期間中に、各種依頼が順次開放されます。\r\n-各依頼に1～3名のスタッフを派遣し、こなすことができます。\r\n-派遣されるスタッフたちの合計ステータスが要求ステータスを超えると、「ＧＯ！」ボタンで派遣できます。\r\n-派遣されたスタッフたちの合計ステータスが要求ステータスを大きく超えると、依頼結果が「大成功」になることがあります。\r\n-1回の派遣では、スタッフの体力は2消費されます。「大成功」の場合は、1のみ消費されます。\r\n-一部の依頼をこなすと、新たなスタッフを獲得できることがあります。\r\n\r\n市民の依頼をたくさんこなすと「報酬」から限定麻雀牌、限定イラストや祈願の巻物などの豪華報酬を獲得できます。\r\n\r\nイベント限定シナリオは「物語閲覧」から閲覧できます。\r\n-各エピソードはイベント期間中に順次開放されます。\r\n\r\n「イベント対局」からは新たな特殊ルール、「逆襲の戦」を体験できます。\r\n-この特殊ルールでは、所持点数が少ないほど、和了時の倍率が上がります。華麗な逆転劇をその身で体感しよう！",
+        "en": "Collab Limited Event - Ichihime's Odd Jobs\r\nEvent Period: 10/21 - 11/11 1:59 P.M. (UTC-7)\r\n\r\nA new Odd Jobs business is opening in One Han City, and its owner is none other than Ichihime!\r\nHelp her hire trustworthy employees to tackle all sorts of weird and whimsical requests!\r\n\r\nEvent Missions\r\n- Complete event missions to earn Taiyaki. Use Taiyaki in the Hiring Center to hire new employees.\r\n- You can also earn Taiyaki by playing in Ranked Match or the Upside Down event mode.\r\n-- Get 1st/2nd/3rd/4th place in 4-player mahjong: earn 8/6/4/2 Taiyaki\r\n-- Get 1st/2nd/3rd place in 3-player mahjong: earn 6/4/2 Taiyaki\r\n-- Winning (Baiman or above/Mangan or Haneman/below Mangan): earn 4/3/2 Taiyaki\r\n\r\nEvent Rewards\r\n- Complete a certain number of requests to claim various rewards, including limited Tile Back, limited Illustration, and Summon Scrolls!\r\n\r\nEvent Match\r\n- During the event, you can play in the brand-new match mode: Upside Down.\r\n- The fewer points you have, the higher the multiplier for your winning hands. Experience the thrill of a spectacular comeback, snatching victory from the jaws of defeat!\r\n- Please check the event match page for more details.\r\n\r\nHiring Center\r\n- Hiring: Hire employees to help complete requests.\r\n-- Each employee has three attributes (STR, SPD, LUK) and Stamina.\r\n-- Some employees have special abilities. Teaming them up may lead to much better outcomes.\r\n-- Use Taiyaki to hire employees or refresh the candidate list.\r\n- Roster: View information for all employees currently working at Ichihime's Odd Jobs.\r\n-- Use 1 Taiyaki to fully restore an employee's Stamina.\r\n-- At 2:00 P.M. (UTC-7) daily, all employees will have their Stamina fully restored.\r\n\r\nJob Requests\r\n- When you receive a request, you can assign 1-3 employees to complete it.\r\n- New requests will be unlocked gradually throughout the event.\r\n- Requests will check the combined STR, SPD, and LUK of the assigned employees. When their attributes meet all requirements, they can be sent out to complete the request.\r\n- If the total attributes of your assigned employees meet even higher requirements, they will complete the request with a Great Success.\r\n- Each assigned employee consumes 2 Stamina. A Great Success reduces this cost to 1 Stamina.\r\n- Completing certain requests will reward you with new employees.\r\n\r\nStory Review\r\n- Review event stories here. New chapters will be unlocked as the event progresses.",
+        "kr": "콜라보 한정 이벤트 - 해결사 이치히메\r\n이벤트 기간: 10월 22일 점검 후 ~ 11월 12일 05:59AM (GMT+9)\r\n\r\n이한시에 새로운 해결사 사무소가 설립됐다. 사무소의 주인은 바로 무녀 이치히메!\r\n믿음직한 직원을 고용하고, 이한시의 여러 의뢰를 함께 해결하자!\r\n\r\n<이벤트 임무>\r\n- 이벤트 임무를 완료하면 붕어빵을 획득할 수 있고, 붕어빵으로 인재 채용에서 직원을 고용할 수 있습니다.\r\n- 등급전 또는 하극상 이벤트 대국에서도 붕어빵을 획득할 수 있습니다. 획득하는 붕어빵 개수는 아래와 같습니다:\r\n-- 4인 마작: 1위 8개, 2위 6개, 3위 4개, 4위 2개\r\n-- 3인 마작: 1위 6개, 2위 4개, 3위 2개\r\n-- 화료: 배만 이상 4개, 만관 또는 하네만 3개, 만관 미만 2개\r\n\r\n<이벤트 보상>\r\n- 완료한 의뢰 개수에 따라 한정 마작패, 이벤트 일러스트, 기원의 두루마리 등 다양한 보상을 획득할 수 있습니다.\r\n\r\n<이벤트 대국>\r\n- 이벤트 기간 동안 새로운 이벤트 대국 하극상을 체험할 수 있습니다.\r\n- 점수가 낮을수록 화료 배율이 높아집니다. 짜릿한 대역전을 이뤄내 보세요.\r\n- 자세한 내용은 이벤트 대국 규칙을 참고하여 주시기 바랍니다.\r\n\r\n<인재 채용>\r\n- 인재 채용에서 직원을 고용해 함께 의뢰를 완료할 수 있습니다.\r\n-- 각 직원에겐 힘, 속도, 운 3가지 능력치가 있습니다.\r\n-- 일부 직원은 특성을 보유합니다. 특성을 조합하면 의뢰가 더 수월해집니다.\r\n-- 붕어빵을 사용해 직원을 고용하거나, 명부를 새로고침할 수 있습니다.\r\n- 명부에선 해결사 사무소 내 모든 직원 정보를 확인할 수 있습니다.\r\n-- 붕어빵 1개를 사용해 직원 1명의 체력을 최대로 회복할 수 있습니다.\r\n-- 매일 6:00 AM에 모든 직원의 체력이 최대로 회복됩니다.\r\n\r\n<의뢰 목록>\r\n- 의뢰에는 1~3명의 직원을 파견할 수 있습니다. 이한시의 여러 문제를 해결해 보세요.\r\n- 이벤트 기간에 순차적으로 새로운 의뢰가 오픈됩니다.\r\n- 의뢰에 필요한 직원의 힘, 속도, 운 능력치 조건이 있습니다. 파견한 직원의 능력치 총합이 모든 조건을 만족해야 출발할 수 있습니다.\r\n- 파견한 직원의 능력치 총합이 조건보다 높을 경우, 의뢰를 대성공 상태로 완료할 수 있습니다.\r\n- 파견 직원은 매번 체력 2포인트를 소모합니다. 대성공 시 체력 1포인트를 소모합니다.\r\n- 일부 의뢰를 완료하면 새 직원을 획득할 수 있습니다.\r\n\r\n<스토리>\r\n- 이벤트 스토리를 감상할 수 있습니다. 스토리는 이벤트 기간에 순차적으로 오픈됩니다."
+    },
+    {
+        "id": 25101010,
+        "type": "",
+        "chs": "活动对局",
+        "chsT": "活動對局",
+        "jp": "イベント対局",
+        "en": "Event Match",
+        "kr": "이벤트 대국"
+    },
+    {
+        "id": 25101011,
+        "type": "",
+        "chs": "逆势翻盘，绝处逢生的华丽大逆转！\r\n紧张刺激的四人东对局！\r\n在段位场或下克上活动页面对局可以获得鲷鱼烧，详见活动帮助文本",
+        "chsT": "逆勢翻盤，絕處逢生的華麗大逆轉！\r\n緊張刺激的四人東對局！\r\n在段位場或下剋上活動頁面對局可以獲得鯛魚燒，詳見活動説明文本",
+        "jp": "劣勢からの下剋上、驚天動地の大逆転を狙え！\r\n期間中にイベント対局・段位戦に参加する、または「クエスト」を達成することで「たい焼き」を入手できます。詳細は説明をご確認ください。",
+        "en": "Experience the thrill of a spectacular comeback in the new 4-Player East special mode, Upside Down!\r\nEarn Taiyaki from Ranked Match or Upside Down. See event guide for more details.",
+        "kr": "절체절명의 위기에서 상황을 뒤집어라, 화려한 대역전!\r\n짜릿한 긴장의 연속 4인 동풍전!\r\n이벤트 기간에 등급전 또는 하극상 이벤트 대국에 참여할 시, 붕어빵을 획득할 수 있습니다. 자세한 내용은 이벤트 설명을 참고하여 주시기 바랍니다."
+    },
+    {
+        "id": 25101012,
+        "type": "",
+        "chs": "下克上",
+        "chsT": "下剋上",
+        "jp": "逆襲の戦",
+        "en": "Upside Down",
+        "kr": "하극상"
+    },
+    {
+        "id": 25101013,
+        "type": "",
+        "chs": "特殊规则：下克上说明\r\n- 玩家和牌时，和牌倍率受当前所持点数影响\r\n-- 30000点及以上：和牌倍率x1\r\n-- 20000点-29900点：和牌倍率x2\r\n-- 10000点-19900点：和牌倍率x3\r\n-- 9900点及以下：和牌倍率x4\r\n- 本场点数，不听罚符，流局满贯不受和牌倍率影响\r\n- 立直成功时支付1000点，可能会影响和牌倍率\r\n\r\n段位限制：无\r\n马点：1位+15，2位+5，3位-5，4位-15\r\n入场料：5000铜币\r\n兑换比例：1000点=100铜币\r\n场代：1000铜币\r\n不计算段位分\r\n一姬的礼物盒获取进度：1位+260，2位+130，3位+95，4位+60\r\n当自己最终精算点数为正时可以获得铜币，反之失去铜币",
+        "chsT": "特殊規則：下剋上說明\r\n- 玩家和牌時，和牌倍率受當前所持點數影響\r\n-- 30000點及以上：和牌倍率x1\r\n-- 20000點-29900點：和牌倍率x2\r\n-- 10000點-19900點：和牌倍率x3\r\n-- 9900點及以下：和牌倍率x4\r\n- 本場點數，不聽罰符，流局滿貫不受和牌倍率影響\r\n- 立直成功時支付1000點，可能會影響和牌倍率\r\n\r\n段位限制：無\r\n馬點：1位+15，2位+5，3位-5，4位-15\r\n入場料：5000銅幣\r\n兌換比例：1000點=100銅幣\r\n場代：1000銅幣\r\n不計算段位分\r\n一姬的禮物盒獲取進度：1位+260，2位+130，3位+95，4位+60\r\n當自己最終精算點數為正時可以獲得銅幣，反之失去銅幣",
+        "jp": "特殊ルール「逆襲の戦」について\r\n\r\n-和了時、和了点数の倍率は、その時点での所持点数によって変わります。\r\n--所持点数が30000点以上の場合：和了点数×1\r\n--所持点数が20000点以上、29900点以下の場合：和了点数×2\r\n--所持点数が10000点以上、19900点以下の場合：和了点数×3\r\n--所持点数が9900点以下の場合：和了点数×4\r\n\r\n-供託・ノーテン罰符・流し満貫の点数は、上記倍率に影響されません。\r\n-立直棒の1000点によって倍率が変動する場合があります。\r\n\r\n\r\n対局モード：逆襲の戦-四人東\r\n段位制限：なし\r\n入場料：5000コイン\r\n交換レート：1000点=100コイン\r\n場代：1000コイン\r\n段位点数：影響しません\r\n一姫の宝箱解錠点数：1位+260，2位+130，3位+95，4位+60\\n\r\n絆ポイント：+40\r\n精算点数がプラスの場合はコインを獲得し、マイナスの場合はコインを失います。",
+        "en": "Special Rules: Upside Down\r\nA special multiplier will be applied to winning hands, based on the player's current points.\r\n- 30,000 points or more: 1x\r\n- 20,000 to 29,900 points: 2x\r\n- 10,000 to 19,900 points: 3x\r\n- 9,900 points or less: 4x\r\n*The winning hand multiplier does not apply to total score, noten penalties, or Mangan at Draw.\r\n*Declaring Riichi costs 1,000 points, which may change your winning hand multiplier bracket.\r\n\r\nMatch Mode: Upside Down - 4-Player East\r\nRank Limit: None\r\nOrder Bonus: 1st +15, 2nd +5, 3rd -5, 4th -15\r\nEntry Limit: 5,000 Coppers\r\nExchange Rate: 1,000 Points = 100 Coppers\r\nEntry Fee: 1,000 Coppers\r\nMatches played in this mode are not ranked.\r\nCasual Chest Progress: 1st +260, 2nd +130, 3rd +95, 4th +60\r\n\r\nYou will receive Coppers if you finish with positive match points, or lose Coppers if your final score is in the negative.",
+        "kr": "특수 규칙: 하극상\r\n\r\n- 플레이어가 화료 시, 현재 소지한 점수에 따라 배율이 달라집니다.\r\n-- 30,000점 이상: 화료 배율 x1\r\n-- 20,000점~29,900점: 화료 배율 x2\r\n-- 10,000점~19,900점: 화료 배율 x3\r\n-- 9,900점 이하: 화료 배율 x4\r\n- 합계 점수, 노텐 벌금, 유국 만관은 화료 배율에 영향받지 않습니다.\r\n- 리치 시 1,000점을 지불하므로, 화료 배율이 변할 수 있습니다.\r\n\r\n등급 제한: 없음\r\n우마: 1위 +15, 2위 +5, 3위 -5, 4위 -15\r\n입장료: 5000코인\r\n교환 비율: 1000점= 100코인\r\n장대: 1000코인\r\n등급 점수: 영향 없음\r\n이치히메의 보물상자 포인트: 1위 +260, 2위 +130, 3위 +95, 4위 +60\r\n최종 점수가 플러스일 경우 코인을 획득하고, 마이너스일 경우 코인을 잃는다."
+    },
+    {
+        "id": 25101014,
+        "type": "",
+        "chs": "特殊规则：下克上说明\r\n- 玩家和牌时，和牌倍率受当前所持点数影响\r\n-- 30000点及以上：和牌倍率x1\r\n-- 20000点-29900点：和牌倍率x2\r\n-- 10000点-19900点：和牌倍率x3\r\n-- 9900点及以下：和牌倍率x4\r\n- 本场点数，不听罚符，流局满贯不受和牌倍率影响\r\n- 立直成功时支付1000点，可能会影响和牌倍率",
+        "chsT": "特殊規則：下剋上說明\r\n- 玩家和牌時，和牌倍率受當前所持點數影響\r\n-- 30000點及以上：和牌倍率x1\r\n-- 20000點-29900點：和牌倍率x2\r\n-- 10000點-19900點：和牌倍率x3\r\n-- 9900點及以下：和牌倍率x4\r\n- 本場點數，不聽罰符，流局滿貫不受和牌倍率影響\r\n- 立直成功時支付1000點，可能會影響和牌倍率",
+        "jp": "特殊ルール「逆襲の戦」について\r\n\r\n-和了時、和了点数の倍率は、その時点での所持点数によって変わります。\r\n--所持点数が30000点以上の場合：和了点数×1\r\n--所持点数が20000点以上、29900点以下の場合：和了点数×2\r\n--所持点数が10000点以上、19900点以下の場合：和了点数×3\r\n--所持点数が9900点以下の場合：和了点数×4\r\n\r\n-供託・ノーテン罰符・流し満貫の点数は上記倍率に影響されません。\r\n-立直棒の1000点によって倍率が変動する場合があります。",
+        "en": "Special Rules: Upside Down\r\nA special multiplier will be applied to winning hands, based on the player's current points.\r\n- 30,000 points or more: 1x\r\n- 20,000 to 29,900 points: 2x\r\n- 10,000 to 19,900 points: 3x\r\n- 9,900 points or less: 4x\r\n*The winning hand multiplier does not apply to total score, noten penalties, or Mangan at Draw.\r\n*Declaring Riichi costs 1,000 points, which may change your winning hand multiplier bracket.",
+        "kr": "특수 규칙: 하극상\r\n\r\n- 플레이어가 화료 시, 현재 소지한 점수에 따라 배율이 달라집니다.\r\n-- 30,000점 이상: 화료 배율 x1\r\n-- 20,000점~29,900점: 화료 배율 x2\r\n-- 10,000점~19,900점: 화료 배율 x3\r\n-- 9,900점 이하: 화료 배율 x4\r\n- 합계 점수, 노텐 벌금, 유국 만관은 화료 배율에 영향받지 않습니다.\r\n- 리치 시 1,000점을 지불하므로, 화료 배율이 변할 수 있습니다."
+    },
+    {
+        "id": 25101015,
+        "type": "",
+        "chs": "任务",
+        "chsT": "任務",
+        "jp": "クエスト",
+        "en": "Missions",
+        "kr": "임무"
+    },
+    {
+        "id": 25101016,
+        "type": "",
+        "chs": "活动任务每日5:00更新",
+        "chsT": "活動任務每日5:00更新",
+        "jp": "イベントクエストは毎日6時に更新されます",
+        "en": "Missions refresh daily at 2:00 P.M. (UTC-7).",
+        "kr": "매일 6:00 AM에 임무가 초기화됩니다."
+    },
+    {
+        "id": 25101017,
+        "type": "",
+        "chs": "奖励",
+        "chsT": "獎勵",
+        "jp": "報酬",
+        "en": "Rewards",
+        "kr": "보상"
+    },
+    {
+        "id": 25101018,
+        "type": "",
+        "chs": "剧情回顾",
+        "chsT": "劇情回顧",
+        "jp": "物語閲覧",
+        "en": "Story Review",
+        "kr": "스토리"
+    },
+    {
+        "id": 25101019,
+        "type": "",
+        "chs": "",
+        "chsT": "",
+        "jp": "",
+        "en": "",
+        "kr": ""
+    },
+    {
+        "id": 25101020,
+        "type": "",
+        "chs": "人才中心",
+        "chsT": "人才中心",
+        "jp": "求人センター",
+        "en": "Hiring Center",
+        "kr": "인재 채용"
+    },
+    {
+        "id": 25101021,
+        "type": "",
+        "chs": "招募",
+        "chsT": "招募",
+        "jp": "募集",
+        "en": "Hiring",
+        "kr": "채용하기"
+    },
+    {
+        "id": 25101022,
+        "type": "",
+        "chs": "招募",
+        "chsT": "招募",
+        "jp": "募集",
+        "en": "Hire",
+        "kr": "채용하기"
+    },
+    {
+        "id": 25101023,
+        "type": "",
+        "chs": "没有新人了喵~",
+        "chsT": "沒有新人了喵~",
+        "jp": "新人はもういません",
+        "en": "There are no new candidates, nyaa",
+        "kr": "신입이 없다냥~"
+    },
+    {
+        "id": 25101024,
+        "type": "",
+        "chs": "名册",
+        "chsT": "名冊",
+        "jp": "名簿",
+        "en": "Roster",
+        "kr": "명부"
+    },
+    {
+        "id": 25101025,
+        "type": "",
+        "chs": "委托一览",
+        "chsT": "委託一覽",
+        "jp": "依頼帳",
+        "en": "Job Requests",
+        "kr": "의뢰 목록"
+    },
+    {
+        "id": 25101026,
+        "type": "",
+        "chs": "发布人：",
+        "chsT": "發布人：",
+        "jp": "依頼人",
+        "en": "Client:",
+        "kr": "의뢰인:"
+    },
+    {
+        "id": 25101027,
+        "type": "",
+        "chs": "完成委托可获得员工{0}",
+        "chsT": "完成委託可獲得員工{0}",
+        "jp": "依頼達成時：スタッフ{0}を獲得",
+        "en": "Complete the request to get Employee {0}",
+        "kr": "의뢰 완료 후 직원 {0} 획득 가능"
+    },
+    {
+        "id": 25101028,
+        "type": "",
+        "chs": "委托需求",
+        "chsT": "委託需求",
+        "jp": "要求ステータス",
+        "en": "Requirements",
+        "kr": "필요 능력치"
+    },
+    {
+        "id": 25101029,
+        "type": "",
+        "chs": "触发特性",
+        "chsT": "觸發特性",
+        "jp": "特性発動",
+        "en": "Abilities",
+        "kr": "특성 효과"
+    },
+    {
+        "id": 25101030,
+        "type": "",
+        "chs": "派遣",
+        "chsT": "派遣",
+        "jp": "派遣",
+        "en": "Assignment",
+        "kr": "파견"
+    },
+    {
+        "id": 25101031,
+        "type": "",
+        "chs": "体力降序",
+        "chsT": "體力降序",
+        "jp": "体力降順",
+        "en": "Stamina (Desc)",
+        "kr": "체력 높은순"
+    },
+    {
+        "id": 25101032,
+        "type": "",
+        "chs": "力降序",
+        "chsT": "力降序",
+        "jp": "力降順",
+        "en": "STR (Desc)",
+        "kr": "힘 높은순"
+    },
+    {
+        "id": 25101033,
+        "type": "",
+        "chs": "速降序",
+        "chsT": "速降序",
+        "jp": "速降順",
+        "en": "SPD (Desc)",
+        "kr": "속도 높은순"
+    },
+    {
+        "id": 25101034,
+        "type": "",
+        "chs": "运降序",
+        "chsT": "運降序",
+        "jp": "運降順",
+        "en": "LUK (Desc)",
+        "kr": "운 높은순"
+    },
+    {
+        "id": 25101035,
+        "type": "",
+        "chs": "委托进行中",
+        "chsT": "委託進行中",
+        "jp": "依頼進行中",
+        "en": "Request in progress",
+        "kr": "의뢰 중"
+    },
+    {
+        "id": 25101036,
+        "type": "",
+        "chs": "今日没有新的委托了喵~",
+        "chsT": "今日沒有新的委託了喵~",
+        "jp": "本日の依頼はすべて完了しました",
+        "en": "No new requests today, nyaa",
+        "kr": "오늘 의뢰를 완료했다냥~"
+    },
+    {
+        "id": 25101037,
+        "type": "",
+        "chs": "已经完成全部委托了喵~",
+        "chsT": "已經完成全部委託了喵~",
+        "jp": "すべての依頼が完了しました",
+        "en": "You've finished all the requests, nyaa",
+        "kr": "모든 의뢰를 완료했다냥~"
+    },
+    {
+        "id": 25101038,
+        "type": "",
+        "chs": "鲷鱼烧不足喵",
+        "chsT": "鯛魚燒不足喵",
+        "jp": "たい焼きが足りません",
+        "en": "Not enough Taiyaki, nyaa",
+        "kr": "붕어빵이 부족하다냥"
+    },
+    {
+        "id": 25101039,
+        "type": "",
+        "chs": "充能",
+        "chsT": "充能",
+        "jp": "回復",
+        "en": "Restore",
+        "kr": "체력 충전"
+    },
+    {
+        "id": 25101040,
+        "type": "",
+        "chs": "确认",
+        "chsT": "確認",
+        "jp": "確認",
+        "en": "Confirm",
+        "kr": "확인"
+    },
+    {
+        "id": 25101041,
+        "type": "",
+        "chs": "取消",
+        "chsT": "取消",
+        "jp": "取消",
+        "en": "Cancel",
+        "kr": "취소"
+    },
+    {
+        "id": 25101042,
+        "type": "",
+        "chs": "委托详情",
+        "chsT": "委託詳情",
+        "jp": "依頼詳細",
+        "en": "About Request",
+        "kr": "의뢰 내용"
+    },
+    {
+        "id": 25101043,
+        "type": "",
+        "chs": "什么都没有喵",
+        "chsT": "什麼都沒有喵",
+        "jp": "何もありません",
+        "en": "There's nothing here, nyaa",
+        "kr": "아무 것도 없다냥"
+    },
+    {
+        "id": 25101044,
+        "type": "",
+        "chs": "查看",
+        "chsT": "查看",
+        "jp": "確認",
+        "en": "Watch",
+        "kr": "상세"
+    },
+    {
+        "id": 25101045,
+        "type": "",
+        "chs": "：",
+        "chsT": "：",
+        "jp": "：",
+        "en": ":",
+        "kr": ":"
+    },
+    {
+        "id": 25101046,
+        "type": "",
+        "chs": "无特性",
+        "chsT": "無特性",
+        "jp": "特性なし",
+        "en": "None",
+        "kr": "효과 없음"
+    },
+    {
+        "id": 25101047,
+        "type": "",
+        "chs": "无法出发",
+        "chsT": "無法出發",
+        "jp": "出発できません",
+        "en": "Unable to Go",
+        "kr": "출발 불가"
+    },
+    {
+        "id": 25101048,
+        "type": "",
+        "chs": "成功",
+        "chsT": "成功",
+        "jp": "成功",
+        "en": "Success",
+        "kr": "성공"
+    },
+    {
+        "id": 25101049,
+        "type": "",
+        "chs": "大成功",
+        "chsT": "大成功",
+        "jp": "大成功",
+        "en": "Great Success",
+        "kr": "대성공"
+    },
+    {
+        "id": 25101050,
+        "type": "",
+        "chs": "获得员工",
+        "chsT": "獲得員工",
+        "jp": "スタッフ獲得",
+        "en": "New employee!",
+        "kr": "직원 획득"
+    },
+    {
+        "id": 25101051,
+        "type": "",
+        "chs": "主人，从今天起我们就要经营一番市的万事屋了！目标是解决市民的各种困难喵！",
+        "chsT": "主人，從今天起我們就要經營一番市的萬事屋了！目標是解決市民的各種困難喵！",
+        "jp": "ご主人！ 今日からよろず屋 一姫が営業開始にゃ！\r\nみんなの依頼をこなしていくにゃー！",
+        "en": "Master, starting today, we're running the Odd Jobs in One Han City, nyaa! Our goal is to solve all the citizens' problems, nyaa!",
+        "kr": "주인, 오늘부터 함께 이한시의 해결사 사무소를 운영하는 거다냥! 목표는 이한시 시민의 여러 가지 어려움을 해결해 주는 거다냥!"
+    },
+    {
+        "id": 25101052,
+        "type": "",
+        "chs": "但只有两个人肯定会忙不过来喵……主人，我们去【人才中心】看看有没有厉害的帮手喵！",
+        "chsT": "但只有兩個人肯定會忙不過來喵……主人，我們去【人才中心】看看有沒有厲害的幫手喵！",
+        "jp": "でも、二人だけだと心もとないにゃ……そうにゃ！\r\n「求人センター」を見てみるにゃ！",
+        "en": "But there's no way just the two of us can handle everything, nyaa... Master, let's go check the [Hiring Center] and see if we can find any amazing helpers, nyaa!",
+        "kr": "하지만 우리 둘만으로는 힘들 것 같다냥…… 주인, '인재 채용'하러 가보자냥! 일을 도와줄 멋진 사람이 있을지도 모른다냥!"
+    },
+    {
+        "id": 25101053,
+        "type": "",
+        "chs": "太好了，阿银愿意来帮忙喵！有了员工，我们来看看万事屋的委托喵！",
+        "chsT": "太好了，阿銀願意來幫忙喵！有了員工，我們來看看萬事屋的委託喵！",
+        "jp": "よかったにゃ、銀さんが助けてくれるにゃ。\r\n人手が増えたことだし、「依頼帳」を見てみるにゃ！",
+        "en": "Yay, Gin is willing to help, nyaa! Now that we have an employee, let's take a look at the requests, nyaa!",
+        "kr": "우와, 긴토키 씨가 도와주겠다고 한다냥! 직원이 생겼으니, 어떤 의뢰가 있는지 살펴보자냥!"
+    },
+    {
+        "id": 25101054,
+        "type": "",
+        "chs": "第一条是一姬的委托喵！那么准备工作就拜托阿银了喵！",
+        "chsT": "第一條是一姬的委託喵！那麼準備工作就拜託阿銀了喵！",
+        "jp": "まずは、この一姫が出した依頼をこなしてみるにゃ！",
+        "en": "The first request is from... me, Ichihime, nyaa! Okay, Gin, I'm leaving the prep work to you, nyaa!",
+        "kr": "첫 의뢰는 이치히메의 의뢰다냥! 그럼, 준비는 긴토키 씨에게 맡기겠다냥!"
+    },
+    {
+        "id": 25101055,
+        "type": "",
+        "chs": "委托圆满完成了喵！这是鲷鱼烧，请大家一起吃喵！",
+        "chsT": "委託圓滿完成了喵！這是鯛魚燒，請大家一起吃喵！",
+        "jp": "依頼は無事成功したみたいにゃ！\r\n報酬のたい焼きは、みんなで食べようにゃ！",
+        "en": "The request was a purr-fect success! Here's some Taiyaki for everyone, nyaa!",
+        "kr": "의뢰를 완료했다냥! 여기 붕어빵이다냥. 함께 먹어라냥!"
+    },
+    {
+        "id": 25101056,
+        "type": "",
+        "chs": "万事屋顺利开张了喵！接下来的目标是：招募更多同伴，维护一番市的和平喵！",
+        "chsT": "萬事屋順利開張了喵！接下來的目標是：招募更多同伴，維護一番市的和平喵！",
+        "jp": "これなら、よろず屋はやっていけそうだにゃ。\r\nよーし、今日から仲間をいっぱい集めて、\r\n一飜市の平和を守るにゃ～！",
+        "en": "Ichihime's Odd Jobs is now officially open, nyaa! Our next goal: expand our business and protect the peace of One Han City, nyaa!",
+        "kr": "순조롭게 해결사 사무소 오픈이다냥! 다음 목표는 동료를 더 많이 모아서, 이한시의 평화를 지키는 거다냥!"
+    },
+    {
+        "id": 25101057,
+        "type": "",
+        "chs": "",
+        "chsT": "",
+        "jp": "",
+        "en": "",
+        "kr": ""
+    },
+    {
+        "id": 25101058,
+        "type": "",
+        "chs": "一姬",
+        "chsT": "一姬",
+        "jp": "一姫",
+        "en": "Ichihime",
+        "kr": "이치히메"
+    },
+    {
+        "id": 25101059,
+        "type": "",
+        "chs": "万事屋开张的准备工作喵～",
+        "chsT": "萬事屋開張的準備工作喵～",
+        "jp": "よろず屋 一姫、営業の準備をするにゃ～！",
+        "en": "Preparations for the Odd Jobs grand opening, nyaa.",
+        "kr": "해결사 사무소 오픈 준비다냥~"
+    },
+    {
+        "id": 25101060,
+        "type": "",
+        "chs": "暂无推荐人选喵",
+        "chsT": "暫無推薦人選喵",
+        "jp": "おすすめスタッフはまだいないようにゃ。",
+        "en": "No recommended candidates at the moment, nyaa.",
+        "kr": "추천할 사람이 없다냥"
+    },
+    {
+        "id": 25101061,
+        "type": "",
+        "chs": "鲷鱼烧不足，可通过活动任务/段位战/活动页面内匹配对局获得",
+        "chsT": "鯛魚燒不足，可透過活動任務/段位戰/活動頁面內匹配對局獲得",
+        "jp": "たい焼きが足りません。イベントクエスト達成、または段位戦・イベント対局参加することで入手できます。",
+        "en": "Not enough Taiyaki! Earn more by completing event missions, playing Ranked matches, or playing the Upside Down event mode.",
+        "kr": "붕어빵이 부족합니다. 이벤트 임무, 등급전, 이벤트 대국을 완료하면 획득할 수 있습니다."
+    },
+    {
+        "id": 25101062,
+        "type": "",
+        "chs": "大成功消耗1体力，成功消耗2体力",
+        "chsT": "大成功消耗1體力，成功消耗2體力",
+        "jp": "依頼成功の場合は2体力、大成功の場合は1体力を消費します。",
+        "en": "A Great Success costs 1 Stamina, while a regular Success costs 2 Stamina.",
+        "kr": "의뢰 성공 시 체력 2포인트를 소모합니다. 대성공 시 체력 1포인트를 소모합니다."
+    },
+    {
+        "id": 25101063,
+        "type": "",
+        "chs": "员工体力不足，使用鲷鱼烧可以补充体力",
+        "chsT": "員工體力不足，使用鯛魚燒可以補充體力",
+        "jp": "体力が足りません。「求人センター」→「名簿」から、「たい焼き」を消費して体力を回復することができます。",
+        "en": "This employee is out of Stamina. Use Taiyaki to restore it.",
+        "kr": "체력이 부족합니다. 붕어빵을 사용해 체력을 회복할 수 있습니다."
+    },
+    {
+        "id": 25101064,
+        "type": "",
+        "chs": "该委托的属性需求未满足，请增加或更换员工",
+        "chsT": "該委託的屬性需求未滿足，請增加或更換員工",
+        "jp": "要求ステータスに満たしていません。派遣スタッフを変更し、再度お試しください。",
+        "en": "Attribute requirements not met. Please add or change employees.",
+        "kr": "의뢰 능력치 조건을 만족하지 못했습니다. 참여 직원을 늘리거나, 다른 직원으로 바꿔 주세요."
+    },
+    {
+        "id": 25101065,
+        "type": "",
+        "chs": "每日5:00，所有员工的体力恢复至最大值",
+        "chsT": "每日5:00，所有員工的體力恢復至最大值",
+        "jp": "毎日6時に、全スタッフの体力は最大まで回復します。",
+        "en": "At 2:00 P.M. (UTC-7) daily, all employees will have their Stamina fully restored.",
+        "kr": "매일 6:00 AM에 모든 직원의 체력이 최대로 회복됩니다."
     }
 ]

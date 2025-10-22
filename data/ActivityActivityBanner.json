@@ -394,5 +394,16 @@
         "bannerLeftSelected": "",
         "bannerLeftIcon": "",
         "timeRemind": 0
+    },
+    {
+        "id": 251001,
+        "sort": 128,
+        "bannerType": 2,
+        "enterIcon": "myres2/activity_banner/25yh_0.png",
+        "bannerBig": "myres2/activity_banner/25yh_b.jpg",
+        "bannerLeft": "myres2/activity_banner/25yh.png",
+        "bannerLeftSelected": "",
+        "bannerLeftIcon": "",
+        "timeRemind": 0
     }
 ]

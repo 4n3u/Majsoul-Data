@@ -7708,5 +7708,105 @@
         "hiddenReward": "",
         "limitId": 0,
         "deprecated": 0
+    },
+    {
+        "id": 25100601,
+        "activityId": 251006,
+        "baseTaskId": 23061,
+        "rewardId": 30900095,
+        "rewardCount": 8,
+        "hiddenReward": "",
+        "limitId": 0,
+        "deprecated": 0
+    },
+    {
+        "id": 25100602,
+        "activityId": 251006,
+        "baseTaskId": 23062,
+        "rewardId": 30900095,
+        "rewardCount": 6,
+        "hiddenReward": "",
+        "limitId": 0,
+        "deprecated": 0
+    },
+    {
+        "id": 25100603,
+        "activityId": 251006,
+        "baseTaskId": 23063,
+        "rewardId": 30900095,
+        "rewardCount": 4,
+        "hiddenReward": "",
+        "limitId": 0,
+        "deprecated": 0
+    },
+    {
+        "id": 25100604,
+        "activityId": 251006,
+        "baseTaskId": 23064,
+        "rewardId": 30900095,
+        "rewardCount": 2,
+        "hiddenReward": "",
+        "limitId": 0,
+        "deprecated": 0
+    },
+    {
+        "id": 25100605,
+        "activityId": 251006,
+        "baseTaskId": 23065,
+        "rewardId": 30900095,
+        "rewardCount": 6,
+        "hiddenReward": "",
+        "limitId": 0,
+        "deprecated": 0
+    },
+    {
+        "id": 25100606,
+        "activityId": 251006,
+        "baseTaskId": 23066,
+        "rewardId": 30900095,
+        "rewardCount": 4,
+        "hiddenReward": "",
+        "limitId": 0,
+        "deprecated": 0
+    },
+    {
+        "id": 25100607,
+        "activityId": 251006,
+        "baseTaskId": 23067,
+        "rewardId": 30900095,
+        "rewardCount": 2,
+        "hiddenReward": "",
+        "limitId": 0,
+        "deprecated": 0
+    },
+    {
+        "id": 25100608,
+        "activityId": 251006,
+        "baseTaskId": 23068,
+        "rewardId": 30900095,
+        "rewardCount": 2,
+        "hiddenReward": "",
+        "limitId": 0,
+        "deprecated": 0
+    },
+    {
+        "id": 25100609,
+        "activityId": 251006,
+        "baseTaskId": 23069,
+        "rewardId": 30900095,
+        "rewardCount": 3,
+        "hiddenReward": "",
+        "limitId": 0,
+        "deprecated": 0
+    },
+    {
+        "id": 25100610,
+        "activityId": 251006,
+        "baseTaskId": 23070,
+        "rewardId": 30900095,
+        "rewardCount": 4,
+        "hiddenReward": "",
+        "limitId": 0,
+        "deprecated": 0
     }
 ]

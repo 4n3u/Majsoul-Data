@@ -318,6 +318,12 @@
         "type": "lobby"
     },
     {
+        "id": 156,
+        "path": "audio/audio_lobby/gacha_banner_yh",
+        "timeLength": 0,
+        "type": "lobby"
+    },
+    {
         "id": 201,
         "path": "audio/audio_mj/beiman",
         "timeLength": 2098,
@@ -1614,6 +1620,60 @@
         "type": "event"
     },
     {
+        "id": 10355,
+        "path": "audio/audio_event/2510yh_bgm",
+        "timeLength": 0,
+        "type": "event"
+    },
+    {
+        "id": 10356,
+        "path": "audio/audio_event/2510yh_activity_enter",
+        "timeLength": 0,
+        "type": "event"
+    },
+    {
+        "id": 10357,
+        "path": "audio/audio_event/2510yh_ui_open",
+        "timeLength": 0,
+        "type": "event"
+    },
+    {
+        "id": 10358,
+        "path": "audio/audio_event/2510yh_request_start",
+        "timeLength": 0,
+        "type": "event"
+    },
+    {
+        "id": 10359,
+        "path": "audio/audio_event/2510yh_request_success",
+        "timeLength": 0,
+        "type": "event"
+    },
+    {
+        "id": 10360,
+        "path": "audio/audio_event/2510yh_request_great_success",
+        "timeLength": 0,
+        "type": "event"
+    },
+    {
+        "id": 10361,
+        "path": "audio/audio_event/2510yh_pass",
+        "timeLength": 0,
+        "type": "event"
+    },
+    {
+        "id": 10362,
+        "path": "audio/audio_event/2510yh_hire_employee",
+        "timeLength": 0,
+        "type": "event"
+    },
+    {
+        "id": 10363,
+        "path": "audio/audio_event/2510yh_charge",
+        "timeLength": 0,
+        "type": "event"
+    },
+    {
         "id": 305032,
         "path": "audio/audio_mj/effect_liqi_canying",
         "timeLength": 1314,
@@ -2222,6 +2282,18 @@
     {
         "id": 308042,
         "path": "audio/audio_mj/effect_liqi_25hf",
+        "timeLength": 0,
+        "type": "effect"
+    },
+    {
+        "id": 308046,
+        "path": "audio/audio_mj/ron_25yh",
+        "timeLength": 0,
+        "type": "effect"
+    },
+    {
+        "id": 308047,
+        "path": "audio/audio_mj/effect_liqi_25yh",
         "timeLength": 0,
         "type": "effect"
     }

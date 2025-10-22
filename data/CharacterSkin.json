@@ -528,11 +528,11 @@
     },
     {
         "skinid": 40010703,
-        "spineLayers": 1,
+        "spineLayers": 2,
         "effects": [
             "",
-            "",
-            "",
+            "yuanxiao_25wuxia_eff2",
+            "yuanxiao_25wuxia_eff3",
             ""
         ],
         "audioCelebrate": "YX_SE_40010703/celebrate",

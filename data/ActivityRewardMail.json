@@ -70,5 +70,9 @@
     {
         "activityId": 250902,
         "mailTemplateId": 131
+    },
+    {
+        "activityId": 251003,
+        "mailTemplateId": 132
     }
 ]

@@ -609,6 +609,13 @@
         "type": 1
     },
     {
+        "id": 6005,
+        "path": "spot/spot_bgm/xunmi",
+        "timeLength": 0,
+        "str": "寻觅前bgm",
+        "type": 1
+    },
+    {
         "id": 10001,
         "path": "spot/spot_se/bubble01",
         "timeLength": 0,
