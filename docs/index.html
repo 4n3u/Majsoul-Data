@@ -5005,6 +5005,18 @@
               
               
               
+                <li>
+                  <a href="#lq.FastTest"><span class="badge">S</span>FastTest</a>
+                </li>
+              
+                <li>
+                  <a href="#lq.Lobby"><span class="badge">S</span>Lobby</a>
+                </li>
+              
+                <li>
+                  <a href="#lq.Route"><span class="badge">S</span>Route</a>
+                </li>
+              
             </ul>
           </li>
         
@@ -55240,6 +55252,2947 @@
       
 
       
+        <h3 id="lq.FastTest">FastTest</h3>
+        <p></p>
+        <table class="enum-table">
+          <thead>
+            <tr><td>Method Name</td><td>Request Type</td><td>Response Type</td><td>Description</td></tr>
+          </thead>
+          <tbody>
+            
+              <tr>
+                <td>authGame</td>
+                <td><a href="#lq.ReqAuthGame">ReqAuthGame</a></td>
+                <td><a href="#lq.ResAuthGame">ResAuthGame</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>enterGame</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResEnterGame">ResEnterGame</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>syncGame</td>
+                <td><a href="#lq.ReqSyncGame">ReqSyncGame</a></td>
+                <td><a href="#lq.ResSyncGame">ResSyncGame</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>finishSyncGame</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>terminateGame</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>inputOperation</td>
+                <td><a href="#lq.ReqSelfOperation">ReqSelfOperation</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>inputChiPengGang</td>
+                <td><a href="#lq.ReqChiPengGang">ReqChiPengGang</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>confirmNewRound</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>broadcastInGame</td>
+                <td><a href="#lq.ReqBroadcastInGame">ReqBroadcastInGame</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>inputGameGMCommand</td>
+                <td><a href="#lq.ReqGMCommandInGaming">ReqGMCommandInGaming</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchGamePlayerState</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResGamePlayerState">ResGamePlayerState</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>checkNetworkDelay</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>clearLeaving</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>voteGameEnd</td>
+                <td><a href="#lq.ReqVoteGameEnd">ReqVoteGameEnd</a></td>
+                <td><a href="#lq.ResGameEndVote">ResGameEndVote</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>authObserve</td>
+                <td><a href="#lq.ReqAuthObserve">ReqAuthObserve</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>startObserve</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResStartObserve">ResStartObserve</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>stopObserve</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+          </tbody>
+        </table>
+
+        
+        <h3 id="lq.Lobby">Lobby</h3>
+        <p></p>
+        <table class="enum-table">
+          <thead>
+            <tr><td>Method Name</td><td>Request Type</td><td>Response Type</td><td>Description</td></tr>
+          </thead>
+          <tbody>
+            
+              <tr>
+                <td>fetchConnectionInfo</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResConnectionInfo">ResConnectionInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchQueueInfo</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResFetchQueueInfo">ResFetchQueueInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>cancelQueue</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>openidCheck</td>
+                <td><a href="#lq.ReqOpenidCheck">ReqOpenidCheck</a></td>
+                <td><a href="#lq.ResOauth2Check">ResOauth2Check</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>signup</td>
+                <td><a href="#lq.ReqSignupAccount">ReqSignupAccount</a></td>
+                <td><a href="#lq.ResSignupAccount">ResSignupAccount</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>login</td>
+                <td><a href="#lq.ReqLogin">ReqLogin</a></td>
+                <td><a href="#lq.ResLogin">ResLogin</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>prepareLogin</td>
+                <td><a href="#lq.ReqPrepareLogin">ReqPrepareLogin</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fastLogin</td>
+                <td><a href="#lq.ReqFastLogin">ReqFastLogin</a></td>
+                <td><a href="#lq.ResFastLogin">ResFastLogin</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchInfo</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResFetchInfo">ResFetchInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>loginSuccess</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchServerMaintenanceInfo</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResFetchServerMaintenanceInfo">ResFetchServerMaintenanceInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>emailLogin</td>
+                <td><a href="#lq.ReqEmailLogin">ReqEmailLogin</a></td>
+                <td><a href="#lq.ResLogin">ResLogin</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>oauth2Auth</td>
+                <td><a href="#lq.ReqOauth2Auth">ReqOauth2Auth</a></td>
+                <td><a href="#lq.ResOauth2Auth">ResOauth2Auth</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>oauth2Check</td>
+                <td><a href="#lq.ReqOauth2Check">ReqOauth2Check</a></td>
+                <td><a href="#lq.ResOauth2Check">ResOauth2Check</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>oauth2Signup</td>
+                <td><a href="#lq.ReqOauth2Signup">ReqOauth2Signup</a></td>
+                <td><a href="#lq.ResOauth2Signup">ResOauth2Signup</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>oauth2Login</td>
+                <td><a href="#lq.ReqOauth2Login">ReqOauth2Login</a></td>
+                <td><a href="#lq.ResLogin">ResLogin</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>dmmPreLogin</td>
+                <td><a href="#lq.ReqDMMPreLogin">ReqDMMPreLogin</a></td>
+                <td><a href="#lq.ResDMMPreLogin">ResDMMPreLogin</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createPhoneVerifyCode</td>
+                <td><a href="#lq.ReqCreatePhoneVerifyCode">ReqCreatePhoneVerifyCode</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createEmailVerifyCode</td>
+                <td><a href="#lq.ReqCreateEmailVerifyCode">ReqCreateEmailVerifyCode</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>verfifyCodeForSecure</td>
+                <td><a href="#lq.ReqVerifyCodeForSecure">ReqVerifyCodeForSecure</a></td>
+                <td><a href="#lq.ResVerfiyCodeForSecure">ResVerfiyCodeForSecure</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>bindPhoneNumber</td>
+                <td><a href="#lq.ReqBindPhoneNumber">ReqBindPhoneNumber</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>unbindPhoneNumber</td>
+                <td><a href="#lq.ReqUnbindPhoneNumber">ReqUnbindPhoneNumber</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchPhoneLoginBind</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResFetchPhoneLoginBind">ResFetchPhoneLoginBind</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createPhoneLoginBind</td>
+                <td><a href="#lq.ReqCreatePhoneLoginBind">ReqCreatePhoneLoginBind</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>bindEmail</td>
+                <td><a href="#lq.ReqBindEmail">ReqBindEmail</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>modifyPassword</td>
+                <td><a href="#lq.ReqModifyPassword">ReqModifyPassword</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>bindAccount</td>
+                <td><a href="#lq.ReqBindAccount">ReqBindAccount</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>logout</td>
+                <td><a href="#lq.ReqLogout">ReqLogout</a></td>
+                <td><a href="#lq.ResLogout">ResLogout</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>heatbeat</td>
+                <td><a href="#lq.ReqHeatBeat">ReqHeatBeat</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>searchAccountByEid</td>
+                <td><a href="#lq.ReqSearchAccountByEidLobby">ReqSearchAccountByEidLobby</a></td>
+                <td><a href="#lq.ResSearchAccountbyEidLobby">ResSearchAccountbyEidLobby</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>loginBeat</td>
+                <td><a href="#lq.ReqLoginBeat">ReqLoginBeat</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createNickname</td>
+                <td><a href="#lq.ReqCreateNickname">ReqCreateNickname</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>modifyNickname</td>
+                <td><a href="#lq.ReqModifyNickname">ReqModifyNickname</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>modifyBirthday</td>
+                <td><a href="#lq.ReqModifyBirthday">ReqModifyBirthday</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchRoom</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResSelfRoom">ResSelfRoom</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchGamingInfo</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResFetchGamingInfo">ResFetchGamingInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createRoom</td>
+                <td><a href="#lq.ReqCreateRoom">ReqCreateRoom</a></td>
+                <td><a href="#lq.ResCreateRoom">ResCreateRoom</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>joinRoom</td>
+                <td><a href="#lq.ReqJoinRoom">ReqJoinRoom</a></td>
+                <td><a href="#lq.ResJoinRoom">ResJoinRoom</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>leaveRoom</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>readyPlay</td>
+                <td><a href="#lq.ReqRoomReady">ReqRoomReady</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>dressingStatus</td>
+                <td><a href="#lq.ReqRoomDressing">ReqRoomDressing</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>startRoom</td>
+                <td><a href="#lq.ReqRoomStart">ReqRoomStart</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>roomKickPlayer</td>
+                <td><a href="#lq.ReqRoomKickPlayer">ReqRoomKickPlayer</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>modifyRoom</td>
+                <td><a href="#lq.ReqModifyRoom">ReqModifyRoom</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>addRoomRobot</td>
+                <td><a href="#lq.ReqAddRoomRobot">ReqAddRoomRobot</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>matchGame</td>
+                <td><a href="#lq.ReqJoinMatchQueue">ReqJoinMatchQueue</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>cancelMatch</td>
+                <td><a href="#lq.ReqCancelMatchQueue">ReqCancelMatchQueue</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchAccountInfo</td>
+                <td><a href="#lq.ReqAccountInfo">ReqAccountInfo</a></td>
+                <td><a href="#lq.ResAccountInfo">ResAccountInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>changeAvatar</td>
+                <td><a href="#lq.ReqChangeAvatar">ReqChangeAvatar</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>receiveVersionReward</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchAccountStatisticInfo</td>
+                <td><a href="#lq.ReqAccountStatisticInfo">ReqAccountStatisticInfo</a></td>
+                <td><a href="#lq.ResAccountStatisticInfo">ResAccountStatisticInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchAccountChallengeRankInfo</td>
+                <td><a href="#lq.ReqAccountInfo">ReqAccountInfo</a></td>
+                <td><a href="#lq.ResAccountChallengeRankInfo">ResAccountChallengeRankInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchAccountCharacterInfo</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResAccountCharacterInfo">ResAccountCharacterInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>shopPurchase</td>
+                <td><a href="#lq.ReqShopPurchase">ReqShopPurchase</a></td>
+                <td><a href="#lq.ResShopPurchase">ResShopPurchase</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchGameRecord</td>
+                <td><a href="#lq.ReqGameRecord">ReqGameRecord</a></td>
+                <td><a href="#lq.ResGameRecord">ResGameRecord</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>readGameRecord</td>
+                <td><a href="#lq.ReqGameRecord">ReqGameRecord</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchGameRecordList</td>
+                <td><a href="#lq.ReqGameRecordList">ReqGameRecordList</a></td>
+                <td><a href="#lq.ResGameRecordList">ResGameRecordList</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchGameRecordListV2</td>
+                <td><a href="#lq.ReqGameRecordListV2">ReqGameRecordListV2</a></td>
+                <td><a href="#lq.ResGameRecordListV2">ResGameRecordListV2</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchNextGameRecordList</td>
+                <td><a href="#lq.ReqNextGameRecordList">ReqNextGameRecordList</a></td>
+                <td><a href="#lq.ResNextGameRecordList">ResNextGameRecordList</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchCollectedGameRecordList</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResCollectedGameRecordList">ResCollectedGameRecordList</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchGameRecordsDetail</td>
+                <td><a href="#lq.ReqGameRecordsDetail">ReqGameRecordsDetail</a></td>
+                <td><a href="#lq.ResGameRecordsDetail">ResGameRecordsDetail</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchGameRecordsDetailV2</td>
+                <td><a href="#lq.ReqGameRecordsDetailV2">ReqGameRecordsDetailV2</a></td>
+                <td><a href="#lq.ResGameRecordsDetailV2">ResGameRecordsDetailV2</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>addCollectedGameRecord</td>
+                <td><a href="#lq.ReqAddCollectedGameRecord">ReqAddCollectedGameRecord</a></td>
+                <td><a href="#lq.ResAddCollectedGameRecord">ResAddCollectedGameRecord</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>removeCollectedGameRecord</td>
+                <td><a href="#lq.ReqRemoveCollectedGameRecord">ReqRemoveCollectedGameRecord</a></td>
+                <td><a href="#lq.ResRemoveCollectedGameRecord">ResRemoveCollectedGameRecord</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>changeCollectedGameRecordRemarks</td>
+                <td><a href="#lq.ReqChangeCollectedGameRecordRemarks">ReqChangeCollectedGameRecordRemarks</a></td>
+                <td><a href="#lq.ResChangeCollectedGameRecordRemarks">ResChangeCollectedGameRecordRemarks</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchLevelLeaderboard</td>
+                <td><a href="#lq.ReqLevelLeaderboard">ReqLevelLeaderboard</a></td>
+                <td><a href="#lq.ResLevelLeaderboard">ResLevelLeaderboard</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchChallengeLeaderboard</td>
+                <td><a href="#lq.ReqChallangeLeaderboard">ReqChallangeLeaderboard</a></td>
+                <td><a href="#lq.ResChallengeLeaderboard">ResChallengeLeaderboard</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchMutiChallengeLevel</td>
+                <td><a href="#lq.ReqMutiChallengeLevel">ReqMutiChallengeLevel</a></td>
+                <td><a href="#lq.ResMutiChallengeLevel">ResMutiChallengeLevel</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchMultiAccountBrief</td>
+                <td><a href="#lq.ReqMultiAccountId">ReqMultiAccountId</a></td>
+                <td><a href="#lq.ResMultiAccountBrief">ResMultiAccountBrief</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchFriendList</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResFriendList">ResFriendList</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchFriendApplyList</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResFriendApplyList">ResFriendApplyList</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>applyFriend</td>
+                <td><a href="#lq.ReqApplyFriend">ReqApplyFriend</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>handleFriendApply</td>
+                <td><a href="#lq.ReqHandleFriendApply">ReqHandleFriendApply</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>removeFriend</td>
+                <td><a href="#lq.ReqRemoveFriend">ReqRemoveFriend</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>searchAccountById</td>
+                <td><a href="#lq.ReqSearchAccountById">ReqSearchAccountById</a></td>
+                <td><a href="#lq.ResSearchAccountById">ResSearchAccountById</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>searchAccountByPattern</td>
+                <td><a href="#lq.ReqSearchAccountByPattern">ReqSearchAccountByPattern</a></td>
+                <td><a href="#lq.ResSearchAccountByPattern">ResSearchAccountByPattern</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchAccountState</td>
+                <td><a href="#lq.ReqAccountList">ReqAccountList</a></td>
+                <td><a href="#lq.ResAccountStates">ResAccountStates</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchBagInfo</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResBagInfo">ResBagInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>useBagItem</td>
+                <td><a href="#lq.ReqUseBagItem">ReqUseBagItem</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>openManualItem</td>
+                <td><a href="#lq.ReqOpenManualItem">ReqOpenManualItem</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>openRandomRewardItem</td>
+                <td><a href="#lq.ReqOpenRandomRewardItem">ReqOpenRandomRewardItem</a></td>
+                <td><a href="#lq.ResOpenRandomRewardItem">ResOpenRandomRewardItem</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>openAllRewardItem</td>
+                <td><a href="#lq.ReqOpenAllRewardItem">ReqOpenAllRewardItem</a></td>
+                <td><a href="#lq.ResOpenAllRewardItem">ResOpenAllRewardItem</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>composeShard</td>
+                <td><a href="#lq.ReqComposeShard">ReqComposeShard</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchAnnouncement</td>
+                <td><a href="#lq.ReqFetchAnnouncement">ReqFetchAnnouncement</a></td>
+                <td><a href="#lq.ResAnnouncement">ResAnnouncement</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>readAnnouncement</td>
+                <td><a href="#lq.ReqReadAnnouncement">ReqReadAnnouncement</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchMailInfo</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResMailInfo">ResMailInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>readMail</td>
+                <td><a href="#lq.ReqReadMail">ReqReadMail</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>deleteMail</td>
+                <td><a href="#lq.ReqDeleteMail">ReqDeleteMail</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>takeAttachmentFromMail</td>
+                <td><a href="#lq.ReqTakeAttachment">ReqTakeAttachment</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>receiveAchievementReward</td>
+                <td><a href="#lq.ReqReceiveAchievementReward">ReqReceiveAchievementReward</a></td>
+                <td><a href="#lq.ResReceiveAchievementReward">ResReceiveAchievementReward</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>receiveAchievementGroupReward</td>
+                <td><a href="#lq.ReqReceiveAchievementGroupReward">ReqReceiveAchievementGroupReward</a></td>
+                <td><a href="#lq.ResReceiveAchievementGroupReward">ResReceiveAchievementGroupReward</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchAchievementRate</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResFetchAchievementRate">ResFetchAchievementRate</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchAchievement</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResAchievement">ResAchievement</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>buyShiLian</td>
+                <td><a href="#lq.ReqBuyShiLian">ReqBuyShiLian</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>matchShiLian</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>goNextShiLian</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>updateClientValue</td>
+                <td><a href="#lq.ReqUpdateClientValue">ReqUpdateClientValue</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchClientValue</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResClientValue">ResClientValue</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>clientMessage</td>
+                <td><a href="#lq.ReqClientMessage">ReqClientMessage</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchCurrentMatchInfo</td>
+                <td><a href="#lq.ReqCurrentMatchInfo">ReqCurrentMatchInfo</a></td>
+                <td><a href="#lq.ResCurrentMatchInfo">ResCurrentMatchInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>userComplain</td>
+                <td><a href="#lq.ReqUserComplain">ReqUserComplain</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchReviveCoinInfo</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResReviveCoinInfo">ResReviveCoinInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>gainReviveCoin</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchDailyTask</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResDailyTask">ResDailyTask</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>refreshDailyTask</td>
+                <td><a href="#lq.ReqRefreshDailyTask">ReqRefreshDailyTask</a></td>
+                <td><a href="#lq.ResRefreshDailyTask">ResRefreshDailyTask</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>useGiftCode</td>
+                <td><a href="#lq.ReqUseGiftCode">ReqUseGiftCode</a></td>
+                <td><a href="#lq.ResUseGiftCode">ResUseGiftCode</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>useSpecialGiftCode</td>
+                <td><a href="#lq.ReqUseGiftCode">ReqUseGiftCode</a></td>
+                <td><a href="#lq.ResUseSpecialGiftCode">ResUseSpecialGiftCode</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchTitleList</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResTitleList">ResTitleList</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>useTitle</td>
+                <td><a href="#lq.ReqUseTitle">ReqUseTitle</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>sendClientMessage</td>
+                <td><a href="#lq.ReqSendClientMessage">ReqSendClientMessage</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchGameLiveInfo</td>
+                <td><a href="#lq.ReqGameLiveInfo">ReqGameLiveInfo</a></td>
+                <td><a href="#lq.ResGameLiveInfo">ResGameLiveInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchGameLiveLeftSegment</td>
+                <td><a href="#lq.ReqGameLiveLeftSegment">ReqGameLiveLeftSegment</a></td>
+                <td><a href="#lq.ResGameLiveLeftSegment">ResGameLiveLeftSegment</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchGameLiveList</td>
+                <td><a href="#lq.ReqGameLiveList">ReqGameLiveList</a></td>
+                <td><a href="#lq.ResGameLiveList">ResGameLiveList</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchCommentSetting</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResCommentSetting">ResCommentSetting</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>updateCommentSetting</td>
+                <td><a href="#lq.ReqUpdateCommentSetting">ReqUpdateCommentSetting</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchCommentList</td>
+                <td><a href="#lq.ReqFetchCommentList">ReqFetchCommentList</a></td>
+                <td><a href="#lq.ResFetchCommentList">ResFetchCommentList</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchCommentContent</td>
+                <td><a href="#lq.ReqFetchCommentContent">ReqFetchCommentContent</a></td>
+                <td><a href="#lq.ResFetchCommentContent">ResFetchCommentContent</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>leaveComment</td>
+                <td><a href="#lq.ReqLeaveComment">ReqLeaveComment</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>deleteComment</td>
+                <td><a href="#lq.ReqDeleteComment">ReqDeleteComment</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>updateReadComment</td>
+                <td><a href="#lq.ReqUpdateReadComment">ReqUpdateReadComment</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchRollingNotice</td>
+                <td><a href="#lq.ReqFetchRollingNotice">ReqFetchRollingNotice</a></td>
+                <td><a href="#lq.ResFetchRollingNotice">ResFetchRollingNotice</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchMaintainNotice</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResFetchMaintainNotice">ResFetchMaintainNotice</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchServerTime</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResServerTime">ResServerTime</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchPlatformProducts</td>
+                <td><a href="#lq.ReqPlatformBillingProducts">ReqPlatformBillingProducts</a></td>
+                <td><a href="#lq.ResPlatformBillingProducts">ResPlatformBillingProducts</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchRandomCharacter</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResRandomCharacter">ResRandomCharacter</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>setRandomCharacter</td>
+                <td><a href="#lq.ReqRandomCharacter">ReqRandomCharacter</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>cancelGooglePlayOrder</td>
+                <td><a href="#lq.ReqCancelGooglePlayOrder">ReqCancelGooglePlayOrder</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>openChest</td>
+                <td><a href="#lq.ReqOpenChest">ReqOpenChest</a></td>
+                <td><a href="#lq.ResOpenChest">ResOpenChest</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>buyFromChestShop</td>
+                <td><a href="#lq.ReqBuyFromChestShop">ReqBuyFromChestShop</a></td>
+                <td><a href="#lq.ResBuyFromChestShop">ResBuyFromChestShop</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchDailySignInInfo</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResDailySignInInfo">ResDailySignInInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>doDailySignIn</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>doActivitySignIn</td>
+                <td><a href="#lq.ReqDoActivitySignIn">ReqDoActivitySignIn</a></td>
+                <td><a href="#lq.ResDoActivitySignIn">ResDoActivitySignIn</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchCharacterInfo</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResCharacterInfo">ResCharacterInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>updateCharacterSort</td>
+                <td><a href="#lq.ReqUpdateCharacterSort">ReqUpdateCharacterSort</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>changeMainCharacter</td>
+                <td><a href="#lq.ReqChangeMainCharacter">ReqChangeMainCharacter</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>changeCharacterSkin</td>
+                <td><a href="#lq.ReqChangeCharacterSkin">ReqChangeCharacterSkin</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>changeCharacterView</td>
+                <td><a href="#lq.ReqChangeCharacterView">ReqChangeCharacterView</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>setHiddenCharacter</td>
+                <td><a href="#lq.ReqSetHiddenCharacter">ReqSetHiddenCharacter</a></td>
+                <td><a href="#lq.ResSetHiddenCharacter">ResSetHiddenCharacter</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>sendGiftToCharacter</td>
+                <td><a href="#lq.ReqSendGiftToCharacter">ReqSendGiftToCharacter</a></td>
+                <td><a href="#lq.ResSendGiftToCharacter">ResSendGiftToCharacter</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>sellItem</td>
+                <td><a href="#lq.ReqSellItem">ReqSellItem</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchCommonView</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResCommonView">ResCommonView</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>changeCommonView</td>
+                <td><a href="#lq.ReqChangeCommonView">ReqChangeCommonView</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>saveCommonViews</td>
+                <td><a href="#lq.ReqSaveCommonViews">ReqSaveCommonViews</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchCommonViews</td>
+                <td><a href="#lq.ReqCommonViews">ReqCommonViews</a></td>
+                <td><a href="#lq.ResCommonViews">ResCommonViews</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchAllCommonViews</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResAllcommonViews">ResAllcommonViews</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>useCommonView</td>
+                <td><a href="#lq.ReqUseCommonView">ReqUseCommonView</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>upgradeCharacter</td>
+                <td><a href="#lq.ReqUpgradeCharacter">ReqUpgradeCharacter</a></td>
+                <td><a href="#lq.ResUpgradeCharacter">ResUpgradeCharacter</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>addFinishedEnding</td>
+                <td><a href="#lq.ReqFinishedEnding">ReqFinishedEnding</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>receiveEndingReward</td>
+                <td><a href="#lq.ReqFinishedEnding">ReqFinishedEnding</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>gameMasterCommand</td>
+                <td><a href="#lq.ReqGMCommand">ReqGMCommand</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchShopInfo</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResShopInfo">ResShopInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>buyFromShop</td>
+                <td><a href="#lq.ReqBuyFromShop">ReqBuyFromShop</a></td>
+                <td><a href="#lq.ResBuyFromShop">ResBuyFromShop</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>buyFromZHP</td>
+                <td><a href="#lq.ReqBuyFromZHP">ReqBuyFromZHP</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>refreshZHPShop</td>
+                <td><a href="#lq.ReqReshZHPShop">ReqReshZHPShop</a></td>
+                <td><a href="#lq.ResRefreshZHPShop">ResRefreshZHPShop</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchMonthTicketInfo</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResMonthTicketInfo">ResMonthTicketInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>payMonthTicket</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResPayMonthTicket">ResPayMonthTicket</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>exchangeCurrency</td>
+                <td><a href="#lq.ReqExchangeCurrency">ReqExchangeCurrency</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>exchangeChestStone</td>
+                <td><a href="#lq.ReqExchangeCurrency">ReqExchangeCurrency</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>exchangeDiamond</td>
+                <td><a href="#lq.ReqExchangeCurrency">ReqExchangeCurrency</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchServerSettings</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResServerSettings">ResServerSettings</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchAccountSettings</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResAccountSettings">ResAccountSettings</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>updateAccountSettings</td>
+                <td><a href="#lq.ReqUpdateAccountSettings">ReqUpdateAccountSettings</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchModNicknameTime</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResModNicknameTime">ResModNicknameTime</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createWechatNativeOrder</td>
+                <td><a href="#lq.ReqCreateWechatNativeOrder">ReqCreateWechatNativeOrder</a></td>
+                <td><a href="#lq.ResCreateWechatNativeOrder">ResCreateWechatNativeOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createWechatAppOrder</td>
+                <td><a href="#lq.ReqCreateWechatAppOrder">ReqCreateWechatAppOrder</a></td>
+                <td><a href="#lq.ResCreateWechatAppOrder">ResCreateWechatAppOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createAlipayOrder</td>
+                <td><a href="#lq.ReqCreateAlipayOrder">ReqCreateAlipayOrder</a></td>
+                <td><a href="#lq.ResCreateAlipayOrder">ResCreateAlipayOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createAlipayScanOrder</td>
+                <td><a href="#lq.ReqCreateAlipayScanOrder">ReqCreateAlipayScanOrder</a></td>
+                <td><a href="#lq.ResCreateAlipayScanOrder">ResCreateAlipayScanOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createAlipayAppOrder</td>
+                <td><a href="#lq.ReqCreateAlipayAppOrder">ReqCreateAlipayAppOrder</a></td>
+                <td><a href="#lq.ResCreateAlipayAppOrder">ResCreateAlipayAppOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createJPCreditCardOrder</td>
+                <td><a href="#lq.ReqCreateJPCreditCardOrder">ReqCreateJPCreditCardOrder</a></td>
+                <td><a href="#lq.ResCreateJPCreditCardOrder">ResCreateJPCreditCardOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createJPPaypalOrder</td>
+                <td><a href="#lq.ReqCreateJPPaypalOrder">ReqCreateJPPaypalOrder</a></td>
+                <td><a href="#lq.ResCreateJPPaypalOrder">ResCreateJPPaypalOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createJPAuOrder</td>
+                <td><a href="#lq.ReqCreateJPAuOrder">ReqCreateJPAuOrder</a></td>
+                <td><a href="#lq.ResCreateJPAuOrder">ResCreateJPAuOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createJPDocomoOrder</td>
+                <td><a href="#lq.ReqCreateJPDocomoOrder">ReqCreateJPDocomoOrder</a></td>
+                <td><a href="#lq.ResCreateJPDocomoOrder">ResCreateJPDocomoOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createJPWebMoneyOrder</td>
+                <td><a href="#lq.ReqCreateJPWebMoneyOrder">ReqCreateJPWebMoneyOrder</a></td>
+                <td><a href="#lq.ResCreateJPWebMoneyOrder">ResCreateJPWebMoneyOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createJPSoftbankOrder</td>
+                <td><a href="#lq.ReqCreateJPSoftbankOrder">ReqCreateJPSoftbankOrder</a></td>
+                <td><a href="#lq.ResCreateJPSoftbankOrder">ResCreateJPSoftbankOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createJPPayPayOrder</td>
+                <td><a href="#lq.ReqCreateJPPayPayOrder">ReqCreateJPPayPayOrder</a></td>
+                <td><a href="#lq.ResCreateJPPayPayOrder">ResCreateJPPayPayOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchJPCommonCreditCardOrder</td>
+                <td><a href="#lq.ReqFetchJPCommonCreditCardOrder">ReqFetchJPCommonCreditCardOrder</a></td>
+                <td><a href="#lq.ResFetchJPCommonCreditCardOrder">ResFetchJPCommonCreditCardOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createJPGMOOrder</td>
+                <td><a href="#lq.ReqCreateJPGMOOrder">ReqCreateJPGMOOrder</a></td>
+                <td><a href="#lq.ResCreateJPGMOOrder">ResCreateJPGMOOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createENPaypalOrder</td>
+                <td><a href="#lq.ReqCreateENPaypalOrder">ReqCreateENPaypalOrder</a></td>
+                <td><a href="#lq.ResCreateENPaypalOrder">ResCreateENPaypalOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createENMasterCardOrder</td>
+                <td><a href="#lq.ReqCreateENMasterCardOrder">ReqCreateENMasterCardOrder</a></td>
+                <td><a href="#lq.ResCreateENMasterCardOrder">ResCreateENMasterCardOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createENVisaOrder</td>
+                <td><a href="#lq.ReqCreateENVisaOrder">ReqCreateENVisaOrder</a></td>
+                <td><a href="#lq.ResCreateENVisaOrder">ResCreateENVisaOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createENJCBOrder</td>
+                <td><a href="#lq.ReqCreateENJCBOrder">ReqCreateENJCBOrder</a></td>
+                <td><a href="#lq.ResCreateENJCBOrder">ResCreateENJCBOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createENAlipayOrder</td>
+                <td><a href="#lq.ReqCreateENAlipayOrder">ReqCreateENAlipayOrder</a></td>
+                <td><a href="#lq.ResCreateENAlipayOrder">ResCreateENAlipayOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createKRPaypalOrder</td>
+                <td><a href="#lq.ReqCreateKRPaypalOrder">ReqCreateKRPaypalOrder</a></td>
+                <td><a href="#lq.ResCreateKRPaypalOrder">ResCreateKRPaypalOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createKRMasterCardOrder</td>
+                <td><a href="#lq.ReqCreateKRMasterCardOrder">ReqCreateKRMasterCardOrder</a></td>
+                <td><a href="#lq.ResCreateKRMasterCardOrder">ResCreateKRMasterCardOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createKRVisaOrder</td>
+                <td><a href="#lq.ReqCreateKRVisaOrder">ReqCreateKRVisaOrder</a></td>
+                <td><a href="#lq.ResCreateKRVisaOrder">ResCreateKRVisaOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createKRJCBOrder</td>
+                <td><a href="#lq.ReqCreateKRJCBOrder">ReqCreateKRJCBOrder</a></td>
+                <td><a href="#lq.ResCreateKRJCBOrder">ResCreateKRJCBOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createKRAlipayOrder</td>
+                <td><a href="#lq.ReqCreateKRAlipayOrder">ReqCreateKRAlipayOrder</a></td>
+                <td><a href="#lq.ResCreateKRAlipayOrder">ResCreateKRAlipayOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createDMMOrder</td>
+                <td><a href="#lq.ReqCreateDMMOrder">ReqCreateDMMOrder</a></td>
+                <td><a href="#lq.ResCreateDmmOrder">ResCreateDmmOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createIAPOrder</td>
+                <td><a href="#lq.ReqCreateIAPOrder">ReqCreateIAPOrder</a></td>
+                <td><a href="#lq.ResCreateIAPOrder">ResCreateIAPOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createSteamOrder</td>
+                <td><a href="#lq.ReqCreateSteamOrder">ReqCreateSteamOrder</a></td>
+                <td><a href="#lq.ResCreateSteamOrder">ResCreateSteamOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>verifySteamOrder</td>
+                <td><a href="#lq.ReqVerifySteamOrder">ReqVerifySteamOrder</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createMyCardAndroidOrder</td>
+                <td><a href="#lq.ReqCreateMyCardOrder">ReqCreateMyCardOrder</a></td>
+                <td><a href="#lq.ResCreateMyCardOrder">ResCreateMyCardOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createMyCardWebOrder</td>
+                <td><a href="#lq.ReqCreateMyCardOrder">ReqCreateMyCardOrder</a></td>
+                <td><a href="#lq.ResCreateMyCardOrder">ResCreateMyCardOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createPaypalOrder</td>
+                <td><a href="#lq.ReqCreatePaypalOrder">ReqCreatePaypalOrder</a></td>
+                <td><a href="#lq.ResCreatePaypalOrder">ResCreatePaypalOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createXsollaOrder</td>
+                <td><a href="#lq.ReqCreateXsollaOrder">ReqCreateXsollaOrder</a></td>
+                <td><a href="#lq.ResCreateXsollaOrder">ResCreateXsollaOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createXsollaV4Order</td>
+                <td><a href="#lq.ReqCreateXsollaOrder">ReqCreateXsollaOrder</a></td>
+                <td><a href="#lq.ResCreateXsollaOrder">ResCreateXsollaOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>verifyMyCardOrder</td>
+                <td><a href="#lq.ReqVerifyMyCardOrder">ReqVerifyMyCardOrder</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>verificationIAPOrder</td>
+                <td><a href="#lq.ReqVerificationIAPOrder">ReqVerificationIAPOrder</a></td>
+                <td><a href="#lq.ResVerificationIAPOrder">ResVerificationIAPOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createYostarSDKOrder</td>
+                <td><a href="#lq.ReqCreateYostarOrder">ReqCreateYostarOrder</a></td>
+                <td><a href="#lq.ResCreateYostarOrder">ResCreateYostarOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createBillingOrder</td>
+                <td><a href="#lq.ReqCreateBillingOrder">ReqCreateBillingOrder</a></td>
+                <td><a href="#lq.ResCreateBillingOrder">ResCreateBillingOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>solveGooglePlayOrder</td>
+                <td><a href="#lq.ReqSolveGooglePlayOrder">ReqSolveGooglePlayOrder</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>solveGooglePayOrderV3</td>
+                <td><a href="#lq.ReqSolveGooglePlayOrderV3">ReqSolveGooglePlayOrderV3</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>deliverAA32Order</td>
+                <td><a href="#lq.ReqDeliverAA32Order">ReqDeliverAA32Order</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchMisc</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResMisc">ResMisc</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>modifySignature</td>
+                <td><a href="#lq.ReqModifySignature">ReqModifySignature</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchIDCardInfo</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResIDCardInfo">ResIDCardInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>updateIDCardInfo</td>
+                <td><a href="#lq.ReqUpdateIDCardInfo">ReqUpdateIDCardInfo</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchVipReward</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResVipReward">ResVipReward</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>gainVipReward</td>
+                <td><a href="#lq.ReqGainVipReward">ReqGainVipReward</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchRefundOrder</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResFetchRefundOrder">ResFetchRefundOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchCustomizedContestList</td>
+                <td><a href="#lq.ReqFetchCustomizedContestList">ReqFetchCustomizedContestList</a></td>
+                <td><a href="#lq.ResFetchCustomizedContestList">ResFetchCustomizedContestList</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchCustomizedContestAuthInfo</td>
+                <td><a href="#lq.ReqFetchCustomizedContestAuthInfo">ReqFetchCustomizedContestAuthInfo</a></td>
+                <td><a href="#lq.ResFetchCustomizedContestAuthInfo">ResFetchCustomizedContestAuthInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>enterCustomizedContest</td>
+                <td><a href="#lq.ReqEnterCustomizedContest">ReqEnterCustomizedContest</a></td>
+                <td><a href="#lq.ResEnterCustomizedContest">ResEnterCustomizedContest</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>leaveCustomizedContest</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchCustomizedContestOnlineInfo</td>
+                <td><a href="#lq.ReqFetchCustomizedContestOnlineInfo">ReqFetchCustomizedContestOnlineInfo</a></td>
+                <td><a href="#lq.ResFetchCustomizedContestOnlineInfo">ResFetchCustomizedContestOnlineInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchCustomizedContestByContestId</td>
+                <td><a href="#lq.ReqFetchCustomizedContestByContestId">ReqFetchCustomizedContestByContestId</a></td>
+                <td><a href="#lq.ResFetchCustomizedContestByContestId">ResFetchCustomizedContestByContestId</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>signupCustomizedContest</td>
+                <td><a href="#lq.ReqSignupCustomizedContest">ReqSignupCustomizedContest</a></td>
+                <td><a href="#lq.ResSignupCustomizedContest">ResSignupCustomizedContest</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>startCustomizedContest</td>
+                <td><a href="#lq.ReqStartCustomizedContest">ReqStartCustomizedContest</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>stopCustomizedContest</td>
+                <td><a href="#lq.ReqStopCustomizedContest">ReqStopCustomizedContest</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>joinCustomizedContestChatRoom</td>
+                <td><a href="#lq.ReqJoinCustomizedContestChatRoom">ReqJoinCustomizedContestChatRoom</a></td>
+                <td><a href="#lq.ResJoinCustomizedContestChatRoom">ResJoinCustomizedContestChatRoom</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>leaveCustomizedContestChatRoom</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>sayChatMessage</td>
+                <td><a href="#lq.ReqSayChatMessage">ReqSayChatMessage</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchCustomizedContestGameRecords</td>
+                <td><a href="#lq.ReqFetchCustomizedContestGameRecords">ReqFetchCustomizedContestGameRecords</a></td>
+                <td><a href="#lq.ResFetchCustomizedContestGameRecords">ResFetchCustomizedContestGameRecords</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchCustomizedContestGameLiveList</td>
+                <td><a href="#lq.ReqFetchCustomizedContestGameLiveList">ReqFetchCustomizedContestGameLiveList</a></td>
+                <td><a href="#lq.ResFetchCustomizedContestGameLiveList">ResFetchCustomizedContestGameLiveList</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>followCustomizedContest</td>
+                <td><a href="#lq.ReqTargetCustomizedContest">ReqTargetCustomizedContest</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>unfollowCustomizedContest</td>
+                <td><a href="#lq.ReqTargetCustomizedContest">ReqTargetCustomizedContest</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchContestTeamRank</td>
+                <td><a href="#lq.ReqFetchContestTeamRank">ReqFetchContestTeamRank</a></td>
+                <td><a href="#lq.ResFetchContestTeamRank">ResFetchContestTeamRank</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchContestTeamMember</td>
+                <td><a href="#lq.ReqFetchContestTeamMember">ReqFetchContestTeamMember</a></td>
+                <td><a href="#lq.ResFetchContestTeamMember">ResFetchContestTeamMember</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchContestTeamPlayerRank</td>
+                <td><a href="#lq.ReqFetchContestTeamPlayerRank">ReqFetchContestTeamPlayerRank</a></td>
+                <td><a href="#lq.ResFetchContestPlayerRank">ResFetchContestPlayerRank</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchContestPlayerRank</td>
+                <td><a href="#lq.ReqFetchContestPlayerRank">ReqFetchContestPlayerRank</a></td>
+                <td><a href="#lq.ResFetchContestPlayerRank">ResFetchContestPlayerRank</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchActivityList</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResActivityList">ResActivityList</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchAccountActivityData</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResAccountActivityData">ResAccountActivityData</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>exchangeActivityItem</td>
+                <td><a href="#lq.ReqExchangeActivityItem">ReqExchangeActivityItem</a></td>
+                <td><a href="#lq.ResExchangeActivityItem">ResExchangeActivityItem</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>completeActivityTask</td>
+                <td><a href="#lq.ReqCompleteActivityTask">ReqCompleteActivityTask</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>completeActivityTaskBatch</td>
+                <td><a href="#lq.ReqCompleteActivityTaskBatch">ReqCompleteActivityTaskBatch</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>completeActivityFlipTask</td>
+                <td><a href="#lq.ReqCompleteActivityTask">ReqCompleteActivityTask</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>completePeriodActivityTask</td>
+                <td><a href="#lq.ReqCompleteActivityTask">ReqCompleteActivityTask</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>completePeriodActivityTaskBatch</td>
+                <td><a href="#lq.ReqCompletePeriodActivityTaskBatch">ReqCompletePeriodActivityTaskBatch</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>completeRandomActivityTask</td>
+                <td><a href="#lq.ReqCompleteActivityTask">ReqCompleteActivityTask</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>completeRandomActivityTaskBatch</td>
+                <td><a href="#lq.ReqCompleteActivityTaskBatch">ReqCompleteActivityTaskBatch</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>receiveActivityFlipTask</td>
+                <td><a href="#lq.ReqReceiveActivityFlipTask">ReqReceiveActivityFlipTask</a></td>
+                <td><a href="#lq.ResReceiveActivityFlipTask">ResReceiveActivityFlipTask</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>completeSegmentTaskReward</td>
+                <td><a href="#lq.ReqCompleteSegmentTaskReward">ReqCompleteSegmentTaskReward</a></td>
+                <td><a href="#lq.ResCompleteSegmentTaskReward">ResCompleteSegmentTaskReward</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchActivityFlipInfo</td>
+                <td><a href="#lq.ReqFetchActivityFlipInfo">ReqFetchActivityFlipInfo</a></td>
+                <td><a href="#lq.ResFetchActivityFlipInfo">ResFetchActivityFlipInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>gainAccumulatedPointActivityReward</td>
+                <td><a href="#lq.ReqGainAccumulatedPointActivityReward">ReqGainAccumulatedPointActivityReward</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>gainMultiPointActivityReward</td>
+                <td><a href="#lq.ReqGainMultiPointActivityReward">ReqGainMultiPointActivityReward</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchRankPointLeaderboard</td>
+                <td><a href="#lq.ReqFetchRankPointLeaderboard">ReqFetchRankPointLeaderboard</a></td>
+                <td><a href="#lq.ResFetchRankPointLeaderboard">ResFetchRankPointLeaderboard</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>gainRankPointReward</td>
+                <td><a href="#lq.ReqGainRankPointReward">ReqGainRankPointReward</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>richmanActivityNextMove</td>
+                <td><a href="#lq.ReqRichmanNextMove">ReqRichmanNextMove</a></td>
+                <td><a href="#lq.ResRichmanNextMove">ResRichmanNextMove</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>richmanAcitivitySpecialMove</td>
+                <td><a href="#lq.ReqRichmanSpecialMove">ReqRichmanSpecialMove</a></td>
+                <td><a href="#lq.ResRichmanNextMove">ResRichmanNextMove</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>richmanActivityChestInfo</td>
+                <td><a href="#lq.ReqRichmanChestInfo">ReqRichmanChestInfo</a></td>
+                <td><a href="#lq.ResRichmanChestInfo">ResRichmanChestInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createGameObserveAuth</td>
+                <td><a href="#lq.ReqCreateGameObserveAuth">ReqCreateGameObserveAuth</a></td>
+                <td><a href="#lq.ResCreateGameObserveAuth">ResCreateGameObserveAuth</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>refreshGameObserveAuth</td>
+                <td><a href="#lq.ReqRefreshGameObserveAuth">ReqRefreshGameObserveAuth</a></td>
+                <td><a href="#lq.ResRefreshGameObserveAuth">ResRefreshGameObserveAuth</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchActivityBuff</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResActivityBuff">ResActivityBuff</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>upgradeActivityBuff</td>
+                <td><a href="#lq.ReqUpgradeActivityBuff">ReqUpgradeActivityBuff</a></td>
+                <td><a href="#lq.ResActivityBuff">ResActivityBuff</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>upgradeActivityLevel</td>
+                <td><a href="#lq.ReqUpgradeActivityLevel">ReqUpgradeActivityLevel</a></td>
+                <td><a href="#lq.ResUpgradeActivityLevel">ResUpgradeActivityLevel</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>receiveUpgradeActivityReward</td>
+                <td><a href="#lq.ReqReceiveUpgradeActivityReward">ReqReceiveUpgradeActivityReward</a></td>
+                <td><a href="#lq.ResReceiveUpgradeActivityReward">ResReceiveUpgradeActivityReward</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>upgradeChallenge</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResUpgradeChallenge">ResUpgradeChallenge</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>refreshChallenge</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResRefreshChallenge">ResRefreshChallenge</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchChallengeInfo</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResFetchChallengeInfo">ResFetchChallengeInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>forceCompleteChallengeTask</td>
+                <td><a href="#lq.ReqForceCompleteChallengeTask">ReqForceCompleteChallengeTask</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchChallengeSeason</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResChallengeSeasonInfo">ResChallengeSeasonInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>receiveChallengeRankReward</td>
+                <td><a href="#lq.ReqReceiveChallengeRankReward">ReqReceiveChallengeRankReward</a></td>
+                <td><a href="#lq.ResReceiveChallengeRankReward">ResReceiveChallengeRankReward</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchABMatchInfo</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResFetchABMatch">ResFetchABMatch</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>buyInABMatch</td>
+                <td><a href="#lq.ReqBuyInABMatch">ReqBuyInABMatch</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>receiveABMatchReward</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>quitABMatch</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>startUnifiedMatch</td>
+                <td><a href="#lq.ReqStartUnifiedMatch">ReqStartUnifiedMatch</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>cancelUnifiedMatch</td>
+                <td><a href="#lq.ReqCancelUnifiedMatch">ReqCancelUnifiedMatch</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchGamePointRank</td>
+                <td><a href="#lq.ReqGamePointRank">ReqGamePointRank</a></td>
+                <td><a href="#lq.ResGamePointRank">ResGamePointRank</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchSelfGamePointRank</td>
+                <td><a href="#lq.ReqGamePointRank">ReqGamePointRank</a></td>
+                <td><a href="#lq.ResFetchSelfGamePointRank">ResFetchSelfGamePointRank</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>readSNS</td>
+                <td><a href="#lq.ReqReadSNS">ReqReadSNS</a></td>
+                <td><a href="#lq.ResReadSNS">ResReadSNS</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>replySNS</td>
+                <td><a href="#lq.ReqReplySNS">ReqReplySNS</a></td>
+                <td><a href="#lq.ResReplySNS">ResReplySNS</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>likeSNS</td>
+                <td><a href="#lq.ReqLikeSNS">ReqLikeSNS</a></td>
+                <td><a href="#lq.ResLikeSNS">ResLikeSNS</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>digMine</td>
+                <td><a href="#lq.ReqDigMine">ReqDigMine</a></td>
+                <td><a href="#lq.ResDigMine">ResDigMine</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchLastPrivacy</td>
+                <td><a href="#lq.ReqFetchLastPrivacy">ReqFetchLastPrivacy</a></td>
+                <td><a href="#lq.ResFetchLastPrivacy">ResFetchLastPrivacy</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>checkPrivacy</td>
+                <td><a href="#lq.ReqCheckPrivacy">ReqCheckPrivacy</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchRPGBattleHistory</td>
+                <td><a href="#lq.ReqFetchRPGBattleHistory">ReqFetchRPGBattleHistory</a></td>
+                <td><a href="#lq.ResFetchRPGBattleHistory">ResFetchRPGBattleHistory</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchRPGBattleHistoryV2</td>
+                <td><a href="#lq.ReqFetchRPGBattleHistory">ReqFetchRPGBattleHistory</a></td>
+                <td><a href="#lq.ResFetchRPGBattleHistoryV2">ResFetchRPGBattleHistoryV2</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>receiveRPGRewards</td>
+                <td><a href="#lq.ReqReceiveRPGRewards">ReqReceiveRPGRewards</a></td>
+                <td><a href="#lq.ResReceiveRPGRewards">ResReceiveRPGRewards</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>receiveRPGReward</td>
+                <td><a href="#lq.ReqReceiveRPGReward">ReqReceiveRPGReward</a></td>
+                <td><a href="#lq.ResReceiveRPGRewards">ResReceiveRPGRewards</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>buyArenaTicket</td>
+                <td><a href="#lq.ReqBuyArenaTicket">ReqBuyArenaTicket</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>enterArena</td>
+                <td><a href="#lq.ReqEnterArena">ReqEnterArena</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>receiveArenaReward</td>
+                <td><a href="#lq.ReqArenaReward">ReqArenaReward</a></td>
+                <td><a href="#lq.ResArenaReward">ResArenaReward</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchOBToken</td>
+                <td><a href="#lq.ReqFetchOBToken">ReqFetchOBToken</a></td>
+                <td><a href="#lq.ResFetchOBToken">ResFetchOBToken</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>receiveCharacterRewards</td>
+                <td><a href="#lq.ReqReceiveCharacterRewards">ReqReceiveCharacterRewards</a></td>
+                <td><a href="#lq.ResReceiveCharacterRewards">ResReceiveCharacterRewards</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>feedActivityFeed</td>
+                <td><a href="#lq.ReqFeedActivityFeed">ReqFeedActivityFeed</a></td>
+                <td><a href="#lq.ResFeedActivityFeed">ResFeedActivityFeed</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>sendActivityGiftToFriend</td>
+                <td><a href="#lq.ReqSendActivityGiftToFriend">ReqSendActivityGiftToFriend</a></td>
+                <td><a href="#lq.ResSendActivityGiftToFriend">ResSendActivityGiftToFriend</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>receiveActivityGift</td>
+                <td><a href="#lq.ReqReceiveActivityGift">ReqReceiveActivityGift</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>receiveAllActivityGift</td>
+                <td><a href="#lq.ReqReceiveAllActivityGift">ReqReceiveAllActivityGift</a></td>
+                <td><a href="#lq.ResReceiveAllActivityGift">ResReceiveAllActivityGift</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchFriendGiftActivityData</td>
+                <td><a href="#lq.ReqFetchFriendGiftActivityData">ReqFetchFriendGiftActivityData</a></td>
+                <td><a href="#lq.ResFetchFriendGiftActivityData">ResFetchFriendGiftActivityData</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>openPreChestItem</td>
+                <td><a href="#lq.ReqOpenPreChestItem">ReqOpenPreChestItem</a></td>
+                <td><a href="#lq.ResOpenPreChestItem">ResOpenPreChestItem</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchVoteActivity</td>
+                <td><a href="#lq.ReqFetchVoteActivity">ReqFetchVoteActivity</a></td>
+                <td><a href="#lq.ResFetchVoteActivity">ResFetchVoteActivity</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>voteActivity</td>
+                <td><a href="#lq.ReqVoteActivity">ReqVoteActivity</a></td>
+                <td><a href="#lq.ResVoteActivity">ResVoteActivity</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>unlockActivitySpot</td>
+                <td><a href="#lq.ReqUnlockActivitySpot">ReqUnlockActivitySpot</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>unlockActivitySpotEnding</td>
+                <td><a href="#lq.ReqUnlockActivitySpotEnding">ReqUnlockActivitySpotEnding</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>receiveActivitySpotReward</td>
+                <td><a href="#lq.ReqReceiveActivitySpotReward">ReqReceiveActivitySpotReward</a></td>
+                <td><a href="#lq.ResReceiveActivitySpotReward">ResReceiveActivitySpotReward</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>deleteAccount</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResDeleteAccount">ResDeleteAccount</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>cancelDeleteAccount</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>logReport</td>
+                <td><a href="#lq.ReqLogReport">ReqLogReport</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>bindOauth2</td>
+                <td><a href="#lq.ReqBindOauth2">ReqBindOauth2</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchOauth2Info</td>
+                <td><a href="#lq.ReqFetchOauth2">ReqFetchOauth2</a></td>
+                <td><a href="#lq.ResFetchOauth2">ResFetchOauth2</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>setLoadingImage</td>
+                <td><a href="#lq.ReqSetLoadingImage">ReqSetLoadingImage</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchShopInterval</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResFetchShopInterval">ResFetchShopInterval</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchActivityInterval</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResFetchActivityInterval">ResFetchActivityInterval</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchRecentFriend</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResFetchrecentFriend">ResFetchrecentFriend</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>openGacha</td>
+                <td><a href="#lq.ReqOpenGacha">ReqOpenGacha</a></td>
+                <td><a href="#lq.ResOpenGacha">ResOpenGacha</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>taskRequest</td>
+                <td><a href="#lq.ReqTaskRequest">ReqTaskRequest</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>simulationActivityTrain</td>
+                <td><a href="#lq.ReqSimulationActivityTrain">ReqSimulationActivityTrain</a></td>
+                <td><a href="#lq.ResSimulationActivityTrain">ResSimulationActivityTrain</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchSimulationGameRecord</td>
+                <td><a href="#lq.ReqFetchSimulationGameRecord">ReqFetchSimulationGameRecord</a></td>
+                <td><a href="#lq.ResFetchSimulationGameRecord">ResFetchSimulationGameRecord</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>startSimulationActivityGame</td>
+                <td><a href="#lq.ReqStartSimulationActivityGame">ReqStartSimulationActivityGame</a></td>
+                <td><a href="#lq.ResStartSimulationActivityGame">ResStartSimulationActivityGame</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchSimulationGameRank</td>
+                <td><a href="#lq.ReqFetchSimulationGameRank">ReqFetchSimulationGameRank</a></td>
+                <td><a href="#lq.ResFetchSimulationGameRank">ResFetchSimulationGameRank</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>generateCombiningCraft</td>
+                <td><a href="#lq.ReqGenerateCombiningCraft">ReqGenerateCombiningCraft</a></td>
+                <td><a href="#lq.ResGenerateCombiningCraft">ResGenerateCombiningCraft</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>moveCombiningCraft</td>
+                <td><a href="#lq.ReqMoveCombiningCraft">ReqMoveCombiningCraft</a></td>
+                <td><a href="#lq.ResMoveCombiningCraft">ResMoveCombiningCraft</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>combiningRecycleCraft</td>
+                <td><a href="#lq.ReqCombiningRecycleCraft">ReqCombiningRecycleCraft</a></td>
+                <td><a href="#lq.ResCombiningRecycleCraft">ResCombiningRecycleCraft</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>recoverCombiningRecycle</td>
+                <td><a href="#lq.ReqRecoverCombiningRecycle">ReqRecoverCombiningRecycle</a></td>
+                <td><a href="#lq.ResRecoverCombiningRecycle">ResRecoverCombiningRecycle</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>finishCombiningOrder</td>
+                <td><a href="#lq.ReqFinishCombiningOrder">ReqFinishCombiningOrder</a></td>
+                <td><a href="#lq.ResFinishCombiningOrder">ResFinishCombiningOrder</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>upgradeVillageBuilding</td>
+                <td><a href="#lq.ReqUpgradeVillageBuilding">ReqUpgradeVillageBuilding</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>receiveVillageBuildingReward</td>
+                <td><a href="#lq.ReqReceiveVillageBuildingReward">ReqReceiveVillageBuildingReward</a></td>
+                <td><a href="#lq.ResReceiveVillageBuildingReward">ResReceiveVillageBuildingReward</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>startVillageTrip</td>
+                <td><a href="#lq.ReqStartVillageTrip">ReqStartVillageTrip</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>receiveVillageTripReward</td>
+                <td><a href="#lq.ReqReceiveVillageTripReward">ReqReceiveVillageTripReward</a></td>
+                <td><a href="#lq.ResReceiveVillageTripReward">ResReceiveVillageTripReward</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>completeVillageTask</td>
+                <td><a href="#lq.ReqCompleteVillageTask">ReqCompleteVillageTask</a></td>
+                <td><a href="#lq.ResCompleteVillageTask">ResCompleteVillageTask</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>getFriendVillageData</td>
+                <td><a href="#lq.ReqGetFriendVillageData">ReqGetFriendVillageData</a></td>
+                <td><a href="#lq.ResGetFriendVillageData">ResGetFriendVillageData</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>setVillageWorker</td>
+                <td><a href="#lq.ReqSetVillageWorker">ReqSetVillageWorker</a></td>
+                <td><a href="#lq.ResSetVillageWorker">ResSetVillageWorker</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>nextRoundVillage</td>
+                <td><a href="#lq.ReqNextRoundVillage">ReqNextRoundVillage</a></td>
+                <td><a href="#lq.ResNextRoundVillage">ResNextRoundVillage</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>shootActivityAttackEnemies</td>
+                <td><a href="#lq.ReqShootActivityAttackEnemies">ReqShootActivityAttackEnemies</a></td>
+                <td><a href="#lq.ResShootActivityAttackEnemies">ResShootActivityAttackEnemies</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>resolveFestivalActivityProposal</td>
+                <td><a href="#lq.ReqResolveFestivalActivityProposal">ReqResolveFestivalActivityProposal</a></td>
+                <td><a href="#lq.ResResolveFestivalActivityProposal">ResResolveFestivalActivityProposal</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>resolveFestivalActivityEvent</td>
+                <td><a href="#lq.ReqResolveFestivalActivityEvent">ReqResolveFestivalActivityEvent</a></td>
+                <td><a href="#lq.ResResolveFestivalActivityEvent">ResResolveFestivalActivityEvent</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>buyFestivalProposal</td>
+                <td><a href="#lq.ReqBuyFestivalProposal">ReqBuyFestivalProposal</a></td>
+                <td><a href="#lq.ResBuyFestivalProposal">ResBuyFestivalProposal</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>islandActivityMove</td>
+                <td><a href="#lq.ReqIslandActivityMove">ReqIslandActivityMove</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>islandActivityBuy</td>
+                <td><a href="#lq.ReqIslandActivityBuy">ReqIslandActivityBuy</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>islandActivitySell</td>
+                <td><a href="#lq.ReqIslandActivitySell">ReqIslandActivitySell</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>islandActivityTidyBag</td>
+                <td><a href="#lq.ReqIslandActivityTidyBag">ReqIslandActivityTidyBag</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>islandActivityUnlockBagGrid</td>
+                <td><a href="#lq.ReqIslandActivityUnlockBagGrid">ReqIslandActivityUnlockBagGrid</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createCustomizedContest</td>
+                <td><a href="#lq.ReqCreateCustomizedContest">ReqCreateCustomizedContest</a></td>
+                <td><a href="#lq.ResCreateCustomizedContest">ResCreateCustomizedContest</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchManagerCustomizedContestList</td>
+                <td><a href="#lq.ReqFetchmanagerCustomizedContestList">ReqFetchmanagerCustomizedContestList</a></td>
+                <td><a href="#lq.ResFetchManagerCustomizedContestList">ResFetchManagerCustomizedContestList</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchManagerCustomizedContest</td>
+                <td><a href="#lq.ReqFetchManagerCustomizedContest">ReqFetchManagerCustomizedContest</a></td>
+                <td><a href="#lq.ResFetchManagerCustomizedContest">ResFetchManagerCustomizedContest</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>updateManagerCustomizedContest</td>
+                <td><a href="#lq.ReqUpdateManagerCustomizedContest">ReqUpdateManagerCustomizedContest</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchReadyPlayerList</td>
+                <td><a href="#lq.ReqFetchReadyPlayerList">ReqFetchReadyPlayerList</a></td>
+                <td><a href="#lq.ResFetchReadyPlayerList">ResFetchReadyPlayerList</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createGamePlan</td>
+                <td><a href="#lq.ReqCreateGamePlan">ReqCreateGamePlan</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>generateContestManagerLoginCode</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResGenerateContestManagerLoginCode">ResGenerateContestManagerLoginCode</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchAmuletActivityData</td>
+                <td><a href="#lq.ReqFetchAmuletActivityData">ReqFetchAmuletActivityData</a></td>
+                <td><a href="#lq.ResFetchAmuletActivityData">ResFetchAmuletActivityData</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>amuletActivityFetchBrief</td>
+                <td><a href="#lq.ReqAmuletActivityFetchBrief">ReqAmuletActivityFetchBrief</a></td>
+                <td><a href="#lq.ResAmuletActivityFetchBrief">ResAmuletActivityFetchBrief</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>amuletActivityStartGame</td>
+                <td><a href="#lq.ReqAmuletActivityStartGame">ReqAmuletActivityStartGame</a></td>
+                <td><a href="#lq.ResAmuletEventResponse">ResAmuletEventResponse</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>amuletActivityOperate</td>
+                <td><a href="#lq.ReqAmuletActivityOperate">ReqAmuletActivityOperate</a></td>
+                <td><a href="#lq.ResAmuletEventResponse">ResAmuletEventResponse</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>amuletActivityUpgrade</td>
+                <td><a href="#lq.ReqAmuletActivityUpgrade">ReqAmuletActivityUpgrade</a></td>
+                <td><a href="#lq.ResAmuletEventResponse">ResAmuletEventResponse</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>amuletActivityBuy</td>
+                <td><a href="#lq.ReqAmuletActivityBuy">ReqAmuletActivityBuy</a></td>
+                <td><a href="#lq.ResAmuletEventResponse">ResAmuletEventResponse</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>amuletActivitySelectPack</td>
+                <td><a href="#lq.ReqAmuletActivitySelectPack">ReqAmuletActivitySelectPack</a></td>
+                <td><a href="#lq.ResAmuletEventResponse">ResAmuletEventResponse</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>amuletActivitySellEffect</td>
+                <td><a href="#lq.ReqAmuletActivitySellEffect">ReqAmuletActivitySellEffect</a></td>
+                <td><a href="#lq.ResAmuletEventResponse">ResAmuletEventResponse</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>amuletActivityEffectSort</td>
+                <td><a href="#lq.ReqAmuletActivityEffectSort">ReqAmuletActivityEffectSort</a></td>
+                <td><a href="#lq.ResAmuletEventResponse">ResAmuletEventResponse</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>amuletActivityGiveup</td>
+                <td><a href="#lq.ReqAmuletActivityGiveup">ReqAmuletActivityGiveup</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>amuletActivityRefreshShop</td>
+                <td><a href="#lq.ReqAmuletActivityRefreshShop">ReqAmuletActivityRefreshShop</a></td>
+                <td><a href="#lq.ResAmuletEventResponse">ResAmuletEventResponse</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>amuletActivitySelectFreeEffect</td>
+                <td><a href="#lq.ReqAmuletActivitySelectFreeEffect">ReqAmuletActivitySelectFreeEffect</a></td>
+                <td><a href="#lq.ResAmuletEventResponse">ResAmuletEventResponse</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>amuletActivityUpgradeShopBuff</td>
+                <td><a href="#lq.ReqAmuletActivityUpgradeShopBuff">ReqAmuletActivityUpgradeShopBuff</a></td>
+                <td><a href="#lq.ResAmuletEventResponse">ResAmuletEventResponse</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>amuletActivityEndShopping</td>
+                <td><a href="#lq.ReqAmuletActivityEndShopping">ReqAmuletActivityEndShopping</a></td>
+                <td><a href="#lq.ResAmuletEventResponse">ResAmuletEventResponse</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>amuletActivitySetSkillLevel</td>
+                <td><a href="#lq.ReqAmuletActivitySetSkillLevel">ReqAmuletActivitySetSkillLevel</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>amuletActivityMaintainInfo</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResAmuletActivityMaintainInfo">ResAmuletActivityMaintainInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>amuletActivitySelectRewardPack</td>
+                <td><a href="#lq.ReqAmuletActivitySelectRewardPack">ReqAmuletActivitySelectRewardPack</a></td>
+                <td><a href="#lq.ResAmuletEventResponse">ResAmuletEventResponse</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>amuletActivitySelectBookEffect</td>
+                <td><a href="#lq.ReqAmuletActivitySelectBookEffect">ReqAmuletActivitySelectBookEffect</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>storyActivityUnlock</td>
+                <td><a href="#lq.ReqStoryActivityUnlock">ReqStoryActivityUnlock</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>storyActivityUnlockEnding</td>
+                <td><a href="#lq.ReqStoryActivityUnlockEnding">ReqStoryActivityUnlockEnding</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>storyActivityReceiveEndingReward</td>
+                <td><a href="#lq.ReqStoryActivityReceiveEndingReward">ReqStoryActivityReceiveEndingReward</a></td>
+                <td><a href="#lq.ResStoryReward">ResStoryReward</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>storyActivityReceiveFinishReward</td>
+                <td><a href="#lq.ReqStoryActivityReceiveFinishReward">ReqStoryActivityReceiveFinishReward</a></td>
+                <td><a href="#lq.ResStoryReward">ResStoryReward</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>storyActivityReceiveAllFinishReward</td>
+                <td><a href="#lq.ReqStoryActivityReceiveAllFinishReward">ReqStoryActivityReceiveAllFinishReward</a></td>
+                <td><a href="#lq.ResStoryReward">ResStoryReward</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>storyActivityUnlockEndingAndReceive</td>
+                <td><a href="#lq.ReqStoryActivityUnlockEndingAndReceive">ReqStoryActivityUnlockEndingAndReceive</a></td>
+                <td><a href="#lq.ResStoryActivityUnlockEndingAndReceive">ResStoryActivityUnlockEndingAndReceive</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchActivityRank</td>
+                <td><a href="#lq.ReqFetchActivityRank">ReqFetchActivityRank</a></td>
+                <td><a href="#lq.ResFetchActivityRank">ResFetchActivityRank</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>setVerifiedHidden</td>
+                <td><a href="#lq.ReqSetVerifiedHidden">ReqSetVerifiedHidden</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchQuestionnaireList</td>
+                <td><a href="#lq.ReqFetchQuestionnaireList">ReqFetchQuestionnaireList</a></td>
+                <td><a href="#lq.ResFetchQuestionnaireList">ResFetchQuestionnaireList</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchQuestionnaireDetail</td>
+                <td><a href="#lq.ReqFetchQuestionnaireDetail">ReqFetchQuestionnaireDetail</a></td>
+                <td><a href="#lq.ResFetchQuestionnaireDetail">ResFetchQuestionnaireDetail</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>submitQuestionnaire</td>
+                <td><a href="#lq.ReqSubmitQuestionnaire">ReqSubmitQuestionnaire</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>setFriendRoomRandomBotChar</td>
+                <td><a href="#lq.ReqSetFriendRoomRandomBotChar">ReqSetFriendRoomRandomBotChar</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchAccountGameHuRecords</td>
+                <td><a href="#lq.ReqFetchAccountGameHuRecords">ReqFetchAccountGameHuRecords</a></td>
+                <td><a href="#lq.ResFetchAccountGameHuRecords">ResFetchAccountGameHuRecords</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchAccountInfoExtra</td>
+                <td><a href="#lq.ReqFetchAccountInfoExtra">ReqFetchAccountInfoExtra</a></td>
+                <td><a href="#lq.ResFetchAccountInfoExtra">ResFetchAccountInfoExtra</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>setAccountFavoriteHu</td>
+                <td><a href="#lq.ReqSetAccountFavoriteHu">ReqSetAccountFavoriteHu</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchSeerReport</td>
+                <td><a href="#lq.ReqFetchSeerReport">ReqFetchSeerReport</a></td>
+                <td><a href="#lq.ResFetchSeerReport">ResFetchSeerReport</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>createSeerReport</td>
+                <td><a href="#lq.ReqCreateSeerReport">ReqCreateSeerReport</a></td>
+                <td><a href="#lq.ResCreateSeerReport">ResCreateSeerReport</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchSeerReportList</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResFetchSeerReportList">ResFetchSeerReportList</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchSeerInfo</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResFetchSeerInfo">ResFetchSeerInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>selectChestChooseUpActivity</td>
+                <td><a href="#lq.ReqSelectChestChooseUp">ReqSelectChestChooseUp</a></td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>generateAnnualReportToken</td>
+                <td><a href="#lq.ReqGenerateAnnualReportToken">ReqGenerateAnnualReportToken</a></td>
+                <td><a href="#lq.ResGenerateAnnualReportToken">ResGenerateAnnualReportToken</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchAnnualReportInfo</td>
+                <td><a href="#lq.ReqCommon">ReqCommon</a></td>
+                <td><a href="#lq.ResFetchAnnualReportInfo">ResFetchAnnualReportInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>remarkFriend</td>
+                <td><a href="#lq.ReqRemarkFriend">ReqRemarkFriend</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>simV2ActivityFetchInfo</td>
+                <td><a href="#lq.ReqSimV2ActivityFetchInfo">ReqSimV2ActivityFetchInfo</a></td>
+                <td><a href="#lq.ResSimV2ActivityFetchInfo">ResSimV2ActivityFetchInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>simV2ActivityStartSeason</td>
+                <td><a href="#lq.ReqSimV2ActivityStartSeason">ReqSimV2ActivityStartSeason</a></td>
+                <td><a href="#lq.ResSimV2ActivityStartSeason">ResSimV2ActivityStartSeason</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>simV2ActivityTrain</td>
+                <td><a href="#lq.ReqSimV2ActivityTrain">ReqSimV2ActivityTrain</a></td>
+                <td><a href="#lq.ResSimV2ActivityTrain">ResSimV2ActivityTrain</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>simV2ActivitySelectEvent</td>
+                <td><a href="#lq.ReqSimV2ActivitySelectEvent">ReqSimV2ActivitySelectEvent</a></td>
+                <td><a href="#lq.ResSimV2ActivitySelectEvent">ResSimV2ActivitySelectEvent</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>simV2ActivityStartMatch</td>
+                <td><a href="#lq.ReqSimV2ActivityStartMatch">ReqSimV2ActivityStartMatch</a></td>
+                <td><a href="#lq.ResSimV2ActivityStartMatch">ResSimV2ActivityStartMatch</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>simV2ActivityEndMatch</td>
+                <td><a href="#lq.ReqSimV2ActivityEndMatch">ReqSimV2ActivityEndMatch</a></td>
+                <td><a href="#lq.ResSimV2ActivityEndMatch">ResSimV2ActivityEndMatch</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>simV2ActivityGiveUp</td>
+                <td><a href="#lq.ReqSimV2ActivityGiveUp">ReqSimV2ActivityGiveUp</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>simV2ActivitySetUpgrade</td>
+                <td><a href="#lq.ReqSimV2ActivitySetUpgrade">ReqSimV2ActivitySetUpgrade</a></td>
+                <td><a href="#lq.ResCommon">ResCommon</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>progressRewardActivityReceive</td>
+                <td><a href="#lq.ReqProgressRewardActivityReceive">ReqProgressRewardActivityReceive</a></td>
+                <td><a href="#lq.ResProgressRewardActivityReceive">ResProgressRewardActivityReceive</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>fetchProgressRewardActivityInfo</td>
+                <td><a href="#lq.ReqFetchProgressRewardActivityInfo">ReqFetchProgressRewardActivityInfo</a></td>
+                <td><a href="#lq.ResFetchProgressRewardActivityInfo">ResFetchProgressRewardActivityInfo</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>questCrewActivityStartQuest</td>
+                <td><a href="#lq.ReqQuestCrewActivityStartQuest">ReqQuestCrewActivityStartQuest</a></td>
+                <td><a href="#lq.ResQuestCrewActivityStartQuest">ResQuestCrewActivityStartQuest</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>questCrewActivityHire</td>
+                <td><a href="#lq.ReqQuestCrewActivityHire">ReqQuestCrewActivityHire</a></td>
+                <td><a href="#lq.ResQuestCrewActivityHire">ResQuestCrewActivityHire</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>questCrewActivityFeed</td>
+                <td><a href="#lq.ReqQuestCrewActivityFeed">ReqQuestCrewActivityFeed</a></td>
+                <td><a href="#lq.ResQuestCrewActivityFeed">ResQuestCrewActivityFeed</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>questCrewActivityRefreshMarket</td>
+                <td><a href="#lq.ReqQuestCrewActivityRefreshMarket">ReqQuestCrewActivityRefreshMarket</a></td>
+                <td><a href="#lq.ResQuestCrewActivityRefreshMarket">ResQuestCrewActivityRefreshMarket</a></td>
+                <td><p></p></td>
+              </tr>
+            
+          </tbody>
+        </table>
+
+        
+        <h3 id="lq.Route">Route</h3>
+        <p></p>
+        <table class="enum-table">
+          <thead>
+            <tr><td>Method Name</td><td>Request Type</td><td>Response Type</td><td>Description</td></tr>
+          </thead>
+          <tbody>
+            
+              <tr>
+                <td>requestConnection</td>
+                <td><a href="#lq.ReqRequestConnection">ReqRequestConnection</a></td>
+                <td><a href="#lq.ResRequestConnection">ResRequestConnection</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>requestRouteChange</td>
+                <td><a href="#lq.ReqRequestRouteChange">ReqRequestRouteChange</a></td>
+                <td><a href="#lq.ResRequestRouteChange">ResRequestRouteChange</a></td>
+                <td><p></p></td>
+              </tr>
+            
+              <tr>
+                <td>heartbeat</td>
+                <td><a href="#lq.ReqHeartbeat">ReqHeartbeat</a></td>
+                <td><a href="#lq.ResHeartbeat">ResHeartbeat</a></td>
+                <td><p></p></td>
+              </tr>
+            
+          </tbody>
+        </table>
+
+        
     
 
     <h2 id="scalar-value-types">Scalar Value Types</h2>
