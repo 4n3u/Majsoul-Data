@@ -33,9 +33,15 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y protobuf-compiler
-          
-      - name: Make protoc-gen-doc executable
-        run: chmod +x protoc-gen-doc
+
+      - name: Install protoc-gen-doc
+        run: |
+          curl -L -o protoc-gen-doc.tar.gz https://github.com/pseudomuto/protoc-gen-doc/releases/download/v1.5.1/protoc-gen-doc_1.5.1_linux_amd64.tar.gz
+          tar -xzf protoc-gen-doc.tar.gz protoc-gen-doc
+          sudo mv protoc-gen-doc /usr/local/bin/protoc-gen-doc
+          sudo chmod +x /usr/local/bin/protoc-gen-doc
+          rm protoc-gen-doc.tar.gz
+          echo "PROTOC_GEN_DOC_PATH=$(command -v protoc-gen-doc)" >> $GITHUB_ENV
 
       - name: Run main.js to download and process data
         run: node main.js

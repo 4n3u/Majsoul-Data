@@ -122,76 +122,93 @@ async function main() {
         let protoContent = 'syntax = "proto3";\n\n';
         protoContent += 'package lq;\n\n';
         
-        // Convert each nested type to proto message
+        // Convert the liqi schema into proto syntax
+        function convertToProtoEnum(obj, name, indent = 0) {
+            if (!obj.values) {
+                return '';
+            }
+            const spaces = '  '.repeat(indent);
+            let result = `${spaces}enum ${name} {\n`;
+            for (const [enumName, enumValue] of Object.entries(obj.values)) {
+                result += `${spaces}  ${enumName} = ${enumValue};\n`;
+            }
+            result += `${spaces}}\n\n`;
+            return result;
+        }
+
+        function convertToProtoService(obj, name, indent = 0) {
+            if (!obj.methods) {
+                return '';
+            }
+            const spaces = '  '.repeat(indent);
+            let result = `${spaces}service ${name} {\n`;
+            for (const [methodName, methodDef] of Object.entries(obj.methods)) {
+                const requestType = methodDef.requestType || 'google.protobuf.Empty';
+                const responseType = methodDef.responseType || 'google.protobuf.Empty';
+                result += `${spaces}  rpc ${methodName} (${requestType}) returns (${responseType});\n`;
+            }
+            result += `${spaces}}\n\n`;
+            return result;
+        }
+
+        function appendProtoEntity(obj, name, indent = 0) {
+            if (obj.fields || obj.nested) {
+                return convertToProtoMessage(obj, name, indent);
+            }
+            if (obj.values) {
+                return convertToProtoEnum(obj, name, indent);
+            }
+            if (obj.methods) {
+                return convertToProtoService(obj, name, indent);
+            }
+            return '';
+        }
+
         function convertToProtoMessage(obj, name, indent = 0) {
             const spaces = '  '.repeat(indent);
             let result = `${spaces}message ${name} {\n`;
-            let fieldIndex = 1;
-            
+
             if (obj.fields) {
                 for (const [fieldName, fieldDef] of Object.entries(obj.fields)) {
                     const repeated = fieldDef.rule === 'repeated' ? 'repeated ' : '';
                     const optional = fieldDef.rule === 'optional' ? 'optional ' : '';
                     const rule = repeated || optional;
-                    
-                    // Type conversion
+
+                    // Type conversion (pass-through for known scalar types)
                     let type = fieldDef.type;
                     if (type === 'int32' || type === 'uint32' || type === 'sint32' || 
-                        type === 'fixed32' || type === 'sfixed32') {
-                        type = type;
-                    } else if (type === 'int64' || type === 'uint64' || type === 'sint64' || 
-                               type === 'fixed64' || type === 'sfixed64') {
-                        type = type;
-                    } else if (type === 'double' || type === 'float') {
-                        type = type;
-                    } else if (type === 'bool') {
-                        type = 'bool';
-                    } else if (type === 'string') {
-                        type = 'string';
-                    } else if (type === 'bytes') {
-                        type = 'bytes';
+                        type === 'fixed32' || type === 'sfixed32' ||
+                        type === 'int64' || type === 'uint64' || type === 'sint64' || 
+                        type === 'fixed64' || type === 'sfixed64' ||
+                        type === 'double' || type === 'float' ||
+                        type === 'bool' || type === 'string' || type === 'bytes') {
+                        // keep scalar type as-is
                     } else {
                         // Use custom type as-is
                         type = type;
                     }
-                    
+
                     result += `${spaces}  ${rule}${type} ${fieldName} = ${fieldDef.id};\n`;
                 }
             }
-            
-            // Handle nested types
+
             if (obj.nested) {
                 for (const [nestedName, nestedObj] of Object.entries(obj.nested)) {
-                    if (nestedObj.fields || nestedObj.nested) {
-                        result += '\n' + convertToProtoMessage(nestedObj, nestedName, indent + 1);
-                    } else if (nestedObj.values) {
-                        // Handle enum types
-                        result += `${spaces}  enum ${nestedName} {\n`;
-                        for (const [enumName, enumValue] of Object.entries(obj.values)) {
-                            result += `${spaces}    ${enumName} = ${enumValue};\n`;
-                        }
-                        result += `${spaces}  }\n\n`;
+                    const nestedResult = appendProtoEntity(nestedObj, nestedName, indent + 1);
+                    if (nestedResult) {
+                        result += `\n${nestedResult}`;
                     }
                 }
             }
-            
+
             result += `${spaces}}\n\n`;
             return result;
         }
-        
+
         // Process nested objects from root
         if (liqiJson.nested && liqiJson.nested.lq && liqiJson.nested.lq.nested) {
-            for (const [messageName, messageObj] of Object.entries(liqiJson.nested.lq.nested)) {
-                if (messageObj.fields || messageObj.nested) {
-                    protoContent += convertToProtoMessage(messageObj, messageName);
-                } else if (messageObj.values) {
-                    // Handle enum types
-                    protoContent += `enum ${messageName} {\n`;
-                    for (const [enumName, enumValue] of Object.entries(messageObj.values)) {
-                        protoContent += `  ${enumName} = ${enumValue};\n`;
-                    }
-                    protoContent += '}\n\n';
-                }
+            for (const [entityName, entityObj] of Object.entries(liqiJson.nested.lq.nested)) {
+                protoContent += appendProtoEntity(entityObj, entityName);
             }
         }
         
@@ -199,14 +216,27 @@ async function main() {
         await fs.writeFile(liqiProtoPath, protoContent);
         console.log('liqi.proto generated successfully.');
         
-        // Generate HTML documentation with protoc-gen-doc
         console.log('Generating API documentation...');
-        const { execSync } = require('child_process');
-        
+        const { execFileSync } = require('child_process');
+
+        const pluginCandidates = [process.env.PROTOC_GEN_DOC_PATH];
+        if (process.platform === 'win32') {
+            pluginCandidates.push(path.join(__dirname, 'protoc-gen-doc.exe'));
+        } else {
+            pluginCandidates.push(path.join(__dirname, 'protoc-gen-doc'));
+        }
+        const filteredCandidates = pluginCandidates.filter(Boolean);
+        const pluginPath = filteredCandidates.find(candidate => fsSync.existsSync(candidate));
+
+        const docArgs = ['--proto_path=.'];
+        if (pluginPath) {
+            docArgs.push(`--plugin=protoc-gen-doc=${pluginPath}`);
+        }
+        docArgs.push('--doc_out=docs', '--doc_opt=html,index.html', 'liqi.proto');
+
         try {
-            // Use protoc-gen-doc to generate HTML documentation (Linux binary in GitHub Actions)
-            const docCommand = `protoc --proto_path=. --plugin=protoc-gen-doc=./protoc-gen-doc --doc_out=docs --doc_opt=html,index.html:source_relative liqi.proto`;
-            execSync(docCommand, { stdio: 'inherit' });
+            // Use protoc-gen-doc (either bundled file or binary available on PATH)
+            execFileSync('protoc', docArgs, { stdio: 'inherit' });
             console.log('API documentation generated successfully in docs/index.html');
         } catch (docError) {
             console.error('Failed to generate documentation:', docError.message);
